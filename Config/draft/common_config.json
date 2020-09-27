@@ -1,0 +1,1 @@
+{"Name":"common_config","matchmakingTimeoutSeconds":10,"matchmakingDelayCancelSeconds":7,"defaultMatchmakingDraftConfig":"config_balanced_roster","matchVectors":["power"],"numDraftRoundsForDodgePenalty":4,"draftDodgePenaltyTimeInSeconds":90}
