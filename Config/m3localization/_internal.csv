@@ -153,6 +153,22 @@ ID_LOADINGSCREEN_65,"Real name Nathan Summers, Cable is the son of the X-Men's C
 ID_LOADINGSCREEN_66,"Flipping a status effect changes it either from negative to positive, or from positive to negative!"
 ID_LOADINGSCREEN_67,"In an attempt to cure his mutant gene, the X-Men's Beast accidentally amplified it, causing him to grow blue fur and claws. "
 ID_LOADINGSCREEN_68,"A short list of foes the Unbeatable Squirrel Girl has defeated include Doctor Doom, Thanos, and even Galactus!"
+ID_LOADINGSCREEN_69,Characters with the Vulnerable status effect take 10% increased damage.
+ID_LOADINGSCREEN_70,"Strikers use Iso-8 to deal an additional hit to Vulnerable targets, and clear the effect in the process."
+ID_LOADINGSCREEN_71,Skirmishers use Iso-8 to apply the Vulnerable status effect to their primary target.
+ID_LOADINGSCREEN_72,Raiders use Iso-8 to enhance the impact of Critical Hits and apply Vulnerable to their enemies.
+ID_LOADINGSCREEN_73,Fortifiers use Iso-8 to gain a defensive barrier and remove the Vulnerable status effect from themselves.
+ID_LOADINGSCREEN_74,Healers use Iso-8 to better heal their allies and remove the Vulnerable status effect.
+ID_LOADINGSCREEN_75,"Active Healing increases the amount of Health a character grants with their healing abilities, not including positive status effects."
+ID_LOADINGSCREEN_76,A primary hit is the first hit a character makes against their first target when attacking with an ability.
+ID_LOADINGSCREEN_77,"Iso-8 Crystals are each attuned to one of five attributes: Health, Damage, Armor, Resist, and Focus."
+ID_LOADINGSCREEN_78,"Iso-8 Crystals are each attuned to one of five roles: Blaster, Brawler, Controller, Protector, and Support."
+ID_LOADINGSCREEN_79,"To unlock Classes for a character, equip an Iso-8 Crystal to each slot of that character's Matrix."
+ID_LOADINGSCREEN_80,The Matrix uses energy from the Iso-8 Crystals to infuse a character with power and unique effects. Scientist Supreme swears it's safe.
+ID_LOADINGSCREEN_81,Tier 1 Iso-8 Crystals require Tier 1 Ions in order to fuse into a higher level Iso-8 Crystal.
+ID_LOADINGSCREEN_82,"There are five levels of Tier 1 Iso-8 Crystals. They appear green in color, with stronger crystals appearing larger and brighter. "
+ID_LOADINGSCREEN_83,Earn Tier 1 Iso-8 Crystals and Tier 1 Ions in the Isotope-8 Campaign.
+ID_LOADINGSCREEN_84,The Isotope-8 Campaign uses its own Iso-8 Campaign Energy.
 ID_SPARX_ERROR_UNKNOWN,An unknown error has occurred. Please try again later.
 ID_SPARX_ERROR_MEMORY,Invalid data has been detected. Please relaunch the game.
 ID_SPARX_ERROR_NAME_SHORT,The name must be between {min} and {max} characters.

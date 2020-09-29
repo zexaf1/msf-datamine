@@ -28,6 +28,8 @@ ID_DAILY_HEROESCAMPAIGN_MISSIONS,Heroes Campaign Progress
 ID_DA_HEROESCAMPAIGN_MISSIONS,Play 3 HEROES ASSEMBLE Missions
 ID_DA_DE_VILLAIN,Play 3 VILLAINS UNITED Missions
 ID_DA_NA_VILLAIN,Villains Campaign Progress
+ID_DAILY_ISOCAMPAIGN_MISSIONS,Iso-8 Campaign Progress
+ID_DA_ISOCAMPAIGN_MISSIONS,Play 3 Isotope-8 Missions
 ID_DA_NA_RAID_FIGHTS,Daily Raid Battles
 ID_DA_DE_RAID_FIGHTS,Compete in 2 Battles in Raids
 ID_RAID_KEYS_COOLDOWN,{name} Raid Keys on Cooldown
@@ -115,6 +117,10 @@ ID_LOGIN_DE_WIDOW,"Congrats, Widowmaker! Thanks to you, everyone gets 100 charac
 ID_LOGIN_DE_WIDOW_CPTMARVEL_01,Get 100 shards of Captain Marvel thanks to Widowmaker's first run of Dark Dimension II!
 ID_LOGIN_NA_FEATURE,Feature
 ID_LOGIN_DE_DARKDIMENSION,Log in 7 days to earn rewards to help with the Dark Dimension!
+ID_LOGIN_ISO8ORB_NA,Iso-8
+ID_LOGIN_ISO8ORB_DE,Customize your characters! Log in every day to claim Iso-8 Orbs!
+ID_LOGIN_ISO8_7DAY,Log in 7 consecutive days to earn Iso-8 Orbs and Red Star Orbs!
+ID_LOGIN_NA_7DAY,7-Day
 ID_LOGIN_MINERVA_NA,Minn-Erva
 ID_LOGIN_MINERVA_DE,Log in every day to unlock Minn-Erva!
 ID_LOGIN_NA_LEGENDARY,Legendary
@@ -245,6 +251,8 @@ ID_LOGIN_OFFER_DE_PURPLE_GEAR_CREDITS,Log in 7 days to claim Purple Gear Credits
 ID_LOGIN_OFFER_DE_ORANGE_ELITE_PURPLE_12D,Log in 12 days to claim Orange Elite & Purple Gear Raid Orbs from your premium calendar!
 ID_LOGIN_OFFER_DE_GENERIC_ORB_12D,Log in 12 days to claim orbs from your premium calendar!
 ID_LOGIN_DE_PROMO_GOLD_28D,Log in 28 days to claim Gold Promo Credits from your calendar!
+ID_LOGIN_OFFER_NA_ISO8_ENERGY,Iso-8 Campaign Energy
+ID_LOGIN_OFFER_DE_ISO8_ENERGY_21D,Log in 21 days to claim Iso-8 Campaign Energy from your premium calendar!
 ID_LOGIN_VALUABLELESSONS_NA,Valuable Lessons
 ID_LOGIN_VALUABLELESSONS_DE,Log in every day to earn wonderful rewards in celebration of Valuable Lessons event!
 ID_LOGIN_CATALYSTBLAST_NA,Catalyst Blast

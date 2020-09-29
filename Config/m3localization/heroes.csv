@@ -11,6 +11,8 @@ ID_SHARD_AIMTANK_TAUNT_NAME,A.I.M. Security
 ID_SHARD_AIMTANK_TAUNT_DESCRIPTION,A resilient guard who taunts while healing herself and slowing her enemies.
 ID_SHARD_AMERICACHAVEZ_NAME,America Chavez
 ID_SHARD_AMERICACHAVEZ_DESCRIPTION,America Chavez hits hard enough to punch through reality itself and is even stronger with Hero Brawler allies.
+ID_SHARD_ANTIVENOM_NAME,Anti-Venom
+ID_SHARD_ANTIVENOM_DESCRIPTION,"An altered Venom Symbiote turned Eddie Brock into Anti-Venom, a Hero who heals rather than destroys."
 ID_SHARD_ANTMAN_NAME,Ant-Man
 ID_SHARD_ANTMAN_DESCRIPTION,A master thief skilled at disabling powerful opponents with the help of his Pym Particle powered suit.
 ID_SHARD_BARONMORDO_NAME,Mordo
@@ -237,6 +239,8 @@ ID_SHARD_SCARLETWITCH_NAME,Scarlet Witch
 ID_SHARD_SCARLETWITCH_DESCRIPTION,A mystical controller that prolongs negative effects and redistributes health across her teammates.
 ID_SHARD_SCIENTISTSUPREME_NAME,Scientist Supreme
 ID_SHARD_SCIENTISTSUPREME_DESCRIPTION,A mad scientist who converts negative effects to positive effects while healing her allies.
+ID_SHARD_SCREAM_NAME,Scream
+ID_SHARD_SCREAM_DESCRIPTION,The vicious Scream is a Symbiote Controller who clears positive effects from her foes.
 ID_SHARD_SHIELDDMG_AOE_NAME,S.H.I.E.L.D. Assault
 ID_SHARD_SHIELDDMG_AOE_DESCRIPTION,A jetpack assault soldier who provides air cover with area attacks.
 ID_SHARD_SHIELDDMG_DEFENSE_NAME,S.H.I.E.L.D. Trooper
@@ -247,6 +251,8 @@ ID_SHARD_SHIELDSUPPORT_STEALTH_NAME,S.H.I.E.L.D. Operative
 ID_SHARD_SHIELDSUPPORT_STEALTH_DESCRIPTION,An agent who specializes in protecting vulnerable VIP's with stealth and emergency medical aid.
 ID_SHARD_SHIELDTANK_STUN_NAME,S.H.I.E.L.D. Security
 ID_SHARD_SHIELDTANK_STUN_DESCRIPTION,A non-lethal combat specialist with a protective shield and a baton that stuns opponents.
+ID_SHARD_SHEHULK_NAME,She-Hulk
+ID_SHARD_SHEHULK_DESCRIPTION,"Delivering gamma-powered justice, She-Hulk applies negative effects to her foes with every smash."
 ID_SHARD_SHOCKER_NAME,Shocker
 ID_SHARD_SHOCKER_DESCRIPTION,Shocker uses his Tech sonic bursts to damage entire teams and strengthen his Sinister Six allies.
 ID_SHARD_SHURI_NAME,Shuri

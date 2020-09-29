@@ -8,6 +8,8 @@ ID_SHOP_CATEGORY_BATTLEGROUND_DESCRIPTION,Directly purchase the items you need.
 ID_SHOP_CATEGORY_BATTLEGROUND_LABEL,ARENA STORE
 ID_SHOP_CATEGORY_CREDITS_DESCRIPTION,Power Cores are used to purchase items.
 ID_SHOP_CATEGORY_CREDITS_LABEL,POWER CORES
+ID_SHOP_CATEGORY_ISO8_ORBS_LABEL,ISO-8 ORBS
+ID_SHOP_CATEGORY_ISO8_SHIPMENTS_LABEL,SUPPLIES
 ID_SHOP_CATEGORY_OFFERS_DESCRIPTION,Check out these amazing offers!
 ID_SHOP_CATEGORY_OFFERS_LABEL,OFFERS
 ID_SHOP_CATEGORY_ORBS_DESCRIPTION,Open Orbs to collect powerful items.
@@ -133,6 +135,14 @@ ID_GACHA_CRATE_RAID_CHASE_SHARD_NAME,Raid Orb
 ID_GACHA_CRATE_RAID_CHASE_SHARD_DESCRIPTION,Contains 9 character shards
 ID_GACHA_CRATE_RAID_CHASE_SHARD_TOKEN_NAME,Raid Orb Fragments
 ID_GACHA_CRATE_RAID_CHASE_SHARD_TOKEN_DESCRIPTION,Collect Raid Orb Fragments to earn a Raid Orb.
+ID_GACHA_CRATE_ISOITEM_ALL_RANDOM_NAME,T1 Iso-8 Orb
+ID_GACHA_CRATE_ISOITEM_ALL_RANDOM_DESCRIPTION,Contains T1 Iso-8 Crystals.
+ID_GACHA_CRATE_ISOITEM_ALL_RANDOM_TOKEN_NAME,T1 Iso-8 Orb Fragments
+ID_GACHA_CRATE_ISOITEM_ALL_RANDOM_TOKEN_DESCRIPTION,Collect T1 Iso-8 Orb Fragments to earn a T1 Iso-8 Orb.
+ID_GACHA_CRATE_ISO8_CRAFTING_CURRENCY_NAME,T1 Ion Orb
+ID_GACHA_CRATE_ISO8_CRAFTING_CURRENCY_DESCRIPTION,Contains T1 Ions.
+ID_GACHA_CRATE_ISO8_CRAFTING_CURRENCY_TOKEN_NAME,T1 Ion Orb Fragments
+ID_GACHA_CRATE_ISO8_CRAFTING_CURRENCY_TOKEN_DESCRIPTION,Collect T1 Ion Orb Fragments to earn a T1 Ion Orb.
 ID_GACHA_CRATE_XP_HIGH_NAME,Training Orb
 ID_GACHA_CRATE_XP_HIGH_DESCRIPTION,Guarantees 24 to 75 Lv. 4 Training Modules
 ID_GACHA_CRATE_XP_HIGH_TOKEN_NAME,Training Orb Fragments
@@ -654,6 +664,10 @@ ID_OF_DE_SCARLETWITCH_ECO_OFFER_12o,Save on <color=#fff568>12 Scarlet Witch Orbs
 ID_OF_NA_SCARLETWITCH_OFFER_1,Scarlet Witch Orb Offer
 ID_OF_NA_MORB_SCARLETWITCH_1,Scarlet Witch Orb Fragment Offer
 ID_OF_DE_MORB_SCARLETWITCH_500,Take advantage of this limited time deal and complete your orb! Get <color=#fff568>500 Scarlet Witch Orb Fragments</color> with this offer.
+ID_GACHA_CRATE_EVENT_CAMPAIGN_SCREAM_202009_NAME,Parasite Orb
+ID_GACHA_CRATE_EVENT_CAMPAIGN_SCREAM_202009_DESCRIPTION,Earn Parasite Orb Fragments in the Parasitic Intentions Event Campaign.
+ID_GACHA_CRATE_EVENT_CAMPAIGN_SCREAM_202009_TOKEN_NAME,Parasite Orb Fragments
+ID_GACHA_CRATE_EVENT_CAMPAIGN_SCREAM_202009_TOKEN_DESCRIPTION,Collect Parasite Orb Fragments in the Parasitic Intentions Event Campaign to earn Parasite Orbs.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_SQUIRRELGIRL_202007_NAME,Unbeatable Orb
 ID_GACHA_CRATE_EVENT_CAMPAIGN_SQUIRRELGIRL_202007_DESCRIPTION,Earn Unbeatable Orb Fragments in the Unbeatable Education Event Campaign.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_SQUIRRELGIRL_202007_TOKEN_NAME,Unbeatable Orb Fragments
@@ -831,6 +845,28 @@ ID_OF_DE_WASP_ECO_OFFER_12o,Save on <color=#fff568>12 Wasp Orbs</color> with thi
 ID_OF_DE_WASP_ECO_OFFER_6O,Save on <color=#fff568>6 Wasp Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 shards</color>.
 ID_OF_NA_MORB_WASP_1,Wasp Orb Fragment Offer
 ID_OF_DE_MORB_WASP_500,Take advantage of this limited time deal and complete your orb! Get <color=#fff568>500 Wasp Orb Fragments</color> with this offer.
+ID_OF_NA_SCREAM_FCO,Locks of Terror Orb
+ID_OF_DE_SCREAM_FCO_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Scream</color> with this offer! Each orb has a chance to earn up to 180 shards. Apply Bleed, clear enemy positive effects, and Heal Symbiote allies upon any character death."
+ID_OF_DE_SCREAM_FCO_OFFER_VAR_O,"Save on <color=#fff568>{var1} Locks of Terror Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Scream shards</color>. Apply Bleed, clear enemy positive effects, and Heal Symbiote allies upon any character death."
+ID_OF_NA_SCREAM_ABILITY_OFFER_1,Scream: Ability
+ID_OF_DE_SCREAM_ABILITY_OFFER_50,Get this amazing bundle and power up Scream. Get over <color=#fff568>50%</color> off when you buy now!
+ID_OF_NA_SCREAM_GEAR_OFFER_1,Scream: Gear
+ID_OF_DE_SCREAM_GEAR_OFFER_50,Get this amazing bundle and gear up Scream. Get over <color=#fff568>50%</color> off when you buy now!
+ID_OF_NA_SCREAM_GOLD_OFFER_1,Scream: Gold
+ID_OF_DE_SCREAM_GOLD_OFFER_50,Get this amazing bundle and level up Scream. Get over <color=#fff568>50%</color> off when you buy now!
+ID_OF_NA_SCREAM_TRAINING_OFFER_1,Scream: Training
+ID_OF_DE_SCREAM_TRAINING_OFFER_40,Get this amazing bundle and level up Scream. Get over <color=#fff568>40%</color> off when you buy now!
+ID_OF_NA_SCREAM_OFFER_1,Locks of Terror Offer
+ID_OF_DE_SCREAM_OFFER_VAR_S,"Recruit a <color=#fff568>{var1}-star Scream</color> with this offer! Apply Bleed, clear enemy positive effects, and Heal Symbiote allies upon any character death."
+ID_OF_DE_SCREAM_OFFER_VAR,"Get <color=#fff568>{var1} Scream shards</color> and use her to apply Bleed, clear enemy positive effects, and Heal Symbiote allies upon any character death."
+ID_OF_DE_SCREAM_ECO_OFFER_VAR_O,Save on <color=#fff568>{var1} Parasite Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 28 character shards</color>!
+ID_OF_NA_SCREAM_ECO_BUNDLE_1,Parasite Orb Bundle
+ID_OF_DE_SCREAM_ECO_BUNDLE_VAR_O,Save on <color=#fff568>{var1} Parasite Orbs</color> and a bundle of Advanced Gear with this offer! Each orb has a chance to earn <color=#fff568>up to 28 character shards</color>!
+ID_OF_NA_SCREAM_MORB_1,Parasite Orb Fragments
+ID_OF_DE_SCREAM_MORB_500,Take advantage of this limited time deal and complete your orb! Get <color=#fff568>500 Parasite Orb Fragments</color> with this offer!
+ID_OF_NA_SCREAM_ENERGY_OFFER_1,Parasite Energy Offer
+ID_OF_NA_SCREAM_ENERGY_OFFER_2,Parasite Energy Bundle
+ID_OF_DE_SCREAM_ENERGY_OFFER_1,Save on <color=#fff568>Parasite Energy</color> with this offer! Play in the Parasitic Intentions Event Campaign and recruit Scream!
 ID_GACHA_CRATE_FCO_AIMDMG_SPEED_SPECIAL_NAME,Commando Orb
 ID_GACHA_CRATE_FCO_AIMDMG_SPEED_SPECIAL_DESCRIPTION,Win up to 180 A.I.M. Assaulter shards
 ID_GACHA_CRATE_FCO_AIMDMG_SPEED_SPECIAL_TOKEN_NAME,Commando Orb Fragments
@@ -880,6 +916,10 @@ ID_OF_NA_AMERICACHAVEZ_ABILITY_OFFER_1,America Chavez: Ability
 ID_OF_DE_AMERICACHAVEZ_ABILITY_OFFER_50,Get this amazing bundle and power up America Chavez. Get over <color=#fff568>50%</color> off when you buy now!
 ID_OF_NA_AMERICACHAVEZ_GOLD_OFFER_1,America Chavez: Gold
 ID_OF_DE_AMERICACHAVEZ_GOLD_OFFER_50,Get this amazing bundle and level up America Chavez. Get over <color=#fff568>40%</color> off when you buy now!
+ID_GACHA_CRATE_FCO_ANTIVENOM_SPECIAL_NAME,Lethal Dose Orb
+ID_GACHA_CRATE_FCO_ANTIVENOM_SPECIAL_DESCRIPTION,Win up to 180 Anti-Venom shards
+ID_GACHA_CRATE_FCO_ANTIVENOM_SPECIAL_TOKEN_NAME,Lethal Dose Orb Fragments
+ID_GACHA_CRATE_FCO_ANTIVENOM_SPECIAL_TOKEN_DESCRIPTION,Collect Lethal Dose Orb Fragments to earn a Lethal Dose Orb.
 ID_GACHA_CRATE_FCO_ANTMAN_SPECIAL_NAME,Pym Particles Orb
 ID_GACHA_CRATE_FCO_ANTMAN_SPECIAL_DESCRIPTION,Win up to 180 Ant-Man shards
 ID_GACHA_CRATE_FCO_ANTMAN_SPECIAL_TOKEN_NAME,Pym Particles Orb Fragments
@@ -2698,6 +2738,14 @@ ID_GACHA_CRATE_FCO_SCIENTISTSUPREME_SPECIAL_TOKEN_DESCRIPTION,Collect Experiment
 ID_OF_NA_SCIENTISTSUPREME_OFFER_1,Scientist Supreme Offer
 ID_OF_DE_SCIENTISTSUPREME_OFFER_50,"Get <color=#fff568>50 Scientist Supreme shards</color> and use her to heal all allies, flip negative effects to positive effects for allies, and get a chance to revive and bring allies back into the fight!"
 ID_OF_DE_SCIENTISTSUPREME_OFFER_45,"Get <color=#fff568>45 Scientist Supreme shards</color> and use her to heal all allies, flip negative effects to positive effects for allies, and get a chance to revive and bring allies back into the fight!"
+ID_GACHA_CRATE_FCO_SCREAM_SPECIAL_NAME,Locks of Terror Orb
+ID_GACHA_CRATE_FCO_SCREAM_SPECIAL_DESCRIPTION,Win up to 180 Scream shards
+ID_GACHA_CRATE_FCO_SCREAM_SPECIAL_TOKEN_NAME,Locks of Terror Orb Fragments
+ID_GACHA_CRATE_FCO_SCREAM_SPECIAL_TOKEN_DESCRIPTION,Collect Locks of Terror Orb Fragments to earn a Locks of Terror Orb.
+ID_GACHA_CRATE_FCO_SHEHULK_SPECIAL_NAME,Emerald Liberator Orb
+ID_GACHA_CRATE_FCO_SHEHULK_SPECIAL_DESCRIPTION,Win up to 180 She-Hulk shards
+ID_GACHA_CRATE_FCO_SHEHULK_SPECIAL_TOKEN_NAME,Emerald Liberator Orb Fragments
+ID_GACHA_CRATE_FCO_SHEHULK_SPECIAL_TOKEN_DESCRIPTION,Collect Emerald Liberator Orb Fragments to earn a Emerald Liberator Orb.
 ID_GACHA_CRATE_FCO_SHIELD_SPECIAL_NAME,S.H.I.E.L.D. Orb
 ID_GACHA_CRATE_FCO_SHIELD_SPECIAL_DESCRIPTION,Win up to 180 S.H.I.E.L.D. character shards (excluding Nick Fury)
 ID_GACHA_CRATE_FCO_SHIELD_SPECIAL_TOKEN_NAME,S.H.I.E.L.D. Orb Fragments
@@ -4080,6 +4128,38 @@ ID_OF_NA_VALENTINE2020_ORANGE_UNIQUE_DRAFT,Superior Unique Gear Super Draft
 ID_OF_DE_VALENTINE2020_ORANGE_UNIQUE_DRAFT,Save <color=#fff568>over 60%</color> with this spectacular offer and get <color=#fff568>8</color> of one of the following Superior Unique Gear pieces: \n<color=#fff568>Titanium Alloy / Astral Energy / Miasma / Uru / Adamantium</color>
 ID_OF_NA_RED_STAR_SUPER_DRAFT,Red Star Super Draft
 ID_OF_DE_RED_STAR_SUPER_DRAFT,This spectacular offer will give you one of the following with each purchase:\n<color=#fff568>1 Elite 5 Star Orb / 2 Elite 4 Star Orbs / {var1} Red Star Orbs</color>
+ID_OF_NA_PICK_VOLATILE_OFFER_RED,Red Star Draft: Volatiles
+ID_OF_DE_PICK_VOLATILE_OFFER_RED,Get an equal chance of receiving  a guaranteed  <color=#fff568>4 Red Star</color> of one of the following characters:\n<color=#fff568>Corvus Glaive / Stryfe / Mordo / Minn-Erva / Pyro / Scream</color>
+ID_OF_NA_PICK_BIGBADS_OFFER_RED,Red Star Draft: Big Bads
+ID_OF_DE_PICK_BIGBADS_OFFER_RED,Get an equal chance of receiving  a guaranteed  <color=#fff568>4 Red Star</color> of one of the following characters:\n<color=#fff568>Thanos / Zemo / Mysterio / Loki</color>
+ID_OF_NA_PICK_MERCS_OFFER_RED,Red Star Draft: Mercs
+ID_OF_DE_PICK_MERCS_OFFER_RED,Get an equal chance of receiving  a guaranteed  <color=#fff568>4 Red Star</color> of one of the following characters:\n<color=#fff568>Korath the Pursuer / Killmonger / Crossbones / Bullseye / Taskmaster / Winter Soldier</color>
+ID_OF_NA_PICK_AGILITY_OFFER_RED,Red Star Draft: Agility
+ID_OF_DE_PICK_AGILITY_OFFER_RED,Get an equal chance of receiving  a guaranteed  <color=#fff568>4 Red Star</color> of one of the following characters:\n<color=#fff568>Proxima Midnight / Toad / Nebula / Mystique / Carnage / Elektra</color>
+ID_OF_NA_PICK_BOSSES_OFFER_RED,Red Star Draft: Bosses
+ID_OF_DE_PICK_BOSSES_OFFER_RED,Get an equal chance of receiving  a guaranteed  <color=#fff568>4 Red Star</color> of one of the following characters:\n<color=#fff568>Hela / Red Skull / Kingpin / Yondu / Nobu / Scientist Supreme</color>
+ID_OF_NA_PICK_BRUISERS_OFFER_RED,Red Star Draft: Bruisers
+ID_OF_DE_PICK_BRUISERS_OFFER_RED,Get an equal chance of receiving  a guaranteed  <color=#fff568>4 Red Star</color> of one of the following characters:\n<color=#fff568>Cull Obsidian / Blob / Juggernaut / Namor / Venom / Sabretooth</color>
+ID_OF_NA_PICK_MASTERMINDS_OFFER_RED,Red Star Draft Masterminds
+ID_OF_DE_PICK_MASTERMINDS_OFFER_RED,Get an equal chance of receiving  a guaranteed  <color=#fff568>4 Red Star</color> of one of the following characters:\n<color=#fff568>Ronan the Accuser / Emma Frost / Mister Sinister / Graviton</color>
+ID_OF_NA_PICK_SINISTER_OFFER_RED,Red Star Draft: Sinister Six
+ID_OF_DE_PICK_SINISTER_OFFER_RED,Get an equal chance of receiving  a guaranteed  <color=#fff568>4 Red Star</color> of one of the following characters:\n<color=#fff568>Green Goblin / Shocker / Vulture / Swarm / Electro / Rhino</color>
+ID_OF_NA_PICK_VOLATILE_OFFER,Draft: Volatiles
+ID_OF_DE_PICK_VOLATILE_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Corvus Glaive / Stryfe / Mordo / Minn-Erva / Pyro / Scream</color>
+ID_OF_NA_PICK_BIGBADS_OFFER,Draft: Big Bads
+ID_OF_DE_PICK_BIGBADS_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Thanos / Zemo / Mysterio / Loki</color>
+ID_OF_NA_PICK_MERCS_OFFER,Draft: Mercs
+ID_OF_DE_PICK_MERCS_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Korath the Pursuer / Killmonger / Crossbones / Bullseye / Taskmaster / Winter Soldier</color>
+ID_OF_NA_PICK_AGILITY_OFFER,Draft: Agility
+ID_OF_DE_PICK_AGILITY_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Proxima Midnight / Toad / Nebula / Mystique / Carnage / Elektra</color>
+ID_OF_NA_PICK_BOSSES_OFFER,Draft: Bosses
+ID_OF_DE_PICK_BOSSES_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Hela / Red Skull / Kingpin / Yondu / Nobu / Scientist Supreme</color>
+ID_OF_NA_PICK_BRUISERS_OFFER,Draft: Bruisers
+ID_OF_DE_PICK_BRUISERS_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Cull Obsidian / Blob / Juggernaut / Namor / Venom / Sabretooth</color>
+ID_OF_NA_PICK_MASTERMINDS_OFFER,Draft: Masterminds
+ID_OF_DE_PICK_MASTERMINDS_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Ronan the Accuser / Emma Frost / Mister Sinister / Graviton</color>
+ID_OF_NA_PICK_SINISTER_OFFER,Draft: Sinister Six
+ID_OF_DE_PICK_SINISTER_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Green Goblin / Shocker / Vulture / Swarm / Electro / Rhino</color>
 ID_OF_NA_HC_CALENDAR_1620HC,Anniversary Power Core Calendar
 ID_OF_DE_HC_CALENDAR_1620HC_15D,Get <color=#fff568>1620 Power Cores</color> over 15 days and get over <color=#fff568>70% off</color> when you buy this offer! Log in for the next 15 days to collect your rewards.
 ID_OF_DE_HC_CALENDAR_1620HC_18D,Get <color=#fff568>1620 Power Cores</color> over 18 days and get over <color=#fff568>70% off</color> when you buy this offer! Log in for the next 18 days to collect your rewards.
@@ -5509,6 +5589,16 @@ ID_OF_DE_10FOR10_XP_01_VAR,Get <color=#fff568>{var1} L{var2} Training Modules</c
 ID_OF_DE_10FOR10_INV_BASIC_CAT_01_VAR,Get <color=#fff568>{var1} Advanced Basic Catalyst Parts & Superior Basic Catalyst Parts</color> to power up your characters' gear. Check back often for more amazing deals!
 ID_OF_DE_10FOR10_INV_STAT_CAT_01_VAR,Get <color=#fff568>{var1} Advanced Catalyst Parts & Superior Catalyst Parts</color> to power up your characters' gear. Check back often for more amazing deals!
 ID_OF_DE_10FOR10_RES_SP_CREDITS_01_VAR,Get <color=#fff568>{var1} Silver Promotion Credits</color> to promote your characters. Check back often for more amazing deals!
+ID_OF_NA_VILLAINS_GREENGOBLIN_WINTERSOLDIER,Villains Campaign: Green Goblin and Winter Soldier
+ID_OF_DE_VILLAINS_GREENGOBLIN_WINTERSOLDIER,Strengthen your Villains team for the Villains United Campaign with a <color=#fff568>3-star Green Goblin</color> and <color=#fff568>2-star Winter Soldier</color>!
+ID_OF_NA_ISO8_ORB_OFFER_1,Iso-8 Orb Pack
+ID_OF_NA_ISO8_ORB_OFFER_2,Iso-8 Orb Bundle
+ID_OF_NA_ISO8_ORB_OFFER_3,Iso-8 Orb Super Bundle
+ID_OF_NA_ISO8_ORB_OFFER_4,Iso-8 Orb Mega Bundle
+ID_OF_NA_ISO8_ORB_STARTER_OFFER,Iso-8 Starter Deal
+ID_OF_DE_ISO8_ORB_STARTER_OFFER,<color=#fff568>Save over {var1}%</color> and get <color=#fff568>{var2} Iso-8 Premium Orbs and more</color> and strengthen your roster with this one-time deal!
+ID_OF_DE_ISO8_ORB_OFFER_VAR_1,<color=#fff568>Save over {var1}%</color> and get <color=#fff568>{var2} Iso-8 Premium Orbs</color> when you buy now!
+ID_OF_DE_ISO8_ORB_OFFER_VAR_2,Get <color=#fff568>{var1} Iso-8 Premium Orbs</color> when you buy now!
 ID_OF_DE_GOLD_PROMOTION_CREDIT_01_VAR,Get <color=#fff568>{var1} Gold Promotion Credits</color> with this offer to help Promote a character of your choice to 6 or 7 Red Stars!
 ID_OF_DE_SILVER_PROMOTION_CREDIT_01_VAR,Get <color=#fff568>{var1} Silver Promotion Credits</color> with this offer to help Promote a character of your choice up to 5 Red Stars!
 ID_OF_NA_CAL_PROMO_CREDITS_SILVER_01,Silver Promotion Credits
@@ -5523,3 +5613,40 @@ ID_OF_NA_MEGA_4S_BUNDLE_LOKI_01,Mega Loki Offer
 ID_OF_NA_MEGA_4S_BUNDLE_VENOM_01,Mega Venom Offer
 ID_OF_NA_MEGA_4S_BUNDLE_SPIDERMAN_01,Mega Spider-Man Offer
 ID_OF_NA_MEGA_4S_BUNDLE_THING_01,Mega Thing Offer
+ID_OF_NA_T1_ISO8_ORB_STARTER_OFFER_01,Iso-8 Starter Deal
+ID_OF_NA_T1_ISO8_ORB_STARTER_OFFER_02,Iso-8 Starter Pack
+ID_OF_DE_T1_ISO8_ORB_STARTER_OFFER_01_VAR,Enhance your team with this amazing <color=#fff568>Iso-8</color> Starter Deal! Get <color=#fff568>{var1} Premium T1 Iso-8 Orbs</color> and more and customize your teams.
+ID_OF_DE_T1_ISO8_ORB_STARTER_OFFER_02_VAR,Enhance your team with this amazing <color=#fff568>Iso-8</color> Starter Deal! Get <color=#fff568>{var1} Premium T1 Iso-8 Orbs</color> and customize your teams.
+ID_OF_NA_T1_ISO8_ORB_OFFER_01,Premium Iso-8 Offer
+ID_OF_DE_T1_ISO8_ORB_OFFER_01_VAR,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} Premium T1 Iso-8 Orbs</color> and more! Enhance your roster with these Iso-8 crystals and take on a new challenge.
+ID_OF_DE_T1_ISO8_ORB_OFFER_02_VAR,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} Premium T1 Iso-8 Orbs</color>! Enhance your roster with these Iso-8 crystals and take on a new challenge.
+ID_OF_DE_T1_ISO8_ORB_OFFER_03_VAR,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} Premium T1 Iso-8 Orb</color>! Enhance your roster with these Iso-8 crystals and take on a new challenge.
+ID_OF_NA_T1_ION_ORB_STARTER_OFFER_01,T1 Ion Starter Deal
+ID_OF_DE_T1_ION_ORB_STARTER_OFFER_01_VAR,Upgrade your character Class with this incredible <color=#fff568>T1 Ion</color> Starter Deal! Get <color=#fff568>{var1} T1 Ion Orbs</color> and more and upgrade you Iso-8 Crystals.
+ID_OF_DE_T1_ION_ORB_STARTER_OFFER_02_VAR,Upgrade your character Class with this incredible <color=#fff568>T1 Ion</color> Starter Deal! Get <color=#fff568>{var1} T1 Ion Orbs</color> and upgrade you Iso-8 Crystals.
+ID_OF_NA_T1_ION_ORB_OFFER_01,T1 Ion Offer
+ID_OF_DE_T1_ION_ORB_OFFER_01_VAR,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} T1 Ion Orbs</color> and more! Fuse your Iso-8 Crystals or upgrade your Class Level with these T1 Ions.
+ID_OF_DE_T1_ION_ORB_OFFER_02_VAR,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} T1 Ion Orbs</color>! Fuse your Iso-8 Crystals or upgrade your Class Level with these T1 Ions.
+ID_OF_DE_T1_ION_ORB_OFFER_03_VAR,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} T1 Ion Orb</color>! Fuse your Iso-8 Crystals or upgrade your Class Level with these T1 Ions.
+ID_OF_NA_ISO8_ENERGY_STARTER_OFFER_01,Iso-8 Energy Bundle
+ID_OF_DE_ISO8_ENERGY_STARTER_OFFER_01_VAR,Advance in your Isotope-8 Campaigns with this spectacular <color=#fff568>Iso-8 Energy</color> Starter Bundle! Get <color=#fff568>{var1} Iso-8 Campaign Energy</color> and more to enhance your teams.
+ID_OF_DE_ISO8_ENERGY_STARTER_OFFER_02_VAR,Advance in your Isotope-8 Campaigns with this spectacular <color=#fff568>Iso-8 Energy</color> Starter Bundle! Get <color=#fff568>{var1} Iso-8 Campaign Energy</color> and enhance your teams.
+ID_OF_NA_ISO8_ENERGY_OFFER_01,Iso-8 Energy Offer
+ID_OF_DE_ISO8_ENERGY_OFFER_01_VAR,Save <color=#fff568>over {var1}%</color> and advance in your Isotope-8 Campaigns with <color=#fff568>{var2} Iso-8 Campaign Energy</color> and more! Enhance your teams and take on new challenges with Iso-8 Crystals.
+ID_OF_DE_ISO8_ENERGY_OFFER_02_VAR,Save <color=#fff568>over {var1}%</color> and advance in your Isotope-8 Campaigns with <color=#fff568>{var2} Iso-8 Campaign Energy</color>! Enhance your teams and take on new challenges with Iso-8 Crystals.
+ID_OF_NA_CAL_ISO8_ENERGY_OFFER_01,Iso-8 Energy Calendar
+ID_OF_DE_CAL_ISO8_ENERGY_OFFER_01_VAR,Get <color=#fff568>{var1} Iso-8 Campaign Energy</color> over {var2} days to advance in your Isotope-8 Campaigns! Log in for the next {var2} days to collect your rewards.
+ID_GACHA_CRATE_ISO8_T1_BASIC_NAME,Basic T1 Iso-8 Orb
+ID_GACHA_CRATE_ISO8_T1_BASIC_DESCRIPTION,Contains T1 Iso-8 Crystals.
+ID_GACHA_CRATE_ISO8_T1_BASIC_TOKEN_NAME,Basic T1 Iso-8 Orb Fragments
+ID_GACHA_CRATE_ISO8_T1_BASIC_TOKEN_DESCRIPTION,Collect Basic T1 Iso-8 Orb Fragments to earn a Basic T1 Iso-8 Orb.
+ID_GACHA_CRATE_ISO8_T1_PREMIUM_NAME,Premium T1 Iso-8 Orb
+ID_GACHA_CRATE_ISO8_T1_PREMIUM_DESCRIPTION,Contains T1 Iso-8 Level 1-5 Crystals.
+ID_GACHA_CRATE_ISO8_T1_PREMIUM_TOKEN_NAME,Premium T1 Iso-8 Orb Fragments
+ID_GACHA_CRATE_ISO8_T1_PREMIUM_TOKEN_DESCRIPTION,Collect Premium T1 Iso-8 Orb Fragments to earn a Premium T1 Iso-8 Orb.
+ID_GACHA_CRATE_ISO8_T1_ION_CURRENCY_NAME,T1 Ion Orb
+ID_GACHA_CRATE_ISO8_T1_ION_CURRENCY_DESCRIPTION,Contains T1 Ions.
+ID_GACHA_CRATE_ISO8_T1_ION_CURRENCY_TOKEN_NAME,T1 Ion Orb Fragments
+ID_GACHA_CRATE_ISO8_T1_ION_CURRENCY_TOKEN_DESCRIPTION,Collect T1 Ion Orb Fragments to earn a T1 Ion Orb.
+ID_OF_NA_PICK_MILESTONE_OFFER,Draft: Milestone
+ID_OF_DE_PICK_MILESTONE_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Spider-Man (Symbiote) / Captain Marvel / Coulson</color>

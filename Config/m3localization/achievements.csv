@@ -367,6 +367,22 @@ ID_ACHIEVE_INSANITY4WIN_3,Complete Dark Dimension IV 3 Times
 ID_ACHIEVE_INSANITY4WIN_6,Complete Dark Dimension IV 6 Times
 ID_ACHIEVE_INSANITY4WIN_10,Complete Dark Dimension IV 10 Times
 ID_ACHIEVE_INSANITY4WIN_15,Complete Dark Dimension IV 15 Times
+ID_ACHIEVE_ISO_UNLOCK,Claim this achievement to unlock Iso-8
+ID_ACHIEVE_ISO_GIS_50000,"Spend 50,000 Basic Ions"
+ID_ACHIEVE_ISO_GIS_250000,"Spend 250,000 Basic Ions"
+ID_ACHIEVE_ISO_GIS_750000,"Spend 750,000 Basic Ions"
+ID_ACHIEVE_ISO_GIS_1500000,"Spend 1,500,000 Basic Ions"
+ID_ACHIEVE_ISO_GIS_3000000,"Spend 3,000,000 Basic Ions"
+ID_ACHIEVE_ISO_GIS_10000000,"Spend 10,000,000 Basic Ions"
+ID_ACHIEVE_ISO_GIS_30000000,"Spend 30,000,000 Basic Ions"
+ID_ACHIEVE_ISO_GT5_1,Equip 1 T1 Level 5 Iso-8 Crystal
+ID_ACHIEVE_ISO_GT5_5,Equip 5 T1 Level 5 Iso-8 Crystals
+ID_ACHIEVE_ISO_GT5_15,Equip 15 T1 Level 5 Iso-8 Crystals
+ID_ACHIEVE_ISO_GT5_25,Equip 25 T1 Level 5 Iso-8 Crystals
+ID_ACHIEVE_ISO_GT5_50,Equip 50 T1 Level 5 Iso-8 Crystals
+ID_ACHIEVE_ISO_GT5_125,Equip 125 T1 Level 5 Iso-8 Crystals
+ID_ACHIEVE_ISO_GT5_250,Equip 250 T1 Level 5 Iso-8 Crystals
+ID_ACHIEVE_ISO_GT5_375,Equip 375 T1 Level 5 Iso-8 Crystals
 ID_ACHIEVE_LOGIN_30,Log in 30 Days
 ID_ACHIEVE_LOGIN_60,Log in 60 Days
 ID_ACHIEVE_LOGIN_90,Log in 90 Days

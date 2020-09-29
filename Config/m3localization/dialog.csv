@@ -2195,6 +2195,128 @@ ID_DIALOG_MYS_3_9_END_4,"When put that way, I probably should have just given it
 ID_DIALOG_MYS_3_9_END_5,"Regardless, you have proven worthy allies. "
 ID_DIALOG_MYS_3_9_END_6,"If you need help from the Kingdom of Asgard, we will come to your aid."
 ID_DIALOG_MYS_3_9_END_7,"Thank you, Thor Odinson. And now we must return to our home and find a way to save it."
+ID_DIALOG_ISO_1_02_INTRO_0,"Sir, we're getting some strange readings..."
+ID_DIALOG_ISO_1_02_INTRO_1,"This is S.T.R.I.K.E., agent. All we get are strange readings from other dimensions."
+ID_DIALOG_ISO_1_02_INTRO_2,"Well, that's the thing, sir. Some of these readings are, um, coming from inside the Helicarrier. "
+ID_DIALOG_ISO_1_02_INTRO_3,MOMENTS LATER...
+ID_DIALOG_ISO_1_02_INTRO_4,What. Have you done. To my Helicarrier?!
+ID_DIALOG_ISO_1_02_INTRO_5,One word. Cool upgrades!
+ID_DIALOG_ISO_1_02_INTRO_6,"With Iso-8 and my Large Hadron Kaleidoscope, we can make our forces stronger, smarter, and probably better looking!"
+ID_DIALOG_ISO_1_02_INTRO_7,S.T.R.I.K.E. Rule One: You want to build a dangerous-looking device?! You ASK.
+ID_DIALOG_ISO_1_02_INTRO_8,For permission or forgiveness?
+ID_DIALOG_ISO_1_02_INTRO_9,"Permission! This thing's giving off all kinds of weird energy. In fact, we're picking up the same energy from the other side of the solar system."
+ID_DIALOG_ISO_1_02_INTRO_10,Wait?! Iso-8 energy?!\nWe gotta get it! Quickly! To space!
+ID_DIALOG_ISO_1_02_START_0,We tracked the Iso-8 energy signature to this spot where Ultimus kept breaking into our reality.
+ID_DIALOG_ISO_1_02_START_1,"Probably plenty of Iso-8, and not anyone else in sight! We have it to ourselves!"
+ID_DIALOG_ISO_1_02_START_2,--kzzzt ELEMENT HARVEST COMMENCING kzzt--
+ID_DIALOG_ISO_1_02_START_3,"OH, COME ON!"
+ID_DIALOG_ISO_1_02_END_0,Hmmm... How did Ultron find out about this Iso-8 before I did?
+ID_DIALOG_ISO_1_02_END_1,"Sure, he's a super-intelligent android who's managed to outthink the Avengers. But he doesn't have Supreme in his name!"
+ID_DIALOG_ISO_1_02_END_2,"If we want this Iso-8 all to ourselves, we're going to have to clear out these drones. Okay, everyone! Time to go to work!"
+ID_DIALOG_ISO_1_03_INTRO_0,"Supreme, report in. This was supposed to be a quick mission. Retrieve some of that material and return."
+ID_DIALOG_ISO_1_03_INTRO_1,"Ultron's drones are here, gathering up the Iso-8. It's creepy, they're like big silver ants."
+ID_DIALOG_ISO_1_03_INTRO_2,Ultron? How did he find out about this?
+ID_DIALOG_ISO_1_03_INTRO_3,There is nothing you humans can conceive of that Ultron cannot.
+ID_DIALOG_ISO_1_03_INTRO_4,Studying the portals created by Ultimus led me to discover this new element left behind in the fallout.
+ID_DIALOG_ISO_1_03_INTRO_5,"With my advanced technology, I can harness Iso-8 to do the impossible and improve upon my perfection!"
+ID_DIALOG_ISO_1_03_INTRO_6,"I'm terrified of you, but I've got to be honest - I like your style."
+ID_DIALOG_ISO_1_03_START_0,Leave this Iso-8 to me without a fight and your death will be marginally less painful.
+ID_DIALOG_ISO_1_03_START_1,"Okay, but - and hear me out on this - I want it!"
+ID_DIALOG_ISO_1_03_END_0,"What you view as a victory does not even register as a setback for me, human!"
+ID_DIALOG_ISO_1_03_END_1,"I will seize the Iso-8 using my new technology and wipe you organics from the galaxy. "
+ID_DIALOG_ISO_1_03_END_2,"Yeah, we're the worst. We should probably surrender. Oh, hey, what's that over there?"
+ID_DIALOG_ISO_1_03_END_3,"SURPRISE E.M.P., YOU SILVER JERK!"
+ID_DIALOG_ISO_1_03_END_4,"I YOINKED HIS TECH, LET'S GET OUT OF HERE!"
+ID_DIALOG_ISO_1_04_INTRO_0,"Scientist, what'd you find out there?"
+ID_DIALOG_ISO_1_04_INTRO_1,"Well, while retrieving the Iso-8, I also managed to ""invent"" this incredible little gadget..."
+ID_DIALOG_ISO_1_04_INTRO_2,S.T.R.I.K.E.! I have come to retrieve my stolen devices! And to deliver your destruction!
+ID_DIALOG_ISO_1_04_INTRO_3,You're bringing a brigade of murderous robots down on us now?
+ID_DIALOG_ISO_1_04_INTRO_4,"If I had to return every piece of technology I stole, I'd never get any mad science done at all!"
+ID_DIALOG_ISO_1_04_START_0,"Wow, I really thought I outran you! Are you like obsessed with me or something?"
+ID_DIALOG_ISO_1_04_START_1,My only obsession is with ending organic life-forms who stand in my way!
+ID_DIALOG_ISO_1_04_START_2,That's me! I KNEW it!
+ID_DIALOG_ISO_1_04_END_0,"Phew! That should be the end of Ultron, for now."
+ID_DIALOG_ISO_1_04_END_1,Now to go back to my beautiful Large Hadron Kaleidoscope and start cranking out the Iso-8!
+ID_DIALOG_ISO_1_05_INTRO_0,Why are we only finding Iso-8 now? Where did it come from?
+ID_DIALOG_ISO_1_05_INTRO_1,"Psh, YOU'RE only finding it now! I discovered it as soon as Ultimus started turning our dimension into swiss cheese."
+ID_DIALOG_ISO_1_05_INTRO_2,"Iso-8 is a by-product of rips in the fabric of reality. Ultimus has torn the most holes in our dimension, so we have the most Iso-8."
+ID_DIALOG_ISO_1_05_INTRO_3,With my Large Hadron Kaleidoscope - I love saying that - we can harness it! And then A.I.M. will be back on top!
+ID_DIALOG_ISO_1_05_INTRO_4,"I'm going to get a speedboat!\nNo, a rocket!\nNo, a speedboat with rockets!"
+ID_DIALOG_ISO_1_05_INTRO_5,Okay. And where exactly are you planning on keeping all of these highly powerful yet unstable crystals?
+ID_DIALOG_ISO_1_05_INTRO_6,"Way ahead of you, one-eye! I've got a team house hunting as we speak."
+ID_DIALOG_ISO_1_05_INTRO_7,"And by house hunting I mean, ""re-taking our old A.I.M. facilities back by force."""
+ID_DIALOG_ISO_1_05_START_0,"Scientist, this is Graviton. We've arrived at our former A.I.M. lab, but we have bad news. "
+ID_DIALOG_ISO_1_05_START_1,It appears this lab has an infestation of Ultimus's brainwashed S.H.I.E.L.D. agents.
+ID_DIALOG_ISO_1_05_START_2,"Well, what are you waiting for? Get rid of 'em!"
+ID_DIALOG_ISO_1_06_INTRO_0,Graviton! What's your progress? I'm stuffing all this Iso-8 under my mattress up here.
+ID_DIALOG_ISO_1_06_INTRO_1,These S.H.I.E.L.D. agents aren't going down easily. They've called in corrupted Avengers as back up.
+ID_DIALOG_ISO_1_06_INTRO_2,"Wait, was that an explosion? And I'm missing it?!"
+ID_DIALOG_ISO_1_06_START_0,We'll sooner bring this lab down onto all our heads than let you take it from Ultimus!
+ID_DIALOG_ISO_1_06_START_1,"If we don't hurry, these S.H.I.E.L.D. agents are going to destroy the facility and crush us all!"
+ID_DIALOG_ISO_1_06_START_2,DEFEAT THE <color=#fff568>ENEMY OPERATORS</color> TO WIN.
+ID_DIALOG_ISO_1_06_OPERATOR_01_0,Charges set!
+ID_DIALOG_ISO_1_06_OPERATOR_01_1,1 / 4 STAGES COMPLETE.
+ID_DIALOG_ISO_1_06_OPERATOR_02_0,Arming detonators!
+ID_DIALOG_ISO_1_06_OPERATOR_02_1,2 / 4 STAGES COMPLETE.
+ID_DIALOG_ISO_1_06_OPERATOR_03_0,Begin the countdown!
+ID_DIALOG_ISO_1_06_OPERATOR_03_1,3 / 4 STAGES COMPLETE.
+ID_DIALOG_ISO_1_06_OPERATOR_LOSE_0,We couldn't stop them! This whole place is coming down around us!
+ID_DIALOG_ISO_1_06_END_0,"We're victorious, but the damage done was too great. We'd risk disaster by storing the Iso-8 here."
+ID_DIALOG_ISO_1_06_END_1,"Ugh, corrupted S.H.I.E.L.D. agents are SO rude! ...Next time try to get one of their brains for me. "
+ID_DIALOG_ISO_1_06_END_2,"Anyway, I have another location in mind. Pack your antlers, we're going to Canada!"
+ID_DIALOG_ISO_1_07_INTRO_0,We've arrived outside the warehouse. It's been heavily fortified.
+ID_DIALOG_ISO_1_07_INTRO_1,"It'll be ideal for storing the Iso-8, but gaining entrance to take it back will prove... challenging."
+ID_DIALOG_ISO_1_07_INTRO_2,Did you try knocking?
+ID_DIALOG_ISO_1_07_INTRO_3,"Oh, I heard you and your team coming from a mile away. Please, try to run! I prefer a moving target."
+ID_DIALOG_ISO_1_07_START_0,Like what me and my mercs have done with the place?
+ID_DIALOG_ISO_1_07_START_1,Bullseye. An ill-behaved child who throws toys. I've never understood why everyone's so scared of you.
+ID_DIALOG_ISO_1_07_START_2,"Jeez, Graviton, you're going to hurt my feelings. Tell you what... How about a demonstration?"
+ID_DIALOG_ISO_1_07_END_0,"We've decimated the mercenaries, but..."
+ID_DIALOG_ISO_1_07_END_1,No! No buts!
+ID_DIALOG_ISO_1_07_END_2,…The interior suffered tremendous damage.
+ID_DIALOG_ISO_1_07_END_3,"Hmmm, and repairs are really going to eat into our profit margins."
+ID_DIALOG_ISO_1_07_END_4,"Who wants to live in Canada, anyway? Socialized medicine means fewer test subjects for us, and that's no good."
+ID_DIALOG_ISO_1_07_END_5,"Graviton, you're going on one more trip!"
+ID_DIALOG_ISO_1_08_INTRO_0,This old A.I.M. stronghold is occupied by a small faction of corrupted Hydra. Should be easy to crush.
+ID_DIALOG_ISO_1_08_INTRO_1,We'll send them back to Ultimus in pieces.
+ID_DIALOG_ISO_1_08_INTRO_2,Ultimus? Ha! We serve only Hydra!
+ID_DIALOG_ISO_1_08_INTRO_3,"What?! What gives, we're supposed to be on the same side."
+ID_DIALOG_ISO_1_08_INTRO_4,Those of us who joined with S.T.R.I.K.E. were weak!\nHydra cannot be contained!
+ID_DIALOG_ISO_1_08_START_0,"With the world in chaos and the so-called heroes of Earth preoccupied, now is the time for us to seize power! Hail Hydra!"
+ID_DIALOG_ISO_1_08_START_1,"Ugh, I hate to say it, but... evil game recognize evil game."
+ID_DIALOG_ISO_1_08_END_0,"You know, we need a new catchphrase! 'Hail Hydra' is so snappy. It could be on t-shirts."
+ID_DIALOG_ISO_1_08_END_1,"This is off the top of my head, but what about 'Ready... A.I.M... SCIENCE!'?"
+ID_DIALOG_ISO_1_08_END_2,It lacks a certain... pop.
+ID_DIALOG_ISO_1_09_INTRO_0,"These Hydra agents are calling in reinforcements from A.I.M. double agents! "
+ID_DIALOG_ISO_1_09_INTRO_1,"Maybe there's a way to take them out without destroying this stronghold in the process. "
+ID_DIALOG_ISO_1_09_INTRO_2,Oooh! I've got just the thing.
+ID_DIALOG_ISO_1_09_INTRO_3,Sending you one of my favorite A.I.M. scientists with a special surprise for these olive drab dorks.
+ID_DIALOG_ISO_1_09_START_0,The device she's got will release a patented A.I.M. formula that should take care of our little Hydra problem!
+ID_DIALOG_ISO_1_09_START_1,See if you can guess the secret ingredient! Hint: It's poison!
+ID_DIALOG_ISO_1_09_START_2,PROTECT YOUR <color=#fff568>OPERATOR</color> TO WIN.
+ID_DIALOG_ISO_1_09_OPERATOR_01_0,Coalescing gaseous elements...
+ID_DIALOG_ISO_1_09_OPERATOR_01_1,1 / 4 STAGES COMPLETE.
+ID_DIALOG_ISO_1_09_OPERATOR_02_0,Loading into the vaporator chamber...
+ID_DIALOG_ISO_1_09_OPERATOR_02_1,2 / 4 STAGES COMPLETE.
+ID_DIALOG_ISO_1_09_OPERATOR_03_0,Elements catalyst combining!
+ID_DIALOG_ISO_1_09_OPERATOR_03_1,3 / 4 STAGES COMPLETE.
+ID_DIALOG_ISO_1_09_OPERATOR_LOSE_0,Our agent with the toxic gas was taken out! Retreat!
+ID_DIALOG_ISO_1_09_END_0,"The toxin did its job. The remaining enemies are, let's say, no longer a problem."
+ID_DIALOG_ISO_1_09_END_1,"Well, sweep 'em aside and put down some shag carpet."
+ID_DIALOG_ISO_1_09_END_2,Mama's coming home and bringing her Iso-8 with her!
+ID_DIALOG_ISO_1_10_INTRO_0,We've finally loaded all the Iso-8. It'll be safe here until it is ready for the Large Hadron Kaleidoscope.
+ID_DIALOG_ISO_1_10_INTRO_1,Perfect! What could possibly go wrong?
+ID_DIALOG_ISO_1_10_INTRO_2,"Well, look at what we got here! Y'all put together some kind of super-sciencey clubhouse?"
+ID_DIALOG_ISO_1_10_INTRO_3,"We're gonna have to make ourselves at home, maybe relieve you of some of this here Iso-8!"
+ID_DIALOG_ISO_1_10_INTRO_4,"Ah, that. That could go wrong."
+ID_DIALOG_ISO_1_10_START_0,How did these slovenly cretins know about Iso-8?
+ID_DIALOG_ISO_1_10_START_1,And how'd they know where to find us? This thing has more twists than Reed Richards wringing himself out after a bath.
+ID_DIALOG_ISO_1_10_START_2,"If y'all are done yappin', I'd like to get to the thievin' and revenge!"
+ID_DIALOG_ISO_1_10_END_0,Someone else discovered Iso-8 technology?! And then predicted where we'd store ours? It seems impossible!
+ID_DIALOG_ISO_1_10_END_1,"You're right. Hmm... to figure out where we were keeping Iso-8 and harness its power, you'd have to be a genius."
+ID_DIALOG_ISO_1_10_END_2,"A beautiful genius, with an army of nerds in cool yellow armor..."
+ID_DIALOG_ISO_1_10_END_3,WAITAMINUTE! I know who's after us!
+ID_DIALOG_ISO_1_10_END_4,It's me!
 ID_DIALOG_HER_7_1_INTRO_0,"Press the attack, disciples! We take this island for the Hand and the glory of Ultimus."
 ID_DIALOG_HER_7_1_INTRO_1,"Daredevil, you know these spooky sword dorks better than me. At some point they'll get bored and go home, right?"
 ID_DIALOG_HER_7_1_INTRO_2,"We've been fighting this Hand siege of Hell's Kitchen for days now, so...\nI doubt it."
@@ -2583,6 +2705,136 @@ ID_DIALOG_NEXUS_8_9_END_14,"Then we'll take it back. "
 ID_DIALOG_NEXUS_8_9_END_15,"Listen up. Today was a huge victory, but the fight isn't over. Doom, Sinister... They're just the start."
 ID_DIALOG_NEXUS_8_9_END_16,This war has left the multiverse in pieces. And we're the only ones who can pick them up.
 ID_DIALOG_NEXUS_8_9_END_17,"S.T.R.I.K.E.? Time to get to work. "
+ID_DIALOG_ISO_2_01_INTRO_0,The only way those bad guys could have known about the Iso-8 is if I told them! And the only way I'd do that is if I was corrupted!
+ID_DIALOG_ISO_2_01_INTRO_1,Ultimus must have his own (less supreme) Scientist Supreme out there working on Iso-8 and putting it in the wrong hands!
+ID_DIALOG_ISO_2_01_INTRO_2,"So you've been saying for about twenty minutes. But you still haven't said what you want ME to do about it. "
+ID_DIALOG_ISO_2_01_INTRO_3,"Norn Stones! Infinity Stones! If anyone around this flying fortress is going to help me find some special rocks, it's going to be you. "
+ID_DIALOG_ISO_2_01_INTRO_4,"You do have a point. Grant me some of this Iso-8 and I can use my magic to find more in the galaxy. "
+ID_DIALOG_ISO_2_01_INTRO_5,"Perfect! Once we find this other Scientist Supreme and destroy her Large Hadron Kaleidoscope, I'll be the only game in town! "
+ID_DIALOG_ISO_2_01_START_0,"Voila. One interdimensional A.I.M. lab, chock-full of Iso-8. "
+ID_DIALOG_ISO_2_01_START_1,"Intruders! I love intruders! They make incredible lab rats. "
+ID_DIALOG_ISO_2_01_START_2,GASP! It's you!
+ID_DIALOG_ISO_2_01_START_3,You!
+ID_DIALOG_ISO_2_01_START_4,Me?
+ID_DIALOG_ISO_2_01_START_5,YOU!
+ID_DIALOG_ISO_2_01_END_0,How DARE you steal my invention and use it for actual evil!
+ID_DIALOG_ISO_2_01_END_1,What would YOU use it for?
+ID_DIALOG_ISO_2_01_END_2,"Science! Pure and clear and neither good nor evil! "
+ID_DIALOG_ISO_2_01_END_3,"I'm going to give my henchmen extra arms and turn people into M.O.D.O.K.s, and if society wants to judge me, that's their hang-up!"
+ID_DIALOG_ISO_2_01_END_4,"My god... We're so beautiful when we're angry. "
+ID_DIALOG_ISO_2_01_END_5,"Too bad you've got to die anyway! "
+ID_DIALOG_ISO_2_01_END_6,"Aw, come on! Right in the middle of my big speech..."
+ID_DIALOG_ISO_2_02_INTRO_0,"Here's the deal. I can't have you destroying my Large Hadron Kaleidoscope.\nIt took me FOREVER to build. "
+ID_DIALOG_ISO_2_02_INTRO_1,"Well, we can't have you powering up Ultimus's forces with Iso-8."
+ID_DIALOG_ISO_2_02_INTRO_2,"This is just like in junior high when I had a ponytail, and then the cool girls grew ponytails, and then they said I was copying THEM! "
+ID_DIALOG_ISO_2_02_INTRO_3,"Oh my god, what did you do?!"
+ID_DIALOG_ISO_2_02_INTRO_4,"I turned them into actual ponies. "
+ID_DIALOG_ISO_2_02_START_0,"I have a solution to this impasse. My underlings poison all of you, and then when you're dead, I get to keep my toys!"
+ID_DIALOG_ISO_2_02_START_1,"Wow, now you're trying to ruin POISON for me? I LOVE poison!"
+ID_DIALOG_ISO_2_02_END_0,My henchmen! I was using those!
+ID_DIALOG_ISO_2_02_END_1,You should have sent more than that if you wanted to stop us!
+ID_DIALOG_ISO_2_02_END_2,Good note! Open the cages!
+ID_DIALOG_ISO_2_02_END_3,I'm sorry. Did she say cages?
+ID_DIALOG_ISO_2_03_START_0,"Scientist, Loki, other S.T.R.I.K.E. Agents, meet my large adult sons!"
+ID_DIALOG_ISO_2_03_START_1,RAAAAAARGH!
+ID_DIALOG_ISO_2_03_START_2,They'll be covering my escape. Mostly with the sound of your bones breaking! See you at the next Mad Science convention!
+ID_DIALOG_ISO_2_03_START_3,"Or not! You know, because they killed you!"
+ID_DIALOG_ISO_2_03_END_0,"Well, those extremely disgusting things are defeated. Any sign of your counterpart?"
+ID_DIALOG_ISO_2_03_END_1,She got away! Damn her ability to exit a room with style!
+ID_DIALOG_ISO_2_03_END_2,"At least we have her Large Hadron Kaleidoscope! Just look at this baby. "
+ID_DIALOG_ISO_2_03_END_3,"True. Whatever corrupted version of A.I.M. she was running, it'll be a lot harder to make Iso-8 for Ultimus now. "
+ID_DIALOG_ISO_2_03_END_4,"Wait... You're right. She must have been running her own version of A.I.M.! With supplies and profits and everything... "
+ID_DIALOG_ISO_2_03_END_5,"You know what this means, right?"
+ID_DIALOG_ISO_2_03_END_6,No?
+ID_DIALOG_ISO_2_03_END_7,"HOSTILE TAKEOVER TIME, BABY!"
+ID_DIALOG_ISO_2_04_INTRO_0,"Okay, if I wanted to take every single asset of an evil A.I.M., where would I start?"
+ID_DIALOG_ISO_2_04_INTRO_1,Perhaps I might be of some assistance.
+ID_DIALOG_ISO_2_04_INTRO_2,Norman Osborn?
+ID_DIALOG_ISO_2_04_INTRO_3,"As a biologist and a CEO, I'm the only one who understands your goals. "
+ID_DIALOG_ISO_2_04_INTRO_4,"The first rule of business is supply and demand. "
+ID_DIALOG_ISO_2_04_INTRO_5,"So we find their Iso-8 supply... and demand it. "
+ID_DIALOG_ISO_2_04_START_0,"We're under attack! Battle stations, everyone!"
+ID_DIALOG_ISO_2_04_START_1,"Ah, the sound of underlings scrambling."
+ID_DIALOG_ISO_2_04_START_2,"The source of this other A.I.M.'s Iso-8 is sure to be in their computer banks. "
+ID_DIALOG_ISO_2_04_START_3,"We simply need to protect our S.H.I.E.L.D. Operator while they access the data. And do some damage in the process. "
+ID_DIALOG_ISO_2_04_START_4,PROTECT YOUR <color=#fff568>OPERATOR</color> TO WIN.
+ID_DIALOG_ISO_2_04_OPERATOR_01_0,"Accessing the corrupted A.I.M.'s files. "
+ID_DIALOG_ISO_2_04_OPERATOR_01_1,1 / 4 STAGES COMPLETE.
+ID_DIALOG_ISO_2_04_OPERATOR_02_0,"They've got a few different bases, narrowing them down..."
+ID_DIALOG_ISO_2_04_OPERATOR_02_1,2 / 4 STAGES COMPLETE.
+ID_DIALOG_ISO_2_04_OPERATOR_03_0,"I've almost got the coordinates! Just a few minutes more. "
+ID_DIALOG_ISO_2_04_OPERATOR_03_1,3 / 4 STAGES COMPLETE.
+ID_DIALOG_ISO_2_04_OPERATOR_LOSE_0,Our operator has been defeated! We must retreat!
+ID_DIALOG_ISO_2_04_END_0,I have the location of their Iso-8 supply! We're good to go!
+ID_DIALOG_ISO_2_04_END_1,"I gotta hand it to you Normie, your plan is working!"
+ID_DIALOG_ISO_2_04_END_2,"We're not done yet. Now that we know where they're keeping their Iso-8, we need to pay them a little visit..."
+ID_DIALOG_ISO_2_05_INTRO_0,"The intel we pulled indicates your corrupted counterpart is harvesting Iso-8 crystals using a Kree ship orbiting the planet Argor. "
+ID_DIALOG_ISO_2_05_INTRO_1,We can go clean them out! I'll bring my biggest science bag!
+ID_DIALOG_ISO_2_05_INTRO_2,"Not only that, dear Scientist. To run the facility, it must be staffed with some of Ultimus's finest corrupted genius-level intellects. "
+ID_DIALOG_ISO_2_05_INTRO_3,"Once we take out their defenses, we offer them a new job - harvesting Iso-8 for us."
+ID_DIALOG_ISO_2_05_INTRO_4,"Okay, but what if they refuse?"
+ID_DIALOG_ISO_2_05_INTRO_5,"Well... Let's just call them ""downsized."""
+ID_DIALOG_ISO_2_05_START_0,"Okay, nerds! Give us your Iso-8 and your undying loyalty to A.I.M.! Or else!"
+ID_DIALOG_ISO_2_05_START_1,"Our Scientist Supreme warned us there might be invaders. "
+ID_DIALOG_ISO_2_05_START_2,"Perhaps we can learn more about them, once we take them apart!"
+ID_DIALOG_ISO_2_05_END_0,"I really thought that recruitment drive would be more fruitful! Instead, they're mostly unconscious. "
+ID_DIALOG_ISO_2_05_END_1,"A shame, we could have used more underlings. Either way, this Iso-8 gathering facility is now ours!"
+ID_DIALOG_ISO_2_05_END_2,"Not yet it's not, ugly."
+ID_DIALOG_ISO_2_06_START_0,"Killmonger?! What would cause a mercenary like you to throw in with Scientist Supreme? "
+ID_DIALOG_ISO_2_06_START_1,"Iso-8. With it, no one in the multiverse stands a chance against me."
+ID_DIALOG_ISO_2_06_START_2,"I protect this place, Scientist Supreme powers me up. "
+ID_DIALOG_ISO_2_06_START_3,"I know you're not talking about me, but it's SO confusing when you keep using my name!"
+ID_DIALOG_ISO_2_06_START_4,This is like the time we hired a second Jeff at our office all over again.
+ID_DIALOG_ISO_2_06_END_0,Congratulations! You've done it. Your interdimensional counterpart's assets all belong to A.I.M. now.
+ID_DIALOG_ISO_2_06_END_1,And all we had to do to get them was a lot of grievous injury and property damage!
+ID_DIALOG_ISO_2_06_END_2,I love free enterprise!
+ID_DIALOG_ISO_2_06_END_3,"Yes, well, I'm glad you feel that way. Since now, whether you like it or not, A.I.M. can fall under the Oscorp umbrella. "
+ID_DIALOG_ISO_2_06_END_4,"With me, Norman Osborn, in charge!"
+ID_DIALOG_ISO_2_07_INTRO_0,"Really, Norman? You think YOU'RE going to take A.I.M. from MOI?! "
+ID_DIALOG_ISO_2_07_INTRO_1,"Of course. With the world at war and in chaos, now's exactly the time for me to seize as much power as I can. "
+ID_DIALOG_ISO_2_07_INTRO_2,"Think of it less as me taking something from you, and more that your company is free to thrive under my guidance. "
+ID_DIALOG_ISO_2_07_INTRO_3,"Now, if you would, come closer. My junior executives and I are excited to grant you severance!"
+ID_DIALOG_ISO_2_07_START_0,"I can't believe a slobbering, winged, goblin-man would double-cross me like this!"
+ID_DIALOG_ISO_2_07_START_1,"I mean, fool me once..."
+ID_DIALOG_ISO_2_07_END_0,"Osborn has fallen, Scientist. What would you have us do with this wretch?"
+ID_DIALOG_ISO_2_07_END_1,"Wow, GREAT question! I would love to mutate him, but he's already this weird... goblin... thing. "
+ID_DIALOG_ISO_2_07_END_2,"It just feels a little MUCH, you know?"
+ID_DIALOG_ISO_2_07_END_3,"Scientist... You and A.I.M. may have managed to stop me this time. But rest assured, I will unleash my fury upon you..."
+ID_DIALOG_ISO_2_07_END_4,"Ooooh! Great idea, Norman!"
+ID_DIALOG_ISO_2_07_END_5,We'll turn you in to Fury!
+ID_DIALOG_ISO_2_08_INTRO_0,"Well, Osborn, we're almost back to S.T.R.I.K.E. HQ! What do you think? "
+ID_DIALOG_ISO_2_08_INTRO_1,"You can either just be indebted to me and A.I.M. for the rest of your scaly life... "
+ID_DIALOG_ISO_2_08_INTRO_2,Or we tell Fury you tried to betray S.T.R.I.K.E. for personal gain!
+ID_DIALOG_ISO_2_08_INTRO_3,"Ugh... As loathe as I am to say it, I choose to be in your debt. "
+ID_DIALOG_ISO_2_08_INTRO_4,"I must say, Scientist Supreme, this is far more ruthless than I was expecting."
+ID_DIALOG_ISO_2_08_INTRO_5,"Shame on you, Osborn. Just because I'm a ton of fun doesn't mean I won't feed you to genetically engineered sharks!"
+ID_DIALOG_ISO_2_08_INTRO_6,Scientist. We're arriving at the Helicarrier now. But our radar is saying...
+ID_DIALOG_ISO_2_08_INTRO_7,"It's under siege! "
+ID_DIALOG_ISO_2_08_START_0,"Press the attack, my Brotherhood! If S.T.R.I.K.E. takes our Large Hadron Kaleidoscope, we take theirs!"
+ID_DIALOG_ISO_2_08_START_1,"I thought that other me would have learned her lesson! "
+ID_DIALOG_ISO_2_08_START_2,"Guess we're going to have to send these lackeys back to her, A.I.M. style! "
+ID_DIALOG_ISO_2_08_END_0,"Now, Magneto. Don't you feel silly?"
+ID_DIALOG_ISO_2_08_END_1,"Bah. You foolishly think this victory means your safety. But your Kaleidoscope and stolen Iso-8 will soon be ours. "
+ID_DIALOG_ISO_2_08_END_2,"Okay, well, in the meantime I'll be using it to kick your butts."
+ID_DIALOG_ISO_2_08_END_3,"So long, mutant jerks! Tell your boss she should accept her losses like a big scientist and stay outta the Nexus!"
+ID_DIALOG_ISO_2_08_END_4,Why don't you tell her yourself?!
+ID_DIALOG_ISO_2_08_END_5,"Dang! So, you're just as good at entrances as you are at exits? Respect."
+ID_DIALOG_ISO_2_09_INTRO_0,"You've stolen my resources, destroyed my hardware, pummelled my staff! I've officially gone from mad scientist to furious scientist!"
+ID_DIALOG_ISO_2_09_INTRO_1,"Oh, get over it! It's nothing you weren't going to do to me!"
+ID_DIALOG_ISO_2_09_INTRO_2,"Sure, but I didn't GET to! "
+ID_DIALOG_ISO_2_09_INTRO_3,So now we're taking your Large Hadron Kaleidoscope out of this Helicarrier! Or maybe I'll blow it up and kill us all!
+ID_DIALOG_ISO_2_09_INTRO_4,You haven't DECIDED yet?
+ID_DIALOG_ISO_2_09_INTRO_5,It's whichever comes first!
+ID_DIALOG_ISO_2_09_START_0,"First I'll crush you under my heel, then I'll retake the Iso-8 you stole from me. "
+ID_DIALOG_ISO_2_09_START_1,"If you think I'm just going to give up that sweet Iso, then you're crazier than I am! And you're me!"
+ID_DIALOG_ISO_2_09_END_0,No one's making any fancy getaways this time! Sorry!
+ID_DIALOG_ISO_2_09_END_1,Ugh... What are you planning to do with me?
+ID_DIALOG_ISO_2_09_END_2,"Normally I'd LOVE to keep you around for stray experiments. Would REALLY save me the time it'd take to clone myself. "
+ID_DIALOG_ISO_2_09_END_3,"But if you were the only other Scientist Supreme to come up with Iso-8, it must mean you're the second smartest one.  "
+ID_DIALOG_ISO_2_09_END_4,"So why don't we keep you around in case you have any other bright ideas! Graviton, take her to the brig!"
+ID_DIALOG_ISO_2_09_END_5,"Now, to start using our Iso-8! I'm sure someone else will patch up all the holes that evil me knocked into the walls."
+ID_DIALOG_ISO_2_09_END_6,Scientist! What have you done to my Helicarrier!
+ID_DIALOG_ISO_2_09_END_7,"Ah, it's good to be back home."
 ID_DIALOG_DOOM_1_01_INTRO_0,We're through the breach!
 ID_DIALOG_DOOM_1_01_INTRO_1,"By my calculations, Fury, only three more dimensional jumps lay between us and Nexus Earth. We're practically home."
 ID_DIALOG_DOOM_1_01_INTRO_2,*BOOM*
@@ -6379,6 +6631,121 @@ ID_DIALOG_ECM_SWARM_09_END_3,"If you're quite done, Electro, we need this vat op
 ID_DIALOG_ECM_SWARM_09_END_4,Stand aside. I'll fry the control panel. That should open the vat.
 ID_DIALOG_ECM_SWARM_09_END_5,*HISSSSSS*
 ID_DIALOG_ECM_SWARM_09_END_6,"Welcome back, Doctor."
+ID_DIALOG_ECM_SCREAM_01_INTRO_0,Screams? What are you three doing here and how did you find us at this abandoned S.T.R.I.K.E. base in the jungle?
+ID_DIALOG_ECM_SCREAM_01_INTRO_1,"We have been looking for you! Our Symbiotes... they... please, you have to help us. "
+ID_DIALOG_ECM_SCREAM_01_INTRO_2,We're begging you!
+ID_DIALOG_ECM_SCREAM_01_INTRO_3,We were ripped from our home dimensions. Our Symbiotes are in pain. They are ripping apart our minds.
+ID_DIALOG_ECM_SCREAM_01_INTRO_4,"Please, you're our only chance."
+ID_DIALOG_ECM_SCREAM_01_INTRO_5,No. We don't need more loose cannons around. Leave.
+ID_DIALOG_ECM_SCREAM_01_INTRO_6,We told you this was going to be a waste of time.
+ID_DIALOG_ECM_SCREAM_01_INTRO_7,"No! He's lying, he knows our struggle. He will help us!"
+ID_DIALOG_ECM_SCREAM_01_START_0,You'll pay for rejecting us.
+ID_DIALOG_ECM_SCREAM_01_START_1,"SCREAM IS A FAST-HITTING CONTROLLER WHO APPLIES <color=#fff568>BLEED</color> AND CAN CHAIN TO TARGETS IN <color=#fff568>STEALTH</color>. "
+ID_DIALOG_ECM_SCREAM_01_START_2,SCREAM REVELS IN OTHERS' DEFEAT BY HEALING SYMBIOTE ALLIES.
+ID_DIALOG_ECM_SCREAM_01_MID_0,REDUCE VENOM'S HEALTH TO 25% TO WIN
+ID_DIALOG_ECM_SCREAM_01_END_0,Enough! You're insane. I won't help create more psychos like Carnage.
+ID_DIALOG_ECM_SCREAM_01_END_1,Go back to the hole you crawled out of and never show your face again.
+ID_DIALOG_ECM_SCREAM_01_END_2,Venom's gone. And our last chance at hope with him.
+ID_DIALOG_ECM_SCREAM_01_END_3,"We've heard of someone else that might be able to help, the new ruler of the Nexus."
+ID_DIALOG_ECM_SCREAM_01_END_4,Venom was right. We have no place in this world.
+ID_DIALOG_ECM_SCREAM_01_END_5,Fine! Go hide. We'll get Doctor Doom's help ourselves.
+ID_DIALOG_ECM_SCREAM_02_INTRO_0,"CASTLE DOOM, LATVERIA..."
+ID_DIALOG_ECM_SCREAM_02_INTRO_1,...We pledge ourselves to your cause.
+ID_DIALOG_ECM_SCREAM_02_INTRO_2,"And in turn, Doom will help you and your Symbiote co-exist."
+ID_DIALOG_ECM_SCREAM_02_INTRO_3,"First, I need you to bring me untainted Symbiotes from Klyntar so I can study them."
+ID_DIALOG_ECM_SCREAM_02_INTRO_4,"My Inhumans will escort you, to make sure there are no issues. Now go wait on the ship, my Inhumans will be along shortly."
+ID_DIALOG_ECM_SCREAM_02_INTRO_5,...
+ID_DIALOG_ECM_SCREAM_02_INTRO_6,Make sure Scream is able to retrieve as many specimens as possible.
+ID_DIALOG_ECM_SCREAM_02_INTRO_7,Dispose of her afterwards. Doom has no use for her weak Symbiote.
+ID_DIALOG_ECM_SCREAM_02_START_0,"Halt, unidentified spaceship! Earth is under the protection of Doctor Doom. Turn back or face judgment."
+ID_DIALOG_ECM_SCREAM_02_END_0,"What a waste of time. Get us to Klyntar, now!"
+ID_DIALOG_ECM_SCREAM_02_END_1,"The faster we capture these Symbiotes, the faster my Symbiote and I will be at peace."
+ID_DIALOG_ECM_SCREAM_02_END_2,"We should be at Klyntar soon, don't go losing your head just yet."
+ID_DIALOG_ECM_SCREAM_02_END_3,"You'll lose more than your head if you fail Doctor Doom! "
+ID_DIALOG_ECM_SCREAM_02_END_4,...
+ID_DIALOG_ECM_SCREAM_03_INTRO_0,Symbiotes! You WILL come with me now.
+ID_DIALOG_ECM_SCREAM_03_INTRO_1,And who exactly are you?
+ID_DIALOG_ECM_SCREAM_03_INTRO_2,Sister! You have come to rejoin us. Anti-Venom has been helping put us at peace.
+ID_DIALOG_ECM_SCREAM_03_INTRO_3,Not quite. We have come to claim your Symbiotes for Doctor Doom.
+ID_DIALOG_ECM_SCREAM_03_INTRO_4,"Look around child, you're outnumbered. And we ain't goin' down without a fight."
+ID_DIALOG_ECM_SCREAM_03_START_0,We were hoping you wouldn't come quietly.
+ID_DIALOG_ECM_SCREAM_03_END_0,You have won. What will you do with your brothers and sisters?
+ID_DIALOG_ECM_SCREAM_03_END_1,You are nothing to us! You all have turned your backs to us. Now Doom will study you to help us learn control!
+ID_DIALOG_ECM_SCREAM_03_END_2,"Very good, these specimens will do quite nicely."
+ID_DIALOG_ECM_SCREAM_03_END_3,Get all of them. Doctor Doom has other plans for all of the Symbiotes we bring back.
+ID_DIALOG_ECM_SCREAM_03_END_4,Other plans? He said he was going to use them to help us! What other plans does he have for our siblings?
+ID_DIALOG_ECM_SCREAM_03_END_5,I thought you just said they are nothing to you?
+ID_DIALOG_ECM_SCREAM_03_END_6,So what does it matter what Doctor Doom will do with them?
+ID_DIALOG_ECM_SCREAM_03_END_7,You didn't answer our question! What other plans does he have for our siblings?
+ID_DIALOG_ECM_SCREAM_03_END_8,You'll see.
+ID_DIALOG_ECM_SCREAM_04_INTRO_0,"HELL'S KITCHEN, NEW YORK CITY..."
+ID_DIALOG_ECM_SCREAM_04_INTRO_1,Doctor Doom wishes us to implant these Symbiotes into the leaders of the resistance.
+ID_DIALOG_ECM_SCREAM_04_INTRO_2,This was not part of the deal! He said to just bring them to him! Nothing about implanting them!
+ID_DIALOG_ECM_SCREAM_04_INTRO_3,"Infiltrate the hideout, find the leader of this cell, and we will implant the strongest Symbiote into them."
+ID_DIALOG_ECM_SCREAM_04_INTRO_4,And what makes you think that the Symbiote will listen to you or Doom?
+ID_DIALOG_ECM_SCREAM_04_INTRO_5,We have captured a very hungry Xenophage. The threat of being fed to it will put any Symbiote in line.
+ID_DIALOG_ECM_SCREAM_04_INTRO_6,A Xenophage? Our mortal enemy? You would dare bring one to Earth?
+ID_DIALOG_ECM_SCREAM_04_INTRO_7,"Yes, and we WILL feed you to it. So fall in line and go capture their leader!"
+ID_DIALOG_ECM_SCREAM_04_START_0,"Hey, wait! You're not supposed to be here!"
+ID_DIALOG_ECM_SCREAM_04_END_0,Keep going and clear all resistance you meet. They are not important.
+ID_DIALOG_ECM_SCREAM_04_END_1,We're going to enjoy ripping your spine out when all of this is over!
+ID_DIALOG_ECM_SCREAM_04_END_2,So much for that control you wish to gain.
+ID_DIALOG_ECM_SCREAM_05_INTRO_0,Eyes open! There is more resistance inbound to your location.
+ID_DIALOG_ECM_SCREAM_05_INTRO_1,Doom better be as good as his reputation says he is. This is starting to be more trouble than it's worth!
+ID_DIALOG_ECM_SCREAM_05_INTRO_2,Victor sent you? What has he got you doing? You seem like you are in such pain...
+ID_DIALOG_ECM_SCREAM_05_START_0,Let us help you. You don't have to fight us.
+ID_DIALOG_ECM_SCREAM_05_START_1,We have too much at stake to stop now.
+ID_DIALOG_ECM_SCREAM_05_END_0,Where is this cell's leader? Take us to them!
+ID_DIALOG_ECM_SCREAM_05_END_1,"He is in the war room, he just got back from a recon mission to Castle Doom. "
+ID_DIALOG_ECM_SCREAM_05_END_2,He will be waiting for you.
+ID_DIALOG_ECM_SCREAM_05_END_3,I'm counting on it.
+ID_DIALOG_ECM_SCREAM_06_INTRO_0,"We thought getting to you was going to be difficult, Iron Man."
+ID_DIALOG_ECM_SCREAM_06_INTRO_1,The second your super perm tripped our sensors we were alerted to you.
+ID_DIALOG_ECM_SCREAM_06_INTRO_2,Time to put an end to Doom's experiment of the week.
+ID_DIALOG_ECM_SCREAM_06_INTRO_3,"You will soon enough find out, firsthand, about Doom's experiments."
+ID_DIALOG_ECM_SCREAM_06_MID_0,REDUCE IRONMAN'S HEALTH TO 25% TO WIN
+ID_DIALOG_ECM_SCREAM_06_END_0,"Scream! Stop! Doctor Doom is just using you, do you really think he'll treat you as anything more than an experiment?"
+ID_DIALOG_ECM_SCREAM_06_END_1,We are no experiment! He gave his word that he'd help us once we brought him Symbiotes.
+ID_DIALOG_ECM_SCREAM_06_END_2,I saw him experimenting on hundreds of versions of you when I was doing recon on his base.
+ID_DIALOG_ECM_SCREAM_06_END_3,What is he talking about? Why did Doom need more Symbiotes if he already had ones to help us with?
+ID_DIALOG_ECM_SCREAM_06_END_4,Fascinating. He could not separate your Symbiote without destroying both the host and the Symbiote.
+ID_DIALOG_ECM_SCREAM_06_END_5,"So he had you get other Symbiotes for him to use. Binding that monster with me won't help you, he is just using you."
+ID_DIALOG_ECM_SCREAM_06_END_6,He is lying. Finish implanting the Symbiote and your mission will be over.
+ID_DIALOG_ECM_SCREAM_06_END_7,We'll see who is lying...
+ID_DIALOG_ECM_SCREAM_07_INTRO_0,Doom! Come in. Urgent comms request for Doctor Doom!
+ID_DIALOG_ECM_SCREAM_07_INTRO_1,Who are you to call upon Doom?
+ID_DIALOG_ECM_SCREAM_07_INTRO_2,Do we have your word that when we bring you the Symbiotes you will use them to help us?
+ID_DIALOG_ECM_SCREAM_07_INTRO_3,"This is getting bothersome. Karnak, do you have the Symbiotes?"
+ID_DIALOG_ECM_SCREAM_07_INTRO_4,Yes sir. Along with Iron Man.
+ID_DIALOG_ECM_SCREAM_07_INTRO_5,Implant him. Dispose of everyone else.
+ID_DIALOG_ECM_SCREAM_07_INTRO_6,LIAR! WE'LL DESTROY YOU ALL!!
+ID_DIALOG_ECM_SCREAM_07_START_0,Scream...
+ID_DIALOG_ECM_SCREAM_07_START_1,We can't believe anyone anymore. It's us against everyone else.
+ID_DIALOG_ECM_SCREAM_07_END_0,This isn't over. It won't be over until we make every last one of them pay!
+ID_DIALOG_ECM_SCREAM_07_END_1,You know what to do. Avenge us.
+ID_DIALOG_ECM_SCREAM_08_INTRO_0,DOCTOR DOOM'S SUB-BASE IN NEW YORK...
+ID_DIALOG_ECM_SCREAM_08_INTRO_1,"Come out, come out, wherever you are. All of Doom's lackeys will soon meet their maker."
+ID_DIALOG_ECM_SCREAM_08_INTRO_2,Scream? What are you doing here? Where are your handlers?
+ID_DIALOG_ECM_SCREAM_08_INTRO_3,"Our handlers had to take a small nap, just like you're about to… "
+ID_DIALOG_ECM_SCREAM_08_END_0,"You'll never make it all the way to Doctor Doom! You're already outwitted. "
+ID_DIALOG_ECM_SCREAM_08_END_1,We'll get our revenge on everyone who has wronged us…
+ID_DIALOG_ECM_SCREAM_08_END_2,Starting with our Inhuman lead handler.
+ID_DIALOG_ECM_SCREAM_09_INTRO_0,Black Bolt!! We'll silence you once and for all.
+ID_DIALOG_ECM_SCREAM_09_INTRO_1,...
+ID_DIALOG_ECM_SCREAM_09_INTRO_2,How dare you! We did everything he asked!
+ID_DIALOG_ECM_SCREAM_09_INTRO_3,...
+ID_DIALOG_ECM_SCREAM_09_END_0,We shall destroy them all! Every last one of Doom's lackeys. Right before we destroy Doom himself!
+ID_DIALOG_ECM_SCREAM_09_END_1,Sister! Listen to my voice and just breathe.
+ID_DIALOG_ECM_SCREAM_09_END_2,What? Where did you come from?
+ID_DIALOG_ECM_SCREAM_09_END_3,"We followed you from the resistance's base, hoping to stop you before you went too far."
+ID_DIALOG_ECM_SCREAM_09_END_4,We want to help you and we believe you can help us.
+ID_DIALOG_ECM_SCREAM_09_END_5,You're lying! You're just like the rest of them. We might as well end you now before you can use us any more!
+ID_DIALOG_ECM_SCREAM_09_END_6,"No, I am nothing like them. I do want to help you. We want to help you."
+ID_DIALOG_ECM_SCREAM_09_END_7,Come with us and we will help end your pain.
+ID_DIALOG_ECM_SCREAM_09_END_8,We can't. Not after what Doom has put us through. He must pay!
+ID_DIALOG_ECM_SCREAM_09_END_9,"And he will, but first let me help you."
+ID_DIALOG_ECM_SCREAM_09_END_10,What'll we owe? Nothing is ever free.
+ID_DIALOG_ECM_SCREAM_09_END_11,Just your help taking down Doctor Doom.
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.
@@ -7683,12 +8050,12 @@ ID_DIALOG_THANOS_EVENT_09_INTRO_4,"So, I am forced to break you once more. Such 
 ID_DIALOG_THANOS_EVENT_09_START_0,All that's left is to enter the control capsule and locate the Reality Stone. Then we return to the Nexus dimension.
 ID_DIALOG_THANOS_EVENT_09_START_1,I will focus the array while Thanos searches for the Reality Stone's signature.
 ID_DIALOG_THANOS_EVENT_09_INFO_1_0,"The control capsule is online. I can already feel the energy coursing through me.  "
-ID_DIALOG_THANOS_EVENT_09_INFO_1_1,1 / 4 stages complete.
+ID_DIALOG_THANOS_EVENT_09_INFO_1_1,1 / 4 STAGES COMPLETE.
 ID_DIALOG_THANOS_EVENT_09_INFO_2_0,"I'm reaching out, but I cannot feel the Reality Stone. More power!"
-ID_DIALOG_THANOS_EVENT_09_INFO_2_1,2 / 4 stages complete.
+ID_DIALOG_THANOS_EVENT_09_INFO_2_1,2 / 4 STAGES COMPLETE.
 ID_DIALOG_THANOS_EVENT_09_INFO_3_0,"The power... I can feel it... flowing through me... my strength, it... wait... NO..."
 ID_DIALOG_THANOS_EVENT_09_INFO_3_1,Something is wrong. Let me try to regain control.
-ID_DIALOG_THANOS_EVENT_09_INFO_3_2,3 / 4 stages complete.
+ID_DIALOG_THANOS_EVENT_09_INFO_3_2,3 / 4 STAGES COMPLETE.
 ID_DIALOG_THANOS_EVENT_09_FAIL_0,We've lost our Operator. We need to regroup.
 ID_DIALOG_THANOS_EVENT_09_END_0,AGH!!!  GRAAAH!!!
 ID_DIALOG_THANOS_EVENT_09_END_1,No! The system shut me out!
@@ -7705,12 +8072,12 @@ ID_DIALOG_THANOS_EVENT_10_START_1,I tracked your life essence across the Plains 
 ID_DIALOG_THANOS_EVENT_10_START_2,"Right. Well, whatever else you have up your sleeve, now's the time."
 ID_DIALOG_THANOS_EVENT_10_START_3,"If you can hold off Thanos, I think I can open a portal back to our dimension."
 ID_DIALOG_THANOS_EVENT_10_INFO_1_0,By the Ruby Rings of Raggadorr...
-ID_DIALOG_THANOS_EVENT_10_INFO_1_1,1 / 4 stages complete.
+ID_DIALOG_THANOS_EVENT_10_INFO_1_1,1 / 4 STAGES COMPLETE.
 ID_DIALOG_THANOS_EVENT_10_INFO_2_0,By the Mystic Moons of Munnopor...
-ID_DIALOG_THANOS_EVENT_10_INFO_2_1,2 / 4 stages complete.
+ID_DIALOG_THANOS_EVENT_10_INFO_2_1,2 / 4 STAGES COMPLETE.
 ID_DIALOG_THANOS_EVENT_10_INFO_3_0,By the Hoary Hosts of Hoggoth...
 ID_DIALOG_THANOS_EVENT_10_INFO_3_1,"Did he just say ""Hoary?"""
-ID_DIALOG_THANOS_EVENT_10_INFO_3_2,3 / 4 stages complete.
+ID_DIALOG_THANOS_EVENT_10_INFO_3_2,3 / 4 STAGES COMPLETE.
 ID_DIALOG_THANOS_EVENT_10_FAIL_0,THERE IS NO ESCAPE. I WILL CRUSH YOU IN THE NAME OF ULTIMUS!
 ID_DIALOG_THANOS_EVENT_10_END_0,"By the Fangs of Farallah, we do implore ye passage through..."
 ID_DIALOG_THANOS_EVENT_10_END_1,YOU HAVE NOWHERE TO RUN. ACCEPT YOUR FATE AND SUBMIT.
@@ -7745,11 +8112,11 @@ ID_DIALOG_DEADPOOL_EVENT_01_MID_0,"Well, that was FUN. Tell me what you were doi
 ID_DIALOG_DEADPOOL_EVENT_01_MID_1,"If you're looking for that mutant we captured, you're too late. He's probably being stuffed into an orb right now. "
 ID_DIALOG_DEADPOOL_EVENT_01_MID_2,The plot thickens!
 ID_DIALOG_DEADPOOL_EVENT_01_INFO_1_0,"Looks like the merc convoy is about to leave, but they're setting up a bomb to cover their tracks. Not on my watch!"
-ID_DIALOG_DEADPOOL_EVENT_01_INFO_1_1,1 / 4 stages complete.
+ID_DIALOG_DEADPOOL_EVENT_01_INFO_1_1,1 / 4 STAGES COMPLETE.
 ID_DIALOG_DEADPOOL_EVENT_01_INFO_2_0,Pro-tip: Use my Special Attack and you'll be able to take out that naughty boy that's trying to arm the bomb.
-ID_DIALOG_DEADPOOL_EVENT_01_INFO_2_1,2 / 4 stages complete.
+ID_DIALOG_DEADPOOL_EVENT_01_INFO_2_1,2 / 4 STAGES COMPLETE.
 ID_DIALOG_DEADPOOL_EVENT_01_INFO_3_0,"Wait, are you on AUTO PLAY? Use my Special Ability! "
-ID_DIALOG_DEADPOOL_EVENT_01_INFO_3_1,3 / 4 stages complete.
+ID_DIALOG_DEADPOOL_EVENT_01_INFO_3_1,3 / 4 STAGES COMPLETE.
 ID_DIALOG_DEADPOOL_EVENT_01_FAIL_0,Vengeance will be mine! I swear on Thor's bulging biceps!
 ID_DIALOG_DEADPOOL_EVENT_01_END_0,"You done good, boss. We took down all those mercs without even breaking a sweat."
 ID_DIALOG_DEADPOOL_EVENT_01_END_1,"I'm definitely bleeding, but no sweat."
@@ -7872,11 +8239,11 @@ ID_DIALOG_DEADPOOL_EVENT_10_START_3,"DP, that's not gonna work. We have to take 
 ID_DIALOG_DEADPOOL_EVENT_10_START_4,"That's why I love you, Cable. You always go right for the cojones."
 ID_DIALOG_DEADPOOL_EVENT_10_START_5,DEFEAT <color=#fff568>VISION</color> TO WIN.
 ID_DIALOG_DEADPOOL_EVENT_10_INFO_1_0,Vision's operators are prepping the virus. We need to take him out quickly.
-ID_DIALOG_DEADPOOL_EVENT_10_INFO_1_1,1 / 4 stages complete.
+ID_DIALOG_DEADPOOL_EVENT_10_INFO_1_1,1 / 4 STAGES COMPLETE.
 ID_DIALOG_DEADPOOL_EVENT_10_INFO_2_0,"Yeah, if we don't take Vision out, things are gonna get real weird, real fast."
-ID_DIALOG_DEADPOOL_EVENT_10_INFO_2_1,2 / 4 stages complete.
+ID_DIALOG_DEADPOOL_EVENT_10_INFO_2_1,2 / 4 STAGES COMPLETE.
 ID_DIALOG_DEADPOOL_EVENT_10_INFO_3_0,"Ok, the pucker factor is a little too high. Get Vision, now!"
-ID_DIALOG_DEADPOOL_EVENT_10_INFO_3_1,3 / 4 stages complete.
+ID_DIALOG_DEADPOOL_EVENT_10_INFO_3_1,3 / 4 STAGES COMPLETE.
 ID_DIALOG_DEADPOOL_EVENT_10_FAIL_0,"At last, my virus is airborne. There's no stopping it now."
 ID_DIALOG_DEADPOOL_EVENT_10_END_0,You fools... I'm trying to save you. With this virus we could have all become one.
 ID_DIALOG_DEADPOOL_EVENT_10_END_1," --"
@@ -8660,6 +9027,34 @@ ID_DIALOG_FLASH_WAKANDA_07_END_5,Not like this! Earlier energy took advantage of
 ID_DIALOG_FLASH_WAKANDA_07_END_6,That's why it was so unpredictable!
 ID_DIALOG_FLASH_WAKANDA_07_END_7,"Yes! While this energy may not help us get home, when we do finally arrive in the Nexus, we will be much stronger!"
 ID_DIALOG_FLASH_WAKANDA_07_END_8,Doctor Doom will not know what hit him.
+ID_DIALOG_CHAL_XP_LV76_START_0,DEFEAT THE MARKED ENEMIES TO WIN.
+ID_DIALOG_CHAL_XP_LV80_START_0,DEFEAT THE ENEMY OPERATORS AND MARKED ENEMIES TO WIN.
+ID_DIALOG_CHAL_ABLMAT_LV76_START_0,PROTECT THE CIVILIANS AND DEFEAT ALL ENEMIES TO WIN.
+ID_DIALOG_CHAL_ABLMAT_LV80_START_0,DEFEAT THE ENEMY OPERATORS TO WIN.
+ID_DIALOG_CHAL_GOLD_14_START_0,DEFEAT THE MARKED ENEMIES TO WIN.
+ID_DIALOG_CHAL_HEALTHBUCKS_13_START_0,DEFEAT THE ENEMY OPERATORS TO WIN.
+ID_DIALOG_CHAL_HEALTHBUCKS_14_START_0,PROTECT THE CIVILIANS AND DEFEAT ALL ENEMIES TO WIN.
+ID_DIALOG_CHAL_SHARDS_LV76_START_0,DEFEAT THE ENEMY OPERATORS AND MARKED ENEMIES TO WIN.
+ID_DIALOG_CHAL_SHARDS_LV80_START_0,DEFEAT THE MARKED ENEMIES TO WIN.
+ID_DIALOG_CHAL_CATALYST_LV80_START_0,DEFEAT THE MARKED ENEMIES TO WIN.
+ID_DIALOG_CHAL_XP_LV80_OPERATOR_LOSE_0,MISSION FAILED. ALL STAGES HAVE BEEN COMPLETED.
+ID_DIALOG_CHAL_XP_LV80_OPERATOR_03_0,3 / 4 STAGES COMPLETE.
+ID_DIALOG_CHAL_XP_LV80_OPERATOR_02_0,2 / 4 STAGES COMPLETE.
+ID_DIALOG_CHAL_XP_LV80_OPERATOR_01_0,1 / 4 STAGES COMPLETE.
+ID_DIALOG_CHAL_ABLMAT_LV76_FAIL_0,MISSION FAILED. ALL THE CIVILIANS HAVE BEEN TAKEN OUT.
+ID_DIALOG_CHAL_ABLMAT_LV80_OPERATOR_LOSE_0,MISSION FAILED. ALL STAGES HAVE BEEN COMPLETED.
+ID_DIALOG_CHAL_ABLMAT_LV80_OPERATOR_03_0,3 / 4 STAGES COMPLETE.
+ID_DIALOG_CHAL_ABLMAT_LV80_OPERATOR_02_0,2 / 4 STAGES COMPLETE.
+ID_DIALOG_CHAL_ABLMAT_LV80_OPERATOR_01_0,1 / 4 STAGES COMPLETE.
+ID_DIALOG_CHAL_HEALTHBUCKS_13_OPERATOR_LOSE_0,MISSION FAILED. ALL STAGES HAVE BEEN COMPLETED.
+ID_DIALOG_CHAL_HEALTHBUCKS_13_OPERATOR_03_0,3 / 4 STAGES COMPLETE.
+ID_DIALOG_CHAL_HEALTHBUCKS_13_OPERATOR_02_0,2 / 4 STAGES COMPLETE.
+ID_DIALOG_CHAL_HEALTHBUCKS_13_OPERATOR_01_0,1 / 4 STAGES COMPLETE.
+ID_DIALOG_CHAL_HEALTHBUCKS_14_FAIL_0,MISSION FAILED. ALL THE CIVILIANS HAVE BEEN TAKEN OUT.
+ID_DIALOG_CHAL_SHARDS_LV76_OPERATOR_LOSE_0,MISSION FAILED. ALL STAGES HAVE BEEN COMPLETED.
+ID_DIALOG_CHAL_SHARDS_LV76_OPERATOR_03_0,3 / 4 STAGES COMPLETE.
+ID_DIALOG_CHAL_SHARDS_LV76_OPERATOR_02_0,2 / 4 STAGES COMPLETE.
+ID_DIALOG_CHAL_SHARDS_LV76_OPERATOR_01_0,1 / 4 STAGES COMPLETE.
 ID_DIALOG_NUE_00_01_0,"Commander, I'm glad you're here. \nWe have a situation."
 ID_DIALOG_NUE_00_01_1,Interdimensional signatures are popping up all over New York City.
 ID_DIALOG_NUE_00_01_2,"As commander of S.T.R.I.K.E., interdimensional threats are your jurisdiction. "
@@ -8825,3 +9220,60 @@ ID_DIALOG_NUE_WAR_10_0,<color=#fff568>THIS IS CRITICAL...</color>Each character 
 ID_DIALOG_NUE_WAR_11_0,Check your own Helicarrier during an Alliance War to inspect the status of your Rooms and <color=#fff568>BOOST</color> your Defenses.
 ID_DIALOG_NUE_WAR_12_0,We can make fights harder on our opponents by boosting the defending squads.
 ID_DIALOG_NUE_WAR_12_1,"With your help, we can take on these invading Helicarriers and defeat Ultimus!"
+ID_DIALOG_NUE_ISO8_MODULE_01_01_0,"Ah, there you are, Commander! I've just made a scientific breakthrough that you're going to want to see for yourself."
+ID_DIALOG_NUE_ISO8_MODULE_01_01_1,"Introducing <color=#fff568>Iso-8</color>, an incredible element that can be used to power up your team!"
+ID_DIALOG_NUE_ISO8_MODULE_01_01_2,"I've arranged a demonstration for you. Nothing like some good, old-fashioned, unlicensed human experimentation! "
+ID_DIALOG_NUE_ISO8_MODULE_01_02_0,Some of the test subjects have been given <color=#fff568>Iso-8</color> to <color=#fff568>power them up</color>. Some haven't.
+ID_DIALOG_NUE_ISO8_MODULE_01_02_1,"That's a science experiment, baby!"
+ID_DIALOG_NUE_ISO8_MODULE_01_MISSION01_START_0,"Some would say it's unethical to send these Luke Cages into battle with untested technology, but ethics are for accountants."
+ID_DIALOG_NUE_ISO8_MODULE_01_MISSION01_START_1,Our first subject doesn't have any <color=#fff568>Iso-8</color> applied. Observe.
+ID_DIALOG_NUE_ISO8_MODULE_01_MISSION01_START_2,"Commander, for the record, I'm doing this for you, not for this quack scientist."
+ID_DIALOG_NUE_ISO8_MODULE_01_MISSION01_MID_01_0,Argh! Hey! I know I'm bulletproof but this ain't exactly a picnic!
+ID_DIALOG_NUE_ISO8_MODULE_01_MISSION01_MID_01_1,Look at all that damage! Let's see how the <color=#fff568>powered up</color> Luke fares...
+ID_DIALOG_NUE_ISO8_MODULE_01_MISSION01_MID_01A_0,THE <color=#fff568>FORTIFIER</color> CLASS <color=#fff568>GRANTS BARRIER</color> TO CHARACTERS DURING COMBAT.
+ID_DIALOG_NUE_ISO8_MODULE_01_MISSION01_MID_02_0,"Heh, is that all you got?"
+ID_DIALOG_NUE_ISO8_MODULE_01_MISSION01_MID_02_1,BOOMSHAKALAKA! Did you see what a genius I am? The <color=#fff568>FORTIFIER</color> class is a massive success.
+ID_DIALOG_NUE_ISO8_MODULE_01_MISSION01_MID_02_2,"<color=#fff568>Iso-8</color> can be used to apply more offensive <color=#fff568>CLASSES</color>, too. Deploy the Punisher!"
+ID_DIALOG_NUE_ISO8_MODULE_01_MISSION01_MID_03_0,"Punisher has been given the <color=#fff568>RAIDER</color> Class, which will make his attacks more… punishing."
+ID_DIALOG_NUE_ISO8_MODULE_01_MISSION01_MID_03_1,THE <color=#fff568>RAIDER CLASS</color> INCREASES A CHARACTER'S <color=#fff568>CRITICAL HIT</color> CHANCE. CRITICAL HITS WILL APPLY THE <color=#9055FF>VULNERABLE</color> STATUS TO THE TARGET.
+ID_DIALOG_NUE_ISO8_MODULE_01_MISSION01_MID_03_2,HIT ME... FOR SCIENCE!
+ID_DIALOG_NUE_ISO8_MODULE_01_MISSION01_MID_04_0,"See that? Drax, that lovable oaf, is now <color=#9055FF>VULNERABLE</color> (along with the other test subjects)."
+ID_DIALOG_NUE_ISO8_MODULE_01_MISSION01_MID_04_1,<color=#9055FF>VULNERABLE</color> CHARACTERS WILL <color=#fff568>TAKE ADDITIONAL DAMAGE</color> FROM ATTACKS.
+ID_DIALOG_NUE_ISO8_MODULE_01_MISSION01_MID_04_2,Now let's see how the <color=#fff568>SKIRMISHER</color> variant Daredevil does.
+ID_DIALOG_NUE_ISO8_MODULE_01_MISSION01_MID_04_3,"Brace yourself, Drax. Here I come."
+ID_DIALOG_NUE_ISO8_MODULE_01_MISSION01_MID_04_4,"<color=#fff568>SKIRMISHER</color> ISO-8 APPLIES <color=#9055FF>VULNERABLE</color> TO THE PRIMARY TARGET.  IF THE TARGET IS ALREADY VULNERABLE, THEN A <color=#fff568>BUFF WILL BE CLEARED</color>."
+ID_DIALOG_NUE_ISO8_MODULE_01_MISSION01_MID_05_0,DRAX IS NO LONGER <color=#fff568>TAUNTING</color> AND IS STILL <color=#9055FF>VULNERABLE</color>.
+ID_DIALOG_NUE_ISO8_MODULE_01_03_0,"A complete success! It's up to you to decide how to apply <color=#fff568>Iso-8</color> to your <color=#fff568>roster</color> from here on out. "
+ID_DIALOG_NUE_ISO8_MODULE_01_03A_0,Here's an <color=#fff568>Iso-8 Crystal</color> to get you started.
+ID_DIALOG_NUE_ISO8_MODULE_01_03B_0,You'll also need some <color=#fff568>Ions</color> to apply <color=#fff568>Iso-8</color> to your crew.
+ID_DIALOG_NUE_ISO8_MODULE_01_04_0,<color=#fff568>ISO-8</color> CAN BE <color=#fff568>EQUIPPED</color> TO CHARACTERS FROM THE <color=#fff568>ROSTER</color>.
+ID_DIALOG_NUE_ISO8_MODULE_02_01_0,"Are you ready to apply that <color=#fff568>Iso-8</color>?! Let's do some science! "
+ID_DIALOG_NUE_ISO8_MODULE_02_02_0,"Ah, a humble S.H.I.E.L.D. Medic. The perfect subject to experiment on, consequence free."
+ID_DIALOG_NUE_ISO8_MODULE_02_02_1,Excuse me?! Did Director Fury authorize this?
+ID_DIALOG_NUE_ISO8_MODULE_02_02_2,He didn't explicitly NOT authorize it!
+ID_DIALOG_NUE_ISO8_MODULE_02_02_3,"Enter my most amazing invention to date, the <color=#fff568>Iso-8 Matrix</color>!"
+ID_DIALOG_NUE_ISO8_MODULE_02_03_0,"You can <color=#fff568>place Iso-8 Crystals</color> into the <color=#fff568>Matrix</color> to power up your recruits. "
+ID_DIALOG_NUE_ISO8_MODULE_02_03_1,"First, let's give an <color=#fff568>Iso-8 Crystal</color> to this ""volunteer."" "
+ID_DIALOG_NUE_ISO8_MODULE_02_03A_0,THE <color=#fff568>LOWEST TIER CRYSTALS</color> ARE SELECTED BY <color=#fff568>DEFAULT</color>.
+ID_DIALOG_NUE_ISO8_MODULE_02_04_0,"One Iso-8 Crystal down, four to go!"
+ID_DIALOG_NUE_ISO8_MODULE_02_04_1,"Once the Matrix is full of crystals, you unlock the true power of Iso-8 - <color=#fff568>CLASSES</color>!"
+ID_DIALOG_NUE_ISO8_MODULE_02_04_2,"We've got more to do, so I'll equip all the remaining open slots of the Matrix for you."
+ID_DIALOG_NUE_ISO8_MODULE_02_05_0,Now for my favorite part! Picking a <color=#fff568>CLASS</color>!
+ID_DIALOG_NUE_ISO8_MODULE_02_06_0,Every S.T.R.I.K.E. team member gets their own personal <color=#fff568>Prism</color> that you can upgrade and enhance!
+ID_DIALOG_NUE_ISO8_MODULE_02_06_1,Each <color=#fff568>CLASS</color> will power up this S.H.I.E.L.D. Medic in a unique way.
+ID_DIALOG_NUE_ISO8_MODULE_02_06_2,A CHARACTER CAN HAVE <color=#fff568>ONE CLASS ACTIVE</color> AT A TIME. CLASSES CAN ALWAYS BE CHANGED.
+ID_DIALOG_NUE_ISO8_MODULE_02_06A_0,"FOR THE S.H.I.E.L.D. MEDIC, <color=#fff568>SELECT</color> THE <color=#fff568>HEALER CLASS</color>."
+ID_DIALOG_NUE_ISO8_MODULE_02_07_0,"Look at all the <color=#fff568>bonuses</color> the S.H.I.E.L.D. Medic can get with this <color=#fff568>CLASS</color>! Truly glorious. "
+ID_DIALOG_NUE_ISO8_MODULE_02_07_1,Now let's apply the <color=#fff568>CLASS</color>.
+ID_DIALOG_NUE_ISO8_MODULE_02_07_2,"GOGGLES ON, PEOPLE!!"
+ID_DIALOG_NUE_ISO8_MODULE_02_08_0,Fantastic! The S.H.I.E.L.D. Medic is even better at healing now that this <color=#fff568>CLASS</color> has been applied!
+ID_DIALOG_NUE_ISO8_MODULE_02_08_1,"That was surprisingly pleasant. "
+ID_DIALOG_NUE_ISO8_MODULE_02_08_2,COLLECT AND <color=#fff568>EQUIP HIGHER LEVEL ISO-8 CRYSTALS</color> TO UNLOCK ADDITIONAL CLASS LEVELS.
+ID_DIALOG_NUE_ISO8_MODULE_02_08_3,"Don't worry - if you want to change the S.H.I.E.L.D. Medic's Class, you can! Thank me later."
+ID_DIALOG_NUE_ISO8_MODULE_02_08_4,YOUR <color=#fff568>CLASS SELECTION CAN ALWAYS BE CHANGED</color>. EXPERIMENT WITH A COMBINATION THAT WORKS BEST FOR YOU.
+ID_DIALOG_NUE_ISO8_MODULE_03_01_0,"Sound the Mad Science alarm, you've collected enough Iso-8 Crystals to <color=#fff568>FUSE</color> some of them together!"
+ID_DIALOG_NUE_ISO8_MODULE_03_02_0,Any time you <color=#fff568>collect three Iso-8 Crystals</color> of the same quality level...
+ID_DIALOG_NUE_ISO8_MODULE_03_03_0,...you can <color=#fff568>FUSE</color> them to get a Crystal of higher quality.
+ID_DIALOG_NUE_ISO8_MODULE_03_04_0,Make sure you have a supply of <color=#fff568>IONS</color> ready when you want to <color=#fff568>FUSE</color>.
+ID_DIALOG_NUE_ISO8_MODULE_03_05_0,<color=#fff568>WHEN YOU ARE READY</color> YOU CAN FUSE THESE PIECES TOGETHER BY PRESSING THE FUSE BUTTON.
+ID_DIALOG_NUE_ISO8_MODULE_03_06_0,Equip enough of my incredible Level 2 Iso-8 Crystals to unlock the Level 2 Abilities of a character's Prism!

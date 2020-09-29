@@ -126,6 +126,13 @@ ID_AR_MB_AMERICACHAVEZ,"<color=#fff568>Star Power Blitz</color>\nFace off agains
 ID_AR_ES_AMERICACHAVEZ,ENDED: Star Power Blitz
 ID_AR_EB_AMERICACHAVEZ,The Star Power Blitz has ended; visit <color=#fff568>BLITZ</color> to collect your rewards.
 ID_AR_NA_AMERICACHAVEZ_CARD,Star Power
+ID_AR_NA_ANTIVENOM,Lethal Dose
+ID_AR_SM_ANTIVENOM,Win Anti-Venom Shards!
+ID_AR_LM_ANTIVENOM,Face off against other players' teams to earn various milestone rewards and a chance to win Anti-Venom shards!
+ID_AR_MT_ANTIVENOM,LIVE: Lethal Dose Blitz
+ID_AR_MS_ANTIVENOM,Your chance to win Anti-Venom shards!
+ID_AR_MB_ANTIVENOM,"<color=#fff568>Lethal Dose Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Anti-Venom shards!\n\n<color=#fff568>Lethal Dose Orb</color>\nFor a limited time, a new Lethal Dose Orb is available in the Store. The orb contains <color=#fff568>only Anti-Venom shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit Anti-Venom now!"
+ID_AR_NA_ANTIVENOM_CARD,Lethal Dose
 ID_AR_NA_ANTMAN,Pym Particles
 ID_AR_SM_ANTMAN,Win Ant-Man Shards!
 ID_AR_LM_ANTMAN,Face off against other players' teams to earn various milestone rewards and a chance to win ANT-MAN shards!
@@ -772,6 +779,20 @@ ID_AR_MT_SCIENTISTSUPREME,LIVE: Experimental Blitz
 ID_AR_MS_SCIENTISTSUPREME,Your chance to win Scientist Supreme shards!
 ID_AR_MB_SCIENTISTSUPREME,"<color=#fff568>Experimental Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Scientist Supreme shards!\n\n<color=#fff568>Experimental Orb</color>\nFor a limited time, a new Experimental Orb is available in the Store. The orb contains <color=#fff568>only Scientist Supreme shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit Scientist Supreme now!"
 ID_AR_NA_SCIENTISTSUPREME_CARD,Experimental
+ID_AR_NA_SCREAM,Locks of Terror
+ID_AR_SM_SCREAM,Win Scream Shards!
+ID_AR_LM_SCREAM,Face off against other players' teams to earn various milestone rewards and a chance to win Scream shards!
+ID_AR_MT_SCREAM,LIVE: Locks of Terror Blitz
+ID_AR_MS_SCREAM,Your chance to win Scream shards!
+ID_AR_MB_SCREAM,"<color=#fff568>Locks of Terror Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Scream shards!\n\n<color=#fff568>Locks of Terror Orb</color>\nFor a limited time, a new Locks of Terror Orb is available in the Store. The orb contains <color=#fff568>only Scream shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit Scream now!"
+ID_AR_NA_SCREAM_CARD,Locks of Terror
+ID_AR_NA_SHEHULK,Emerald Liberator
+ID_AR_SM_SHEHULK,Win She-Hulk Shards!
+ID_AR_LM_SHEHULK,Face off against other players' teams to earn various milestone rewards and a chance to win She-Hulk shards!
+ID_AR_MT_SHEHULK,LIVE: Emerald Liberator Blitz
+ID_AR_MS_SHEHULK,Your chance to win She-Hulk shards!
+ID_AR_MB_SHEHULK,"<color=#fff568>Emerald Liberator Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win She-Hulk shards!\n\n<color=#fff568>Emerald Liberator Orb</color>\nFor a limited time, a new Emerald Liberator Orb is available in the Store. The orb contains <color=#fff568>only She-Hulk shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit She-Hulk now!"
+ID_AR_NA_SHEHULK_CARD,Emerald Liberator
 ID_AR_NA_SHIELDDMG_AOE,Air Support
 ID_AR_SM_SHIELDDMG_AOE,Win S.H.I.E.L.D. Assault Shards!
 ID_AR_LM_SHIELDDMG_AOE,Face off against other players' teams to earn various milestone rewards and a chance to win S.H.I.E.L.D. Assault shards!

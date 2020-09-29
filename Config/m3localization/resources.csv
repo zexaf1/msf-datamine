@@ -1,5 +1,6 @@
 id,translation
 ID_RES_CAMPAIGN_PLAYER_ENERGY,Campaign Energy
+ID_RES_CAMPAIGN_PLAYER_ENERGY_ISO8,Iso-8 Campaign Energy
 ID_RES_AVA_ATTACK_ENERGY,War Energy
 ID_RES_AVE_ATTACK_ENERGY,Raid Energy
 ID_RES_AVE_ATTACK_ENERGY_EVENT01,Alpha Raid Energy
@@ -34,13 +35,13 @@ ID_AVE_KEY_EVENT03_NAME,Champions' Raid Key
 ID_AVE_KEY_EVENT03_DESCRIPTION,Collect keys to launch raids and earn ability materials. Each Campaign Energy you spend earns you one key.
 ID_RES_CAMPAIGN_ENERGY_EVENT01,Unbeatable Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT02,One of Many Energy
-ID_RES_CAMPAIGN_ENERGY_EVENT03,Serendipity Energy
+ID_RES_CAMPAIGN_ENERGY_EVENT03,Parasitic Intentions Energy
 ID_CAMPAIGN_ENERGY_EVENT01_NAME,Unbeatable Energy
 ID_CAMPAIGN_ENERGY_EVENT01_DESCRIPTION,Used to launch Unbeatable Education missions.
 ID_CAMPAIGN_ENERGY_EVENT02_NAME,One of Many Energy
 ID_CAMPAIGN_ENERGY_EVENT02_DESCRIPTION,Used to launch One of Many missions.
-ID_CAMPAIGN_ENERGY_EVENT03_NAME,Serendipity Energy
-ID_CAMPAIGN_ENERGY_EVENT03_DESCRIPTION,Used to launch Serendipity missions.
+ID_CAMPAIGN_ENERGY_EVENT03_NAME,Parasitic Intentions Energy
+ID_CAMPAIGN_ENERGY_EVENT03_DESCRIPTION,Used to launch Parasitic Intentions missions.
 ID_HC_NAME,Power Cores
 ID_HC_DESCRIPTION,"Use Power Cores to purchase Orbs, Energy Refills, Health Packs, Supplies, and Blitz Charges."
 ID_AVA-CUR_NAME,War Credits
@@ -63,6 +64,8 @@ ID_XP_NAME,Commander XP
 ID_XP_DESCRIPTION,Commander XP is used to increase your Commander Level.
 ID_ENERGY-CAMPAIGN-CUR_NAME,Campaign Energy Refill
 ID_ENERGY-CAMPAIGN-CUR_DESCRIPTION,"Campaign Energy Refill is used to refresh your Campaign Energy. If you do not have enough Campaign Energy Refills, you can use Power Cores to recharge your Campaign Energy."
+ID_ENERGY-CAMPAIGN-ISO8-CUR_NAME,Iso-8 Campaign Energy Refill
+ID_ENERGY-CAMPAIGN-ISO8-CUR_DESCRIPTION,"Iso-8 Campaign Energy Refill is used to refresh your Iso-8 Campaign Energy. If you do not have enough Iso-8 Campaign Energy Refills, you can use Power Cores to recharge your Iso-8 Campaign Energy."
 ID_ENERGY-WAR-CUR_NAME,War Energy Refill
 ID_ENERGY-WAR-CUR_DESCRIPTION,"War Energy Refill is used to refresh your War Energy. If you do not have enough War Energy Refills, you can use Power Cores to recharge your War Energy."
 ID_ENERGY-RAID-CUR_NAME,Raid Energy Refill

@@ -9,6 +9,8 @@ ID_MOTD_NA_RAID,You've unlocked Alliance Raids!
 ID_MOTD_DE_RAID,Participate in raids to earn rare Ability Materials
 ID_MOTD_NA_REDSTAR,Red Star Promotions
 ID_MOTD_DE_REDSTAR,Transform your roster into an elite squad with Red Star Promotions!
+ID_MOTD_NA_ISO8,You've unlocked Iso-8!
+ID_MOTD_DE_ISO8,Customize your characters like never before!
 ID_DR_MOTD_NA_WOLVERINE,Daily Objectives: Wolverine!
 ID_DR_MOTD_DE_WOLVERINE,Earn Wolverine shards by completing your Daily Objectives every day!
 ID_MOTD_NA_CROSSBONES,Recruit Crossbones!
@@ -18,7 +20,7 @@ ID_MOTD_DE_ACHIEVEMENTS_ADDITION,Earn more rewards by leveling up and growing yo
 ID_MOTD_NA_CHALLENGES_TIER_UPDATE,New Challenge Tiers have Arrived!
 ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to earn more rewards
 ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
-ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 12PM (PDT) (9/29).
+ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 11AM (PDT) (04/25).
 ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
 ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
 ID_MOTD_NA_DARKDIMENSION,Dark Dimension
@@ -198,6 +200,10 @@ ID_MOTD_NA_WARMACHINE_LIVE,LIMITED: Prelude to War
 ID_MOTD_DE_WARMACHINE_LIVE,"Earn War Machine,  S.H.I.E.L.D., and Avenger shards!"
 ID_MOTD_NA_WASP_ECINTRO,LIMITED: Sting of the Wasp
 ID_MOTD_DE_WASP_ECINTRO,Play the event to earn Wasp shards!
+ID_MOTD_NA_SCREAM_PREVIEW,Coming Soon: Scream
+ID_MOTD_DE_SCREAM_PREVIEW,This punishing parasite is on her way!
+ID_MOTD_NA_SCREAM_LIVE,LIVE: Parasitic Intentions
+ID_MOTD_DE_SCREAM_LIVE,Battle to win Scream shards!
 ID_MOTD_NA_ANTMAN_WASP_TEAMUP_LIVE,LIVE: Back to Tiny World
 ID_MOTD_DE_ANTMAN_WASP_TEAMUP_LIVE,Join Ant-Man and Wasp on their adventure to tiny Earth!
 ID_MOTD_NA_ANTMAN_WASP_TEAMUP_PREVIEW,Upcoming: Back to Tiny World
@@ -330,6 +336,8 @@ ID_MOTD_NA_AMERICACHAVEZ,Star Power: Now Live!
 ID_MOTD_DE_AMERICACHAVEZ,Battle for a chance to win America Chavez shards
 ID_MOTD_NA_AMERICACHAVEZ_PREHYPE,America Chavez
 ID_MOTD_DE_AMERICACHAVEZ_PREHYPE,The All-Star Brawler is coming soon!
+ID_MOTD_NA_ANTIVENOM,Lethal Dose: Now Live!
+ID_MOTD_DE_ANTIVENOM,Battle for a chance to win Anti-Venom shards
 ID_MOTD_NA_ANTMAN,Pym Particles: Now Live!
 ID_MOTD_DE_ANTMAN,Battle for a chance to win ANT-MAN shards
 ID_MOTD_NA_BARONMORDO,Dark Arts: Now Live!
@@ -505,6 +513,10 @@ ID_MOTD_NA_SCARLETWITCH,Mistress of Magic: Now Live!
 ID_MOTD_DE_SCARLETWITCH,Battle for a chance to win SCARLET WITCH shards
 ID_MOTD_NA_SCIENTISTSUPREME,Experimental: Now Live!
 ID_MOTD_DE_SCIENTISTSUPREME,Battle for a chance to win Scientist Supreme shards
+ID_MOTD_NA_SCREAM,Locks of Terror: Now Live!
+ID_MOTD_DE_SCREAM,Battle for a chance to win Scream shards
+ID_MOTD_NA_SHEHULK,Emerald Liberator: Now Live!
+ID_MOTD_DE_SHEHULK,Battle for a chance to win She-Hulk shards
 ID_MOTD_NA_SHIELDDMG_AOE,Air Support: Now Live!
 ID_MOTD_DE_SHIELDDMG_AOE,Battle for a chance to win S.H.I.E.L.D. Assault shards
 ID_MOTD_NA_SHIELDDMG_DEFENSE,Cover Fire: Now Live!
@@ -587,3 +599,11 @@ ID_MOTD_NA_SINISTERASSEMBLY,LIVE: Sinister Assembly!
 ID_MOTD_DE_SINISTERASSEMBLY,Acquire Sinister Credits to open Assembly Orbs and earn tons of gear!
 ID_MOTD_NA_SINISTERASSEMBLY_SALE,Sinister Assembly Sale
 ID_MOTD_DE_SINISTERASSEMBLY_SALE,Grab daily character deals and special offers!
+ID_MOTD_NA_SHEHULK_PREHYPE,Coming Soon: She-Hulk
+ID_MOTD_DE_SHEHULK_PREHYPE,The Jade Giantess is on the way!
+ID_MOTD_NA_ISO8_ANNOUNCE,Now Live: Iso-8
+ID_MOTD_DE_ISO8_ANNOUNCE,Customize and power up your characters like never before!
+ID_MOTD_NA_FULLMATRIX_PREHYPE,Coming Soon!
+ID_MOTD_DE_FULLMATRIX_PREHYPE,The Full Matrix event is coming soon!
+ID_MOTD_NA_FULLMATRIX,LIVE: Full Matrix
+ID_MOTD_DE_FULLMATRIX,Use Bio characters to fight in battles and earn Iso-8 Crystals!
