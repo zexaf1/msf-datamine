@@ -20,6 +20,9 @@
   "AmericaChavez": {
     "basekey": "AmericaChavez"
   },
+  "AntiVenom": {
+    "basekey": "AntiVenom"
+  },
   "AntMan": {
     "basekey": "AntMan"
   },
@@ -442,6 +445,12 @@
   },
   "ScientistSupreme": {
     "basekey": "ScientistSupreme"
+  },
+  "Scream": {
+    "basekey": "Scream"
+  },
+  "SheHulk": {
+    "basekey": "SheHulk"
   },
   "ShieldDmg_AoE": {
     "basekey": "ShieldDmgAoE"

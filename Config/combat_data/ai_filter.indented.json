@@ -140,6 +140,15 @@
           "type": "only_if_health"
         }
       ]
+    },
+    "needs_3_doombots": {
+      "entries": [
+        {
+          "count": 4,
+          "type": "only_if_has_ally_count",
+          "character": "DoomBot"
+        }
+      ]
     }
   },
   "Name": "ai_filter"

@@ -35,6 +35,12 @@
     "GearTier": 5,
     "UnlockedByDefault": false
   },
+  "AntiVenom": {
+    "Type": "USER",
+    "HeroID": "AntiVenom",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
   "AntMan": {
     "Type": "USER",
     "HeroID": "AntMan",
@@ -608,6 +614,18 @@
   "ScientistSupreme": {
     "Type": "USER",
     "HeroID": "ScientistSupreme",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Scream": {
+    "Type": "USER",
+    "HeroID": "Scream",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "SheHulk": {
+    "Type": "USER",
+    "HeroID": "SheHulk",
     "GearTier": 5,
     "UnlockedByDefault": false
   },

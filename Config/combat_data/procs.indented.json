@@ -130,7 +130,8 @@
           "delta": -50,
           "stat": "resistance_pct"
         }
-      ]
+      ],
+      "weak": "MinorDefenseDown"
     },
     "DefenseUp": {
       "category": "buff",
@@ -266,7 +267,19 @@
       "heal_pct": 10,
       "opposite": "DoT",
       "stacking": true,
-      "type": "hot"
+      "type": "hot",
+      "weak": "MinorHoT"
+    },
+    "ISODoT": {
+      "category": "debuff",
+      "dot_damage_pct": [
+        75
+      ],
+      "expiration_type": "start_of_turn",
+      "opposite": "MinorHoT",
+      "stacking": true,
+      "strong": "DoT",
+      "type": "dot"
     },
     "InvisibleNonBinary": {
       "category": "none",
@@ -292,6 +305,91 @@
       "expiration_type": "start_of_turn",
       "persist": false
     },
+    "Marked": {
+      "category": "none",
+      "expiration_type": "on_never_expire",
+      "persist": false,
+      "remove_on_death": true,
+      "stat_modifier": [
+        {
+          "delta": -10,
+          "stat": "damage_reduction_pct"
+        }
+      ],
+      "type": "only"
+    },
+    "MinorDefenseDown": {
+      "category": "debuff",
+      "expiration_type": "end_of_turn",
+      "opposite": "DefenseUp",
+      "stat_modifier": [
+        {
+          "delta": -25,
+          "stat": "damage_reduction_pct"
+        },
+        {
+          "delta": -25,
+          "stat": "resistance_pct"
+        }
+      ],
+      "strong": "DefenseDown"
+    },
+    "MinorDefenseUp": {
+      "category": "buff",
+      "expiration_type": "end_of_turn",
+      "opposite": "DefenseDown",
+      "stat_modifier": [
+        {
+          "delta": 25,
+          "stat": "damage_reduction_pct"
+        },
+        {
+          "delta": 25,
+          "stat": "resistance_pct"
+        }
+      ]
+    },
+    "MinorHoT": {
+      "category": "buff",
+      "expiration_type": "start_of_turn",
+      "heal_pct": 5,
+      "opposite": "ISODoT",
+      "stacking": true,
+      "strong": "HoT",
+      "type": "hot"
+    },
+    "MinorOffenseDown": {
+      "category": "debuff",
+      "expiration_type": "end_of_turn",
+      "opposite": "OffenseUp",
+      "stat_modifier": [
+        {
+          "delta": -25,
+          "stat": "damage_pct"
+        },
+        {
+          "delta": -25,
+          "stat": "focus_pct"
+        }
+      ],
+      "strong": "OffenseDown"
+    },
+    "MinorOffenseUp": {
+      "category": "buff",
+      "expiration_type": "end_of_turn",
+      "opposite": "OffenseDown",
+      "stat_modifier": [
+        {
+          "delta": 25,
+          "stat": "damage_pct"
+        },
+        {
+          "delta": 25,
+          "stat": "focus_pct"
+        }
+      ],
+      "strong": "OffenseUp"
+    },
     "OffenseDown": {
       "category": "debuff",
       "expiration_type": "end_of_turn",
@@ -305,7 +403,8 @@
           "delta": -50,
           "stat": "focus_pct"
         }
-      ]
+      ],
+      "weak": "MinorOffenseDown"
     },
     "OffenseUp": {
       "category": "buff",
@@ -320,7 +419,8 @@
           "delta": 50,
           "stat": "focus_pct"
         }
-      ]
+      ],
+      "weak": "MinorOffenseUp"
     },
     "ProximaStone": {
       "category": "none",

@@ -179,5 +179,6 @@
   "PowerApproxModArmor": 0.2,
   "PowerApproxModFocus": 0.175,
   "PowerApproxModResistance": 0.175,
-  "MaxItemCountInStore": 9999
+  "MaxItemCountInStore": 9999,
+  "IsoAbilityTooltipHeaderString": "{0} <color=yellow>{1}</color>"
 }

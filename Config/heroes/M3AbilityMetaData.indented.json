@@ -197,6 +197,40 @@
       "iconOverride": ""
     }
   ],
+  "AntiVenom": [
+    {
+      "heroID": "AntiVenom",
+      "abilityID": "Basic",
+      "progressionID": 1,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "AntiVenom",
+      "abilityID": "Special",
+      "progressionID": 2,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "AntiVenom",
+      "abilityID": "Ultimate",
+      "progressionID": 3,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "AntiVenom",
+      "abilityID": "Passive",
+      "progressionID": 4,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    }
+  ],
   "BaronMordo": [
     {
       "heroID": "BaronMordo",
@@ -1008,16 +1042,6 @@
       "heroID": "Domino",
       "abilityID": "Passive",
       "progressionID": 4,
-      "startingEnergy": 0,
-      "abilityAITemplate": "Default",
-      "iconOverride": ""
-    }
-  ],
-  "DoomBot": [
-    {
-      "heroID": "DoomBot",
-      "abilityID": "Basic",
-      "progressionID": 1,
       "startingEnergy": 0,
       "abilityAITemplate": "Default",
       "iconOverride": ""
@@ -3904,6 +3928,74 @@
     },
     {
       "heroID": "ScientistSupreme",
+      "abilityID": "Passive",
+      "progressionID": 4,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    }
+  ],
+  "Scream": [
+    {
+      "heroID": "Scream",
+      "abilityID": "Basic",
+      "progressionID": 1,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "Scream",
+      "abilityID": "Special",
+      "progressionID": 2,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "Scream",
+      "abilityID": "Ultimate",
+      "progressionID": 3,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "Scream",
+      "abilityID": "Passive",
+      "progressionID": 4,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    }
+  ],
+  "SheHulk": [
+    {
+      "heroID": "SheHulk",
+      "abilityID": "Basic",
+      "progressionID": 1,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "SheHulk",
+      "abilityID": "Special",
+      "progressionID": 2,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "SheHulk",
+      "abilityID": "Ultimate",
+      "progressionID": 3,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "SheHulk",
       "abilityID": "Passive",
       "progressionID": 4,
       "startingEnergy": 0,

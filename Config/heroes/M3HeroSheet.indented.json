@@ -65,6 +65,17 @@
     "hero_Size": "medium",
     "blacklist_mode": 0
   },
+  "AntiVenom": {
+    "id": "AntiVenom",
+    "basekey": "AntiVenom",
+    "unlock_StarLevel": 3,
+    "hero_stat_template_id": "AntiVenom",
+    "hero_gear_tier_data_id": "AntiVenom",
+    "picture": "Portrait_AntiVenom",
+    "player_Character": true,
+    "hero_Size": "Medium",
+    "blacklist_mode": 0
+  },
   "AntMan": {
     "id": "AntMan",
     "basekey": "AntMan",
@@ -530,7 +541,7 @@
   "Hawkeye": {
     "id": "Hawkeye",
     "basekey": "Hawkeye",
-    "unlock_StarLevel": 2,
+    "unlock_StarLevel": 1,
     "hero_stat_template_id": "Hawkeye",
     "hero_gear_tier_data_id": "Hawkeye",
     "picture": "Portrait_Hawkeye",
@@ -981,7 +992,7 @@
   "Mysterio": {
     "id": "Mysterio",
     "basekey": "Mysterio",
-    "unlock_StarLevel": 3,
+    "unlock_StarLevel": 2,
     "hero_stat_template_id": "Mysterio",
     "hero_gear_tier_data_id": "Mysterio",
     "picture": "Portrait_Mysterio",
@@ -1359,6 +1370,28 @@
     "hero_stat_template_id": "ScientistSupreme",
     "hero_gear_tier_data_id": "ScientistSupreme",
     "picture": "Portrait_ScientistSupreme",
+    "player_Character": true,
+    "hero_Size": "Medium",
+    "blacklist_mode": 0
+  },
+  "Scream": {
+    "id": "Scream",
+    "basekey": "Scream",
+    "unlock_StarLevel": 2,
+    "hero_stat_template_id": "Scream",
+    "hero_gear_tier_data_id": "Scream",
+    "picture": "Portrait_Scream",
+    "player_Character": true,
+    "hero_Size": "Medium",
+    "blacklist_mode": 0
+  },
+  "SheHulk": {
+    "id": "SheHulk",
+    "basekey": "SheHulk",
+    "unlock_StarLevel": 3,
+    "hero_stat_template_id": "SheHulk",
+    "hero_gear_tier_data_id": "SheHulk",
+    "picture": "Portrait_SheHulk",
     "player_Character": true,
     "hero_Size": "Medium",
     "blacklist_mode": 0
