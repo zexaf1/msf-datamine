@@ -1,0 +1,806 @@
+{
+  "AimControl_Infect": {
+    "Type": "USER",
+    "HeroID": "AimControl_Infect",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "AimDmg_Offense": {
+    "Type": "USER",
+    "HeroID": "AimDmg_Offense",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "AimDmg_Speed": {
+    "Type": "USER",
+    "HeroID": "AimDmg_Speed",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "AimSupport_Heal": {
+    "Type": "USER",
+    "HeroID": "AimSupport_Heal",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "AimTank_Taunt": {
+    "Type": "USER",
+    "HeroID": "AimTank_Taunt",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "AmericaChavez": {
+    "Type": "USER",
+    "HeroID": "AmericaChavez",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "AntMan": {
+    "Type": "USER",
+    "HeroID": "AntMan",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "BaronMordo": {
+    "Type": "USER",
+    "HeroID": "BaronMordo",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Beast": {
+    "Type": "USER",
+    "HeroID": "Beast",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "BlackPanther": {
+    "Type": "USER",
+    "HeroID": "BlackPanther",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "BlackWidow": {
+    "Type": "USER",
+    "HeroID": "BlackWidow",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Blob": {
+    "Type": "USER",
+    "HeroID": "Blob",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Bullseye": {
+    "Type": "USER",
+    "HeroID": "Bullseye",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Cable": {
+    "Type": "USER",
+    "HeroID": "Cable",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "CaptainAmerica": {
+    "Type": "USER",
+    "HeroID": "CaptainAmerica",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "CaptainMarvel": {
+    "Type": "USER",
+    "HeroID": "CaptainMarvel",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Carnage": {
+    "Type": "USER",
+    "HeroID": "Carnage",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Colossus": {
+    "Type": "USER",
+    "HeroID": "Colossus",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "CorvusGlaive": {
+    "Type": "USER",
+    "HeroID": "CorvusGlaive",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Crossbones": {
+    "Type": "USER",
+    "HeroID": "Crossbones",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Crystal": {
+    "Type": "USER",
+    "HeroID": "Crystal",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "CullObsidian": {
+    "Type": "USER",
+    "HeroID": "CullObsidian",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Cyclops": {
+    "Type": "USER",
+    "HeroID": "Cyclops",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Daredevil": {
+    "Type": "USER",
+    "HeroID": "Daredevil",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Deadpool": {
+    "Type": "USER",
+    "HeroID": "Deadpool",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "DoctorOctopus": {
+    "Type": "USER",
+    "HeroID": "DoctorOctopus",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "DoctorStrange": {
+    "Type": "USER",
+    "HeroID": "DoctorStrange",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Domino": {
+    "Type": "USER",
+    "HeroID": "Domino",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Drax": {
+    "Type": "USER",
+    "HeroID": "Drax",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "EbonyMaw": {
+    "Type": "USER",
+    "HeroID": "EbonyMaw",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Electro": {
+    "Type": "USER",
+    "HeroID": "Electro",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Elektra": {
+    "Type": "USER",
+    "HeroID": "Elektra",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "ElsaBloodstone": {
+    "Type": "USER",
+    "HeroID": "ElsaBloodstone",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "EmmaFrost": {
+    "Type": "USER",
+    "HeroID": "EmmaFrost",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Falcon": {
+    "Type": "USER",
+    "HeroID": "Falcon",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Gamora": {
+    "Type": "USER",
+    "HeroID": "Gamora",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "GhostRider": {
+    "Type": "USER",
+    "HeroID": "GhostRider",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Groot": {
+    "Type": "USER",
+    "HeroID": "Groot",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "HandControl_HealBlock": {
+    "Type": "USER",
+    "HeroID": "HandControl_HealBlock",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "HandDmg_Bonus": {
+    "Type": "USER",
+    "HeroID": "HandDmg_Bonus",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "HandDmg_Unbuff": {
+    "Type": "USER",
+    "HeroID": "HandDmg_Unbuff",
+    "GearTier": 0,
+    "UnlockedByDefault": true
+  },
+  "HandSupport_Heal": {
+    "Type": "USER",
+    "HeroID": "HandSupport_Heal",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "HandTank_Stealth": {
+    "Type": "USER",
+    "HeroID": "HandTank_Stealth",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Hawkeye": {
+    "Type": "USER",
+    "HeroID": "Hawkeye",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Hela": {
+    "Type": "USER",
+    "HeroID": "Hela",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Hulk": {
+    "Type": "USER",
+    "HeroID": "Hulk",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "HydraDmg_AoE": {
+    "Type": "USER",
+    "HeroID": "HydraDmg_AoE",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "HydraDmg_Buff": {
+    "Type": "USER",
+    "HeroID": "HydraDmg_Buff",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "HydraDmg_Single": {
+    "Type": "USER",
+    "HeroID": "HydraDmg_Single",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "HydraSupport_Heal": {
+    "Type": "USER",
+    "HeroID": "HydraSupport_Heal",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "HydraTank_Taunt": {
+    "Type": "USER",
+    "HeroID": "HydraTank_Taunt",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "IronFist": {
+    "Type": "USER",
+    "HeroID": "IronFist",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Ironheart": {
+    "Type": "USER",
+    "HeroID": "Ironheart",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "IronMan": {
+    "Type": "USER",
+    "HeroID": "IronMan",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "JessicaJones": {
+    "Type": "USER",
+    "HeroID": "JessicaJones",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Juggernaut": {
+    "Type": "USER",
+    "HeroID": "Juggernaut",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Karnak": {
+    "Type": "USER",
+    "HeroID": "Karnak",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Killmonger": {
+    "Type": "USER",
+    "HeroID": "Killmonger",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Kingpin": {
+    "Type": "USER",
+    "HeroID": "Kingpin",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Korath": {
+    "Type": "USER",
+    "HeroID": "Korath",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "KreeControl_Assist": {
+    "Type": "USER",
+    "HeroID": "KreeControl_Assist",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "KreeDmg_Offense": {
+    "Type": "USER",
+    "HeroID": "KreeDmg_Offense",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "KreeDmg_Speed": {
+    "Type": "USER",
+    "HeroID": "KreeDmg_Speed",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "KreeSupport_HoT": {
+    "Type": "USER",
+    "HeroID": "KreeSupport_HoT",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "KreeTank_Counter": {
+    "Type": "USER",
+    "HeroID": "KreeTank_Counter",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Loki": {
+    "Type": "USER",
+    "HeroID": "Loki",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "LukeCage": {
+    "Type": "USER",
+    "HeroID": "LukeCage",
+    "GearTier": 0,
+    "UnlockedByDefault": true
+  },
+  "Magneto": {
+    "Type": "USER",
+    "HeroID": "Magneto",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Mantis": {
+    "Type": "USER",
+    "HeroID": "Mantis",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "MBaku": {
+    "Type": "USER",
+    "HeroID": "MBaku",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "MercDmg_General": {
+    "Type": "USER",
+    "HeroID": "MercDmg_General",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "MercDmg_Single": {
+    "Type": "USER",
+    "HeroID": "MercDmg_Single",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "MercSupport_Buffs": {
+    "Type": "USER",
+    "HeroID": "MercSupport_Buffs",
+    "GearTier": 0,
+    "UnlockedByDefault": true
+  },
+  "MercTank_Debuff": {
+    "Type": "USER",
+    "HeroID": "MercTank_Debuff",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Minerva": {
+    "Type": "USER",
+    "HeroID": "Minerva",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "MrSinister": {
+    "Type": "USER",
+    "HeroID": "MrSinister",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "MsMarvel": {
+    "Type": "USER",
+    "HeroID": "MsMarvel",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Mysterio": {
+    "Type": "USER",
+    "HeroID": "Mysterio",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Mystique": {
+    "Type": "USER",
+    "HeroID": "Mystique",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Nebula": {
+    "Type": "USER",
+    "HeroID": "Nebula",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Negasonic": {
+    "Type": "USER",
+    "HeroID": "Negasonic",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "NickFury": {
+    "Type": "USER",
+    "HeroID": "NickFury",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "NightNurse": {
+    "Type": "USER",
+    "HeroID": "NightNurse",
+    "GearTier": 0,
+    "UnlockedByDefault": true
+  },
+  "Nobu": {
+    "Type": "USER",
+    "HeroID": "Nobu",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Okoye": {
+    "Type": "USER",
+    "HeroID": "Okoye",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Phoenix": {
+    "Type": "USER",
+    "HeroID": "Phoenix",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "ProximaMidnight": {
+    "Type": "USER",
+    "HeroID": "ProximaMidnight",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Psylocke": {
+    "Type": "USER",
+    "HeroID": "Psylocke",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Punisher": {
+    "Type": "USER",
+    "HeroID": "Punisher",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Pyro": {
+    "Type": "USER",
+    "HeroID": "Pyro",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Quake": {
+    "Type": "USER",
+    "HeroID": "Quake",
+    "GearTier": 0,
+    "UnlockedByDefault": true
+  },
+  "RavagerDmg_AoE": {
+    "Type": "USER",
+    "HeroID": "RavagerDmg_AoE",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "RavagerSupport_Heal": {
+    "Type": "USER",
+    "HeroID": "RavagerSupport_Heal",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "RavagerTank_Taunt": {
+    "Type": "USER",
+    "HeroID": "RavagerTank_Taunt",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "RedSkull": {
+    "Type": "USER",
+    "HeroID": "RedSkull",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Rescue": {
+    "Type": "USER",
+    "HeroID": "Rescue",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Rhino": {
+    "Type": "USER",
+    "HeroID": "Rhino",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "RocketRaccoon": {
+    "Type": "USER",
+    "HeroID": "RocketRaccoon",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Ronan": {
+    "Type": "USER",
+    "HeroID": "Ronan",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Sabretooth": {
+    "Type": "USER",
+    "HeroID": "Sabretooth",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "ScarletWitch": {
+    "Type": "USER",
+    "HeroID": "ScarletWitch",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "ScientistSupreme": {
+    "Type": "USER",
+    "HeroID": "ScientistSupreme",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "ShieldDmg_AoE": {
+    "Type": "USER",
+    "HeroID": "ShieldDmg_AoE",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "ShieldDmg_Defense": {
+    "Type": "USER",
+    "HeroID": "ShieldDmg_Defense",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "ShieldSupport_Heal": {
+    "Type": "USER",
+    "HeroID": "ShieldSupport_Heal",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "ShieldSupport_Stealth": {
+    "Type": "USER",
+    "HeroID": "ShieldSupport_Stealth",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "ShieldTank_Stun": {
+    "Type": "USER",
+    "HeroID": "ShieldTank_Stun",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Shocker": {
+    "Type": "USER",
+    "HeroID": "Shocker",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Shuri": {
+    "Type": "USER",
+    "HeroID": "Shuri",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "SpiderMan": {
+    "Type": "USER",
+    "HeroID": "SpiderMan",
+    "GearTier": 0,
+    "UnlockedByDefault": true
+  },
+  "SquirrelGirl": {
+    "Type": "USER",
+    "HeroID": "SquirrelGirl",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "StarLord": {
+    "Type": "USER",
+    "HeroID": "StarLord",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Storm": {
+    "Type": "USER",
+    "HeroID": "Storm",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Stryfe": {
+    "Type": "USER",
+    "HeroID": "Stryfe",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Swarm": {
+    "Type": "USER",
+    "HeroID": "Swarm",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "SymbioteSpiderMan": {
+    "Type": "USER",
+    "HeroID": "SymbioteSpiderMan",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Taskmaster": {
+    "Type": "USER",
+    "HeroID": "Taskmaster",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Thanos": {
+    "Type": "USER",
+    "HeroID": "Thanos",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Thor": {
+    "Type": "USER",
+    "HeroID": "Thor",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Toad": {
+    "Type": "USER",
+    "HeroID": "Toad",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "UltGreenGoblin": {
+    "Type": "USER",
+    "HeroID": "UltGreenGoblin",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Ultimus": {
+    "Type": "USER",
+    "HeroID": "Ultimus",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Ultron": {
+    "Type": "USER",
+    "HeroID": "Ultron",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "UltSpiderMan": {
+    "Type": "USER",
+    "HeroID": "UltSpiderMan",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Venom": {
+    "Type": "USER",
+    "HeroID": "Venom",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Vision": {
+    "Type": "USER",
+    "HeroID": "Vision",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Vulture": {
+    "Type": "USER",
+    "HeroID": "Vulture",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "WarMachine": {
+    "Type": "USER",
+    "HeroID": "WarMachine",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Wasp": {
+    "Type": "USER",
+    "HeroID": "Wasp",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "WinterSoldier": {
+    "Type": "USER",
+    "HeroID": "WinterSoldier",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Wolverine": {
+    "Type": "USER",
+    "HeroID": "Wolverine",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "X23": {
+    "Type": "USER",
+    "HeroID": "X23",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Yondu": {
+    "Type": "USER",
+    "HeroID": "Yondu",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Zemo": {
+    "Type": "USER",
+    "HeroID": "Zemo",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  }
+}
