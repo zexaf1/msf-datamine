@@ -867,6 +867,21 @@ ID_OF_DE_SCREAM_MORB_500,Take advantage of this limited time deal and complete y
 ID_OF_NA_SCREAM_ENERGY_OFFER_1,Parasite Energy Offer
 ID_OF_NA_SCREAM_ENERGY_OFFER_2,Parasite Energy Bundle
 ID_OF_DE_SCREAM_ENERGY_OFFER_1,Save on <color=#fff568>Parasite Energy</color> with this offer! Play in the Parasitic Intentions Event Campaign and recruit Scream!
+ID_OF_NA_SHEHULK_FCO,Emerald Liberator Offer
+ID_OF_DE_SHEHULK_FCO_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star She-Hulk</color> with this offer! Each orb has a chance to earn up to 180 shards. Increase Fantastic Four damage on War Defense, Taunt, and attack all enemies when fully Charged."
+ID_OF_DE_SHEHULK_FCO_OFFER_VAR_O,"Save on <color=#fff568>{var1} Emerald Liberator Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 She-Hulk shards</color>. Increase Fantastic Four damage on War Defense, Taunt, and attack all enemies when fully Charged."
+ID_OF_DE_SHEHULK_FCO_OFFER_VAR_SI,"Save on <color=#fff568>{var1} Emerald Liberator Orb</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 She-Hulk shards</color>. Increase Fantastic Four damage on War Defense, Taunt, and attack all enemies when fully Charged."
+ID_OF_NA_SHEHULK_ABILITY_OFFER_1,She-Hulk: Ability
+ID_OF_DE_SHEHULK_ABILITY_OFFER_50,Get this amazing bundle and power up She-Hulk. Get over <color=#fff568>50%</color> off when you buy now!
+ID_OF_NA_SHEHULK_GEAR_OFFER_1,She-Hulk: Gear
+ID_OF_DE_SHEHULK_GEAR_OFFER_50,Get this amazing bundle and gear up She-Hulk. Get over <color=#fff568>50%</color> off when you buy now!
+ID_OF_NA_SHEHULK_GOLD_OFFER_1,She-Hulk: Gold
+ID_OF_DE_SHEHULK_GOLD_OFFER_50,Get this amazing bundle and level up She-Hulk. Get over <color=#fff568>50%</color> off when you buy now!
+ID_OF_NA_SHEHULK_TRAINING_OFFER_1,She-Hulk: Training
+ID_OF_DE_SHEHULK_TRAINING_OFFER_40,Get this amazing bundle and level up She-Hulk. Get over <color=#fff568>40%</color> off when you buy now!
+ID_OF_NA_SHEHULK_OFFER_1,Jade Giantess Offer
+ID_OF_DE_SHEHULK_OFFER_VAR_S,"Recruit a <color=#fff568>{var1}-star She-Hulk</color> with this offer! Increase Fantastic Four damage on War Defense, Taunt, and attack all enemies when fully Charged."
+ID_OF_DE_SHEHULK_OFFER_VAR,"Get <color=#fff568>{var1} She-Hulk shards</color> and use her to synergize with the Fantastic Four, stuns enemies, and attacks all enemies when fully Charged."
 ID_GACHA_CRATE_FCO_AIMDMG_SPEED_SPECIAL_NAME,Commando Orb
 ID_GACHA_CRATE_FCO_AIMDMG_SPEED_SPECIAL_DESCRIPTION,Win up to 180 A.I.M. Assaulter shards
 ID_GACHA_CRATE_FCO_AIMDMG_SPEED_SPECIAL_TOKEN_NAME,Commando Orb Fragments
@@ -5605,29 +5620,32 @@ ID_OF_NA_CAL_PROMO_CREDITS_SILVER_01,Silver Promotion Credits
 ID_OF_NA_CAL_PROMO_CREDITS_GOLD_01,Gold Promotion Credits
 ID_OF_DE_CAL_PROMO_CREDITS_GOLD_01_VAR,Get <color=#fff568>{var1} Gold Promotion Credits</color> over {var2} days to help Promote a character of your choice to 6 or 7 Red Stars! Log in for the next {var2} days to collect your rewards.
 ID_OF_DE_CAL_PROMO_CREDITS_SILVER_01_VAR,Get <color=#fff568>{var1} Silver Promotion Credits</color> over {var2} days to help Promote a character of your choice up to 5 Red Stars! Log in for the next {var2} days to collect your rewards.
-ID_OF_DE_MEGA_4S_BUNDLE_LOKI_01_VAR,Save on this mega deal! Get a <color=#fff568>{var1}-Star ({var2} Shards) Loki</color> with this amazing deal and strengthen your Agardian team!
-ID_OF_DE_MEGA_4S_BUNDLE_VENOM_01_VAR,Save on this mega deal! Get a <color=#fff568>{var1}-Star ({var2} Shards) Venom</color> with this amazing deal and strengthen your Symbiote team!
-ID_OF_DE_MEGA_4S_BUNDLE_SPIDERMAN_01_VAR,Save on this mega deal! Get a <color=#fff568>{var1}-Star ({var2} Shards) Spider-Man</color> with this amazing deal and strengthen your Spider-Verse team!
-ID_OF_DE_MEGA_4S_BUNDLE_THING_01_VAR,Save on this mega deal! Get a <color=#fff568>{var1}-Star ({var2} Shards) Thing</color> with this amazing deal and strengthen your Fantastic Four team!
 ID_OF_NA_MEGA_4S_BUNDLE_LOKI_01,Mega Loki Offer
+ID_OF_DE_MEGA_4S_BUNDLE_LOKI_01_VAR,Save on this mega deal! Get a <color=#fff568>{var1}-Star ({var2} Shards) Loki</color> with this amazing deal and strengthen your Asgardian team!
 ID_OF_NA_MEGA_4S_BUNDLE_VENOM_01,Mega Venom Offer
+ID_OF_DE_MEGA_4S_BUNDLE_VENOM_01_VAR,Save on this mega deal! Get a <color=#fff568>{var1}-Star ({var2} Shards) Venom</color> with this amazing deal and strengthen your Symbiote team!
 ID_OF_NA_MEGA_4S_BUNDLE_SPIDERMAN_01,Mega Spider-Man Offer
+ID_OF_DE_MEGA_4S_BUNDLE_SPIDERMAN_01_VAR,Save on this mega deal! Get a <color=#fff568>{var1}-Star ({var2} Shards) Spider-Man</color> with this amazing deal and strengthen your Spider-Verse team!
 ID_OF_NA_MEGA_4S_BUNDLE_THING_01,Mega Thing Offer
+ID_OF_DE_MEGA_4S_BUNDLE_THING_01_VAR,Save on this mega deal! Get a <color=#fff568>{var1}-Star ({var2} Shards) Thing</color> with this amazing deal and strengthen your Fantastic Four team!
 ID_OF_NA_T1_ISO8_ORB_STARTER_OFFER_01,Iso-8 Starter Deal
 ID_OF_NA_T1_ISO8_ORB_STARTER_OFFER_02,Iso-8 Starter Pack
 ID_OF_DE_T1_ISO8_ORB_STARTER_OFFER_01_VAR,Enhance your team with this amazing <color=#fff568>Iso-8</color> Starter Deal! Get <color=#fff568>{var1} Premium T1 Iso-8 Orbs</color> and more and customize your teams.
 ID_OF_DE_T1_ISO8_ORB_STARTER_OFFER_02_VAR,Enhance your team with this amazing <color=#fff568>Iso-8</color> Starter Deal! Get <color=#fff568>{var1} Premium T1 Iso-8 Orbs</color> and customize your teams.
 ID_OF_NA_T1_ISO8_ORB_OFFER_01,Premium Iso-8 Offer
-ID_OF_DE_T1_ISO8_ORB_OFFER_01_VAR,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} Premium T1 Iso-8 Orbs</color> and more! Enhance your roster with these Iso-8 crystals and take on a new challenge.
-ID_OF_DE_T1_ISO8_ORB_OFFER_02_VAR,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} Premium T1 Iso-8 Orbs</color>! Enhance your roster with these Iso-8 crystals and take on a new challenge.
-ID_OF_DE_T1_ISO8_ORB_OFFER_03_VAR,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} Premium T1 Iso-8 Orb</color>! Enhance your roster with these Iso-8 crystals and take on a new challenge.
+ID_OF_DE_T1_ISO8_ORB_OFFER_01_VAR,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} Premium T1 Iso-8 Orbs</color> and more! Enhance your roster with these Iso-8 Crystals and take on a new challenge.
+ID_OF_DE_T1_ISO8_ORB_OFFER_02_VAR,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} Premium T1 Iso-8 Orbs</color>! Enhance your roster with these Iso-8 Crystals and take on a new challenge.
+ID_OF_DE_T1_ISO8_ORB_OFFER_03_VAR,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} Premium T1 Iso-8 Orb</color>! Enhance your roster with these Iso-8 Crystals and take on a new challenge.
+ID_OF_DE_T1_ISO8_ORB_OFFER_04_VAR,Get <color=#fff568>{var1} Premium T1 Iso-8 Orb</color> with this offer! Enhance your roster with these Iso-8 Crystals and take on a new challenge!
+ID_OF_DE_T1_ISO8_ORB_OFFER_04_VAR_PLURAL,Get <color=#fff568>{var1} Premium T1 Iso-8 Orbs</color> with this offer! Enhance your roster with these Iso-8 Crystals and take on a new challenge!
 ID_OF_NA_T1_ION_ORB_STARTER_OFFER_01,T1 Ion Starter Deal
-ID_OF_DE_T1_ION_ORB_STARTER_OFFER_01_VAR,Upgrade your character Class with this incredible <color=#fff568>T1 Ion</color> Starter Deal! Get <color=#fff568>{var1} T1 Ion Orbs</color> and more and upgrade you Iso-8 Crystals.
-ID_OF_DE_T1_ION_ORB_STARTER_OFFER_02_VAR,Upgrade your character Class with this incredible <color=#fff568>T1 Ion</color> Starter Deal! Get <color=#fff568>{var1} T1 Ion Orbs</color> and upgrade you Iso-8 Crystals.
+ID_OF_DE_T1_ION_ORB_STARTER_OFFER_01_VAR,Upgrade your character Class with this incredible <color=#fff568>T1 Ion</color> Starter Deal! Get <color=#fff568>{var1} T1 Ion Orbs</color> and more and upgrade your Iso-8 Crystals.
+ID_OF_DE_T1_ION_ORB_STARTER_OFFER_02_VAR,Upgrade your character Class with this incredible <color=#fff568>T1 Ion</color> Starter Deal! Get <color=#fff568>{var1} T1 Ion Orbs</color> and upgrade your Iso-8 Crystals.
 ID_OF_NA_T1_ION_ORB_OFFER_01,T1 Ion Offer
 ID_OF_DE_T1_ION_ORB_OFFER_01_VAR,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} T1 Ion Orbs</color> and more! Fuse your Iso-8 Crystals or upgrade your Class Level with these T1 Ions.
 ID_OF_DE_T1_ION_ORB_OFFER_02_VAR,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} T1 Ion Orbs</color>! Fuse your Iso-8 Crystals or upgrade your Class Level with these T1 Ions.
 ID_OF_DE_T1_ION_ORB_OFFER_03_VAR,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} T1 Ion Orb</color>! Fuse your Iso-8 Crystals or upgrade your Class Level with these T1 Ions.
+ID_OF_DE_T1_ION_ORB_OFFER_04_VAR,Get <color=#fff568>{var1} T1 Ion Orbs</color> with this offer! Fuse your Iso-8 Crystals or upgrade your Class Level with these T1 Ions.
 ID_OF_NA_ISO8_ENERGY_STARTER_OFFER_01,Iso-8 Energy Bundle
 ID_OF_DE_ISO8_ENERGY_STARTER_OFFER_01_VAR,Advance in your Isotope-8 Campaigns with this spectacular <color=#fff568>Iso-8 Energy</color> Starter Bundle! Get <color=#fff568>{var1} Iso-8 Campaign Energy</color> and more to enhance your teams.
 ID_OF_DE_ISO8_ENERGY_STARTER_OFFER_02_VAR,Advance in your Isotope-8 Campaigns with this spectacular <color=#fff568>Iso-8 Energy</color> Starter Bundle! Get <color=#fff568>{var1} Iso-8 Campaign Energy</color> and enhance your teams.
@@ -5650,3 +5668,5 @@ ID_GACHA_CRATE_ISO8_T1_ION_CURRENCY_TOKEN_NAME,T1 Ion Orb Fragments
 ID_GACHA_CRATE_ISO8_T1_ION_CURRENCY_TOKEN_DESCRIPTION,Collect T1 Ion Orb Fragments to earn a T1 Ion Orb.
 ID_OF_NA_PICK_MILESTONE_OFFER,Draft: Milestone
 ID_OF_DE_PICK_MILESTONE_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Spider-Man (Symbiote) / Captain Marvel / Coulson</color>
+ID_OF_NA_LC_HAND_BUNDLE_01,Hand Team
+ID_OF_DE_LC_HAND_BUNDLE_01_VAR,"Unlock this <color=#fff568>{var1}-Star Hand team</color> and take on Alliance War! This bundle includes <color=#fff568>{var2} Shards</color> of:\n<color=#fff568>Hand Archer, Assassin, Blademaster, Sentry, Sorceress & Nobu</color>"
