@@ -4168,7 +4168,7 @@ ID_OF_DE_PICK_MERCS_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this
 ID_OF_NA_PICK_AGILITY_OFFER,Draft: Agility
 ID_OF_DE_PICK_AGILITY_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Proxima Midnight / Toad / Nebula / Mystique / Carnage / Elektra</color>
 ID_OF_NA_PICK_BOSSES_OFFER,Draft: Bosses
-ID_OF_DE_PICK_BOSSES_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Hela / Red Skull / Kingpin / Yondu / Nobu / Scientist Supreme</color>
+ID_OF_DE_PICK_BOSSES_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Hela / Red Skull / Kingpin / Nobu / Scientist Supreme</color>
 ID_OF_NA_PICK_BRUISERS_OFFER,Draft: Bruisers
 ID_OF_DE_PICK_BRUISERS_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Cull Obsidian / Blob / Juggernaut / Namor / Venom / Sabretooth</color>
 ID_OF_NA_PICK_MASTERMINDS_OFFER,Draft: Masterminds
