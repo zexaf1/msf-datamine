@@ -2855,6 +2855,11 @@
               0,
               100
             ],
+            "filter": {
+              "traits": [
+                "Symbiote"
+              ]
+            },
             "revive_health": [
               {
                 "pct": [
@@ -2870,11 +2875,6 @@
             ],
             "revive_pct": 100,
             "target": {
-              "filter": {
-                "traits": [
-                  "Symbiote"
-                ]
-              },
               "limit": 1
             }
           },
@@ -20687,7 +20687,7 @@
                 "delta": [
                   62,
                   78,
-                  955,
+                  95,
                   111,
                   128,
                   144,
