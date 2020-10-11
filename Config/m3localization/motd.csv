@@ -322,8 +322,12 @@ ID_MOTD_NA_SUPERSALESATURDAY,Super Sale Saturday
 ID_MOTD_DE_SUPERSALESATURDAY,Don't miss out on limited-time deals in this 24-hour event!
 ID_MOTD_NA_SUPERSALESUNDAY,Super Sale Sunday
 ID_MOTD_DE_SUPERSALESUNDAY,Don't miss out on limited-time deals this weekend!
+ID_MOTD_NA_HALLOWEEN_2020_BLITZ,Now Live: Waking Nightmare
+ID_MOTD_DE_HALLOWEEN_2020_BLITZ,"Use Anti-Venom and other featured characters in BLITZ,  ARENA,  and RAID to hit milestones."
 ID_MOTD_NA_TRAINING,Train Station: Now Live!
 ID_MOTD_DE_TRAINING,Battle for a chance to win Training Orbs
+ID_MOTD_NA_TRAININGDAY,Training Day
+ID_MOTD_DE_TRAININGDAY,Increased Training Modules from Campaigns!
 ID_MOTD_NA_AIMCONTROL_INFECT,Contagion: Now Live!
 ID_MOTD_DE_AIMCONTROL_INFECT,Battle for a chance to win A.I.M. Infector shards
 ID_MOTD_NA_AIMDMG_OFFENSE,Science Project: Now Live!
@@ -611,3 +615,5 @@ ID_MOTD_NA_FULLMATRIX,LIVE: Full Matrix
 ID_MOTD_DE_FULLMATRIX,Use Bio characters to fight in battles and earn Iso-8 Crystals!
 ID_MOTD_NA_ANTIVENOM_PREHYPE,Coming Soon: Anti-Venom
 ID_MOTD_DE_ANTIVENOM_PREHYPE,The Symbiote Support is on the way!
+ID_MOTD_NA_HALLOWEEN2020,Live: Waking Nightmare
+ID_MOTD_DE_HALLOWEEN2020,Scare up Anti-Venom shards and gear!

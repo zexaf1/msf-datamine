@@ -1299,6 +1299,7 @@ ID_OF_DE_CRYSTAL_OFFER_2S,"Recruit a <color=#fff568>2-star Crystal</color> with 
 ID_OF_DE_CRYSTAL_OFFER_3S,"Recruit a <color=#fff568>3-star Crystal</color> with this offer! Freeze enemies in their tracks with slow, rock them with an attack-all, and heal Inhuman allies."
 ID_OF_DE_CRYSTAL_OFFER_20,"Get <color=#fff568>20 Crystal shards</color> and use her to freeze enemies in their tracks with slow, rock them with an attack-all, and heal Inhuman allies."
 ID_OF_DE_CRYSTAL_OFFER_35,"Get <color=#fff568>35 Crystal shards</color> and use her to freeze enemies in their tracks with slow, rock them with an attack-all, and heal Inhuman allies."
+ID_OF_DE_CRYSTAL_OFFER_45,"Get <color=#fff568>45 Crystal shards</color> and use her to freeze enemies in their tracks with slow, rock them with an attack-all, and heal Inhuman allies."
 ID_OF_DE_CRYSTAL_OFFER_50,"Get <color=#fff568>50 Crystal shards</color> and use her to freeze enemies in their tracks with slow, rock them with an attack-all, and heal Inhuman allies."
 ID_OF_DE_CRYSTAL_OFFER_55,"Get <color=#fff568>55 Crystal shards</color> and use her to freeze enemies in their tracks with slow, rock them with an attack-all, and heal Inhuman allies."
 ID_OF_DE_CRYSTAL_OFFER_75,"Get <color=#fff568>75 Crystal shards</color> and use her to freeze enemies in their tracks with slow, rock them with an attack-all, and heal Inhuman allies."
@@ -2365,6 +2366,7 @@ ID_OF_DE_NAMOR_OFFER_2S,Recruit a <color=#fff568>2-star Namor</color> with this 
 ID_OF_DE_NAMOR_OFFER_3S,Recruit a <color=#fff568>3-star Namor</color> with this offer! Slow and remove enemy positive effects while powering up the Fantastic Four in War!
 ID_OF_DE_NAMOR_OFFER_20,Get <color=#fff568>20 Namor shards</color> and use him to slow and remove enemy positive effects while powering up the Fantastic Four in War!
 ID_OF_DE_NAMOR_OFFER_35,Get <color=#fff568>35 Namor shards</color> and use him to slow and remove enemy positive effects while powering up the Fantastic Four in War!
+ID_OF_DE_NAMOR_OFFER_45,Get <color=#fff568>45 Namor shards</color> and use him to slow and remove enemy positive effects while powering up the Fantastic Four in War!
 ID_OF_DE_NAMOR_OFFER_50,Get <color=#fff568>50 Namor shards</color> and use him to slow and remove enemy positive effects while powering up the Fantastic Four in War!
 ID_OF_DE_NAMOR_OFFER_55,Get <color=#fff568>55 Namor shards</color> and use him to slow and remove enemy positive effects while powering up the Fantastic Four in War!
 ID_OF_DE_NAMOR_OFFER_75,Get <color=#fff568>75 Namor shards</color> and use him to slow and remove enemy positive effects while powering up the Fantastic Four in War!
@@ -4164,9 +4166,9 @@ ID_OF_DE_PICK_VOLATILE_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with t
 ID_OF_NA_PICK_BIGBADS_OFFER,Draft: Big Bads
 ID_OF_DE_PICK_BIGBADS_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Thanos / Zemo / Mysterio / Loki</color>
 ID_OF_NA_PICK_MERCS_OFFER,Draft: Mercs
-ID_OF_DE_PICK_MERCS_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Korath the Pursuer / Killmonger / Crossbones / Bullseye / Taskmaster / Winter Soldier</color>
+ID_OF_DE_PICK_MERCS_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Korath the Pursuer / Killmonger / Crossbones / Taskmaster / Winter Soldier</color>
 ID_OF_NA_PICK_AGILITY_OFFER,Draft: Agility
-ID_OF_DE_PICK_AGILITY_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Proxima Midnight / Toad / Nebula / Mystique / Carnage / Elektra</color>
+ID_OF_DE_PICK_AGILITY_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Proxima Midnight / Toad / Nebula / Mystique / Carnage</color>
 ID_OF_NA_PICK_BOSSES_OFFER,Draft: Bosses
 ID_OF_DE_PICK_BOSSES_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Hela / Red Skull / Kingpin / Nobu / Scientist Supreme</color>
 ID_OF_NA_PICK_BRUISERS_OFFER,Draft: Bruisers
@@ -4174,7 +4176,7 @@ ID_OF_DE_PICK_BRUISERS_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with t
 ID_OF_NA_PICK_MASTERMINDS_OFFER,Draft: Masterminds
 ID_OF_DE_PICK_MASTERMINDS_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Ronan the Accuser / Emma Frost / Mister Sinister / Graviton</color>
 ID_OF_NA_PICK_SINISTER_OFFER,Draft: Sinister Six
-ID_OF_DE_PICK_SINISTER_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Green Goblin / Shocker / Vulture / Swarm / Electro / Rhino</color>
+ID_OF_DE_PICK_SINISTER_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Green Goblin / Vulture / Swarm / Electro / Rhino</color>
 ID_OF_NA_HC_CALENDAR_1620HC,Anniversary Power Core Calendar
 ID_OF_DE_HC_CALENDAR_1620HC_15D,Get <color=#fff568>1620 Power Cores</color> over 15 days and get over <color=#fff568>70% off</color> when you buy this offer! Log in for the next 15 days to collect your rewards.
 ID_OF_DE_HC_CALENDAR_1620HC_18D,Get <color=#fff568>1620 Power Cores</color> over 18 days and get over <color=#fff568>70% off</color> when you buy this offer! Log in for the next 18 days to collect your rewards.
@@ -5654,6 +5656,10 @@ ID_OF_DE_ISO8_ENERGY_OFFER_01_VAR,Save <color=#fff568>over {var1}%</color> and a
 ID_OF_DE_ISO8_ENERGY_OFFER_02_VAR,Save <color=#fff568>over {var1}%</color> and advance in your Isotope-8 Campaigns with <color=#fff568>{var2} Iso-8 Campaign Energy</color>! Enhance your teams and take on new challenges with Iso-8 Crystals.
 ID_OF_NA_CAL_ISO8_ENERGY_OFFER_01,Iso-8 Energy Calendar
 ID_OF_DE_CAL_ISO8_ENERGY_OFFER_01_VAR,Get <color=#fff568>{var1} Iso-8 Campaign Energy</color> over {var2} days to advance in your Isotope-8 Campaigns! Log in for the next {var2} days to collect your rewards.
+ID_GACHA_CRATE_HALLOWEEN_2020_NAME,Fright Light Orb
+ID_GACHA_CRATE_HALLOWEEN_2020_DESCRIPTION,Win up to 8 shards of a marquee character
+ID_GACHA_CRATE_HALLOWEEN_2020_TOKEN_NAME,Fright Light Orb Fragments
+ID_GACHA_CRATE_HALLOWEEN_2020_TOKEN_DESCRIPTION,Collect Fright Light Orb Fragments to earn a Fright Light Orb.
 ID_GACHA_CRATE_ISO8_T1_BASIC_NAME,Basic T1 Iso-8 Orb
 ID_GACHA_CRATE_ISO8_T1_BASIC_DESCRIPTION,Contains T1 Iso-8 Crystals.
 ID_GACHA_CRATE_ISO8_T1_BASIC_TOKEN_NAME,Basic T1 Iso-8 Orb Fragments
@@ -5670,3 +5676,50 @@ ID_OF_NA_PICK_MILESTONE_OFFER,Draft: Milestone
 ID_OF_DE_PICK_MILESTONE_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Spider-Man (Symbiote) / Captain Marvel / Coulson</color>
 ID_OF_NA_LC_HAND_BUNDLE_01,Hand Team
 ID_OF_DE_LC_HAND_BUNDLE_01_VAR,"Unlock this <color=#fff568>{var1}-Star Hand team</color> and take on Alliance War! This bundle includes <color=#fff568>{var2} Shards</color> of:\n<color=#fff568>Hand Archer, Assassin, Blademaster, Sentry, Sorceress & Nobu</color>"
+ID_OF_NA_FANTASTIC_DUO,Human Torch & Thing Offer
+ID_OF_DE_FANTASTIC_DUO,Save on this fantastic deal! Get <color=#fff568>{var1}-Star ({var2} Shards) Thing & {var1}-Star ({var2} Shards) Human Torch</color> with this amazing deal and strengthen your Fantastic Four team!
+ID_OF_DE_REDSTARREWORK2020_REDSTAR_DRAFT_OFFER_02,"Save <color=#fff568>over {var1}%</color> with this spectacular offer and get an equal chance of receiving a <color=#fff568>3</color>, <color=#fff568>4</color>, or <color=#fff568>5 Red Star</color> for one of the following characters: <color=#fff568>Magneto / Black Bolt / Iron Man / Nick Fury / Phoenix</color>"
+ID_OF_NA_ANTIVENOM_FCO,Lethal Dose Offer
+ID_OF_DE_ANTIVENOM_FCO_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Anti-Venom</color> with this offer! Each orb has a chance to earn up to 180 shards. Transform your Symbiote team by clearing Heal Block, healing allies, Reviving Symbiote allies, and spreading positive effects."
+ID_OF_DE_ANTIVENOM_FCO_OFFER_VAR_O,"Save on <color=#fff568>{var1} Lethal Dose Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Anti-Venom shards</color>. Transform your Symbiote team by clearing Heal Block, healing allies, Reviving Symbiote allies, and spreading positive effects."
+ID_OF_DE_ANTIVENOM_FCO_OFFER_VAR_SI,"Save on <color=#fff568>{var1} Lethal Dose Orb</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Anti-Venom shards</color>. Transform your Symbiote team by clearing Heal Block, healing allies, Reviving Symbiote allies, and spreading positive effects."
+ID_OF_NA_ANTIVENOM_ABILITY_OFFER_1,Anti-Venom: Ability
+ID_OF_DE_ANTIVENOM_ABILITY_OFFER_50,Get this amazing bundle and power up Anti-Venom. Get over <color=#fff568>50%</color> off when you buy now!
+ID_OF_NA_ANTIVENOM_GEAR_OFFER_1,Anti-Venom: Gear
+ID_OF_DE_ANTIVENOM_GEAR_OFFER_50,Get this amazing bundle and gear up Anti-Venom. Get over <color=#fff568>50%</color> off when you buy now!
+ID_OF_NA_ANTIVENOM_GOLD_OFFER_1,Anti-Venom: Gold
+ID_OF_DE_ANTIVENOM_GOLD_OFFER_50,Get this amazing bundle and level up Anti-Venom. Get over <color=#fff568>50%</color> off when you buy now!
+ID_OF_NA_ANTIVENOM_TRAINING_OFFER_1,Anti-Venom: Training
+ID_OF_DE_ANTIVENOM_TRAINING_OFFER_40,Get this amazing bundle and level up Anti-Venom. Get over <color=#fff568>40%</color> off when you buy now!
+ID_OF_NA_ANTIVENOM_OFFER_1,Healing Host Offer
+ID_OF_DE_ANTIVENOM_OFFER_VAR_S,"Recruit a <color=#fff568>{var1}-star Anti-Venom</color> with this offer! Transform your Symbiote team by clearing Heal Block, healing allies, Reviving Symbiote allies, and spreading positive effects."
+ID_OF_DE_ANTIVENOM_OFFER_VAR,"Get <color=#fff568>{var1} Anti-Venom shards</color> and use him to Clear Heal Block, heal allies, Revive Symbiote allies, and spread positive effects."
+ID_OF_DE_2_3_RS_DRAFT_BIO_VAR,"Get <color=#fff568>up to {var3} individual</color> {var1} Red Star or {var2} Red Star <color=#fff568>marquee Bio characters</color> that are available in Campaign, Supplies, Basic Orb, Premium Orb, and Mega Orb."
+ID_OF_DE_2_3_RS_DRAFT_SKILL_VAR,"Get <color=#fff568>up to {var3} individual</color> {var1} Red Star or {var2} Red Star <color=#fff568>marquee Skill characters</color> that are available in Campaign, Supplies, Basic Orb, Premium Orb, and Mega Orb."
+ID_OF_DE_2_3_RS_DRAFT_MUTANT_VAR,"Get <color=#fff568>up to {var3} individual</color> {var1} Red Star or {var2} Red Star <color=#fff568>marquee Mutant characters</color> that are available in Campaign, Supplies, Basic Orb, Premium Orb, and Mega Orb."
+ID_OF_DE_2_3_RS_DRAFT_MYSTIC_VAR,"Get <color=#fff568>up to {var3} individual</color> {var1} Red Star or {var2} Red Star <color=#fff568>marquee Mystic characters</color> that are available in Campaign, Supplies, Basic Orb, Premium Orb, and Mega Orb."
+ID_OF_DE_2_3_RS_DRAFT_TECH_VAR,"Get <color=#fff568>up to {var3} individual</color> {var1} Red Star or {var2} Red Star <color=#fff568>marquee Tech characters</color> that are available in Campaign, Supplies, Basic Orb, Premium Orb, and Mega Orb."
+ID_OF_DE_2_3_RS_DRAFT_BIO_VAR_01,"Get <color=#fff568>{var3} individual</color> {var1} Red Star or {var2} Red Star <color=#fff568>marquee Bio characters</color> that are available in Campaign, Supplies, Basic Orb, Premium Orb, and Mega Orb."
+ID_OF_DE_2_3_RS_DRAFT_SKILL_VAR_01,"Get <color=#fff568>{var3} individual</color> {var1} Red Star or {var2} Red Star <color=#fff568>marquee Skill characters</color> that are available in Campaign, Supplies, Basic Orb, Premium Orb, and Mega Orb."
+ID_OF_DE_2_3_RS_DRAFT_MUTANT_VAR_01,"Get <color=#fff568>{var3} individual</color> {var1} Red Star or {var2} Red Star <color=#fff568>marquee Mutant characters</color> that are available in Campaign, Supplies, Basic Orb, Premium Orb, and Mega Orb."
+ID_OF_DE_2_3_RS_DRAFT_MYSTIC_VAR_01,"Get <color=#fff568>{var3} individual</color> {var1} Red Star or {var2} Red Star <color=#fff568>marquee Mystic characters</color> that are available in Campaign, Supplies, Basic Orb, Premium Orb, and Mega Orb."
+ID_OF_DE_2_3_RS_DRAFT_TECH_VAR_01,"Get <color=#fff568>{var3} individual</color> {var1} Red Star or {var2} Red Star <color=#fff568>marquee Tech characters</color> that are available in Campaign, Supplies, Basic Orb, Premium Orb, and Mega Orb."
+ID_OF_NA_DUAL_OFFER_DA_SBC_T4_01,Catalyst or Ability Materials?
+ID_OF_DE_DUAL_OFFER_DA_SBC_T4_01,Take advantage of one of these spectacular <color=#fff568>Catalysts or T4 Ability Materials</color> deals!
+ID_OF_NA_DUAL_OFFER_DA_SC_T4_01,Gold or Ability Materials?
+ID_OF_DE_DUAL_OFFER_DA_SC_T4_01,Take advantage of one of these spectacular <color=#fff568>Gold or T4 Ability Materials</color> deals!
+ID_OF_NA_DUAL_OFFER_DA_T3_XP_01,Catalysts or Training Modules?
+ID_OF_DE_DUAL_OFFER_DA_T3_XP_01,Take advantage of one of these spectacular <color=#fff568>Catalyst Parts or L4 Training Modules</color> deals!
+ID_OF_NA_DUAL_OFFER_GENERIC_01,Pick your Deal!
+ID_OF_NA_DUAL_OFFER_GENERIC_02,Pick your Pack!
+ID_OF_NA_DUAL_OFFER_GENERIC_03,Your Pick!
+ID_OF_NA_ABM_DRAFT_GREEN_01_VAR,T1 Ability Material Draft
+ID_OF_DE_ABM_DRAFT_GREEN_01_VAR,"This super offer will give you an equal chance of getting <color=#fff568>{var1}, {var2}, or {var3} T1 Ability Materials</color>. "
+ID_OF_NA_ABM_DRAFT_BLUE_01_VAR,T2 Ability Material Draft
+ID_OF_DE_ABM_DRAFT_BLUE_01_VAR,"This amazing offer will give you an equal chance of getting <color=#fff568>{var1}, {var2}, or {var3} T2 Ability Materials</color>. "
+ID_OF_NA_ABM_DRAFT_PURPLE_01_VAR,T3 Ability Material Draft
+ID_OF_DE_ABM_DRAFT_PURPLE_01_VAR,"This spectacular offer will give you an equal chance of getting <color=#fff568>{var1}, {var2}, or {var3} T3 Ability Materials</color>. "
+ID_OF_NA_ABM_DRAFT_ORANGE_01_VAR,T4 Ability Material Draft
+ID_OF_DE_ABM_DRAFT_ORANGE_01_VAR,"This mega offer will give you an equal chance of getting <color=#fff568>{var1}, {var2}, or {var3} T4 Ability Materials</color>. "
+ID_OF_NA_TECH_DUO,War Machine & Falcon Offer
+ID_OF_DE_TECH_DUO,Save on this spectacular deal! Get <color=#fff568>{var1}-Star ({var2} Shards) War Machine & {var1}-Star ({var2} Shards) Falcon</color> with this amazing deal and strengthen your Power Armor team!
