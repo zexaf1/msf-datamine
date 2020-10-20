@@ -318,6 +318,10 @@ ID_GACHA_CRATE_EVENT_RAID_GAMMA_GLOBAL_BRAWLER_PROTECTOR_202008_NAME,Gamma Raid 
 ID_GACHA_CRATE_EVENT_RAID_GAMMA_GLOBAL_BRAWLER_PROTECTOR_202008_DESCRIPTION,Earn Gamma Raid Orb Fragments by completing Gamma Raids.
 ID_GACHA_CRATE_EVENT_RAID_GAMMA_GLOBAL_BRAWLER_PROTECTOR_202008_TOKEN_NAME,Gamma Raid Orb Fragments
 ID_GACHA_CRATE_EVENT_RAID_GAMMA_GLOBAL_BRAWLER_PROTECTOR_202008_TOKEN_DESCRIPTION,Collect Gamma Raid Orb Fragments in Gamma Raids.
+ID_GACHA_CRATE_EVENT_RAID_ALPHA_MYSTIC_HERO_202011_NAME,Alpha Raid Orb
+ID_GACHA_CRATE_EVENT_RAID_ALPHA_MYSTIC_HERO_202011_DESCRIPTION,Earn Alpha Raid Orb Fragments by completing Alpha Raids.
+ID_GACHA_CRATE_EVENT_RAID_ALPHA_MYSTIC_HERO_202011_TOKEN_NAME,Alpha Raid Orb Fragments
+ID_GACHA_CRATE_EVENT_RAID_ALPHA_MYSTIC_HERO_202011_TOKEN_DESCRIPTION,Collect Alpha Raid Orb Fragments in Alpha Raids.
 ID_GACHA_CRATE_EVENT_ANTMAN_201806_NAME,Ant-Man Orb
 ID_GACHA_CRATE_EVENT_ANTMAN_201806_DESCRIPTION,Earn Ant-Man Orb Fragments in the Ant-Man Event Campaign
 ID_GACHA_CRATE_EVENT_ANTMAN_201806_TOKEN_NAME,Ant-Man Orb Fragments
@@ -4172,7 +4176,7 @@ ID_OF_DE_PICK_AGILITY_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with th
 ID_OF_NA_PICK_BOSSES_OFFER,Draft: Bosses
 ID_OF_DE_PICK_BOSSES_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Hela / Red Skull / Kingpin / Nobu / Scientist Supreme</color>
 ID_OF_NA_PICK_BRUISERS_OFFER,Draft: Bruisers
-ID_OF_DE_PICK_BRUISERS_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Cull Obsidian / Blob / Juggernaut / Namor / Venom / Sabretooth</color>
+ID_OF_DE_PICK_BRUISERS_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Blob / Juggernaut / Venom / Sabretooth</color>
 ID_OF_NA_PICK_MASTERMINDS_OFFER,Draft: Masterminds
 ID_OF_DE_PICK_MASTERMINDS_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Ronan the Accuser / Emma Frost / Mister Sinister / Graviton</color>
 ID_OF_NA_PICK_SINISTER_OFFER,Draft: Sinister Six
@@ -5600,8 +5604,8 @@ ID_OF_DE_10FOR10_SHARD_RAID_01_VAR,Get <color=#fff568>{var1} shards</color> of a
 ID_OF_DE_10FOR10_SHARD_WAR_01_VAR,Get <color=#fff568>{var1} shards</color> of any character available in War Supplies. Check back often for more amazing deals!
 ID_OF_DE_10FOR10_SHARD_EXCLUSIVE_01_VAR,Get <color=#fff568>{var1} shards</color> of characters available in Exclusive Orbs. Check back often for more amazing deals!
 ID_OF_DE_10FOR10_ABM_01_VAR,Get <color=#fff568>{var1} T{var2} Ability Materials</color> to power up your characters. Check back often for more amazing deals!
-ID_OF_DE_10FOR10_RES_GOLD_01_VAR,Get <color=#fff568>{var1} Gold</color> to power up your characters plus <color=#fff568>{var1}</color> of one of the following currencies:\n<color=#fff568> Arena / Blitz / Raid / War</color>\nCheck back often for more amazing deals!
-ID_OF_DE_10FOR10_RES_ION_T1_01_VAR,Get <color=#fff568>{var1} T1 Ions</color> to enhance your characters plus <color=#fff568>{var1}</color> of one of the following currencies:\n<color=#fff568> Arena / Blitz / Raid / War</color>\nCheck back often for more amazing deals!
+ID_OF_DE_10FOR10_RES_GOLD_01_VAR,Get <color=#fff568>{var1} Gold</color> to power up your characters plus <color=#fff568>{var2}</color> of one of the following currencies:\n<color=#fff568> Arena / Blitz / Raid / War</color>\nCheck back often for more amazing deals!
+ID_OF_DE_10FOR10_RES_ION_T1_01_VAR,Get <color=#fff568>{var1} T1 Ions</color> to enhance your characters plus <color=#fff568>{var2}</color> of one of the following currencies:\n<color=#fff568> Arena / Blitz / Raid / War</color>\nCheck back often for more amazing deals!
 ID_OF_DE_10FOR10_XP_01_VAR,Get <color=#fff568>{var1} L{var2} Training Modules</color> to power up your characters. Check back often for more amazing deals!
 ID_OF_DE_10FOR10_INV_BASIC_CAT_01_VAR,Get <color=#fff568>{var1} Advanced Basic Catalyst Parts & Superior Basic Catalyst Parts</color> to power up your characters' gear. Check back often for more amazing deals!
 ID_OF_DE_10FOR10_INV_STAT_CAT_01_VAR,Get <color=#fff568>{var1} Advanced Catalyst Parts & Superior Catalyst Parts</color> to power up your characters' gear. Check back often for more amazing deals!
@@ -5723,3 +5727,19 @@ ID_OF_NA_ABM_DRAFT_ORANGE_01_VAR,T4 Ability Material Draft
 ID_OF_DE_ABM_DRAFT_ORANGE_01_VAR,"This mega offer will give you an equal chance of getting <color=#fff568>{var1}, {var2}, or {var3} T4 Ability Materials</color>. "
 ID_OF_NA_TECH_DUO,War Machine & Falcon Offer
 ID_OF_DE_TECH_DUO,Save on this spectacular deal! Get <color=#fff568>{var1}-Star ({var2} Shards) War Machine & {var1}-Star ({var2} Shards) Falcon</color> with this amazing deal and strengthen your Power Armor team!
+ID_OF_NA_ROCKET_DRAFT,Rocket Racoon: Draft
+ID_OF_DE_ROCKET_DRAFT,"This amazing offer will give you an equal chance of getting <color=#fff568>{var1}, {var2}, or {var3} shards of Rocket Racoon</color>. "
+ID_OF_NA_GROOT_DRAFT,Groot: Draft
+ID_OF_DE_GROOT_DRAFT,"This amazing offer will give you an equal chance of getting <color=#fff568>{var1}, {var2}, or {var3} shards of Groot</color>. "
+ID_OF_NA_HALLOWEEN_2020_OFFER_1,Fright Light Offer
+ID_OF_DE_HALLOWEEN_2020_OFFER_4O,Save on <color=#fff568>{var1} Fright Light Orbs</color> and continue building out your roster! Each Fright Light Orb guarantees <color=#fff568>character shards</color> and <color=#fff568>Gold</color>!
+ID_OF_NA_MORB_HALLOWEEN_2020_1,Fright Light Fragment Offer
+ID_OF_DE_MORB_HALLOWEEN_2020,Take advantage of this limited time deal and complete your orb! Get <color=#fff568>{var1} Fright Light Orb Fragments</color> with this offer.
+ID_OF_DE_HALLOWEEN_2020_RAID_VAR_01,Get back in the fight with this amazing Raid bundle to progress in the Lucid Dream Milestone! Get over <color=#fff568>{var1}% off</color> when you buy now!\n*Items ignore resource capacity
+ID_OF_DE_HALLOWEEN_2020_ORB_VAR_01,Save on <color=#fff568>{var1} Fright Light Orbs</color> with this offer! Open <color=#fff568> Fright Light Orbs</color> to progress in the Night Terrors Milestone to earn <color=#fff568>Anti-Venom shards</color>.
+ID_OF_NA_345_RSDRAFT_TEAM_MASKED_01,Red Star: Masked Caper
+ID_OF_DE_345_RSDRAFT_TEAM_MASKED_01_VAR,"Get an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> promotion for each of the following characters:\n<color=#fff568>Spider-Man (Symbiote), Black Bolt, Star-Lord, Carnage, and Proxima Midnight</color>"
+ID_OF_NA_CAL_ELITE_5_OFFER_14D,Elite 5 Credits: 14 Day
+ID_OF_DE_CAL_ELITE_5_OFFER_VAR,Get <color=#fff568>{var1} Elite 5 Credits</color> over {var2} days and get <color=#fff568>{var3}% off</color> when you buy this offer! Log in for the next {var2} days to collect your rewards.
+ID_OF_NA_STARLORD_REDSTAR_DRAFT_OFFER_01,Red Star Draft: Star-Lord
+ID_OF_DE_STARLORD_REDSTAR_DRAFT_OFFER_02,"Save <color=#fff568>over 90%</color> with this spectacular offer and get an equal chance of receiving either a <color=#fff568>3, 4, 5, or 6 Red Star</color> <color=#fff568>Star-Lord</color>"

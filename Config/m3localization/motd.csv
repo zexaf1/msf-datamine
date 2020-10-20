@@ -62,6 +62,8 @@ ID_MOTD_NA_GAMMA_RAID_BRAWLER,S.T.R.I.K.E. Raid: Gamma (feat. Brawlers)
 ID_MOTD_DE_GAMMA_RAID_BRAWLER,Team up to earn Brawler character shards!
 ID_MOTD_NA_GLOBAL_BRAWLER_PROTECTOR_GAMMARAIDS,S.T.R.I.K.E. Raid: Gamma
 ID_MOTD_DE_GLOBAL_BRAWLER_PROTECTOR_GAMMARAIDS,Participate in Gamma Raids to earn select Global Brawlers and Protector character shards!
+ID_MOTD_NA_MYSTICHERO_ALPHARAIDS,Now Live: S.T.R.I.K.E. Raid: Alpha
+ID_MOTD_DE_MYSTICHERO_ALPHARAIDS,Earn character shards for select Mystic Heroes!
 ID_MOTD_NA_BLACKBOLT_LE_HYPE,Prepare for Black Bolt!
 ID_MOTD_DE_BLACKBOLT_LE_HYPE,Recruit the Asgardian team for the upcoming Legendary Event
 ID_MOTD_NA_BLACKBOLT_PREVIEW,Coming Soon: Unite the Kingdoms
@@ -326,8 +328,8 @@ ID_MOTD_NA_HALLOWEEN_2020_BLITZ,Now Live: Waking Nightmare
 ID_MOTD_DE_HALLOWEEN_2020_BLITZ,"Use Anti-Venom and other featured characters in BLITZ,  ARENA,  and RAID to hit milestones."
 ID_MOTD_NA_TRAINING,Train Station: Now Live!
 ID_MOTD_DE_TRAINING,Battle for a chance to win Training Orbs
-ID_MOTD_NA_TRAININGDAY,Training Day
-ID_MOTD_DE_TRAININGDAY,Increased Training Modules from Campaigns!
+ID_MOTD_NA_DOUBLETRAINING,Train And Gain
+ID_MOTD_DE_DOUBLETRAINING,Increased Training Modules from Campaigns!
 ID_MOTD_NA_AIMCONTROL_INFECT,Contagion: Now Live!
 ID_MOTD_DE_AIMCONTROL_INFECT,Battle for a chance to win A.I.M. Infector shards
 ID_MOTD_NA_AIMDMG_OFFENSE,Science Project: Now Live!
@@ -617,3 +619,5 @@ ID_MOTD_NA_ANTIVENOM_PREHYPE,Coming Soon: Anti-Venom
 ID_MOTD_DE_ANTIVENOM_PREHYPE,The Symbiote Support is on the way!
 ID_MOTD_NA_HALLOWEEN2020,Live: Waking Nightmare
 ID_MOTD_DE_HALLOWEEN2020,Scare up Anti-Venom shards and gear!
+ID_MOTD_NA_HALLOWEEN_POLL,Trick... Or... Treat...?
+ID_MOTD_DE_HALLOWEEN_POLL,Vote now for your Halloween community prize on our Facebook page!
