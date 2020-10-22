@@ -5732,14 +5732,26 @@ ID_OF_DE_ROCKET_DRAFT,"This amazing offer will give you an equal chance of getti
 ID_OF_NA_GROOT_DRAFT,Groot: Draft
 ID_OF_DE_GROOT_DRAFT,"This amazing offer will give you an equal chance of getting <color=#fff568>{var1}, {var2}, or {var3} shards of Groot</color>. "
 ID_OF_NA_HALLOWEEN_2020_OFFER_1,Fright Light Offer
+ID_OF_DE_HALLOWEEN_2020_OFFER_1O,Save on <color=#fff568>{var1} Fright Light Orb</color> and continue building out your roster! Each Fright Light Orb guarantees <color=#fff568>character shards</color> and <color=#fff568>Gold</color>!
 ID_OF_DE_HALLOWEEN_2020_OFFER_4O,Save on <color=#fff568>{var1} Fright Light Orbs</color> and continue building out your roster! Each Fright Light Orb guarantees <color=#fff568>character shards</color> and <color=#fff568>Gold</color>!
 ID_OF_NA_MORB_HALLOWEEN_2020_1,Fright Light Fragment Offer
 ID_OF_DE_MORB_HALLOWEEN_2020,Take advantage of this limited time deal and complete your orb! Get <color=#fff568>{var1} Fright Light Orb Fragments</color> with this offer.
 ID_OF_DE_HALLOWEEN_2020_RAID_VAR_01,Get back in the fight with this amazing Raid bundle to progress in the Lucid Dream Milestone! Get over <color=#fff568>{var1}% off</color> when you buy now!\n*Items ignore resource capacity
 ID_OF_DE_HALLOWEEN_2020_ORB_VAR_01,Save on <color=#fff568>{var1} Fright Light Orbs</color> with this offer! Open <color=#fff568> Fright Light Orbs</color> to progress in the Night Terrors Milestone to earn <color=#fff568>Anti-Venom shards</color>.
+ID_OF_NA_SHARD_MASKED_01,Masked Caper: Draft
+ID_OF_DE_SHARD_MASKED_01,"This amazing offer will give you an equal chance of either <color=#fff568>{var1}, {var2}, or {var3}</color> character shards for the this Masked Caper:\n<color=#fff568>Minn-Erva</color>"
+ID_OF_DE_SHARD_MASKED_02,"This amazing offer will give you an equal chance of either <color=#fff568>{var1}, {var2}, or {var3}</color> character shards for the this Masked Caper:\n<color=#fff568>Spider-Man (Miles)</color>"
 ID_OF_NA_345_RSDRAFT_TEAM_MASKED_01,Red Star: Masked Caper
-ID_OF_DE_345_RSDRAFT_TEAM_MASKED_01_VAR,"Get an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> promotion for each of the following characters:\n<color=#fff568>Spider-Man (Symbiote), Black Bolt, Star-Lord, Carnage, and Proxima Midnight</color>"
+ID_OF_DE_345_RSDRAFT_TEAM_MASKED_01_VAR,"Get an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> promotion for one of the following characters:\n<color=#fff568>Spider-Man (Symbiote), Black Bolt, Star-Lord, Carnage, and Proxima Midnight</color>"
 ID_OF_NA_CAL_ELITE_5_OFFER_14D,Elite 5 Credits: 14 Day
 ID_OF_DE_CAL_ELITE_5_OFFER_VAR,Get <color=#fff568>{var1} Elite 5 Credits</color> over {var2} days and get <color=#fff568>{var3}% off</color> when you buy this offer! Log in for the next {var2} days to collect your rewards.
 ID_OF_NA_STARLORD_REDSTAR_DRAFT_OFFER_01,Red Star Draft: Star-Lord
 ID_OF_DE_STARLORD_REDSTAR_DRAFT_OFFER_02,"Save <color=#fff568>over 90%</color> with this spectacular offer and get an equal chance of receiving either a <color=#fff568>3, 4, 5, or 6 Red Star</color> <color=#fff568>Star-Lord</color>"
+ID_OF_NA_SILVER_PROMOTION_CREDIT_DRAFT,Silver Promotion Credit: Draft
+ID_OF_NA_GOLD_PROMOTION_CREDIT_DRAFT,Gold Promotion Credit: Draft
+ID_OF_DE_SILVER_PROMOTION_CREDIT_DRAFT_VAR,"Get an equal chance of either <color=#fff568>{var1}, {var2} or {var3} Silver Promotion Credits</color> to power up your roster!"
+ID_OF_DE_GOLD_PROMOTION_DRAFT_CREDIT_VAR,"Get an equal chance of either <color=#fff568>{var1}, {var2} or {var3} Gold Promotion Credits</color> to power up your roster!"
+ID_OF_NA_HALLOWEEN_ORB_DRAFT_2020_OFFER_1,Fright Light Orb: Draft
+ID_OF_NA_HALLOWEEN_MORB_DRAFT_2020_OFFER_1,Fright Light Orb Fragments: Draft
+ID_OF_DE_MORB_DRAFT_HALLOWEEN_2020,"Take advantage of this limited time deal and complete your orb! Get and equal chance of either <color=#fff568>{var1}, {var2} or {var3} Fright Light Orb Fragments</color> with this offer."
+ID_OF_DE_ORB_DRAFT_HALLOWEEN_2020,"Take advantage of this limited time deal and progress in the Night Terrors Milestone! Get and equal chance of either <color=#fff568>{var1}, {var2} or {var3} Fright Light Orbs</color> with this offer."
