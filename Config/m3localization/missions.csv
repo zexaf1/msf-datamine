@@ -101,6 +101,12 @@ ID_MISSION_EVENT_DEADPOOL_09_NAME,The Mad Scientists
 ID_MISSION_EVENT_DEADPOOL_09_DESC,Stop Scientist Supreme and Ultron from generating a new batch of the corrupted Techno-Organic Virus.
 ID_MISSION_EVENT_DEADPOOL_10_NAME,Vision's Virus
 ID_MISSION_EVENT_DEADPOOL_10_DESC,"Take out corrupted Vision before his Ultron Operators can create a new batch of the Techno Virus, and to ensure it can never be recreated."
+ID_MISSION_EVENT_SHOWCASE_DOOM_01_NAME,Doom vs. The Asgardians
+ID_MISSION_EVENT_SHOWCASE_DOOM_01_DESC,"Doom showcases his might against supposedly worthy gods, the Asgardians."
+ID_MISSION_EVENT_SHOWCASE_DOOM_02_NAME,Doom vs. The Inhumans
+ID_MISSION_EVENT_SHOWCASE_DOOM_02_DESC,Doom proves that actions speak louder than words against the Inhumans.
+ID_MISSION_EVENT_SHOWCASE_DOOM_03_NAME,Doom vs. The Black Order
+ID_MISSION_EVENT_SHOWCASE_DOOM_03_DESC,A gauntlet and some gems are not enough to stop Victor von Doom.
 ID_MISSION_EVENT_THANOS_01_NAME,Clash of the Titans
 ID_MISSION_EVENT_THANOS_01_DESC,The S.T.R.I.K.E. team must attempt to lure Thanos out of New York City.
 ID_MISSION_EVENT_THANOS_02_NAME,Prison Break
@@ -193,6 +199,24 @@ ID_MISSION_DOOM_1_8_NAME,Grand Arrival
 ID_MISSION_DOOM_1_8_DESC,"Reed Richards is ready to open the gates to Nexus Earth, but corrupted Super Soldiers will do whatever they can to stop him!"
 ID_MISSION_DOOM_1_9_NAME,Agents of Doom
 ID_MISSION_DOOM_1_9_DESC,"With S.T.R.I.K.E. about to breach his barrier, Doom sends his top lieutenants, hoping to crush them at the precipice of the Nexus!"
+ID_MISSION_DOOM_2_1_NAME,Homecoming
+ID_MISSION_DOOM_2_2_NAME,Political Puppets
+ID_MISSION_DOOM_2_3_NAME,Royal Vs. Royal
+ID_MISSION_DOOM_2_4_NAME,Act Casual...
+ID_MISSION_DOOM_2_5_NAME,Extra Credit
+ID_MISSION_DOOM_2_6_NAME,Task at Hand
+ID_MISSION_DOOM_2_7_NAME,S.T.R.I.K.E. Uncovered
+ID_MISSION_DOOM_2_8_NAME,Battle Stations!
+ID_MISSION_DOOM_2_9_NAME,Doom Inevitable
+ID_MISSION_DOOM_2_1_DESC,S.T.R.I.K.E. learns that Doom is attacking one of the last free nations on Earth... The kingdom of Wakanda!
+ID_MISSION_DOOM_2_2_DESC,Doom's emmisary attempts to offer T'Chala and Shuri a deal for Wakanda's allegiance.
+ID_MISSION_DOOM_2_3_DESC,The Wakandan royal family faces off against their corrupted counterparts!
+ID_MISSION_DOOM_2_4_DESC,"In the island nation of Madripoor, S.T.R.I.K.E. seeks out an inter-dimensional mole with crucial intel on Doctor Doom."
+ID_MISSION_DOOM_2_5_DESC,"Doom's black ops forces spring a trap to catch Mystique, snaring S.T.R.I.K.E. as a bonus!"
+ID_MISSION_DOOM_2_6_DESC,Corrupted Taskmaster and Bullseye aren't going to let S.T.R.I.K.E. get away with Mystique's intel so easily!
+ID_MISSION_DOOM_2_7_DESC,"Returned from Madripoor, S.T.R.I.K.E. is decoding their new intel when Doom's Kree forces attack!"
+ID_MISSION_DOOM_2_8_DESC,"As Fury attempts to fortify their base, a second wave of Doom's forces arrive to destroy it!"
+ID_MISSION_DOOM_2_9_DESC,"Just as S.T.R.I.K.E. turns the tide, they're faced with an unstoppable foe... Doctor Doom!"
 ID_MISSION_HER_1_0_NAME,It's Spidey Time!
 ID_MISSION_HER_1_0_DESC,Spider-Man confronts mercenaries attempting to smuggle interdimensional orbs into New York City.
 ID_MISSION_HER_1_1_NAME,Closing In
@@ -1991,6 +2015,24 @@ ID_ECM_SCREAM_08_NAME,Unbridled
 ID_ECM_SCREAM_08_DESC,"Scream turns into an unbridled rage machine, destroying everything between her and her revenge against Doctor Doom."
 ID_ECM_SCREAM_09_NAME,Revenge
 ID_ECM_SCREAM_09_DESC,Scream gets her ultimate revenge against her handlers.
+ID_ECM_STATURE_01_DESC,Stature arrives in the nick of time to save Ant-Man and Wasp from certain defeat!
+ID_ECM_STATURE_01_NAME,Saving the Day
+ID_ECM_STATURE_02_DESC,The Quantum Realm proves to be quite different than what Stature was expecting. Now she and Ant-Man are in the fight of their lives!
+ID_ECM_STATURE_02_NAME,Welcome to Mirwood
+ID_ECM_STATURE_03_DESC,"Stranded in Mirwood, Stature and Ant-Man set out to get help from their counterparts who have other ideas for the duo."
+ID_ECM_STATURE_03_NAME,Friends and Foes
+ID_ECM_STATURE_04_DESC,Stature and Ant-Man are surprised by an ambush in the ruins of the resistance hideout.
+ID_ECM_STATURE_04_NAME,Troubling Times
+ID_ECM_STATURE_05_DESC,"Following Wasp to another resistance hideout, Stature and Ant-Man run into more trouble."
+ID_ECM_STATURE_05_NAME,New Hope
+ID_ECM_STATURE_06_DESC,Stature and Ant-Man make it to the resistance base just in time to help defend it from Yellowjacket!
+ID_ECM_STATURE_06_NAME,Mystical Forces
+ID_ECM_STATURE_07_DESC,"Needing to do some good, Stature and Ant-Man set out to give the resistance a leg up on Baron Zemo's forces."
+ID_ECM_STATURE_07_NAME,History Repeating
+ID_ECM_STATURE_08_DESC,Stature and Ant-Man set out to destroy Baron Zemo's defenses.
+ID_ECM_STATURE_08_NAME,Poker Face
+ID_ECM_STATURE_09_DESC,Stature and Ant-Man come to a final stand off with Baron Zemo with the fate of Mirwood at stake!
+ID_ECM_STATURE_09_NAME,Despair and Glory
 ID_ECM_SIX_01_NAME,Back Together
 ID_ECM_SIX_01_DESC,"On a search for allies, Green Goblin ends up cornered by a team of corrupted City Heroes and S.H.I.E.L.D. agents."
 ID_ECM_SIX_02_NAME,Sinister Larceny

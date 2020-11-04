@@ -61,11 +61,11 @@
   "PerStarPower": 30,
   "StarInflationMult": 1,
   "SpeedMultiplierExponent": 0.8,
-  "LevelCap": 75,
+  "LevelCap": 80,
   "StarCap": 7,
   "AbilityLevelCap": 7,
   "PassiveAbilityLevelCap": 5,
-  "GearTierCap": 14,
+  "GearTierCap": 15,
   "modelPrefix": "Ent_",
   "storyTellingPrefix": "ST_Ent_",
   "defaultNUEModule": "nue_StartIntro",
@@ -179,6 +179,5 @@
   "PowerApproxModArmor": 0.2,
   "PowerApproxModFocus": 0.175,
   "PowerApproxModResistance": 0.175,
-  "MaxItemCountInStore": 9999,
-  "IsoAbilityTooltipHeaderString": "{0} <color=yellow>{1}</color>"
+  "MaxItemCountInStore": 9999
 }

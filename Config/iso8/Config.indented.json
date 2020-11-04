@@ -1,0 +1,199 @@
+{
+  "TreeCooldownSeconds": 0,
+  "MaxQualityPerTier": 5,
+  "fuse_cost": {
+    "2": 1000,
+    "3": 2000,
+    "4": 5000,
+    "5": 10000
+  },
+  "matrix_quality_stats": {
+    "protector": {
+      "max_hp_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "damage_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "armor_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "focus_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "resistance_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ]
+    },
+    "blaster": {
+      "max_hp_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "damage_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "armor_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "focus_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "resistance_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ]
+    },
+    "support": {
+      "max_hp_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "damage_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "armor_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "focus_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "resistance_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ]
+    },
+    "brawler": {
+      "max_hp_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "damage_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "armor_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "focus_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "resistance_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ]
+    },
+    "controller": {
+      "max_hp_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "damage_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "armor_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "focus_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "resistance_pct": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ]
+    }
+  },
+  "CampaignName": "ISO8_CAMPAIGN",
+  "Name": "Config"
+}

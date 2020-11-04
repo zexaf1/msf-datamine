@@ -130,6 +130,7 @@ ID_LOGIN_NA_IM_LIFECYCLE,S.H.I.E.L.D.
 ID_LOGIN_DE_IM_LIFECYCLE,Log in 7 days to earn S.H.I.E.L.D. Security shards!
 ID_LOGIN_NA_BB_PRE,Unite the Kingdoms
 ID_LOGIN_DE_BB_PRE,Log in 7 consecutive days to earn Asgardian character shards!
+ID_LOGIN_NA_IW_PRE,Now You See Me
 ID_LOGIN_DE_IW_PRE,Log in 7 consecutive days to earn Sinister Six shards!
 ID_LOGIN_NA_MG_PRE,Asteroid M
 ID_LOGIN_DE_MG_PRE,Log in 7 consecutive days to earn X-Men and Brotherhood shards!
@@ -272,3 +273,5 @@ ID_LOGIN_BESTVILLAIN_GROUP_A_NA,Best Villains
 ID_LOGIN_BESTVILLAIN_GROUP_A_DE,Log in every day to earn valuable gear and resources
 ID_LOGIN_HALLOWEEN_NA,Halloween Prep
 ID_LOGIN_HALLOWEEN_DE,Log in 14 consecutive days to claim Gold Promotion Credits in preparation of the scariest day of the year
+ID_LOGIN_NA_FALL2020,Bounty
+ID_LOGIN_DE_FALL2020,"Log in for 7 consecutive days to earn up to 14 Bounty Orbs. Each orb contains Improved, Advanced, and Superior Gear."

@@ -1,0 +1,202 @@
+{
+  "Name": "config_balanced_roster",
+  "nameLocKey": "ID_DRAFT_MODE_BALANCEDROSTER",
+  "descLocKey": "ID_DRAFT_MODE_BALANCEDROSTER_DESC",
+  "reqLocKey": "ID_DRAFT_MODE_BALANCEDROSTER_REQ",
+  "detailLocKey": "ID_DRAFT_MODE_BALANCEDROSTER_DETAIL",
+  "topBarLocKey": "ID_DRAFT_TOP_BAR_BALANCED",
+  "rulesBodyLocKey": "ID_DRAFT_RULES_BODY_BALANCED",
+  "draftMaxPlayers": 2,
+  "draftIdleCountBeforeForfeit": 3,
+  "visible": true,
+  "ignoreIso8": true,
+  "combatConfig": {
+    "ignoreAllianceBoosts": true,
+    "matchTimerSeconds": 600,
+    "matchOvertimeTurns": 8,
+    "matchOvertimeSafetyDurationSeconds": 240,
+    "checkpointSeconds": 180,
+    "idleCounterCapSeconds": 15,
+    "idleCounterMilliseconds": 18000,
+    "remotePlayerIdleBufferMilliseconds": 5000,
+    "idleCountBeforeForfeit": 3,
+    "timeScale": 3
+  },
+  "combatCost": {
+    "type": "res",
+    "data": "energy-syncpvp",
+    "quantity": 0
+  },
+  "energyRefillType": "sync_pvp_energy",
+  "ignoreFilteredHeroesForAutochoose": true,
+  "useOriginalPowerForAutochoose": true,
+  "preferFavoriteHeroesForAutochoose": true,
+  "heroStatsModifiers": [
+    {
+      "filters": {
+        "tier": 9
+      },
+      "statFixed": {
+        "level": 75,
+        "loyalty": 7,
+        "tier": 13,
+        "redstar": 0,
+        "abilities": [
+          7,
+          7,
+          7,
+          5
+        ]
+      }
+    }
+  ],
+  "draftPhases": [
+    {
+      "phaseId": "P1Ban1",
+      "phaseType": "choice",
+      "phaseParam": "ban",
+      "phasePlayerIdx": 0,
+      "phaseTimer": 70
+    },
+    {
+      "phaseId": "P1Ban2",
+      "phaseType": "choice",
+      "phaseParam": "ban",
+      "phasePlayerIdx": 0,
+      "phaseTimer": 35
+    },
+    {
+      "phaseId": "P2Ban1",
+      "phaseType": "choice",
+      "phaseParam": "ban",
+      "phasePlayerIdx": 1,
+      "phaseTimer": 65
+    },
+    {
+      "phaseId": "P2Ban2",
+      "phaseType": "choice",
+      "phaseParam": "ban",
+      "phasePlayerIdx": 1,
+      "phaseTimer": 35
+    },
+    {
+      "phaseId": "P1Pick1",
+      "phaseType": "choice",
+      "phaseParam": "pick",
+      "phasePlayerIdx": 0,
+      "phaseTimer": 35
+    },
+    {
+      "phaseId": "P2Pick1",
+      "phaseType": "choice",
+      "phaseParam": "pick",
+      "phasePlayerIdx": 1,
+      "phaseTimer": 35
+    },
+    {
+      "phaseId": "P2Pick2",
+      "phaseType": "choice",
+      "phaseParam": "pick",
+      "phasePlayerIdx": 1,
+      "phaseTimer": 35
+    },
+    {
+      "phaseId": "P1Pick2",
+      "phaseType": "choice",
+      "phaseParam": "pick",
+      "phasePlayerIdx": 0,
+      "phaseTimer": 35
+    },
+    {
+      "phaseId": "P1Pick3",
+      "phaseType": "choice",
+      "phaseParam": "pick",
+      "phasePlayerIdx": 0,
+      "phaseTimer": 35
+    },
+    {
+      "phaseId": "P2Pick3",
+      "phaseType": "choice",
+      "phaseParam": "pick",
+      "phasePlayerIdx": 1,
+      "phaseTimer": 35
+    },
+    {
+      "phaseId": "P2Pick4",
+      "phaseType": "choice",
+      "phaseParam": "pick",
+      "phasePlayerIdx": 1,
+      "phaseTimer": 35
+    },
+    {
+      "phaseId": "P1Pick4",
+      "phaseType": "choice",
+      "phaseParam": "pick",
+      "phasePlayerIdx": 0,
+      "phaseTimer": 35
+    },
+    {
+      "phaseId": "P1Pick5",
+      "phaseType": "choice",
+      "phaseParam": "pick",
+      "phasePlayerIdx": 0,
+      "phaseTimer": 35
+    },
+    {
+      "phaseId": "P2Pick5",
+      "phaseType": "choice",
+      "phaseParam": "pick",
+      "phasePlayerIdx": 1,
+      "phaseTimer": 35
+    },
+    {
+      "phaseId": "P2Reject1",
+      "phaseType": "choice",
+      "phaseParam": "reject",
+      "phasePlayerIdx": 1,
+      "phaseTimer": 35
+    },
+    {
+      "phaseId": "P1Reject1",
+      "phaseType": "choice",
+      "phaseParam": "reject",
+      "phasePlayerIdx": 0,
+      "phaseTimer": 35
+    },
+    {
+      "phaseId": "P1Pick6",
+      "phaseType": "choice",
+      "phaseParam": "pick",
+      "phasePlayerIdx": 0,
+      "phaseTimer": 35
+    },
+    {
+      "phaseId": "P2Pick6",
+      "phaseType": "choice",
+      "phaseParam": "pick",
+      "phasePlayerIdx": 1,
+      "phaseTimer": 35
+    }
+  ],
+  "charTraits": [
+    "Protector",
+    "Blaster",
+    "Brawler",
+    "Support",
+    "Controller"
+  ],
+  "clientTimerBuffer": 5,
+  "introTimeBuffer": 5,
+  "combatStartDelay": 3,
+  "defaultFilter": "ALPHABETICALLY_SORT",
+  "draftRequirements": {
+    "heroesUnlocked": 16,
+    "heroesGearTierMin": 9,
+    "playerLevel": 65
+  },
+  "challengeExpireSeconds": 300,
+  "showHeroStars": false,
+  "showHeroPower": false,
+  "showHeroLevel": false,
+  "requiredHeroesForAuto": 16
+}

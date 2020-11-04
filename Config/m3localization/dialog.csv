@@ -2666,10 +2666,10 @@ ID_DIALOG_NEXUS_8_7_END_3,Then let's not waste any time. Let's get out of here b
 ID_DIALOG_NEXUS_8_7_END_4,Too late.
 ID_DIALOG_NEXUS_8_8_INTRO_0,"Capturing me in a dimension that's merged with the M'Kraan Crystal is ingenious, Fury. But now you're caught in your own trap!"
 ID_DIALOG_NEXUS_8_8_INTRO_1,"Have your pawns open a portal back home. Let's finish this battle as warriors rather than as prisoners. "
-ID_DIALOG_NEXUS_8_8_INTRO_2,"You're fooling yourself, Ultimus. I'd sooner spend 1,000 years trapped in this dimension with you than release you back into the multiverse. "
+ID_DIALOG_NEXUS_8_8_INTRO_2,"You're fooling yourself, Ultimus. I'd sooner spend 1,000 years trapped in this dimension than release you back into the multiverse. "
 ID_DIALOG_NEXUS_8_8_START_0,"I have an eternity to break Chavez and Phoenix's wills and get them to release me, Fury."
 ID_DIALOG_NEXUS_8_8_START_1,But I don't need you to be free. This dimension will be your tomb!
-ID_DIALOG_NEXUS_8_8_END_0,"I am order incarnate, Fury! The Supreme Intelligence showed me a multiverse infected with free will! Without me to control it, chaos reigns!"
+ID_DIALOG_NEXUS_8_8_END_0,"I am order incarnate, Fury! The Supreme Intelligence showed me a multiverse infected with free will! Without my control, chaos reigns!"
 ID_DIALOG_NEXUS_8_8_END_1,"I've heard that pitch before, Ultimus. I'll hear it again. But at least it won't be from you. Cyclops, hit him!"
 ID_DIALOG_NEXUS_8_8_END_2,"Everyone, back up!"
 ID_DIALOG_NEXUS_8_8_END_3,AAAAAARGH! NO!
@@ -2968,6 +2968,159 @@ ID_DIALOG_DOOM_1_09_END_5,"Coming in hot, Fury! All aboard, we're ramming this t
 ID_DIALOG_DOOM_1_09_END_6,"You heard the lady, S.T.R.I.K.E.! We're going home."
 ID_DIALOG_DOOM_1_09_END_7,"You view this as a victory, but you're returning to a world where Doom rules! You'll be crushed immediately. "
 ID_DIALOG_DOOM_1_09_END_8,"I'll take that challenge. See you on the other side, Doom. "
+ID_DIALOG_DOOM_2_01_INTRO_0,"I see we're meeting in another of your ""safe houses"", eh, Fury? "
+ID_DIALOG_DOOM_2_01_INTRO_1,"Each time Doom finds one and drives us back underground, I wonder... how many of these hidden bases do you have?"
+ID_DIALOG_DOOM_2_01_INTRO_2,"I have more contingencies than you've got arms, Octavius. "
+ID_DIALOG_DOOM_2_01_INTRO_3,"Now, do you have anything constructive to add? Like, maybe, the intel your team was sent to acquire?"
+ID_DIALOG_DOOM_2_01_INTRO_4,"Ah, yes. Doom's takeover was met with shockingly little resistance. Few countries turned down his offer of iron-fisted prosperity. "
+ID_DIALOG_DOOM_2_01_INTRO_5,We learned Doom is sending an army to take one particularly pesky rebel nation that's never been conquered...
+ID_DIALOG_DOOM_2_01_INTRO_6,"Wakanda. Director Fury, I cannot stay if my kingdom..."
+ID_DIALOG_DOOM_2_01_INTRO_7,Your Highness. Go. But take backup.
+ID_DIALOG_DOOM_2_01_START_0,"Mercs, fall in line! Doom's forces aren't getting anywhere near Wakandan soil."
+ID_DIALOG_DOOM_2_01_START_1,"Your soldiers are efficient, Killmonger. But do not get comfortable here. "
+ID_DIALOG_DOOM_2_01_START_2,"We can settle our history later, cuz. I'm looking forward to it."
+ID_DIALOG_DOOM_2_01_END_0,"These invaders turn back so easily, brother! How did Doctor Doom conquer Earth if his forces can't even finish a fight?"
+ID_DIALOG_DOOM_2_01_END_1,"They're falling back, but not retreating. That was only the first wave, Shuri."
+ID_DIALOG_DOOM_2_01_END_2,"Whatever Doom is up to, he has only begun his invasion of Wakanda. "
+ID_DIALOG_DOOM_2_01_END_3,"Right you are, Your Highness. I come bearing a message. "
+ID_DIALOG_DOOM_2_02_INTRO_0,"Emperor Doom speaks for himself. He sends this telepathic message to your subjects. "
+ID_DIALOG_DOOM_2_02_INTRO_1,"Wakandans! Your nation prospered in the old world. Your ingenuity and resourcefulness have not gone unnoticed by Doom. "
+ID_DIALOG_DOOM_2_02_INTRO_2,"But the old world is gone. The one Doom has built in its ashes is stronger, safer, and ready for Wakanda to join it. "
+ID_DIALOG_DOOM_2_02_INTRO_3,"And if you refuse? I command the army Ultimus once wielded, as well as the forces of every nation on Earth. "
+ID_DIALOG_DOOM_2_02_INTRO_4,Be added to my legion and continue to prosper... or be destroyed by the might of Doom!
+ID_DIALOG_DOOM_2_02_START_0,"Doom claims to be a genius, yet he makes the same threat every conqueror throughout history has made. "
+ID_DIALOG_DOOM_2_02_START_1,Return to your master and tell him that Wakanda will remain free long after he is gone.
+ID_DIALOG_DOOM_2_02_START_2,"Did you think I was a mere messenger, Your Highness? Oh, darling, I'm not just the ""join us,"" I'm also the ""or else""!"
+ID_DIALOG_DOOM_2_02_END_0,"You may be made of diamond, Ms. Frost... But my kingdom is made of Vibranium. "
+ID_DIALOG_DOOM_2_03_INTRO_0,"North perimeter secure. But we got new alarms coming in. "
+ID_DIALOG_DOOM_2_03_INTRO_1,These alarms are guarding the passages we built that lead underground to the Great Mound!
+ID_DIALOG_DOOM_2_03_INTRO_2,"How would Doom know about these, brother? The only ones who knew..."
+ID_DIALOG_DOOM_2_03_INTRO_3,"Are you and I. I think I know how Doom discovered them. "
+ID_DIALOG_DOOM_2_03_INTRO_4,"Quickly, we need to reach these intruders before it's too late!"
+ID_DIALOG_DOOM_2_03_START_0,As I suspected. Doom has sent corrupted versions of ourselves to take Wakanda.
+ID_DIALOG_DOOM_2_03_START_1,"Wakanda bows to no outsiders. But perhaps the people of Nexus Wakanda will see their way to following us! "
+ID_DIALOG_DOOM_2_03_START_2,Doom will control Wakanda... Once we remove the two of you!
+ID_DIALOG_DOOM_2_03_END_0,"Doom will not stop. Like Ultimus before him, his might is impossible to resist. "
+ID_DIALOG_DOOM_2_03_END_1,"Unlike yours, our nation resisted Ultimus, and will continue to stand against Doom. Your will is just too broken to see it."
+ID_DIALOG_DOOM_2_03_END_2,"But you are Wakandan, so we shall keep you in stasis here on Wakandan soil until you can be restored. "
+ID_DIALOG_DOOM_2_03_END_3,"How'd the insurrection go, Your Highness?"
+ID_DIALOG_DOOM_2_03_END_4,"Wakanda is safe for the moment, Director. But my sister and I must remain here. Doom is not likely to give up."
+ID_DIALOG_DOOM_2_03_END_5,"I understand, but when the resistance needs you... "
+ID_DIALOG_DOOM_2_03_END_6,Of course.
+ID_DIALOG_DOOM_2_03_END_7,"Brother, is that Fury on the line? Excellent! "
+ID_DIALOG_DOOM_2_03_END_8,"Upon our return, I checked our comms and someone has been attempting to reach you through us!"
+ID_DIALOG_DOOM_2_03_END_9,A message from someone claiming to have intel... from Madripoor.
+ID_DIALOG_DOOM_2_04_INTRO_0,THE ISLAND NATION OF MADRIPOOR...
+ID_DIALOG_DOOM_2_04_INTRO_1,"Keep your wits about you. We haven't located our contact yet, and Madripoor is a dangerous place. "
+ID_DIALOG_DOOM_2_04_INTRO_2,"A whole island nation of criminals. This place is horrible, dark, and slimy. You'll fit right in, Gobby. "
+ID_DIALOG_DOOM_2_04_INTRO_3,"Grr. Fury sent us because my team knows the underworld, insect. I don't know why I must suffer YOUR presence. "
+ID_DIALOG_DOOM_2_04_INTRO_4,"Me? I'm here because letting you run around ""Crime Island"" unsupervised is like letting Galactus loose at a cosmic buffet. "
+ID_DIALOG_DOOM_2_04_INTRO_5,"Think of me as a guard, or a chaperone. Whichever annoys you the most."
+ID_DIALOG_DOOM_2_04_INTRO_6,Goblin! We asked around about our mystery contact who reached out to S.T.R.I.K.E. and...
+ID_DIALOG_DOOM_2_04_INTRO_7,Well? Spit it out! What did you learn?
+ID_DIALOG_DOOM_2_04_INTRO_8,They learned that you ain't supposed to go around askin' questions here in Madripoor. Or at least... you're about to.
+ID_DIALOG_DOOM_2_04_START_0,"You fools attracted too much attention! "
+ID_DIALOG_DOOM_2_04_START_1,"Said the inconspicuous dinosaur man. "
+ID_DIALOG_DOOM_2_04_START_2,We need to remove these mercenaries before whoever hired them finds out we're sniffing around!
+ID_DIALOG_DOOM_2_04_START_3,DEFEAT THE <color=#fff568>ENEMY OPERATORS</color> TO WIN.
+ID_DIALOG_DOOM_2_04_OPERATOR_01_0,Calling this S.T.R.I.K.E. sighting in to Doom! The reward's gonna be huge!
+ID_DIALOG_DOOM_2_04_OPERATOR_01_1,1 / 4 STAGES COMPLETE.
+ID_DIALOG_DOOM_2_04_OPERATOR_02_0,Lines of communication are open! Start transmitting their location!
+ID_DIALOG_DOOM_2_04_OPERATOR_02_1,2 / 4 STAGES COMPLETE.
+ID_DIALOG_DOOM_2_04_OPERATOR_03_0,If we don't stop these guys now this mission's going to be over real quick!
+ID_DIALOG_DOOM_2_04_OPERATOR_03_1,3 / 4 STAGES COMPLETE.
+ID_DIALOG_DOOM_2_04_OPERATOR_LOSE_0,"Intel relayed to Doom! They're sending an army to stop these guys, we're gonna get paid!"
+ID_DIALOG_DOOM_2_04_END_0,"Well, good news, all the new friends you guys made for us are unconscious."
+ID_DIALOG_DOOM_2_04_END_1,But we're no closer to finding whoever was trying to reach S.T.R.I.K.E.
+ID_DIALOG_DOOM_2_04_END_2,"True. Luckily, with all the commotion you made... I was able to find you."
+ID_DIALOG_DOOM_2_05_INTRO_0,"Mystique? You already work for S.T.R.I.K.E., why the theatrics?"
+ID_DIALOG_DOOM_2_05_INTRO_1,"I'm not your Mystique, genius. When S.T.R.I.K.E. rescued people from my dimension, I shape-shifted my way onto a transport. "
+ID_DIALOG_DOOM_2_05_INTRO_2,"Once I got here, it was simple enough for me to take over the Madripoor underworld. Until Doom."
+ID_DIALOG_DOOM_2_05_INTRO_3,"Yeah, I imagine metal mouth can't be happy to have a whole island doing dirty deeds dirt cheap on his watch."
+ID_DIALOG_DOOM_2_05_INTRO_4,"Doom's bad for business. So, when I got some interesting information about Latverian energy signatures..."
+ID_DIALOG_DOOM_2_05_INTRO_5,So you called up S.T.R.I.K.E. What have you got for us?
+ID_DIALOG_DOOM_2_05_INTRO_6,"Not here, once we're clear I can... Wait, did you hear that?"
+ID_DIALOG_DOOM_2_05_INTRO_7,*BOOM!*
+ID_DIALOG_DOOM_2_05_START_0,"Breach is clear! We found the targets! "
+ID_DIALOG_DOOM_2_05_START_1,The boss wants Mystique taken alive. The rest... Who cares?
+ID_DIALOG_DOOM_2_05_END_0,"They're down, but not out. Mystique, are you still with us?"
+ID_DIALOG_DOOM_2_05_END_1,"Right here. "
+ID_DIALOG_DOOM_2_05_END_2,"Never took you for the chivalrous type, Osborn."
+ID_DIALOG_DOOM_2_05_END_3,"Don't be flattered, you have information we need. Now, let's get out of here before this ""boss"" arrives."
+ID_DIALOG_DOOM_2_05_END_4,"Too late, ugly. And guess what... "
+ID_DIALOG_DOOM_2_05_END_5,"There's two of us! Surprise. "
+ID_DIALOG_DOOM_2_06_START_0,"So, you two morons have been running Doom's black ops team? "
+ID_DIALOG_DOOM_2_06_START_1,"Such nasty names! And after we went to all this trouble of tracking you down to kill you! "
+ID_DIALOG_DOOM_2_06_START_2,"We're putting an end to your operation, Mystique. And if we get to crack a few S.T.R.I.K.E. skulls in the process?"
+ID_DIALOG_DOOM_2_06_START_3,Bonus!
+ID_DIALOG_DOOM_2_06_END_0,"They're finally falling back! Mystique, better give us that intel while we have the chance."
+ID_DIALOG_DOOM_2_06_END_1,"Right. An ex-Hydra scientist came to me for protection. He said there are surges of interdimensional energy in Latveria. "
+ID_DIALOG_DOOM_2_06_END_2,"I took the data off of him and figured whatever it means... S.T.R.I.K.E. can figure it out. "
+ID_DIALOG_DOOM_2_06_END_3,We'll get this to the big brains back at S.T.R.I.K.E.
+ID_DIALOG_DOOM_2_06_END_4,Great. We can figure out my fee later.
+ID_DIALOG_DOOM_2_06_END_5,LATER...
+ID_DIALOG_DOOM_2_06_END_6,They're gone? Perfect. Did you plant the tracker?
+ID_DIALOG_DOOM_2_06_END_7,"Heh. Right under his big green scales. Osborn's leading us right to Nick Fury, and he has no idea. "
+ID_DIALOG_DOOM_2_07_INTRO_0,"From these readings, Doom isn't using the interdimensional energy to open portals. "
+ID_DIALOG_DOOM_2_07_INTRO_1,It's something different. But somehow familiar...
+ID_DIALOG_DOOM_2_07_INTRO_2,"Um, sorry to break up the super genius society meeting, but I think I found a problem. "
+ID_DIALOG_DOOM_2_07_INTRO_3,"Parker, if you're not helping decode these readings, you ARE the problem."
+ID_DIALOG_DOOM_2_07_INTRO_4,"My Spider-Sense has been going nuts around Osborn. I assumed it was just his breath, but it got stronger when we got to base. "
+ID_DIALOG_DOOM_2_07_INTRO_5,"I think Taskmaster might have planted a tracker on him. "
+ID_DIALOG_DOOM_2_07_INTRO_6,"That was hours ago. If Doom has tracked him back to this base, it means they must be... "
+ID_DIALOG_DOOM_2_07_INTRO_7,Tony! Fury! Come in! We've got incoming!
+ID_DIALOG_DOOM_2_07_START_0,We've broken through the perimeter! For Emperor Doom!
+ID_DIALOG_DOOM_2_07_START_1,"Doom's got a Kree army now?! F.R.I.D.A.Y., look into getting me a Kree army, it seems neat. "
+ID_DIALOG_DOOM_2_07_END_0,First wave of the Kree are down. Radar's picking up more forces coming in quick. A lot more.
+ID_DIALOG_DOOM_2_07_END_1,"Damn! Doom's got us cornered, he's coming in for the kill. We need to fall back."
+ID_DIALOG_DOOM_2_07_END_2,"One problem, Fury - Reed's only halfway through decoding that data. "
+ID_DIALOG_DOOM_2_07_END_3,"If we leave now? Whatever Doom's up to stays a mystery. "
+ID_DIALOG_DOOM_2_07_END_4,Then we hold the line. For as long as we can.
+ID_DIALOG_DOOM_2_08_INTRO_0,"Reed, I need that data done, now. "
+ID_DIALOG_DOOM_2_08_INTRO_1,"I'm calculating 8,462 variant equations at once, Fury. Even I can only stretch myself so thin."
+ID_DIALOG_DOOM_2_08_INTRO_2,"This base is about to become a crater, Dr. Richards. Go thinner. "
+ID_DIALOG_DOOM_2_08_INTRO_3,"Director Fury, we have an incoming transmission. "
+ID_DIALOG_DOOM_2_08_INTRO_4,And I'll bet my good eye I know who it's from.
+ID_DIALOG_DOOM_2_08_INTRO_5,"Nick Fury. Your resistance ends here. "
+ID_DIALOG_DOOM_2_08_START_0,"How many of your bases must my corrupted soldiers destroy, Fury? "
+ID_DIALOG_DOOM_2_08_START_1,How many times must your pathetic band scurry away like cockroaches before Doom crushes you under his heel?
+ID_DIALOG_DOOM_2_08_START_2,"You know what? Let's find out. You're the only thing on my schedule, Doom."
+ID_DIALOG_DOOM_2_08_END_0,"Fury, the data's calculated. My god, I know what Victor's up to. "
+ID_DIALOG_DOOM_2_08_END_1,"Great! Let's learn about all the, you know, horror at the next rendezvous point, shall we?"
+ID_DIALOG_DOOM_2_08_END_2,"You're going nowhere, S.T.R.I.K.E.! "
+ID_DIALOG_DOOM_2_08_END_3,"Uh, that doesn't seem like a transmission, Fury. "
+ID_DIALOG_DOOM_2_08_END_4,"Your arrogance has forced the hand of Doom! I shall destroy you myself, once and for all!"
+ID_DIALOG_DOOM_2_09_INTRO_0,"First you fall, Fury, then S.T.R.I.K.E. ends! With no resistance remaining, Doom takes his rightful place in the center of reality!"
+ID_DIALOG_DOOM_2_09_INTRO_1,"And people say I have an ego. See how much worse I could be? "
+ID_DIALOG_DOOM_2_09_INTRO_2,"Hey, uh, anyone else reading all the excess energy coming off Doom? Fury... I don't know that we can beat him."
+ID_DIALOG_DOOM_2_09_INTRO_3,"Then we need to hold him off while we get our people to safety. The resistance can't end here. "
+ID_DIALOG_DOOM_2_09_INTRO_4,"I'll do what I can to hold him off, but I need serious backup. Like, not the guy made of bees. "
+ID_DIALOG_DOOM_2_09_INTRO_5,"I had something in mind. "
+ID_DIALOG_DOOM_2_09_INTRO_6,"You ready to hold up your side of our bargain? "
+ID_DIALOG_DOOM_2_09_INTRO_7,"Oh, yes. Bring this so-called Doom to me. "
+ID_DIALOG_DOOM_2_09_START_0,"Thanos, Doom. Doom, Thanos. You two should get along, you have a LOT in common."
+ID_DIALOG_DOOM_2_09_START_1,You humans. You let this petty tyrant take over your world?
+ID_DIALOG_DOOM_2_09_START_2,"You speak to someone who once ruled all of reality. Come, and I'll show you the difference between us."
+ID_DIALOG_DOOM_2_09_START_3,DOCTOR DOOM IS POWERED UP BY INTERDIMENSIONAL ENERGY AND CANNOT BE DEFEATED!
+ID_DIALOG_DOOM_2_09_START_4,PROTECT YOUR <color=#fff568>OPERATOR</color> IN ORDER TO EVAC THE BASE AND WIN.
+ID_DIALOG_DOOM_2_09_OPERATOR_01_0,"Bow before me, Mad Titan. Surrender and perhaps Doom will be merciful. Perhaps. "
+ID_DIALOG_DOOM_2_09_OPERATOR_01_1,"Um, Doom's shrugging off blasts from Thanos's gauntlet now. I'd be impressed if I wasn't, you know, scared out of my mind."
+ID_DIALOG_DOOM_2_09_OPERATOR_01_2,1 / 4 STAGES COMPLETE.
+ID_DIALOG_DOOM_2_09_OPERATOR_02_0,"The drop ship is here, people! Let's clear them a path so we can get out of here!"
+ID_DIALOG_DOOM_2_09_OPERATOR_02_1,2 / 4 STAGES COMPLETE.
+ID_DIALOG_DOOM_2_09_OPERATOR_03_0,Most of the team is evaced! Keep buying us time!
+ID_DIALOG_DOOM_2_09_OPERATOR_03_1,3 / 4 STAGES COMPLETE.
+ID_DIALOG_DOOM_2_09_OPERATOR_LOSE_0,"This is the end of your rebellion, Fury. But it is just the beginning... for Doom!"
+ID_DIALOG_DOOM_2_09_END_0,You... have not bested me... yet... Doom...
+ID_DIALOG_DOOM_2_09_END_1,"Your perseverance is admirable, but you've lost, Thanos. "
+ID_DIALOG_DOOM_2_09_END_2,"Watch, as I crush your precious gems to dust. Then, Doom will do the same to your bones..."
+ID_DIALOG_DOOM_2_09_END_3,"Stark, we're clear! Get out of there!"
+ID_DIALOG_DOOM_2_09_END_4,"Okay, big purp! Time to go! As much as I hate saving you, we're going to need you."
+ID_DIALOG_DOOM_2_09_END_5,"I will finish this fight, Stark... "
+ID_DIALOG_DOOM_2_09_END_6,"Yeah, sure, you're very big and strong. Let's go before Doom catches up. "
+ID_DIALOG_DOOM_2_09_END_7,What's this? Running again?!
+ID_DIALOG_DOOM_2_09_END_8,"Flee, then. This base crumbles and your next will fare no better! There is nowhere on Earth that you can hide!"
+ID_DIALOG_DOOM_2_09_END_9," All... is Doom. "
 ID_DIALOG_ECM_ANTMAN_01_INTRO_0,"Ant-Man, S.T.R.I.K.E. needs your help."
 ID_DIALOG_ECM_ANTMAN_01_INTRO_1,"Wow, me? Seriously? What do you need me to steal?"
 ID_DIALOG_ECM_ANTMAN_01_INTRO_2,Nothing. We need a different set of skills this time around.
@@ -6746,6 +6899,159 @@ ID_DIALOG_ECM_SCREAM_09_END_8,We can't. Not after what Doom has put us through. 
 ID_DIALOG_ECM_SCREAM_09_END_9,"And he will, but first let me help you."
 ID_DIALOG_ECM_SCREAM_09_END_10,What'll we owe? Nothing is ever free.
 ID_DIALOG_ECM_SCREAM_09_END_11,Just your help taking down Doctor Doom.
+ID_DIALOG_ECM_STATURE_01_INTRO_0,"Director Fury, we have a problem."
+ID_DIALOG_ECM_STATURE_01_INTRO_1,We've lost contact with Ant-Man and his team while they were doing some recon work on Doom's Sokovian outpost...
+ID_DIALOG_ECM_STATURE_01_INTRO_2,"*gasp* Did you hear that, America? I have to go help him!"
+ID_DIALOG_ECM_STATURE_01_INTRO_3,"Easy there, Chica. They're full-fledged S.T.R.I.K.E. agents! You're still getting used to your powers."
+ID_DIALOG_ECM_STATURE_01_INTRO_4,"I've been practicing! Besides, he's my Dad! I have to try to save him."
+ID_DIALOG_ECM_STATURE_01_INTRO_5,Just teleport me there and stand back! I've got a big idea.
+ID_DIALOG_ECM_STATURE_01_START_0,"Just a little longer, everyone. S.T.R.I.K.E.'s gotta be on their way already."
+ID_DIALOG_ECM_STATURE_01_START_1,That's what you said five hours ago. I knew I should never have trusted S.T.R.I.K.E. to have my back.
+ID_DIALOG_ECM_STATURE_01_START_2,YELLOWJACKET IS A <color=#fff568>BLASTER</color> THAT DRAINS THE LIFE FROM HIS ENEMIES AND BOOSTS <color=#fff568>VILLAIN TECH</color> ALLIES
+ID_DIALOG_ECM_STATURE_01_START_3,GHOST USES HER QUANTUM ENERGY ABILITIES TO CONTROL ENEMY NEGATIVE EFFECTS AND <color=#fff568>HEAL PYM TECH</color> ALLIES.
+ID_DIALOG_ECM_STATURE_01_MID_0,Dad! I'm here to bring you back home.
+ID_DIALOG_ECM_STATURE_01_MID_1,Cassie?! What are you doing here?
+ID_DIALOG_ECM_STATURE_01_MID_2,"Survive now, argue later! Look for an opening and run to America, she'll teleport us all back to HQ."
+ID_DIALOG_ECM_STATURE_01_MID_3,"STATURE IS A PROTECTOR WHO <color=#fff568>TAUNTS</color> AND GRANTS <color=#fff568>EVADE</color> TO HER TEAM WHEN THEY'RE IN TROUBLE. "
+ID_DIALOG_ECM_STATURE_01_MID_4,STATURE KEEPS HER TEAM IN THE FIGHT BY GRANTING ABILITY ENERGY WHERE THEY NEED IT MOST.
+ID_DIALOG_ECM_STATURE_01_MID_5,"WHEN ANT-MAN'S AROUND, DAD TAKES OVER STATURE'S <color=#fff568>TAUNT</color> WHEN SHE'S BADLY HURT."
+ID_DIALOG_ECM_STATURE_01_END_0,Phew! That was a close one!
+ID_DIALOG_ECM_STATURE_01_END_1,CASSIE! What were you thinking?! You could have gotten hurt out there!
+ID_DIALOG_ECM_STATURE_01_END_2,But I didn't!
+ID_DIALOG_ECM_STATURE_01_END_3,"Didn't you see me? I've totally got control of my powers. I can be an agent of S.T.R.I.K.E., just like you!"
+ID_DIALOG_ECM_STATURE_01_END_4,"An agent?! Oh man, your mom would kill me. You know what?\nYou're grounded."
+ID_DIALOG_ECM_STATURE_01_END_5,"What?! I literally just saved everyone, that's so unfair!"
+ID_DIALOG_ECM_STATURE_01_END_6,"Being an agent is about more than just swooping in and saving the day. You need to be able to think about the consequences. "
+ID_DIALOG_ECM_STATURE_01_END_7,"It all worked out, but you didn't just put yourself in danger, you put America in danger, too."
+ID_DIALOG_ECM_STATURE_01_END_8,"I'm sorry, Peanut. But I'm sending you home to your mom's."
+ID_DIALOG_ECM_STATURE_02_INTRO_0,"Come on, come on, it's gotta be around here somewhere..."
+ID_DIALOG_ECM_STATURE_02_INTRO_1,Cassie? What are you doing in my quarters?
+ID_DIALOG_ECM_STATURE_02_INTRO_2,"Ah! Hope, sorry, but I'm tired of sitting at home feeling useless. I need to show Dad that I can help!"
+ID_DIALOG_ECM_STATURE_02_INTRO_3,"I'm taking your Pym Particle regulator to get to the Quantum Realm! If I prove myself, Dad will have to let me join S.T.R.I.K.E.!"
+ID_DIALOG_ECM_STATURE_02_INTRO_4,"Cassie, no! Wait!"
+ID_DIALOG_ECM_STATURE_02_INTRO_5,Scott! Cassie stole my regulator and jumped into the Quantum Realm. She has no idea how bad things are there!
+ID_DIALOG_ECM_STATURE_02_INTRO_6,"This is my fault, I shouldn't have been so hard on her..."
+ID_DIALOG_ECM_STATURE_02_INTRO_7,"Scott, focus. Go, bring her back safely. We can talk about your parenting technique later. "
+ID_DIALOG_ECM_STATURE_02_INTRO_8,Right. Wish me luck!
+ID_DIALOG_ECM_STATURE_02_START_0,Cassie! I'm so glad the tracker on the regulator works down here. We have to get out of here. Now.
+ID_DIALOG_ECM_STATURE_02_START_1,"Dad?! You followed me? Well, it doesn't matter, I'm not leaving until I prove to you that I'm ready to be in S.T.R.I.K.E.!"
+ID_DIALOG_ECM_STATURE_02_START_2,"I get that, but this is not the place to prove yourself. The Quantum Realm is dangerous."
+ID_DIALOG_ECM_STATURE_02_START_3,"You should listen to your father, little ant. Baron Zemo does not like intruders."
+ID_DIALOG_ECM_STATURE_02_END_0,Did he say Baron Zemo? How did he get into the Quantum Realm?
+ID_DIALOG_ECM_STATURE_02_END_1,"I don't know. Something's not right here... "
+ID_DIALOG_ECM_STATURE_02_END_2,"Look, once Earth is safe, Hope and I will come back and figure out what's going on, I promise. But we're going home. "
+ID_DIALOG_ECM_STATURE_02_END_3,"Um, why are there sparks coming off your regulator? "
+ID_DIALOG_ECM_STATURE_02_END_4,"Well, that's just great. It got damaged in the fight. "
+ID_DIALOG_ECM_STATURE_02_END_5,"*Sigh* Come on, we are going to pay an old friend a visit. I'm never going to hear the end of this."
+ID_DIALOG_ECM_STATURE_03_INTRO_0,"So, where are we going? "
+ID_DIALOG_ECM_STATURE_03_INTRO_1,"There's a tiny Earth here in the Quantum Realm, complete with its own Ant-Man. He can help get you out of here. "
+ID_DIALOG_ECM_STATURE_03_INTRO_2,Woah! Two Dads... Is he just like you? Does he also know magic? How often do you hang out? Do you finish each other's--
+ID_DIALOG_ECM_STATURE_03_INTRO_3,"Cassie! Enough with the questions. This isn't a field trip, this is serious."
+ID_DIALOG_ECM_STATURE_03_INTRO_4,"The Ant-Man here isn't anything like me. He's kind of a jerk, honestly. Greedy. Selfish. We'll need to trade him something for his regulator. "
+ID_DIALOG_ECM_STATURE_03_START_0,"The only trade I'm interested in is trading you two in to Zemo for a reward. "
+ID_DIALOG_ECM_STATURE_03_START_1,"You two are trespassing. "
+ID_DIALOG_ECM_STATURE_03_START_2,And Baron Zemo hates trespassers.
+ID_DIALOG_ECM_STATURE_03_MID_0,"Why do I always have to rescue you, Scottie?"
+ID_DIALOG_ECM_STATURE_03_MID_1,Good to see a friendly face in this place. Now let's finish this.
+ID_DIALOG_ECM_STATURE_03_END_0,Hope?! You followed us here?
+ID_DIALOG_ECM_STATURE_03_END_1,"This Wasp isn't our Hope, Cassie. She lives here in the Quantum Realm, and has saved my butt before. "
+ID_DIALOG_ECM_STATURE_03_END_2,"Hope, what's going on here? Since when is Zemo in charge?"
+ID_DIALOG_ECM_STATURE_03_END_3,"A lot's changed since you left, Scott. Doctor Doom came down and conquered parts of our world. Renamed it to Mirwood."
+ID_DIALOG_ECM_STATURE_03_END_4,"But when he returned to Nexus Earth, our Zemo took over. Now, some of us are fighting back. We could use your help."
+ID_DIALOG_ECM_STATURE_03_END_5,"Yes! OMG, we'd love to help! That's exactly the kind of thing I came here for!"
+ID_DIALOG_ECM_STATURE_03_END_6,"Woah, no way. Sorry, Hope, but my only goal is to fix this regulator and get Cassie home. She's not ready for any of this."
+ID_DIALOG_ECM_STATURE_03_END_7,"I understand. Well, I might have some regulator parts back at my base. Let's see what we can do."
+ID_DIALOG_ECM_STATURE_04_INTRO_0,"Hope, I swear, as soon as Cassie's home and safe, I'll gather my team and we'll come back to help."
+ID_DIALOG_ECM_STATURE_04_INTRO_1,Any chance you have an army handy? We'll need one to go against Zemo. Everyone here is terrified of him.
+ID_DIALOG_ECM_STATURE_04_INTRO_2,"Heh, I'll see what I can do. Now, where's your base?"
+ID_DIALOG_ECM_STATURE_04_INTRO_3,Just ahead. It's hidden from... Oh no.
+ID_DIALOG_ECM_STATURE_04_INTRO_4,Woah. Your base is inside this huge crater? That's so cool!
+ID_DIALOG_ECM_STATURE_04_INTRO_5,Cassie...
+ID_DIALOG_ECM_STATURE_04_INTRO_6,"This is bad. I was just here, which means whoever did this is still..."
+ID_DIALOG_ECM_STATURE_04_INTRO_7,"Sister, look! We seem to have missed some resistance scum."
+ID_DIALOG_ECM_STATURE_04_INTRO_8,...nearby. Crap.
+ID_DIALOG_ECM_STATURE_04_START_0,Our orders were to eliminate any resistance we find! Get them!
+ID_DIALOG_ECM_STATURE_04_END_0,"Dad, I want to stay and help! We have to! Look at what I can do. If we team up we can stop Zemo, I just know it!"
+ID_DIALOG_ECM_STATURE_04_END_1,"Cassie, you're amazing. I'm so proud of everything you can do. But you're just too young to be fighting this fight. "
+ID_DIALOG_ECM_STATURE_04_END_2,"Hope, tell him! You saw what I can do. Tell him I'm ready to be a hero."
+ID_DIALOG_ECM_STATURE_04_END_3,"Oh, no. Sorry, kid, I'm staying out of this. "
+ID_DIALOG_ECM_STATURE_04_END_4,"But I do think I know someone else who might be able to help you two get home. "
+ID_DIALOG_ECM_STATURE_05_INTRO_0,"Oh, man, Doctor Strange? He's not still mad at me, is he?"
+ID_DIALOG_ECM_STATURE_05_INTRO_1,For the time you accidentally shrunk his hand? He might be! It took him forever to figure out how to reverse the Pym Particles.
+ID_DIALOG_ECM_STATURE_05_INTRO_2,"It wasn't my fault! I warned him that batch was unstable. "
+ID_DIALOG_ECM_STATURE_05_INTRO_3,All the spells he tried to cast while his hand was shrunken were tiny! He nearly lost an arm trying to squeeze through a teeny portal.
+ID_DIALOG_ECM_STATURE_05_INTRO_4,Sounds like you had a lot of fun when you were here. Why did you stop coming back?
+ID_DIALOG_ECM_STATURE_05_INTRO_5,"This place was my home away from home. But you were back on Nexus Earth. I had to focus on you, Peanut."
+ID_DIALOG_ECM_STATURE_05_INTRO_6,And that's where you should have stayed.
+ID_DIALOG_ECM_STATURE_05_START_0,"You sure do have a lot of friends here, Dad."
+ID_DIALOG_ECM_STATURE_05_START_1,"Yeah well, what can I say? I'm a popular guy."
+ID_DIALOG_ECM_STATURE_05_END_0,"Come on, we need to move quickly. If they capture Doctor Strange at our safe house, you'll be out of options."
+ID_DIALOG_ECM_STATURE_06_START_0,"By the Seven Rings of Raggadorr, you will not take this place!"
+ID_DIALOG_ECM_STATURE_06_START_1,"The Sorcerer Supreme! I'm a huge fan! I've got your back, Doctor Strange!"
+ID_DIALOG_ECM_STATURE_06_START_2,…And who is this?
+ID_DIALOG_ECM_STATURE_06_START_3,Just go with it. They're here to help.
+ID_DIALOG_ECM_STATURE_06_START_4,PROTECT THE ALLIES
+ID_DIALOG_ECM_STATURE_06_END_0,"Wasp, Cassie, you have my thanks."
+ID_DIALOG_ECM_STATURE_06_END_1,What about me? I lent a hand! You know… to make up for that hand shrinking thing.
+ID_DIALOG_ECM_STATURE_06_END_2,"Yes. Well... What do you want, Scott?"
+ID_DIALOG_ECM_STATURE_06_END_3,My regulator broke and me and Cassie are stuck here. I'm hoping you can open up a portal and send us back.
+ID_DIALOG_ECM_STATURE_06_END_4,"I'm not going anywhere. "
+ID_DIALOG_ECM_STATURE_06_END_5,"You can ground me 'til I'm 30, I don't care! But how can you just go home without helping? "
+ID_DIALOG_ECM_STATURE_06_END_6,"Cassie, you've got to listen to me, I'm making these rules to keep you safe. "
+ID_DIALOG_ECM_STATURE_06_END_7,"Okay, but how many times have you broken the rules because it was the right thing to do?"
+ID_DIALOG_ECM_STATURE_06_END_8,"Dad. Please. "
+ID_DIALOG_ECM_STATURE_06_END_9,"…Sigh. Okay, fine. We can stay. But don't tell your mom I said it was okay! Or Nick Fury! "
+ID_DIALOG_ECM_STATURE_07_INTRO_0,There's a lot more resistance members than I thought! Where are we going? How did Zemo get so powerful?
+ID_DIALOG_ECM_STATURE_07_INTRO_1,"So many questions. Let's see, the resistance is growing. There are more of us every day. "
+ID_DIALOG_ECM_STATURE_07_INTRO_2,We are heading to A.I.M.'s warehouse. Last time I was here they were working on replicating Pym's tech.
+ID_DIALOG_ECM_STATURE_07_INTRO_3,"And as for Zemo, he scared people into following him and betrayed Doom's loyalists. "
+ID_DIALOG_ECM_STATURE_07_INTRO_4,He took advantage of anyone in need.
+ID_DIALOG_ECM_STATURE_07_INTRO_5,We're here. Follow our lead and try to be silent.
+ID_DIALOG_ECM_STATURE_07_START_0,"We can't just stop them, we have to destroy all their research, and quickly!"
+ID_DIALOG_ECM_STATURE_07_START_1,"PROTECT THE OPERATOR "
+ID_DIALOG_ECM_STATURE_07_OPERATOR_01_0,Starting to set the charges now!
+ID_DIALOG_ECM_STATURE_07_OPERATOR_01_1,1 / 4 STAGES COMPLETE.
+ID_DIALOG_ECM_STATURE_07_OPERATOR_02_0,"Hooking up a few more charges, keep buying me time!"
+ID_DIALOG_ECM_STATURE_07_OPERATOR_02_1,2 / 4 STAGES COMPLETE.
+ID_DIALOG_ECM_STATURE_07_OPERATOR_03_0,Getting to a safe distance!
+ID_DIALOG_ECM_STATURE_07_OPERATOR_03_1,3 / 4 STAGES COMPLETE.
+ID_DIALOG_ECM_STATURE_07_OPERATOR_LOSE_0,No! They destroyed the last of our blasting agents!
+ID_DIALOG_ECM_STATURE_07_END_0,"That was so cool! But we can do more, right? Why don't we take the fight right to Zemo?"
+ID_DIALOG_ECM_STATURE_07_END_1,"Cas, he's too strong. We'd need an army to take that lunatic down."
+ID_DIALOG_ECM_STATURE_07_END_2,"He might be strong, but that doesn't mean we just give up, right? Taking on people bigger than us is kind of our specialty. "
+ID_DIALOG_ECM_STATURE_07_END_3,"Wait, did I hear that right? Dad, you're on my side?"
+ID_DIALOG_ECM_STATURE_07_END_4,"I'm always on your side, Cassie."
+ID_DIALOG_ECM_STATURE_08_INTRO_0,Some of Zemo's lieutenants are meeting at the docks tonight. We can set up an ambush.
+ID_DIALOG_ECM_STATURE_08_INTRO_1,"Wow, how'd you know about that?"
+ID_DIALOG_ECM_STATURE_08_INTRO_2,We've been trailing them since Zemo rose to power. They get together there for a weekly poker game.
+ID_DIALOG_ECM_STATURE_08_INTRO_3,The loser usually gets turned into Hela's pet afterwards.
+ID_DIALOG_ECM_STATURE_08_INTRO_4,Well? What are we waiting for?
+ID_DIALOG_ECM_STATURE_08_INTRO_5,"You know, she really does take after you, Scott."
+ID_DIALOG_ECM_STATURE_08_START_0,"They are all here, just like you said they would be!"
+ID_DIALOG_ECM_STATURE_08_START_1,We attack on my mark. They won't know what hit them.
+ID_DIALOG_ECM_STATURE_08_END_0,"Woah, we just took out ALL of his lieutenants. I've never seen all of them here before!"
+ID_DIALOG_ECM_STATURE_08_END_1,"This will be enough to weaken Zemo's forces until he promotes new lieutenants. "
+ID_DIALOG_ECM_STATURE_08_END_2,"Then let's hurry up and hit him where it hurts, his main base."
+ID_DIALOG_ECM_STATURE_08_END_3,"With his leaders out of action, he won't be able to gather his army in time to stop us."
+ID_DIALOG_ECM_STATURE_08_END_4,"Kid, you're onto something here. I'm getting a plan. Well, half a plan."
+ID_DIALOG_ECM_STATURE_08_END_5,Better than the twelve percent of a plan Star-Lord usually has.
+ID_DIALOG_ECM_STATURE_08_END_6,"Scott, by the way, no one blames you for not coming back, your daughter needed you. You did good with her."
+ID_DIALOG_ECM_STATURE_08_END_7,"Thank you, I really needed to hear that."
+ID_DIALOG_ECM_STATURE_09_INTRO_0,Baron Zemo! Your reign of tyranny is over.
+ID_DIALOG_ECM_STATURE_09_INTRO_1,"Over? Ah, dear bug, my rule over this world has only begun."
+ID_DIALOG_ECM_STATURE_09_INTRO_2,You have all made a grave mistake coming directly to me. Hela! Octavius! Get rid of these intruders!
+ID_DIALOG_ECM_STATURE_09_INTRO_3,Dad and I demoted your lieutenants. No one left to protect you.
+ID_DIALOG_ECM_STATURE_09_INTRO_4,"You don't hire underlings to protect you, child. You hire them to deal with things that are beneath you. "
+ID_DIALOG_ECM_STATURE_09_INTRO_5,"But if I'm forced down to your level, so be it. I'll show you true strength. Prepare to meet your end!"
+ID_DIALOG_ECM_STATURE_09_END_0,It's... it's over. I can't believe that we won! We beat that power-hungry dictator!
+ID_DIALOG_ECM_STATURE_09_END_1,"Thank you both so much. Especially you, Cassie. If you hadn't stayed... Who knows what would have happened?"
+ID_DIALOG_ECM_STATURE_09_END_2,"Yes, this world owes you both a great debt. But for now, I can begin repaying it with a portal back home."
+ID_DIALOG_ECM_STATURE_09_END_3,"Cassie, before we head back, I just wanted to let you know how proud I am of you."
+ID_DIALOG_ECM_STATURE_09_END_4,"I'm always going to worry about you, but the way you put the people of this world before yourself? That's real heroism."
+ID_DIALOG_ECM_STATURE_09_END_5,"I'll talk to your mom, but as far as I'm concerned you're ready to become a full-fledged S.T.R.I.K.E. agent."
+ID_DIALOG_ECM_STATURE_09_END_6,"Thanks for listening to me, Dad. I think I understand, now, what S.T.R.I.K.E. is really about… "
+ID_DIALOG_ECM_STATURE_09_END_7,Teamwork really does make the dream work.
+ID_DIALOG_ECM_STATURE_09_END_8,"Great! Because other than going on missions, you're still totally grounded. Probably forever! Maybe longer."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.
@@ -9055,6 +9361,164 @@ ID_DIALOG_CHAL_SHARDS_LV76_OPERATOR_LOSE_0,MISSION FAILED. ALL STAGES HAVE BEEN 
 ID_DIALOG_CHAL_SHARDS_LV76_OPERATOR_03_0,3 / 4 STAGES COMPLETE.
 ID_DIALOG_CHAL_SHARDS_LV76_OPERATOR_02_0,2 / 4 STAGES COMPLETE.
 ID_DIALOG_CHAL_SHARDS_LV76_OPERATOR_01_0,1 / 4 STAGES COMPLETE.
+ID_DIALOG_INSANITY_040_M01_W01_0,Mercenary Lieutenant from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M01_W01_1,Killmonger from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M01_W02_0,Falcon from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M01_W02_1,Vulture from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M01_W02_2,Shocker from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M02_W01_0,Doctor Strange from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M02_W01_1,Elsa Bloodstone from this wave will always perform her special ability.
+ID_DIALOG_INSANITY_040_M02_W02_0,Hela from this wave will always perform her ultimate ability.
+ID_DIALOG_INSANITY_040_M02_W02_1,Mysterio from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M02_W04_0,Graviton from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M02_W04_1,Pyro from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M02_W04_2,Toad from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M02_W06_0,Star-Lord from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M02_W06_1,Graviton from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M03_W01_0,Black Bolt from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M03_W01_1,Cables from this wave will always perform their special ability.
+ID_DIALOG_INSANITY_040_M03_W02_0,Agent Coulson from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M03_W02_1,Spider-Man (Miles) from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M03_W03_0,Negasonic from this wave will always perform her special ability.
+ID_DIALOG_INSANITY_040_M03_W03_1,Quake from this wave will always perform her ultimate ability.
+ID_DIALOG_INSANITY_040_M03_W05_0,Deadpool from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M03_W05_1,Spider-Man from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M03_W07_0,Negasonic from this wave will always perform her special ability.
+ID_DIALOG_DOOM_SHOWCASE_1_INTRO_0,Hours after Ultimus was banished to the M'Kraan Crystal dimension...
+ID_DIALOG_DOOM_SHOWCASE_1_INTRO_1,S.T.R.I.K.E.'s assault has concluded in a predictable manner. With Ultimus banished his mental hold over the corrupted is no more.
+ID_DIALOG_DOOM_SHOWCASE_1_INTRO_2,"Yet the Conversion Engine effects linger on. The corrupted will still follow one with a strong enough will. "
+ID_DIALOG_DOOM_SHOWCASE_1_INTRO_3,Our family is honored to be the first to serve your will.
+ID_DIALOG_DOOM_SHOWCASE_1_INTRO_4,Our intellects together -- there is nothing we cannot accomplish.
+ID_DIALOG_DOOM_SHOWCASE_1_INTRO_5,"Do not flatter yourself, Richards. Your intellect is nothing next to that of Doom."
+ID_DIALOG_DOOM_SHOWCASE_1_INTRO_6,"Now, let us gather those mighty enough to serve as Doom's hammer."
+ID_DIALOG_DOOM_SHOWCASE_1_START_0,"Asgardians! Your master, Ultimus, is no more. Bow to the will of Doom or prepare to suffer."
+ID_DIALOG_DOOM_SHOWCASE_1_START_1,"We have just cast off the yoke of one master. We will not bend the knee to another, Victor Von Doom."
+ID_DIALOG_DOOM_SHOWCASE_1_START_2,"Victor, crush these Asgardians. Show them true might. "
+ID_DIALOG_DOOM_SHOWCASE_1_START_3,DOCTOR DOOM IS A POWERFUL <color=#fff568>CONTROLLER</color>. EACH TURN HE WILL SUMMON AN ALLY DOOMBOT.
+ID_DIALOG_DOOM_SHOWCASE_1_START_4,"DOOM'S <color=#fff568>ULTIMATE</color> ABILITY WILL BOOST HIS SPEED BAR ALLOWING HIM TO TAKE SEVERAL TURNS IN A ROW. "
+ID_DIALOG_DOOM_SHOWCASE_1_START_5,TO DOMINATE AS DOCTOR DOOM WAIT UNTIL HE HAS MUTLIPLE DOOMBOTS ON THE FIELD BEFORE USING HIS <color=#fff568>SPECIAL</color> ABILITY.
+ID_DIALOG_DOOM_SHOWCASE_1_START_6,CRUSH THE ASGARDIANS BY CAREFULLY PICKING WHEN YOU UNLEASH YOUR ARMY OF DOOMBOTS. BUT BEWARE OF THOR'S RETALITORY ATTACKS.
+ID_DIALOG_DOOM_SHOWCASE_1_END_0,"You are mighty, Master. I never doubted you."
+ID_DIALOG_DOOM_SHOWCASE_1_END_1,"Silence, Richards."
+ID_DIALOG_DOOM_SHOWCASE_1_END_2,Now observe as the so-called King of Attilan swears fealty to the Lord of Latveria - Victor Von Doom!
+ID_DIALOG_DOOM_SHOWCASE_1_LOSS_0,"Richards, this is your fault. Doom is all-powerful!"
+ID_DIALOG_DOOM_SHOWCASE_2_INTRO_0,"Richards, prepare to assault Ultimus's Inhuman allies. We will bring the remnants of their royal court to heel."
+ID_DIALOG_DOOM_SHOWCASE_2_INTRO_1,"They will fall in line or fall before you, my master."
+ID_DIALOG_DOOM_SHOWCASE_2_INTRO_2,"Either way, they will fall."
+ID_DIALOG_DOOM_SHOWCASE_2_START_0,...
+ID_DIALOG_DOOM_SHOWCASE_2_START_1,A kingdom led by a mute. I have but one word for you:
+ID_DIALOG_DOOM_SHOWCASE_2_START_2,DOOM.
+ID_DIALOG_DOOM_SHOWCASE_2_END_0,"Excellent work, master."
+ID_DIALOG_DOOM_SHOWCASE_2_END_1,...
+ID_DIALOG_DOOM_SHOWCASE_2_END_2,"Yes, don't spare them another word."
+ID_DIALOG_DOOM_SHOWCASE_2_LOSS_0,"Doom cannot be defeated but for the foolish actions of others. Richards, you have failed us for the last time."
+ID_DIALOG_DOOM_SHOWCASE_3_INTRO_0,"Finally, the most arrogant of them all: Thanos and his sycophantic Black Order."
+ID_DIALOG_DOOM_SHOWCASE_3_INTRO_1,They are fools if they refuse to join us.
+ID_DIALOG_DOOM_SHOWCASE_3_INTRO_2,"Ah, the tyrant who sits atop a throne in a country the world ignores. "
+ID_DIALOG_DOOM_SHOWCASE_3_INTRO_3,A gauntlet and gemstones will not save you from the might of Doom.
+ID_DIALOG_DOOM_SHOWCASE_3_START_0,"With Ultimus fallen, you believe you can succeed him? Come, child, I will show you your place."
+ID_DIALOG_DOOM_SHOWCASE_3_START_1,My place will be on your throne. Your broken bodies will be my footstool.
+ID_DIALOG_DOOM_SHOWCASE_3_END_0,"Pathetic. Now come, Richards. We must prepare for an invasion. "
+ID_DIALOG_DOOM_SHOWCASE_3_END_1,"Invasion? From whom, master? Who would stand to challenge you?"
+ID_DIALOG_DOOM_SHOWCASE_3_END_2,Fury.
+ID_DIALOG_DOOM_SHOWCASE_3_END_3,S.T.R.I.K.E. will return to Earth. They will find a peaceful planet ruled by Doom. But Fury will rebel.
+ID_DIALOG_DOOM_SHOWCASE_3_END_4,And we will crush him.
+ID_DIALOG_DOOM_SHOWCASE_3_LOSS_0,You cannot resist Doom forever.
+ID_DIALOG_INSANITY_040_M04_W01_0,Pyro from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M04_W01_1,Captain Marvel from this wave will always perform her special ability.
+ID_DIALOG_INSANITY_040_M04_W01_2,Korath the Pursuer from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M04_W02_0,Scientist Supreme from this wave will always perform her ultimate ability.
+ID_DIALOG_INSANITY_040_M04_W02_1,Psylocke from this wave will always perform her ultimate ability.
+ID_DIALOG_INSANITY_040_M05_W01_0,Squirrel Girl from this wave will always perform her ultimate ability.
+ID_DIALOG_INSANITY_040_M05_W01_1,Okoye from this wave will always perform her ultimate ability.
+ID_DIALOG_INSANITY_040_M05_W01_2,M'Baku from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M05_W02_0,Promixa Midnight from this wave will always perform her ultimate ability.
+ID_DIALOG_INSANITY_040_M05_W02_1,Loki from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M05_W04_0,Heimdall from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M05_W04_1,Thor from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M05_W06_0,Groot from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M05_W06_1,Black Widow from this wave will always perform her ultimate ability.
+ID_DIALOG_INSANITY_040_M06_W01_0,Ant-Man from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M06_W01_1,Wasp from this wave will always perform her special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M06_W02_0,Mordo from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M06_W02_1,Baron Zemo from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M06_W02_2,Black Bolt from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M06_W03_0,Elsa Bloodstone from this wave will always perform her ultimate ability.
+ID_DIALOG_INSANITY_040_M06_W03_1,Green Goblin from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M06_W05_0,Crystal from this wave will always perform her ultimate ability.
+ID_DIALOG_INSANITY_040_M06_W05_1,Crossbones from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M07_W01_0,Emma Frost from this wave will always perform her ultimate ability.
+ID_DIALOG_INSANITY_040_M07_W01_1,Stryfe from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M07_W02_0,Domino from this wave will always perform her special ability.
+ID_DIALOG_INSANITY_040_M07_W02_1,X-23 from this wave will always perform her ultimate ability.
+ID_DIALOG_INSANITY_040_M08_W01_0,Rocket Raccoon from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M08_W01_1,Venom from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M08_W01_2,Vision from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M08_W02_0,Carnage from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M08_W02_1,Venom from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M08_W04_0,Hawkeye from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M08_W04_1,Luke Cage from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M08_W06_0,Jessica Jones from this wave will always perform her special ability.
+ID_DIALOG_INSANITY_040_M08_W06_1,Daredevil from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M09_W01_0,Cull Obsidian from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M09_W01_1,Human Torch from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M09_W01_2,Taskmaster from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M09_W02_0,Hulks from this wave will always perform their ultimate ability.
+ID_DIALOG_INSANITY_040_M09_W03_0,Heimdall from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M09_W03_1,Green Goblin from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M09_W03_2,Vulture from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M09_W03_3,Crossbones from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M10_W01_0,Nobu from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M10_W01_1,Hand Archers from this wave will always perform their special ability.
+ID_DIALOG_INSANITY_040_M10_W03_0,America Chavez from this wave will always perform her special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M10_W03_1,Black Widow from this wave will always perform her special ability.
+ID_DIALOG_INSANITY_040_M11_W01_0,Vision from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M11_W01_1,Namor from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M11_W01_2,Hawkeye from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M11_W02_0,Rescue from this wave will always perform her special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M11_W02_1,Cables from this wave will always perform their special ability.
+ID_DIALOG_INSANITY_040_M11_W04_0,Spider-Man from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M11_W04_1,Ebony Maw from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M11_W06_0,Scarlet Witch from this wave will always perform her ultimate ability.
+ID_DIALOG_INSANITY_040_M11_W06_1,Graviton from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M12_W01_0,Rocket Raccoon from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M12_W01_1,Star-Lord from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M12_W01_2,Jessica Jones from this wave will always perform her special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M12_W02_0,Sabretooths from this wave will always perform their special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M12_W02_1,Wolverine from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M12_W03_0,Punisher from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M12_W03_1,Captain America from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M12_W05_0,Iron Man from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M12_W05_1,Shield Trooper from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M12_W07_0,Captain Marvel from this wave will always perform her special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M12_W07_1,Ms. Marvel from this wave will always perform her ultimate ability.
+ID_DIALOG_INSANITY_040_M13_W01_0,Swarm from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M13_W01_1,Kree Nobles from this wave will always perform their special ability.
+ID_DIALOG_INSANITY_040_M13_W02_0,Hydra Grenadiers from this wave will always perform their special ability.
+ID_DIALOG_INSANITY_040_M13_W02_1,Beast from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M13_W04_0,Baron Zemo from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M13_W04_1,Cyclops from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M14_W01_0,Ghost Rider from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M14_W01_1,Venom from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M14_W01_2,Cull Obsidian from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M14_W02_0,Negasonic from this wave will always perform her special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M14_W02_1,Psylocke from this wave will always perform her special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M14_W04_0,Ironheart from this wave will always perform her special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M14_W04_1,War Machine from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M14_W06_0,Proxima Midnight from this wave will always perform her ultimate ability.
+ID_DIALOG_INSANITY_040_M14_W06_1,Daredevil from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M14_W07_0,Heimdalls from this wave will always perform their special ability.
+ID_DIALOG_INSANITY_040_M15_W01_0,Taskmaster from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M15_W01_1,Korath the Pursuers from this wave will always perform their special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M15_W02_0,Black Widow from this wave will always perform her special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M15_W02_1,Ultimus from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M15_W03_0,Deadpool from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M15_W03_1,Cable from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M15_W05_0,Jessica Jones from this wave will always perform her special ability.
+ID_DIALOG_INSANITY_040_M15_W05_1,Quake from this wave will always perform her special ability.
+ID_DIALOG_INSANITY_040_M15_W05_2,Kree Cyborg from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M15_W07_0,Human Torch from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M15_W07_1,Ultimus from this wave will always perform his ultimate ability.
 ID_DIALOG_NUE_00_01_0,"Commander, I'm glad you're here. \nWe have a situation."
 ID_DIALOG_NUE_00_01_1,Interdimensional signatures are popping up all over New York City.
 ID_DIALOG_NUE_00_01_2,"As commander of S.T.R.I.K.E., interdimensional threats are your jurisdiction. "

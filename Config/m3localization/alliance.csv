@@ -186,7 +186,7 @@ ID_ALLIANCE_ROOM_BARRACKS_DESC,Increases DEFENDER's Health by 10%
 ID_ALLIANCE_ROOM_BARRACKS_EFFECTDESCRIPTION_1,"<color=#00adef>[GLOBAL]</color>   <color=#86e619>+20%</color> to Max Health, Damage, Armor, Resistance, and Focus to all <color=#fff568>DEFENDING ALLIES</color>.  Extra <color=#86e619>+10%</color> bonus to <color=#fff568>Military</color> allies."
 ID_ALLIANCE_ROOM_CARGO,Cargo Bay
 ID_ALLIANCE_ROOM_CARGO_DESC,Increases War loot by 5%
-ID_ALLIANCE_ROOM_CARGO_EFFECTDESCRIPTION_1,<color=#00adef>[ROOM]</color>   Apply <color=#86e619>8</color> <color=#fff568>Positive Effects</color> randomly to <color=#fff568>DEFENDING ALLIES</color>
+ID_ALLIANCE_ROOM_CARGO_EFFECTDESCRIPTION_1,<color=#00adef>[ROOM]</color>   Apply <color=#86e619>10</color> <color=#fff568>Positive Effects</color> randomly to <color=#fff568>DEFENDING ALLIES</color>
 ID_ALLIANCE_ROOM_DECK1,Flight Deck 1
 ID_ALLIANCE_ROOM_DECK1_DESC,Increases War energy regeneration by 10%
 ID_ALLIANCE_ROOM_DECK1_EFFECTDESCRIPTION_1,NONE

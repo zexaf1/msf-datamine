@@ -35,6 +35,8 @@ ID_SHOP_IAP_SUB_MON_1_NAME,Monthly Subscription II A
 ID_SHOP_IAP_SUB_WK_1_DESC,Weekly subscription giving daily goods
 ID_SHOP_IAP_SUB_WK_1_NAME,Weekly Subscription I A
 ID_SHOP_MORE_REFRESHES,More Refreshes\nin {duration}
+ID_SHOP_MUST_BE_LOGGED_IN_BODY,"You're not logged into an account that can make purchases. If you want to purchase offers or power cores, please log in."
+ID_SHOP_MUST_BE_LOGGED_IN_TITLE,No Account Data
 ID_SHOP_SHIPMENTS_REFRESH,SUPPLIES REFRESH in {duration}
 ID_SHOP_SPECIAL_BEST_OFFER,BEST OFFER
 ID_SHOP_SPECIAL_MOST_POPULAR,MOST POPULAR
@@ -149,9 +151,9 @@ ID_GACHA_CRATE_XP_HIGH_TOKEN_NAME,Training Orb Fragments
 ID_GACHA_CRATE_XP_HIGH_TOKEN_DESCRIPTION,Collect Training Orb Fragments to earn a Training Orb.
 ID_GACHA_CRATE_DOWNCONVERSION_NAME,Ultimus Orb
 ID_GACHA_CRATE_DOWNCONVERSION_DESCRIPTION,Guaranteed Ultimus shards
-ID_GACHA_CRATE_FCO_GENERIC_DESCRIPTION_145,Win up to 145 shards
-ID_GACHA_CRATE_FCO_GENERIC_DESCRIPTION_180,Win up to 180 shards
-ID_GACHA_CRATE_FCO_GENERIC_DESCRIPTION_100,Win up to 100 shards
+ID_GACHA_CRATE_FCO_GENERIC_DESCRIPTION_145,Get up to 145 shards
+ID_GACHA_CRATE_FCO_GENERIC_DESCRIPTION_180,Get up to 180 shards
+ID_GACHA_CRATE_FCO_GENERIC_DESCRIPTION_100,Get up to 100 shards
 ID_GACHA_M_CRATE_PROMOTION_ADVANCED_NAME,Elite 4 Star Orb
 ID_GACHA_M_CRATE_PROMOTION_ADVANCED_DESCRIPTION,Guarantees 4-Red Star Promotion or better
 ID_GACHA_M_CRATE_PROMOTION_ADVANCED_TOKEN_NAME,Elite 4 Star Orb Fragments
@@ -202,10 +204,10 @@ ID_GACHA_CRATE_W_PURPLE_NAME,Purple Gear War Orb
 ID_GACHA_CRATE_W_PURPLE_DESCRIPTION,Contains purple gear and Unique gear materials
 ID_GACHA_CRATE_W_PURPLE_TOKEN_NAME,Purple Gear War Orb Fragments
 ID_GACHA_CRATE_W_PURPLE_TOKEN_DESCRIPTION,Collect Purple Gear War Orb Fragments to earn a Purple Gear War Orb.
-ID_GACHA_CRATE_W_ORANGE_NAME,Orange Gear War Orb
+ID_GACHA_CRATE_W_ORANGE_NAME,Orange Gear War Orb I
 ID_GACHA_CRATE_W_ORANGE_DESCRIPTION,Contains orange gear and Unique gear materials
-ID_GACHA_CRATE_W_ORANGE_TOKEN_NAME,Orange Gear War Orb Fragments
-ID_GACHA_CRATE_W_ORANGE_TOKEN_DESCRIPTION,Collect Orange Gear War Orb Fragments to earn a Orange Gear War Orb.
+ID_GACHA_CRATE_W_ORANGE_TOKEN_NAME,Orange Gear War Orb I Fragments
+ID_GACHA_CRATE_W_ORANGE_TOKEN_DESCRIPTION,Collect Orange Gear War Orb I Fragments to earn a Orange Gear War Orb I.
 ID_GACHA_CRATE_RAID_ELITE_ORANGE_GEARMATS_NAME,Orange Elite Orb
 ID_GACHA_CRATE_RAID_ELITE_ORANGE_GEARMATS_DESCRIPTION,Contains orange gear and Unique gear materials
 ID_GACHA_CRATE_RAID_ELITE_ORANGE_GEARMATS_TOKEN_DESCRIPTION,Collect Orange Elite Orb Fragments to earn an Orange Elite Orb.
@@ -274,6 +276,10 @@ ID_GACHA_CRATE_CATS_ORANGE_GEARMATS_NAME,Orange Catalyst Orb
 ID_GACHA_CRATE_CATS_ORANGE_GEARMATS_DESCRIPTION,Contains only orange catalyst materials
 ID_GACHA_CRATE_CATS_ORANGE_GEARMATS_TOKEN_DESCRIPTION,Collect Orange Catalyst Orb Fragments to earn a Orange Catalyst Orb.
 ID_GACHA_CRATE_CATS_ORANGE_GEARMATS_TOKEN_NAME,Orange Catalyst Orb Fragments
+ID_GACHA_CRATE_W_ORANGE_LV75_NAME,Orange Gear War Orb II
+ID_GACHA_CRATE_W_ORANGE_LV75_DESCRIPTION,Contains orange gear and Unique gear materials
+ID_GACHA_CRATE_W_ORANGE_LV75_TOKEN_NAME,Orange Gear War Orb II Fragments
+ID_GACHA_CRATE_W_ORANGE_LV75_TOKEN_DESCRIPTION,Collect Orange Gear War Orb II Fragments to earn a Orange Gear War Orb II.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_BLACKPANTHER_201905_NAME,Alpha Raid Orb
 ID_GACHA_CRATE_EVENT_CAMPAIGN_BLACKPANTHER_201905_DESCRIPTION,Earn Alpha Raid Orb Fragments by completing Alpha Raids.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_BLACKPANTHER_201905_TOKEN_NAME,Alpha Raid Orb Fragments
@@ -672,6 +678,10 @@ ID_GACHA_CRATE_EVENT_CAMPAIGN_SCREAM_202009_NAME,Parasite Orb
 ID_GACHA_CRATE_EVENT_CAMPAIGN_SCREAM_202009_DESCRIPTION,Earn Parasite Orb Fragments in the Parasitic Intentions Event Campaign.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_SCREAM_202009_TOKEN_NAME,Parasite Orb Fragments
 ID_GACHA_CRATE_EVENT_CAMPAIGN_SCREAM_202009_TOKEN_DESCRIPTION,Collect Parasite Orb Fragments in the Parasitic Intentions Event Campaign to earn Parasite Orbs.
+ID_GACHA_CRATE_EVENT_CAMPAIGN_STATURE_202011_NAME,Aspirational Orb
+ID_GACHA_CRATE_EVENT_CAMPAIGN_STATURE_202011_DESCRIPTION,"Earn Aspirational Orb Fragments in the Tiny Stature, Big Problem Event Campaign."
+ID_GACHA_CRATE_EVENT_CAMPAIGN_STATURE_202011_TOKEN_NAME,Aspirational Orb Fragments
+ID_GACHA_CRATE_EVENT_CAMPAIGN_STATURE_202011_TOKEN_DESCRIPTION,"Collect Aspirational Orb Fragments in the Tiny Stature, Big Problem Event Campaign to earn Aspirational Orbs."
 ID_GACHA_CRATE_EVENT_CAMPAIGN_SQUIRRELGIRL_202007_NAME,Unbeatable Orb
 ID_GACHA_CRATE_EVENT_CAMPAIGN_SQUIRRELGIRL_202007_DESCRIPTION,Earn Unbeatable Orb Fragments in the Unbeatable Education Event Campaign.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_SQUIRRELGIRL_202007_TOKEN_NAME,Unbeatable Orb Fragments
@@ -887,27 +897,27 @@ ID_OF_NA_SHEHULK_OFFER_1,Jade Giantess Offer
 ID_OF_DE_SHEHULK_OFFER_VAR_S,"Recruit a <color=#fff568>{var1}-star She-Hulk</color> with this offer! Increase Fantastic Four damage on War Defense, Taunt, and attack all enemies when fully Charged."
 ID_OF_DE_SHEHULK_OFFER_VAR,"Get <color=#fff568>{var1} She-Hulk shards</color> and use her to synergize with the Fantastic Four, stuns enemies, and attacks all enemies when fully Charged."
 ID_GACHA_CRATE_FCO_AIMDMG_SPEED_SPECIAL_NAME,Commando Orb
-ID_GACHA_CRATE_FCO_AIMDMG_SPEED_SPECIAL_DESCRIPTION,Win up to 180 A.I.M. Assaulter shards
+ID_GACHA_CRATE_FCO_AIMDMG_SPEED_SPECIAL_DESCRIPTION,Get up to 180 A.I.M. Assaulter shards
 ID_GACHA_CRATE_FCO_AIMDMG_SPEED_SPECIAL_TOKEN_NAME,Commando Orb Fragments
 ID_GACHA_CRATE_FCO_AIMDMG_SPEED_SPECIAL_TOKEN_DESCRIPTION,Collect Commando Orb Fragments to earn a Commando Orb.
 ID_GACHA_CRATE_FCO_AIMCONTROL_INFECT_SPECIAL_NAME,Contagion Orb
-ID_GACHA_CRATE_FCO_AIMCONTROL_INFECT_SPECIAL_DESCRIPTION,Win up to 180 A.I.M. Infector shards
+ID_GACHA_CRATE_FCO_AIMCONTROL_INFECT_SPECIAL_DESCRIPTION,Get up to 180 A.I.M. Infector shards
 ID_GACHA_CRATE_FCO_AIMCONTROL_INFECT_SPECIAL_TOKEN_NAME,Contagion Orb Fragments
 ID_GACHA_CRATE_FCO_AIMCONTROL_INFECT_SPECIAL_TOKEN_DESCRIPTION,Collect Contagion Orb Fragments to earn a Contagion Orb.
 ID_GACHA_CRATE_FCO_AIMDMG_OFFENSE_SPECIAL_NAME,Science Project Orb
-ID_GACHA_CRATE_FCO_AIMDMG_OFFENSE_SPECIAL_DESCRIPTION,Win up to 180 A.I.M. Monstrosity shards
+ID_GACHA_CRATE_FCO_AIMDMG_OFFENSE_SPECIAL_DESCRIPTION,Get up to 180 A.I.M. Monstrosity shards
 ID_GACHA_CRATE_FCO_AIMDMG_OFFENSE_SPECIAL_TOKEN_NAME,Science Project Orb Fragments
 ID_GACHA_CRATE_FCO_AIMDMG_OFFENSE_SPECIAL_TOKEN_DESCRIPTION,Collect Science Project Orb Fragments to earn a Science Project Orb.
 ID_GACHA_CRATE_FCO_AIMSUPPORT_HEAL_SPECIAL_NAME,Apprentice Orb
-ID_GACHA_CRATE_FCO_AIMSUPPORT_HEAL_SPECIAL_DESCRIPTION,Win up to 180 A.I.M. Researcher shards
+ID_GACHA_CRATE_FCO_AIMSUPPORT_HEAL_SPECIAL_DESCRIPTION,Get up to 180 A.I.M. Researcher shards
 ID_GACHA_CRATE_FCO_AIMSUPPORT_HEAL_SPECIAL_TOKEN_NAME,Apprentice Orb Fragments
 ID_GACHA_CRATE_FCO_AIMSUPPORT_HEAL_SPECIAL_TOKEN_DESCRIPTION,Collect Apprentice Orb Fragments to earn an Apprentice Orb.
 ID_GACHA_CRATE_FCO_AIMTANK_TAUNT_SPECIAL_NAME,Crazed Survivor Orb
-ID_GACHA_CRATE_FCO_AIMTANK_TAUNT_SPECIAL_DESCRIPTION,Win up to 180 A.I.M. Security shards
+ID_GACHA_CRATE_FCO_AIMTANK_TAUNT_SPECIAL_DESCRIPTION,Get up to 180 A.I.M. Security shards
 ID_GACHA_CRATE_FCO_AIMTANK_TAUNT_SPECIAL_TOKEN_NAME,Crazed Survivor Orb Fragments
 ID_GACHA_CRATE_FCO_AIMTANK_TAUNT_SPECIAL_TOKEN_DESCRIPTION,Collect Crazed Survivor Orb Fragments to earn a Crazed Survivor Orb.
 ID_GACHA_CRATE_FCO_AMERICACHAVEZ_SPECIAL_NAME,Star Power Orb
-ID_GACHA_CRATE_FCO_AMERICACHAVEZ_SPECIAL_DESCRIPTION,Win up to 180 America Chavez shards
+ID_GACHA_CRATE_FCO_AMERICACHAVEZ_SPECIAL_DESCRIPTION,Get up to 180 America Chavez shards
 ID_GACHA_CRATE_FCO_AMERICACHAVEZ_SPECIAL_TOKEN_NAME,Star Power Orb Fragments
 ID_GACHA_CRATE_FCO_AMERICACHAVEZ_SPECIAL_TOKEN_DESCRIPTION,Collect Star Power Orb Fragments to earn a Star Power Orb.
 ID_OF_NA_AMERICACHAVEZ_FCO_OFFER_1,Star Power Orb
@@ -936,11 +946,11 @@ ID_OF_DE_AMERICACHAVEZ_ABILITY_OFFER_50,Get this amazing bundle and power up Ame
 ID_OF_NA_AMERICACHAVEZ_GOLD_OFFER_1,America Chavez: Gold
 ID_OF_DE_AMERICACHAVEZ_GOLD_OFFER_50,Get this amazing bundle and level up America Chavez. Get over <color=#fff568>40%</color> off when you buy now!
 ID_GACHA_CRATE_FCO_ANTIVENOM_SPECIAL_NAME,Lethal Dose Orb
-ID_GACHA_CRATE_FCO_ANTIVENOM_SPECIAL_DESCRIPTION,Win up to 180 Anti-Venom shards
+ID_GACHA_CRATE_FCO_ANTIVENOM_SPECIAL_DESCRIPTION,Get up to 180 Anti-Venom shards
 ID_GACHA_CRATE_FCO_ANTIVENOM_SPECIAL_TOKEN_NAME,Lethal Dose Orb Fragments
 ID_GACHA_CRATE_FCO_ANTIVENOM_SPECIAL_TOKEN_DESCRIPTION,Collect Lethal Dose Orb Fragments to earn a Lethal Dose Orb.
 ID_GACHA_CRATE_FCO_ANTMAN_SPECIAL_NAME,Pym Particles Orb
-ID_GACHA_CRATE_FCO_ANTMAN_SPECIAL_DESCRIPTION,Win up to 180 Ant-Man shards
+ID_GACHA_CRATE_FCO_ANTMAN_SPECIAL_DESCRIPTION,Get up to 180 Ant-Man shards
 ID_GACHA_CRATE_FCO_ANTMAN_SPECIAL_TOKEN_NAME,Pym Particles Orb Fragments
 ID_GACHA_CRATE_FCO_ANTMAN_SPECIAL_TOKEN_DESCRIPTION,Collect Pym Particles Orb Fragments to earn a Pym Particles Orb.
 ID_OF_NA_ANTMAN_OFFER_1,Tic Tac Offer
@@ -966,7 +976,7 @@ ID_OF_DE_ANTMAN_FCO_OFFER_6O,Save on <color=#fff568>6 Pym Particles Orbs</color>
 ID_OF_DE_ANTMAN_FCO_OFFER_8O,Save on <color=#fff568>8 Pym Particles Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Ant-Man shards</color>. Cripple enemies with Ability Block and Slow.
 ID_OF_DE_ANTMAN_FCO_OFFER_10O,Save on <color=#fff568>10 Pym Particles Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Ant-Man shards</color>. Cripple enemies with Ability Block and Slow.
 ID_GACHA_CRATE_FCO_ASGARDIAN_450HC_NAME,Wrath of the Gods Orb
-ID_GACHA_CRATE_FCO_ASGARDIAN_450HC_DESCRIPTION,Win up to 145 select Asgardian character shards
+ID_GACHA_CRATE_FCO_ASGARDIAN_450HC_DESCRIPTION,Get up to 145 select Asgardian character shards
 ID_GACHA_CRATE_FCO_ASGARDIAN_450HC_TOKEN_NAME,Wrath of the Gods Orb Fragments
 ID_GACHA_CRATE_FCO_ASGARDIAN_450HC_TOKEN_DESCRIPTION,Collect Wrath of the Gods Orb Fragments to earn a Wrath of the Gods Orb.
 ID_OF_DE_LE_ASGARDIAN_OFFER_4O,Save on <color=#fff568>4 Wrath of the Gods Orbs</color> and strengthen your Asgardian team to recruit Black Bolt!
@@ -975,7 +985,7 @@ ID_OF_DE_LE_ASGARDIAN_OFFER_6O,Save on <color=#fff568>6 Wrath of the Gods Orbs</
 ID_OF_DE_LE_ASGARDIAN_OFFER_7O,Save on <color=#fff568>7 Wrath of the Gods Orbs</color> and strengthen your Asgardian team to recruit Black Bolt!
 ID_OF_DE_LE_ASGARDIAN_OFFER_8O,Save on <color=#fff568>8 Wrath of the Gods Orbs</color> and strengthen your Asgardian team to recruit Black Bolt!
 ID_GACHA_CRATE_FCO_BARONMORDO_SPECIAL_NAME,Dark Arts Orb
-ID_GACHA_CRATE_FCO_BARONMORDO_SPECIAL_DESCRIPTION,Win up to 180 Baron Mordo shards
+ID_GACHA_CRATE_FCO_BARONMORDO_SPECIAL_DESCRIPTION,Get up to 180 Baron Mordo shards
 ID_GACHA_CRATE_FCO_BARONMORDO_SPECIAL_TOKEN_NAME,Dark Arts Orb Fragments
 ID_GACHA_CRATE_FCO_BARONMORDO_SPECIAL_TOKEN_DESCRIPTION,Collect Dark Arts Orb Fragments to earn a Dark Arts Orb.
 ID_OF_NA_MORDO_OFFER_1,Spiteful Sorceror Offer
@@ -1001,7 +1011,7 @@ ID_OF_DE_MORDO_BUNDLE_MEGA,"Save <color=#fff568>over 60%</color> on this bundle 
 ID_OF_DE_MORDO_BUNDLE_ENERGY,"Save <color=#fff568>over 70%</color> on this bundle that includes <color=#fff568>Campaign Energy, Mordo shards</color>, and more!"
 ID_OF_DE_MORDO_BUNDLE_PREMIUM,"Save <color=#fff568>over 60%</color> on this bundle of <color=#fff568>Premium Orbs, Mordo shards</color>, and more!"
 ID_GACHA_CRATE_FCO_BARONZEMO_SPECIAL_NAME,Son of Evil Orb
-ID_GACHA_CRATE_FCO_BARONZEMO_SPECIAL_DESCRIPTION,Win up to 180 Baron Zemo shards
+ID_GACHA_CRATE_FCO_BARONZEMO_SPECIAL_DESCRIPTION,Get up to 180 Baron Zemo shards
 ID_GACHA_CRATE_FCO_BARONZEMO_SPECIAL_TOKEN_NAME,Son of Evil Orb Fragments
 ID_GACHA_CRATE_FCO_BARONZEMO_SPECIAL_TOKEN_DESCRIPTION,Collect Son of Evil Orb Fragments to earn a Son of Evil Orb.
 ID_OF_NA_BARONZEMO_FCO,Son of Evil Offer
@@ -1020,7 +1030,7 @@ ID_OF_NA_BARONZEMO_OFFER_1,Dreadlord Offer
 ID_OF_DE_BARONZEMO_OFFER_VAR_S,"Recruit a <color=#fff568>{var1}-star Baron Zemo</color> with this offer! Counteract minion teams by denying their ability to Revive and, if Charged, attacks all minions each turn."
 ID_OF_DE_BARONZEMO_OFFER_VAR,"Get <color=#fff568>{var1} Baron Zemo shards</color> and use him to counteract minion teams by denying their ability to Revive and, if Charged, attacks all minions each turn."
 ID_GACHA_CRATE_FCO_BEAST_SPECIAL_NAME,Azure Animal Orb
-ID_GACHA_CRATE_FCO_BEAST_SPECIAL_DESCRIPTION,Win up to 180 Beast shards
+ID_GACHA_CRATE_FCO_BEAST_SPECIAL_DESCRIPTION,Get up to 180 Beast shards
 ID_GACHA_CRATE_FCO_BEAST_SPECIAL_TOKEN_NAME,Azure Animal Orb Fragments
 ID_GACHA_CRATE_FCO_BEAST_SPECIAL_TOKEN_DESCRIPTION,Collect Azure Animal Orb Fragments to earn a Azure Animal Orb.
 ID_OF_NA_BEAST_FCO,Azure Animal Orb
@@ -1038,7 +1048,7 @@ ID_OF_NA_BEAST_OFFER_1,Azure Animal Offer
 ID_OF_DE_BEAST_OFFER_VAR_S,"Recruit a <color=#fff568>{var1}-star Beast</color> with this offer! Support your X-Men allies with Heals, Regeneration, and positive effects."
 ID_OF_DE_BEAST_OFFER_VAR,"Get <color=#fff568>{var1} Beast shards</color> and use him to support your X-Men allies with Heals, Regeneration, and positive effects."
 ID_GACHA_CRATE_FCO_BLACKPANTHER_SPECIAL_NAME,Warrior King Orb
-ID_GACHA_CRATE_FCO_BLACKPANTHER_SPECIAL_DESCRIPTION,Win up to 180 Black Panther shards
+ID_GACHA_CRATE_FCO_BLACKPANTHER_SPECIAL_DESCRIPTION,Get up to 180 Black Panther shards
 ID_GACHA_CRATE_FCO_BLACKPANTHER_SPECIAL_TOKEN_NAME,Warrior King Orb Fragments
 ID_GACHA_CRATE_FCO_BLACKPANTHER_SPECIAL_TOKEN_DESCRIPTION,Collect Warrior King Orb Fragments to earn a Warrior King Orb.
 ID_OF_NA_BLACKPANTHER_OFFER_1,Warrior King Offer
@@ -1051,7 +1061,7 @@ ID_OF_DE_BLACKPANTHER_OFFER_75,Add the King of Wakanda to your squad with this l
 ID_OF_DE_BLACKPANTHER_OFFER_125,Add the King of Wakanda to your squad with this limited time offer! Get <color=#fff568>125 Black Panther shards</color> and use his chaining and counterattacks to pierce through competition.
 ID_OF_DE_BLACKPANTHER_OFFER_150,Add the King of Wakanda to your squad with this limited time offer! Get <color=#fff568>150 Black Panther shards</color> and use his chaining and counterattacks to pierce through competition.
 ID_GACHA_CRATE_FCO_BLACKWIDOW_SPECIAL_NAME,Widow's Bite Orb
-ID_GACHA_CRATE_FCO_BLACKWIDOW_SPECIAL_DESCRIPTION,Win up to 180 Black Widow shards
+ID_GACHA_CRATE_FCO_BLACKWIDOW_SPECIAL_DESCRIPTION,Get up to 180 Black Widow shards
 ID_GACHA_CRATE_FCO_BLACKWIDOW_SPECIAL_TOKEN_NAME,Widow's Bite Orb Fragments
 ID_GACHA_CRATE_FCO_BLACKWIDOW_SPECIAL_TOKEN_DESCRIPTION,Collect Widow's Bite Orb Fragments to earn a Widow's Bite Orb.
 ID_OF_NA_BLACKWIDOW_OFFER_2,Stealth Speedster
@@ -1065,7 +1075,7 @@ ID_OF_DE_BLACKWIDOW_OFFER_75,"Perfect your Avengers team with this super fast Gl
 ID_OF_DE_BLACKWIDOW_OFFER_125,"Perfect your Avengers team with this super fast Global Controller! Get <color=#fff568>125 Black Widow shards</color> and speed up your squad, then Stun and Bleed your foes with her chain attack to finish them off."
 ID_OF_DE_BLACKWIDOW_OFFER_150,"Perfect your Avengers team with this super fast Global Controller! Get <color=#fff568>150 Black Widow shards</color> and speed up your squad, then Stun and Bleed your foes with her chain attack to finish them off."
 ID_GACHA_CRATE_FCO_BLOB_SPECIAL_NAME,Massive Mutant Orb
-ID_GACHA_CRATE_FCO_BLOB_SPECIAL_DESCRIPTION,Win up to 180 Blob shards
+ID_GACHA_CRATE_FCO_BLOB_SPECIAL_DESCRIPTION,Get up to 180 Blob shards
 ID_GACHA_CRATE_FCO_BLOB_SPECIAL_TOKEN_NAME,Massive Mutant Orb Fragments
 ID_GACHA_CRATE_FCO_BLOB_SPECIAL_TOKEN_DESCRIPTION,Collect Massive Mutant Orb Fragments to earn a Massive Mutant Orb.
 ID_OF_NA_BLOB_FCO,Massive Mutant Orb
@@ -1096,7 +1106,7 @@ ID_OF_DE_BLOB_OFFER_75,"Get <color=#fff568>75 Blob shards</color> and use him to
 ID_OF_DE_BLOB_OFFER_125,"Get <color=#fff568>125 Blob shards</color> and use him to slow enemies, copy Brotherhood ally positive effects, and Taunt when Brotherhood allies are low Health!"
 ID_OF_DE_BLOB_OFFER_150,"Get <color=#fff568>150 Blob shards</color> and use him to slow enemies, copy Brotherhood ally positive effects, and Taunt when Brotherhood allies are low Health!"
 ID_GACHA_CRATE_FCO_BULLSEYE_SPECIAL_NAME,On Target Orb
-ID_GACHA_CRATE_FCO_BULLSEYE_SPECIAL_DESCRIPTION,Win up to 180 Bullseye shards
+ID_GACHA_CRATE_FCO_BULLSEYE_SPECIAL_DESCRIPTION,Get up to 180 Bullseye shards
 ID_GACHA_CRATE_FCO_BULLSEYE_SPECIAL_TOKEN_NAME,On Target Orb Fragments
 ID_GACHA_CRATE_FCO_BULLSEYE_SPECIAL_TOKEN_DESCRIPTION,Collect On Target Orb Fragments to earn a On Target Orb.
 ID_OF_NA_BULLSEYE_OFFER_1,Deadeye Merc Offer
@@ -1114,7 +1124,7 @@ ID_OF_DE_BULLSEYE_OFFER_35,Enhance your City Villains squad with this Mercenary 
 ID_OF_DE_BULLSEYE_OFFER_25,Enhance your City Villains squad with this Mercenary Blaster offer. Get <color=#fff568>25 Bullseye shards</color> and use his accuracy to eliminate your enemies with his lethal ultimate attack.
 ID_OF_DE_BULLSEYE_OFFER_20,Enhance your City Villains squad with this Mercenary Blaster offer. Get <color=#fff568>20 Bullseye shards</color> and use his accuracy to eliminate your enemies with his lethal ultimate attack.
 ID_GACHA_CRATE_FCO_CABLE_SPECIAL_NAME,Time Traveler Orb
-ID_GACHA_CRATE_FCO_CABLE_SPECIAL_DESCRIPTION,Win up to 180 Cable shards
+ID_GACHA_CRATE_FCO_CABLE_SPECIAL_DESCRIPTION,Get up to 180 Cable shards
 ID_GACHA_CRATE_FCO_CABLE_SPECIAL_TOKEN_NAME,Time Traveler Orb Fragments
 ID_GACHA_CRATE_FCO_CABLE_SPECIAL_TOKEN_DESCRIPTION,Collect Time Traveler Orb Fragments to earn a Time Traveler Orb.
 ID_OF_NA_CABLE_OFFER_1,Time Slipper Offer
@@ -1135,7 +1145,7 @@ ID_OF_DE_CABLE_FCO_OFFER_6O,Save on <color=#fff568>6 Time Traveler Orbs</color> 
 ID_OF_DE_CABLE_FCO_OFFER_8O,Save on <color=#fff568>8 Time Traveler Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 shards</color>. Use his unique abilities to manipulate speed bars on both sides of the battlefield!
 ID_OF_DE_CABLE_FCO_OFFER_10O,Save on <color=#fff568>10 Time Traveler Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 shards</color>. Use his unique abilities to manipulate speed bars on both sides of the battlefield!
 ID_GACHA_CRATE_FCO_CAPTAINAMERICA_SPECIAL_NAME,First Avenger Orb
-ID_GACHA_CRATE_FCO_CAPTAINAMERICA_SPECIAL_DESCRIPTION,Win up to 180 Captain America shards
+ID_GACHA_CRATE_FCO_CAPTAINAMERICA_SPECIAL_DESCRIPTION,Get up to 180 Captain America shards
 ID_GACHA_CRATE_FCO_CAPTAINAMERICA_SPECIAL_TOKEN_NAME,First Avenger Orb Fragments
 ID_GACHA_CRATE_FCO_CAPTAINAMERICA_SPECIAL_TOKEN_DESCRIPTION,Collect First Avenger Orb Fragments to earn a First Avenger Orb.
 ID_OF_NA_CAPTAINAMERICA_OFFER_1,First Avenger Offer
@@ -1151,8 +1161,12 @@ ID_OF_DE_CAPTAINAMERICA_OFFER_75,"Strengthen your Global Heroes team with this o
 ID_OF_DE_CAPTAINAMERICA_OFFER_100,"Strengthen your Global Heroes team with this offer to upgrade the ultimate Protector. Get <color=#fff568>100 Captain America shards</color> and Inspire with his ability to Taunt, generate energy, and much more."
 ID_OF_DE_CAPTAINAMERICA_OFFER_125,"Strengthen your Global Heroes team with this offer to upgrade the ultimate Protector. Get <color=#fff568>125 Captain America shards</color> and Inspire with his ability to Taunt, generate energy, and much more."
 ID_OF_DE_CAPTAINAMERICA_OFFER_150,"Strengthen your Global Heroes team with this offer to upgrade the ultimate Protector. Get <color=#fff568>150 Captain America shards</color> and Inspire with his ability to Taunt, generate energy, and much more."
+ID_GACHA_CRATE_FCO_CAPTAINMARVEL_SPECIAL_NAME,Ace Pilot Orb
+ID_GACHA_CRATE_FCO_CAPTAINMARVEL_SPECIAL_DESCRIPTION,Earn up to 180 Captain Marvel shards
+ID_GACHA_CRATE_FCO_CAPTAINMARVEL_SPECIAL_TOKEN_NAME,Ace Pilot Orb Fragments
+ID_GACHA_CRATE_FCO_CAPTAINMARVEL_SPECIAL_TOKEN_DESCRIPTION,Collect Ace Pilot Orb Fragments to earn a Ace Pilot Orb.
 ID_GACHA_CRATE_FCO_CARNAGE_SPECIAL_NAME,Psychotic Orb
-ID_GACHA_CRATE_FCO_CARNAGE_SPECIAL_DESCRIPTION,Win up to 180 Carnage shards
+ID_GACHA_CRATE_FCO_CARNAGE_SPECIAL_DESCRIPTION,Get up to 180 Carnage shards
 ID_GACHA_CRATE_FCO_CARNAGE_SPECIAL_TOKEN_NAME,Psychotic Orb Fragments
 ID_GACHA_CRATE_FCO_CARNAGE_SPECIAL_TOKEN_DESCRIPTION,Collect Psychotic Orb Fragments to earn a Psychotic Orb.
 ID_OF_NA_CARNAGE_FCO_OFFER_1,Psychotic Orb
@@ -1181,7 +1195,7 @@ ID_OF_DE_CARNAGE_OFFER_75,Get <color=#fff568>75 Carnage shards</color> and deal 
 ID_OF_DE_CARNAGE_OFFER_125,Get <color=#fff568>125 Carnage shards</color> and deal massive damage with his chain attacks while generating bonus speed bar when his enemies are weakened.
 ID_OF_DE_CARNAGE_OFFER_150,Get <color=#fff568>150 Carnage shards</color> and deal massive damage with his chain attacks while generating bonus speed bar when his enemies are weakened.
 ID_GACHA_CRATE_FCO_CITYHEROES_450HC_NAME,Hometown Heroes Orb
-ID_GACHA_CRATE_FCO_CITYHEROES_450HC_DESCRIPTION,Win up to 145 select City Hero character shards
+ID_GACHA_CRATE_FCO_CITYHEROES_450HC_DESCRIPTION,Get up to 145 select City Hero character shards
 ID_GACHA_CRATE_FCO_CITYHEROES_450HC_TOKEN_NAME,Hometown Heroes Orb Fragments
 ID_GACHA_CRATE_FCO_CITYHEROES_450HC_TOKEN_DESCRIPTION,Collect Hometown Heroes Orb Fragments to earn a Hometown Heroes Orb.
 ID_OF_NA_CITYHEROES_LE_FCO_OFFER_1,Hometown Heroes Orb Bundle
@@ -1189,7 +1203,7 @@ ID_OF_DE_CITYHEROES_LE_FCO_OFFER_30,Save on <color=#fff568>3 Hometown Heroes Orb
 ID_OF_DE_CITYHEROES_LE_FCO_OFFER_4O,Save on <color=#fff568>4 Hometown Heroes Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 145 shards</color>.
 ID_OF_DE_CITYHEROES_LE_FCO_OFFER_5O,Save on <color=#fff568>5 Hometown Heroes Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 145 shards</color>.
 ID_GACHA_CRATE_FCO_COLOSSUS_SPECIAL_NAME,Heavy Metal Orb
-ID_GACHA_CRATE_FCO_COLOSSUS_SPECIAL_DESCRIPTION,Win up to 180 Colossus shards
+ID_GACHA_CRATE_FCO_COLOSSUS_SPECIAL_DESCRIPTION,Get up to 180 Colossus shards
 ID_GACHA_CRATE_FCO_COLOSSUS_SPECIAL_TOKEN_NAME,Heavy Metal Orb Fragments
 ID_GACHA_CRATE_FCO_COLOSSUS_SPECIAL_TOKEN_DESCRIPTION,Collect Heavy Metal Orb Fragments to earn a Heavy Metal Orb.
 ID_OF_NA_COLOSSUS_FCO_OFFER_1,Heavy Metal Orb
@@ -1219,7 +1233,7 @@ ID_OF_DE_COLOSSUS_ABILITY_OFFER_50,Get this amazing bundle and power up Colossus
 ID_OF_NA_COLOSSUS_GOLD_OFFER_1,Colossus: Gold
 ID_OF_DE_COLOSSUS_GOLD_OFFER_50,Get this amazing bundle and level up Colossus. Get over <color=#fff568>40%</color> off when you buy now!
 ID_GACHA_CRATE_FCO_COULSON_SPECIAL_NAME,Project Tahiti Orb
-ID_GACHA_CRATE_FCO_COULSON_SPECIAL_DESCRIPTION,Win up to 180 Coulson shards
+ID_GACHA_CRATE_FCO_COULSON_SPECIAL_DESCRIPTION,Get up to 180 Coulson shards
 ID_GACHA_CRATE_FCO_COULSON_SPECIAL_TOKEN_NAME,Project Tahiti Orb Fragments
 ID_GACHA_CRATE_FCO_COULSON_SPECIAL_TOKEN_DESCRIPTION,Collect Project Tahiti Orb Fragments to earn a Project Tahiti Orb.
 ID_OF_NA_COULSON_OFFER_1,Agent of War Offer
@@ -1233,7 +1247,7 @@ ID_OF_DE_COULSON_OFFER_75,Get <color=#fff568>75 Coulson shards</color> and use h
 ID_OF_DE_COULSON_OFFER_125,Get <color=#fff568>125 Coulson shards</color> and use him to boost S.H.I.E.L.D. allies and always Revive with S.H.I.E.L.D. Medic's Heal!
 ID_OF_DE_COULSON_OFFER_150,Get <color=#fff568>150 Coulson shards</color> and use him to boost S.H.I.E.L.D. allies and always Revive with S.H.I.E.L.D. Medic's Heal!
 ID_GACHA_CRATE_FCO_CORVUSGLAIVE_SPECIAL_NAME,Backstab Orb
-ID_GACHA_CRATE_FCO_CORVUSGLAIVE_SPECIAL_DESCRIPTION,Win up to 180 Corvus Glaive shards
+ID_GACHA_CRATE_FCO_CORVUSGLAIVE_SPECIAL_DESCRIPTION,Get up to 180 Corvus Glaive shards
 ID_GACHA_CRATE_FCO_CORVUSGLAIVE_SPECIAL_TOKEN_NAME,Backstab Orb Fragments
 ID_GACHA_CRATE_FCO_CORVUSGLAIVE_SPECIAL_TOKEN_DESCRIPTION,Collect Backstab Orb Fragments to earn a Backstab Orb.
 ID_OF_NA_CORVUSGLAIVE_FCO,Backstab Orb
@@ -1264,7 +1278,7 @@ ID_OF_DE_CORVUSGLAIVE_OFFER_75,"Get <color=#fff568>75 Corvus Glaive shards</colo
 ID_OF_DE_CORVUSGLAIVE_OFFER_125,"Get <color=#fff568>125 Corvus Glaive shards</color> and use him to grant Thanos the Mind Stone, ignore Taunt and Stealth, and inflict Piercing damage!"
 ID_OF_DE_CORVUSGLAIVE_OFFER_150,"Get <color=#fff568>150 Corvus Glaive shards</color> and use him to grant Thanos the Mind Stone, ignore Taunt and Stealth, and inflict Piercing damage!"
 ID_GACHA_CRATE_FCO_CROSSBONES_SPECIAL_NAME,Skeleton Leader Orb
-ID_GACHA_CRATE_FCO_CROSSBONES_SPECIAL_DESCRIPTION,Win up to 180 Crossbones shards
+ID_GACHA_CRATE_FCO_CROSSBONES_SPECIAL_DESCRIPTION,Get up to 180 Crossbones shards
 ID_GACHA_CRATE_FCO_CROSSBONES_SPECIAL_TOKEN_NAME,Skeleton Leader Orb Fragments
 ID_GACHA_CRATE_FCO_CROSSBONES_SPECIAL_TOKEN_DESCRIPTION,Collect Skeleton Leader Orb Fragments to earn a Skeleton Leader Orb.
 ID_OF_NA_CROSSBONES_OFFER_1,Explosive Bruiser Offer
@@ -1278,7 +1292,7 @@ ID_OF_DE_CROSSBONES_OFFER_50,Maximize the capabilites of your team by upgrading<
 ID_OF_DE_CROSSBONES_OFFER_45,Maximize the capabilites of your team by upgrading<color=#fff568>Crossbones</color> with this <color=#fff568>45 shard</color> offer. His counters and Detonate attack are tough to handle in any scenario.
 ID_OF_DE_CROSSBONES_OFFER_25,Maximize the capabilites of your team by upgrading<color=#fff568>Crossbones</color> with this <color=#fff568>25 shard</color> offer. His counters and Detonate attack are tough to handle in any scenario.
 ID_GACHA_CRATE_FCO_CRYSTAL_SPECIAL_NAME,Royal Princess Orb
-ID_GACHA_CRATE_FCO_CRYSTAL_SPECIAL_DESCRIPTION,Win up to 180 Crystal shards
+ID_GACHA_CRATE_FCO_CRYSTAL_SPECIAL_DESCRIPTION,Get up to 180 Crystal shards
 ID_GACHA_CRATE_FCO_CRYSTAL_SPECIAL_TOKEN_NAME,Royal Princess Orb Fragments
 ID_GACHA_CRATE_FCO_CRYSTAL_SPECIAL_TOKEN_DESCRIPTION,Collect Royal Princess Orb Fragments to earn a Royal Princess Orb.
 ID_OF_NA_CRYSTAL_FCO,Royal Princess Orb Offer
@@ -1310,7 +1324,7 @@ ID_OF_DE_CRYSTAL_OFFER_75,"Get <color=#fff568>75 Crystal shards</color> and use 
 ID_OF_DE_CRYSTAL_OFFER_125,"Get <color=#fff568>125 Crystal shards</color> and use her to freeze enemies in their tracks with slow, rock them with an attack-all, and heal Inhuman allies."
 ID_OF_DE_CRYSTAL_OFFER_150,"Get <color=#fff568>150 Crystal shards</color> and use her to freeze enemies in their tracks with slow, rock them with an attack-all, and heal Inhuman allies."
 ID_GACHA_CRATE_FCO_CULLOBSIDIAN_SPECIAL_NAME,Dwarf Star Orb
-ID_GACHA_CRATE_FCO_CULLOBSIDIAN_SPECIAL_DESCRIPTION,Win up to 180 Cull Obsidian shards
+ID_GACHA_CRATE_FCO_CULLOBSIDIAN_SPECIAL_DESCRIPTION,Get up to 180 Cull Obsidian shards
 ID_GACHA_CRATE_FCO_CULLOBSIDIAN_SPECIAL_TOKEN_NAME,Dwarf Star Orb Fragments
 ID_GACHA_CRATE_FCO_CULLOBSIDIAN_SPECIAL_TOKEN_DESCRIPTION,Collect Dwarf Star Orb Fragments to earn a Dwarf Star Orb.
 ID_OF_NA_CULLOBSIDIAN_FCO,Dwarf Star Orb
@@ -1341,7 +1355,7 @@ ID_OF_DE_CULLOBSIDIAN_OFFER_75,Get <color=#fff568>75 Cull Obsidian shards</color
 ID_OF_DE_CULLOBSIDIAN_OFFER_125,Get <color=#fff568>125 Cull Obsidian shards</color> and use him to shield teammates with a 2-turn Taunt and grant Thanos the Power Stone.
 ID_OF_DE_CULLOBSIDIAN_OFFER_150,Get <color=#fff568>150 Cull Obsidian shards</color> and use him to shield teammates with a 2-turn Taunt and grant Thanos the Power Stone.
 ID_GACHA_CRATE_FCO_CYCLOPS_SPECIAL_NAME,X-Leader Orb
-ID_GACHA_CRATE_FCO_CYCLOPS_SPECIAL_DESCRIPTION,Win up to 180 Cyclops shards
+ID_GACHA_CRATE_FCO_CYCLOPS_SPECIAL_DESCRIPTION,Get up to 180 Cyclops shards
 ID_GACHA_CRATE_FCO_CYCLOPS_SPECIAL_TOKEN_NAME,X-Leader Orb Fragments
 ID_GACHA_CRATE_FCO_CYCLOPS_SPECIAL_TOKEN_DESCRIPTION,Collect X-Leader Orb Fragments to earn a X-Leader Orb.
 ID_OF_NA_CYCLOPS_FCO,X-Leader Orb Offer
@@ -1372,7 +1386,7 @@ ID_OF_DE_CYCLOPS_OFFER_75,"Get <color=#fff568>75 Cyclops shards</color> and use 
 ID_OF_DE_CYCLOPS_OFFER_125,"Get <color=#fff568>125 Cyclops shards</color> and use him to coordinate ally attacks around Taunters, apply Slow, and unleash a massive area of effect attack."
 ID_OF_DE_CYCLOPS_OFFER_150,"Get <color=#fff568>150 Cyclops shards</color> and use him to coordinate ally attacks around Taunters, apply Slow, and unleash a massive area of effect attack."
 ID_GACHA_CRATE_FCO_DAREDEVIL_SPECIAL_NAME,Man Without Fear Orb
-ID_GACHA_CRATE_FCO_DAREDEVIL_SPECIAL_DESCRIPTION,Win up to 180 Daredevil shards
+ID_GACHA_CRATE_FCO_DAREDEVIL_SPECIAL_DESCRIPTION,Get up to 180 Daredevil shards
 ID_GACHA_CRATE_FCO_DAREDEVIL_SPECIAL_TOKEN_NAME,Man Without Fear Orb Fragments
 ID_GACHA_CRATE_FCO_DAREDEVIL_SPECIAL_TOKEN_DESCRIPTION,Collect Man Without Fear Orb Fragments to earn a Man Without Fear Orb.
 ID_OF_NA_DAREDEVIL_OFFER,Dark Devil Offer
@@ -1389,7 +1403,7 @@ ID_OF_DE_DAREDEVIL_OFFER_55,Grab <color=#fff568>55 Daredevil shards</color> with
 ID_OF_DE_DAREDEVIL_OFFER_75,Grab <color=#fff568>75 Daredevil shards</color> with this special offer! Enhance your City team with this Brawler adept at aggressive chain attacks and counters.
 ID_OF_DE_DAREDEVIL_OFFER_125,Grab <color=#fff568>125 Daredevil shards</color> with this special offer! Enhance your City team with this Brawler adept at aggressive chain attacks and counters.
 ID_GACHA_CRATE_FCO_DARKSORCERERS_450HC_NAME,Dark Sorcerers Orb
-ID_GACHA_CRATE_FCO_DARKSORCERERS_450HC_DESCRIPTION,Win up to 145 character shards
+ID_GACHA_CRATE_FCO_DARKSORCERERS_450HC_DESCRIPTION,Get up to 145 character shards
 ID_GACHA_CRATE_FCO_DARKSORCERERS_450HC_TOKEN_NAME,Dark Sorcerers Orb Fragments
 ID_GACHA_CRATE_FCO_DARKSORCERERS_450HC_TOKEN_DESCRIPTION,Collect Dark Sorcerers Orb Fragments to earn a Dark Sorcerers Orb.
 ID_OF_NA_LE_DARKSORCERERS_ORB,Dark Sorcerers Orb
@@ -1406,7 +1420,7 @@ ID_OF_DE_LE_DARKSORCERERS_OFFER_14O,Save on <color=#fff568>14 Dark Sorcerers Orb
 ID_OF_DE_LE_DARKSORCERERS_OFFER_15O,Save on <color=#fff568>15 Dark Sorcerers Orbs</color> and strengthen your team to recruit Phoenix!
 ID_OF_DE_LE_DARKSORCERERS_OFFER_16O,Save on <color=#fff568>16 Dark Sorcerers Orbs</color> and strengthen your team to recruit Phoenix!
 ID_GACHA_CRATE_FCO_DEADPOOL_SPECIAL_NAME,Merc with a Mouth Orb
-ID_GACHA_CRATE_FCO_DEADPOOL_SPECIAL_DESCRIPTION,Win up to 180 Deadpool shards
+ID_GACHA_CRATE_FCO_DEADPOOL_SPECIAL_DESCRIPTION,Get up to 180 Deadpool shards
 ID_GACHA_CRATE_FCO_DEADPOOL_SPECIAL_TOKEN_NAME,Merc with a Mouth Orb Fragments
 ID_GACHA_CRATE_FCO_DEADPOOL_SPECIAL_TOKEN_DESCRIPTION,Collect Merc with a Mouth Orb Fragments to earn a Merc with a Mouth Orb.
 ID_OF_NA_DEADPOOL_OFFER_6,Shooty McStabface Offer
@@ -1422,11 +1436,11 @@ ID_OF_DE_DEADPOOL_OFFER_150,Get <color=#fff568>150 Deadpool shards</color> and e
 ID_OF_NA_GEAR_DEADPOOL_OFFER_1,Deadpool Gear Bundle
 ID_OF_DE_GEAR_DEADPOOL_OFFER_1,Power up Deadpool with this amazing deal! Take him to level 15 and equip his origin gear with this offer.
 ID_GACHA_CRATE_FCO_DOCTORSTRANGE_SPECIAL_NAME,Sorcerer Supreme Orb
-ID_GACHA_CRATE_FCO_DOCTORSTRANGE_SPECIAL_DESCRIPTION,Win up to 180 Doctor Strange shards
+ID_GACHA_CRATE_FCO_DOCTORSTRANGE_SPECIAL_DESCRIPTION,Get up to 180 Doctor Strange shards
 ID_GACHA_CRATE_FCO_DOCTORSTRANGE_SPECIAL_TOKEN_NAME,Sorcerer Supreme Orb Fragments
 ID_GACHA_CRATE_FCO_DOCTORSTRANGE_SPECIAL_TOKEN_DESCRIPTION,Collect Sorcerer Supreme Orb Fragments to earn a Sorcerer Supreme Orb.
 ID_GACHA_CRATE_FCO_DOCTORSTRANGE_375HC_145JP_NAME,Sorcerer Supreme Orb
-ID_GACHA_CRATE_FCO_DOCTORSTRANGE_375HC_145JP_DESCRIPTION,Win up to 145 Doctor Strange shards
+ID_GACHA_CRATE_FCO_DOCTORSTRANGE_375HC_145JP_DESCRIPTION,Get up to 145 Doctor Strange shards
 ID_GACHA_CRATE_FCO_DOCTORSTRANGE_375HC_145JP_TOKEN_NAME,Sorcerer Supreme Orb Fragments
 ID_GACHA_CRATE_FCO_DOCTORSTRANGE_375HC_145JP_TOKEN_DESCRIPTION,Collect Sorcerer Supreme Orb Fragments to earn a Sorcerer Supreme Orb.
 ID_OF_NA_DRSTRANGE_OFFER_1,Sorcerer Supreme Offer
@@ -1440,7 +1454,7 @@ ID_OF_DE_DRSTRANGE_OFFER_75,Gain the upper hand with this offer for <color=#fff5
 ID_OF_DE_DRSTRANGE_OFFER_125,Gain the upper hand with this offer for <color=#fff568>125 Doctor Strange shards</color>; use his ability to flip positive effects and revive fallen teammates.
 ID_OF_DE_DRSTRANGE_OFFER_150,Gain the upper hand with this offer for <color=#fff568>150 Doctor Strange shards</color>; use his ability to flip positive effects and revive fallen teammates.
 ID_GACHA_CRATE_FCO_DOMINO_SPECIAL_NAME,Lady Luck Orb
-ID_GACHA_CRATE_FCO_DOMINO_SPECIAL_DESCRIPTION,Win up to 180 Domino shards
+ID_GACHA_CRATE_FCO_DOMINO_SPECIAL_DESCRIPTION,Get up to 180 Domino shards
 ID_GACHA_CRATE_FCO_DOMINO_SPECIAL_TOKEN_NAME,Lady Luck Orb Fragments
 ID_GACHA_CRATE_FCO_DOMINO_SPECIAL_TOKEN_DESCRIPTION,Collect Lady Luck Orb Fragments to earn a Lady Luck Orb.
 ID_OF_NA_DOMINO_OFFER_1,Lady Luck Offer
@@ -1456,7 +1470,7 @@ ID_OF_DE_DOMINO_GOLD_OFFER_50,Get this amazing bundle and level up Domino. Get o
 ID_OF_NA_DOMINO_TRAINING_OFFER_1,Domino: Training
 ID_OF_DE_DOMINO_TRAINING_OFFER_40,Get this amazing bundle and level up Domino. Get over <color=#fff568>40%</color> off when you buy now!
 ID_GACHA_CRATE_FCO_DRAX_SPECIAL_NAME,Destroyer Orb
-ID_GACHA_CRATE_FCO_DRAX_SPECIAL_DESCRIPTION,Win up to 180 Drax shards
+ID_GACHA_CRATE_FCO_DRAX_SPECIAL_DESCRIPTION,Get up to 180 Drax shards
 ID_GACHA_CRATE_FCO_DRAX_SPECIAL_TOKEN_NAME,Destroyer Orb Fragments
 ID_GACHA_CRATE_FCO_DRAX_SPECIAL_TOKEN_DESCRIPTION,Collect Destroyer Orb Fragments to earn a Destroyer Orb.
 ID_OF_DE_DRAX_OFFER_25,Help boost your squad with this opportunity to get <color=#fff568>25 Drax shards</color>! Stay alive by using his Drain attacks and Taunt.
@@ -1468,7 +1482,7 @@ ID_OF_DE_DRAX_OFFER_100,Help boost your squad with this opportunity to get <colo
 ID_OF_DE_DRAX_OFFER_150,Help boost your squad with this opportunity to get <color=#fff568>150 Drax shards</color>! Stay alive by using his Drain attacks and Taunt.
 ID_OF_DE_DRAX_OFFER_125,Help boost your squad with this opportunity to get <color=#fff568>125 Drax shards</color>! Stay alive by using his Drain attacks and Taunt.
 ID_GACHA_CRATE_FCO_ELECTRO_SPECIAL_NAME,Bright Persona Orb
-ID_GACHA_CRATE_FCO_ELECTRO_SPECIAL_DESCRIPTION,Win up to 180 Electro shards
+ID_GACHA_CRATE_FCO_ELECTRO_SPECIAL_DESCRIPTION,Get up to 180 Electro shards
 ID_GACHA_CRATE_FCO_ELECTRO_SPECIAL_TOKEN_NAME,Bright Persona Orb Fragments
 ID_GACHA_CRATE_FCO_ELECTRO_SPECIAL_TOKEN_DESCRIPTION,Collect Bright Persona Orb Fragments to earn a Bright Persona Orb.
 ID_OF_NA_ELECTRO_FCO,Bright Persona Orb
@@ -1486,7 +1500,7 @@ ID_OF_NA_ELECTRO_OFFER_1,Bright Persona Offer
 ID_OF_DE_ELECTRO_OFFER_VAR_S,"Recruit a <color=#fff568>{var1}-star Electro</color> with this offer! Electrify battles with big damage, a Charged attack-all Passive Ability, and Bonus Attacks."
 ID_OF_DE_ELECTRO_OFFER_VAR,"Get <color=#fff568>{var1} Electro shards</color> and use her to electrify battles with big damage, a Charged attack-all Passive Ability, and Bonus Attacks."
 ID_GACHA_CRATE_FCO_ELEKTRA_SPECIAL_NAME,Master Assassin Orb
-ID_GACHA_CRATE_FCO_ELEKTRA_SPECIAL_DESCRIPTION,Win up to 180 Elektra shards
+ID_GACHA_CRATE_FCO_ELEKTRA_SPECIAL_DESCRIPTION,Get up to 180 Elektra shards
 ID_GACHA_CRATE_FCO_ELEKTRA_SPECIAL_TOKEN_NAME,Master Assassin Orb Fragments
 ID_GACHA_CRATE_FCO_ELEKTRA_SPECIAL_TOKEN_DESCRIPTION,Collect Master Assassin Orb Fragments to earn a Master Assassin Orb.
 ID_OF_NA_ELEKTRA_OFFER_1,Stealth Assassin Offer
@@ -1502,7 +1516,7 @@ ID_OF_DE_ELEKTRA_OFFER_100,"Upgrade <color=#fff568>Elektra</color>with this <col
 ID_OF_DE_ELEKTRA_OFFER_125,"Upgrade <color=#fff568>Elektra</color>with this <color=#fff568>125 shard</color> special offer. Use her special to remove positive effects and gain stealth, then finish enemies off with her ultimate attack."
 ID_OF_DE_ELEKTRA_OFFER_150,"Upgrade <color=#fff568>Elektra</color>with this <color=#fff568>150 shard</color> special offer. Use her special to remove positive effects and gain stealth, then finish enemies off with her ultimate attack."
 ID_GACHA_CRATE_FCO_ELSA_SPECIAL_NAME,Monster Hunter Orb
-ID_GACHA_CRATE_FCO_ELSA_SPECIAL_DESCRIPTION,Win up to 180 Elsa Bloodstone shards
+ID_GACHA_CRATE_FCO_ELSA_SPECIAL_DESCRIPTION,Get up to 180 Elsa Bloodstone shards
 ID_GACHA_CRATE_FCO_ELSA_SPECIAL_TOKEN_NAME,Monster Hunter Orb Fragments
 ID_GACHA_CRATE_FCO_ELSA_SPECIAL_TOKEN_DESCRIPTION,Collect Monster Hunter Orb Fragments to earn a Monster Hunter Orb.
 ID_OF_NA_ELSA_FCO,Monster Hunter Orb Offer
@@ -1533,7 +1547,7 @@ ID_OF_DE_ELSA_OFFER_75,Get <color=#fff568>75 Elsa Bloodstone shards</color> and 
 ID_OF_DE_ELSA_OFFER_125,Get <color=#fff568>125 Elsa Bloodstone shards</color> and use her to finish off injured enemies and attack enemies again when she or her allies miss an attack!
 ID_OF_DE_ELSA_OFFER_150,Get <color=#fff568>150 Elsa Bloodstone shards</color> and use her to finish off injured enemies and attack enemies again when she or her allies miss an attack!
 ID_GACHA_CRATE_FCO_EMMAFROST_SPECIAL_NAME,Tough Skin Orb
-ID_GACHA_CRATE_FCO_EMMAFROST_SPECIAL_DESCRIPTION,Win up to 180 Emma Frost shards
+ID_GACHA_CRATE_FCO_EMMAFROST_SPECIAL_DESCRIPTION,Get up to 180 Emma Frost shards
 ID_GACHA_CRATE_FCO_EMMAFROST_SPECIAL_TOKEN_NAME,Tough Skin Orb Fragments
 ID_GACHA_CRATE_FCO_EMMAFROST_SPECIAL_TOKEN_DESCRIPTION,Collect Tough Skin Orb Fragments to earn a Tough Skin Orb.
 ID_OF_NA_EMMAFROST_FCO,Tough Skin Orb
@@ -1552,7 +1566,7 @@ ID_OF_DE_EMMAFROST_OFFER_VAR_S,"Recruit a <color=#fff568>{var1}-star Emma Frost<
 ID_OF_DE_EMMAFROST_OFFER_VAR,"Get <color=#fff568>{var1} Emma Frost shards</color> and make foes crumble like cubic zirconia! Mind-control enemies, heal each turn, and gain Armor & Resistance bonuses in Diamond Form."
 ID_OF_DE_EMMAFROST_FCO_OFFER_VAR_O_S,"Save on <color=#fff568>{var1} Tough Skin Orb</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Emma Frost shards</color>. Make foes crumble like cubic zirconia! Mind-control enemies, heal each turn, and gain Armor & Resistance bonuses in Diamond Form."
 ID_GACHA_CRATE_FCO_FALCON_SPECIAL_NAME,EXO-7 Orb
-ID_GACHA_CRATE_FCO_FALCON_SPECIAL_DESCRIPTION,Win up to 180 Falcon shards
+ID_GACHA_CRATE_FCO_FALCON_SPECIAL_DESCRIPTION,Get up to 180 Falcon shards
 ID_GACHA_CRATE_FCO_FALCON_SPECIAL_TOKEN_NAME,EXO-7 Orb Fragments
 ID_GACHA_CRATE_FCO_FALCON_SPECIAL_TOKEN_DESCRIPTION,Collect EXO-7 Orb Fragments to earn a EXO-7 Orb.
 ID_OF_NA_FALCON_FCO_OFFER_1,EXO-7 Orb
@@ -1581,7 +1595,7 @@ ID_OF_DE_FALCON_ABILITY_OFFER_50,Get this amazing bundle and power up Falcon. Ge
 ID_OF_NA_FALCON_GOLD_OFFER_1,Falcon: Gold
 ID_OF_DE_FALCON_GOLD_OFFER_50,Get this amazing bundle and level up Falcon. Get over <color=#fff568>40%</color> off when you buy now!
 ID_GACHA_CRATE_FCO_FANTASTICFOUR_450HC_NAME,Fantastic Four Orb
-ID_GACHA_CRATE_FCO_FANTASTICFOUR_450HC_DESCRIPTION,Win up to 145 select Fantastic Four and Namor shards.
+ID_GACHA_CRATE_FCO_FANTASTICFOUR_450HC_DESCRIPTION,Get up to 145 select Fantastic Four and Namor shards.
 ID_GACHA_CRATE_FCO_FANTASTICFOUR_450HC_TOKEN_NAME,Fantastic Four Orb Fragments
 ID_GACHA_CRATE_FCO_FANTASTICFOUR_450HC_TOKEN_DESCRIPTION,Collect Fantastic Four Orb Fragments to earn a Fantastic Four Orb.
 ID_OF_DE_FANTASTICFOUR_OFFER_6O,Save on <color=#fff568>6 Fantastic Four Orbs</color> and strengthen your Fantastic Four and Namor team for War Offense!
@@ -1591,7 +1605,7 @@ ID_OF_DE_FANTASTICFOUR_OFFER_4O,Save on <color=#fff568>4 Fantastic Four Orbs</co
 ID_OF_DE_FANTASTICFOUR_OFFER_3O,Save on <color=#fff568>3 Fantastic Four Orbs</color> and strengthen your Fantastic Four and Namor team for War Offense!
 ID_OF_DE_FANTASTICFOUR_OFFER_8O,Save on <color=#fff568>8 Fantastic Four Orbs</color> and strengthen your Fantastic Four and Namor team for War Offense!
 ID_GACHA_CRATE_FCO_GAMORA_SPECIAL_NAME,Deadliest Woman Orb
-ID_GACHA_CRATE_FCO_GAMORA_SPECIAL_DESCRIPTION,Win up to 180 Gamora shards
+ID_GACHA_CRATE_FCO_GAMORA_SPECIAL_DESCRIPTION,Get up to 180 Gamora shards
 ID_GACHA_CRATE_FCO_GAMORA_SPECIAL_TOKEN_NAME,Deadliest Woman Orb Fragments
 ID_GACHA_CRATE_FCO_GAMORA_SPECIAL_TOKEN_DESCRIPTION,Collect Deadliest Woman Orb Fragments to earn a Deadliest Woman Orb.
 ID_OF_DE_GAMORA_OFFER_2S,Recruit a <color=#fff568>2-star Gamora</color> with this offer! Power her up to help recruit Star-Lord!
@@ -1605,7 +1619,7 @@ ID_OF_DE_GAMORA_OFFER_125,Get <color=#fff568>125 Gamora shards</color> and power
 ID_OF_DE_GAMORA_OFFER_150,Get <color=#fff568>150 Gamora shards</color> and power her up to help recruit Star-Lord!
 ID_OF_DE_GAMORA_OFFER_VAR,Get <color=#fff568>{var1} Gamora shards</color> and power her up to help recruit Star-Lord!
 ID_GACHA_CRATE_FCO_GHOSTRIDER_SPECIAL_NAME,Devil's Pact Orb
-ID_GACHA_CRATE_FCO_GHOSTRIDER_SPECIAL_DESCRIPTION,Win up to 180 Ghost Rider shards
+ID_GACHA_CRATE_FCO_GHOSTRIDER_SPECIAL_DESCRIPTION,Get up to 180 Ghost Rider shards
 ID_GACHA_CRATE_FCO_GHOSTRIDER_SPECIAL_TOKEN_NAME,Devil's Pact Orb Fragments
 ID_GACHA_CRATE_FCO_GHOSTRIDER_SPECIAL_TOKEN_DESCRIPTION,Collect Devil's Pact Orb Fragments to earn a Devil's Pact Orb.
 ID_OF_NA_GHOSTRIDER_FCO,Devil's Pact Orb Offer
@@ -1635,12 +1649,16 @@ ID_OF_DE_GHOSTRIDER_OFFER_55,Get <color=#fff568>55 Ghost Rider shards</color> an
 ID_OF_DE_GHOSTRIDER_OFFER_75,Get <color=#fff568>75 Ghost Rider shards</color> and use him to stack Bleed and grant ability energy when Ghost Rider or his allies are killed!
 ID_OF_DE_GHOSTRIDER_OFFER_125,Get <color=#fff568>125 Ghost Rider shards</color> and use him to stack Bleed and grant ability energy when Ghost Rider or his allies are killed!
 ID_OF_DE_GHOSTRIDER_OFFER_150,Get <color=#fff568>150 Ghost Rider shards</color> and use him to stack Bleed and grant ability energy when Ghost Rider or his allies are killed!
+ID_GACHA_CRATE_FCO_GHOST_SPECIAL_NAME,Quantum Snare Orb
+ID_GACHA_CRATE_FCO_GHOST_SPECIAL_DESCRIPTION,Earn up to 180 Ghost shards
+ID_GACHA_CRATE_FCO_GHOST_SPECIAL_TOKEN_NAME,Quantum Snare Orb Fragments
+ID_GACHA_CRATE_FCO_GHOST_SPECIAL_TOKEN_DESCRIPTION,Collect Quantum Snare Orb Fragments to earn a Quantum Snare Orb.
 ID_GACHA_CRATE_FCO_GOTG_SPECIAL_NAME,Galactic Heroes Orb
-ID_GACHA_CRATE_FCO_GOTG_SPECIAL_DESCRIPTION,Win up to 180 Guardian or Ravager character shards
+ID_GACHA_CRATE_FCO_GOTG_SPECIAL_DESCRIPTION,Get up to 180 Guardian or Ravager character shards
 ID_GACHA_CRATE_FCO_GOTG_SPECIAL_TOKEN_NAME,Galactic Heroes Orb Fragments
 ID_GACHA_CRATE_FCO_GOTG_SPECIAL_TOKEN_DESCRIPTION,Collect Galactic Heroes Orb Fragments to earn a Galactic Heroes Orb.
 ID_GACHA_CRATE_FCO_GRAVITON_SPECIAL_NAME,Minister of Science Orb
-ID_GACHA_CRATE_FCO_GRAVITON_SPECIAL_DESCRIPTION,Win up to 180 Graviton shards
+ID_GACHA_CRATE_FCO_GRAVITON_SPECIAL_DESCRIPTION,Get up to 180 Graviton shards
 ID_GACHA_CRATE_FCO_GRAVITON_SPECIAL_TOKEN_NAME,Minister of Science Orb Fragments
 ID_GACHA_CRATE_FCO_GRAVITON_SPECIAL_TOKEN_DESCRIPTION,Collect Minister of Science Orb Fragments to earn a Minister of Science Orb.
 ID_OF_NA_GRAVITON_FCO,Minister of Science Orb Offer
@@ -1670,11 +1688,11 @@ ID_OF_DE_GRAVITON_OFFER_75,"Get <color=#fff568>75 Graviton shards</color> and us
 ID_OF_DE_GRAVITON_OFFER_125,"Get <color=#fff568>125 Graviton shards</color> and use him to weigh down enemies with Stun and stacks of Slow, and then deal extra damage for every negative effect!"
 ID_OF_DE_GRAVITON_OFFER_150,"Get <color=#fff568>150 Graviton shards</color> and use him to weigh down enemies with Stun and stacks of Slow, and then deal extra damage for every negative effect!"
 ID_GACHA_CRATE_FCO_GROOT_SPECIAL_NAME,Gentle Giant Orb
-ID_GACHA_CRATE_FCO_GROOT_SPECIAL_DESCRIPTION,Win up to 180 Groot shards
+ID_GACHA_CRATE_FCO_GROOT_SPECIAL_DESCRIPTION,Get up to 180 Groot shards
 ID_GACHA_CRATE_FCO_GROOT_SPECIAL_TOKEN_NAME,Gentle Giant Orb Fragments
 ID_GACHA_CRATE_FCO_GROOT_SPECIAL_TOKEN_DESCRIPTION,Collect Gentle Giant Orb Fragments to earn a Gentle Giant Orb.
 ID_GACHA_CRATE_FCO_HAWKEYE_SPECIAL_NAME,Sharpshooter Orb
-ID_GACHA_CRATE_FCO_HAWKEYE_SPECIAL_DESCRIPTION,Win up to 180 Hawkeye shards
+ID_GACHA_CRATE_FCO_HAWKEYE_SPECIAL_DESCRIPTION,Get up to 180 Hawkeye shards
 ID_GACHA_CRATE_FCO_HAWKEYE_SPECIAL_TOKEN_NAME,Sharpshooter Orb Fragments
 ID_GACHA_CRATE_FCO_HAWKEYE_SPECIAL_TOKEN_DESCRIPTION,Collect Sharpshooter Orb Fragments to earn a Sharpshooter Orb.
 ID_OF_NA_HAWKEYE_OFFER_1,Elite S.H.I.E.L.D. Hawkeye Offer
@@ -1694,11 +1712,11 @@ ID_OF_DE_HAWKEYE_FCO_OFFER_6O,"Save on <color=#fff568>6 Sharpshooter Orbs</color
 ID_OF_DE_HAWKEYE_FCO_OFFER_8O,"Save on <color=#fff568>8 Sharpshooter Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 shards</color>. Use Hawkeye to remove positive effects, reduce enemy speed bars, and blind opponents to give your team the edge in the fight! "
 ID_OF_DE_HAWKEYE_FCO_OFFER_10O,"Save on <color=#fff568>10 Sharpshooter Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 shards</color>. Use Hawkeye to remove positive effects, reduce enemy speed bars, and blind opponents to give your team the edge in the fight! "
 ID_GACHA_CRATE_FCO_HAND_SPECIAL_NAME,Hand Orb
-ID_GACHA_CRATE_FCO_HAND_SPECIAL_DESCRIPTION,Win up to 180 Hand character shards
+ID_GACHA_CRATE_FCO_HAND_SPECIAL_DESCRIPTION,Get up to 180 Hand character shards
 ID_GACHA_CRATE_FCO_HAND_SPECIAL_TOKEN_NAME,Hand Orb Fragments
 ID_GACHA_CRATE_FCO_HAND_SPECIAL_TOKEN_DESCRIPTION,Collect Hand Orb Fragments to earn a Hand Orb.
 ID_GACHA_CRATE_FCO_HAND_375HC_NAME,Hand Orb
-ID_GACHA_CRATE_FCO_HAND_375HC_DESCRIPTION,Win up to 145 Hand character shards
+ID_GACHA_CRATE_FCO_HAND_375HC_DESCRIPTION,Get up to 145 Hand character shards
 ID_GACHA_CRATE_FCO_HAND_375HC_TOKEN_NAME,Hand Orb Fragments
 ID_GACHA_CRATE_FCO_HAND_375HC_TOKEN_DESCRIPTION,Collect Hand Orb Fragments to earn a Hand Orb.
 ID_OF_DE_HAND_ORB_2O,Save on <color=#fff568>2 Hand Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 145 shards</color>. Optimize your Hand team to help complete <color=#fff568>Need a Hand</color>.
@@ -1713,11 +1731,11 @@ ID_OF_DE_HAND_ORB_10O,Save on <color=#fff568>10 Hand Orbs</color> with this offe
 ID_OF_DE_HAND_ORB_11O,Save on <color=#fff568>11 Hand Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 145 shards</color>. Optimize your Hand team to help complete <color=#fff568>Need a Hand</color>.
 ID_OF_DE_HAND_ORB_12O,Save on <color=#fff568>12 Hand Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 145 shards</color>. Optimize your Hand team to help complete <color=#fff568>Need a Hand</color>.
 ID_GACHA_CRATE_FCO_HANDDMG_BONUS_SPECIAL_NAME,Crimson Edge Orb
-ID_GACHA_CRATE_FCO_HANDDMG_BONUS_SPECIAL_DESCRIPTION,Win up to 180 Hand Blademaster shards
+ID_GACHA_CRATE_FCO_HANDDMG_BONUS_SPECIAL_DESCRIPTION,Get up to 180 Hand Blademaster shards
 ID_GACHA_CRATE_FCO_HANDDMG_BONUS_SPECIAL_TOKEN_NAME,Crimson Edge Orb Fragments
 ID_GACHA_CRATE_FCO_HANDDMG_BONUS_SPECIAL_TOKEN_DESCRIPTION,Collect Crimson Edge Orb Fragments to earn a Crimson Edge Orb.
 ID_GACHA_CRATE_FCO_HEIMDALL_SPECIAL_NAME,Gatekeeper Orb
-ID_GACHA_CRATE_FCO_HEIMDALL_SPECIAL_DESCRIPTION,Win up to 180 Heimdall shards
+ID_GACHA_CRATE_FCO_HEIMDALL_SPECIAL_DESCRIPTION,Get up to 180 Heimdall shards
 ID_GACHA_CRATE_FCO_HEIMDALL_SPECIAL_TOKEN_NAME,Gatekeeper Orb Fragments
 ID_GACHA_CRATE_FCO_HEIMDALL_SPECIAL_TOKEN_DESCRIPTION,Collect Gatekeeper Orb Fragments to earn a Gatekeeper Orb.
 ID_OF_NA_HEIMDALL_FCO,Gatekeeper Orb Offer
@@ -1749,7 +1767,7 @@ ID_OF_DE_HEIMDALL_OFFER_75,Get <color=#fff568>75 Heimdall shards</color> and use
 ID_OF_DE_HEIMDALL_OFFER_125,Get <color=#fff568>125 Heimdall shards</color> and use him to protect Asgardians from Blind and grant them Defense Up on War Defense!
 ID_OF_DE_HEIMDALL_OFFER_150,Get <color=#fff568>150 Heimdall shards</color> and use him to protect Asgardians from Blind and grant them Defense Up on War Defense!
 ID_GACHA_CRATE_FCO_HELA_SPECIAL_NAME,Queen of the Dead Orb
-ID_GACHA_CRATE_FCO_HELA_SPECIAL_DESCRIPTION,Win up to 180 Hela shards
+ID_GACHA_CRATE_FCO_HELA_SPECIAL_DESCRIPTION,Get up to 180 Hela shards
 ID_GACHA_CRATE_FCO_HELA_SPECIAL_TOKEN_NAME,Queen of the Dead Orb Fragments
 ID_GACHA_CRATE_FCO_HELA_SPECIAL_TOKEN_DESCRIPTION,Collect Queen of the Dead Orb Fragments to earn a Queen of the Dead Orb.
 ID_OF_NA_HELA_FCO,Queen of the Dead Orb
@@ -1781,7 +1799,7 @@ ID_OF_DE_HELA_OFFER_75,"Get <color=#fff568>75 Hela shards</color> and use her to
 ID_OF_DE_HELA_OFFER_125,"Get <color=#fff568>125 Hela shards</color> and use her to summon a minion, clear Deathproof, and spread negative effects to all enemies."
 ID_OF_DE_HELA_OFFER_150,"Get <color=#fff568>150 Hela shards</color> and use her to summon a minion, clear Deathproof, and spread negative effects to all enemies."
 ID_GACHA_CRATE_FCO_HUMANTORCH_SPECIAL_NAME,Flame On Orb
-ID_GACHA_CRATE_FCO_HUMANTORCH_SPECIAL_DESCRIPTION,Win up to 180 Human Torch shards
+ID_GACHA_CRATE_FCO_HUMANTORCH_SPECIAL_DESCRIPTION,Get up to 180 Human Torch shards
 ID_GACHA_CRATE_FCO_HUMANTORCH_SPECIAL_TOKEN_NAME,Flame On Orb Fragments
 ID_GACHA_CRATE_FCO_HUMANTORCH_SPECIAL_TOKEN_DESCRIPTION,Collect Flame On Orb Fragments to earn a Flame On Orb.
 ID_OF_NA_HUMANTORCH_FCO,Flame On Orb Offer
@@ -1812,11 +1830,11 @@ ID_OF_DE_HUMANTORCH_OFFER_125,Get <color=#fff568>125 Human Torch shards</color> 
 ID_OF_DE_HUMANTORCH_OFFER_150,Get <color=#fff568>150 Human Torch shards</color> and use him to ignite the Fantastic Four with extra damage and Offense Up!
 ID_OF_DE_BEGINNER_HUMANTORCH_VAR,Get over <color=#fff568>{var1}x value</color> with this limited time offer! Fight with a <color=#fff568>{var2}-star Human Torch</color> on your squad!
 ID_GACHA_CRATE_FCO_HYDRADMG_SINGLE_SPECIAL_NAME,Precise Shot Orb
-ID_GACHA_CRATE_FCO_HYDRADMG_SINGLE_SPECIAL_DESCRIPTION,Win up to 180 Hydra Sniper shards
+ID_GACHA_CRATE_FCO_HYDRADMG_SINGLE_SPECIAL_DESCRIPTION,Get up to 180 Hydra Sniper shards
 ID_GACHA_CRATE_FCO_HYDRADMG_SINGLE_SPECIAL_TOKEN_NAME,Precise Shot Orb Fragments
 ID_GACHA_CRATE_FCO_HYDRADMG_SINGLE_SPECIAL_TOKEN_DESCRIPTION,Collect Precise Shot Orb Fragments to earn a Precise Shot Orb.
 ID_GACHA_CRATE_FCO_INHUMAN_450HC_NAME,Inhuman Orb
-ID_GACHA_CRATE_FCO_INHUMAN_450HC_DESCRIPTION,Win up to 145 select Inhuman shards.
+ID_GACHA_CRATE_FCO_INHUMAN_450HC_DESCRIPTION,Get up to 145 select Inhuman shards.
 ID_GACHA_CRATE_FCO_INHUMAN_450HC_TOKEN_NAME,Inhuman Orb Fragments
 ID_GACHA_CRATE_FCO_INHUMAN_450HC_TOKEN_DESCRIPTION,Collect Inhuman Orb Fragments to earn a Inhuman Orb.
 ID_OF_DE_INHUMAN_OFFER_6O,Save on <color=#fff568>6 Inhuman Orbs</color> and strengthen your Inhuman team!
@@ -1830,7 +1848,7 @@ ID_GACHA_CRATE_FCO_IRONFIST_DESCRIPTION,Increased chance to earn Iron Fist shard
 ID_GACHA_CRATE_FCO_IRONFIST_TOKEN_NAME,Immortal Protector Orb Fragments
 ID_GACHA_CRATE_FCO_IRONFIST_TOKEN_DESCRIPTION,Collect Immortal Protector Orb Fragments to earn an Immortal Protector Orb.
 ID_GACHA_CRATE_FCO_IRONFIST_SPECIAL_NAME,Immortal Protector Orb
-ID_GACHA_CRATE_FCO_IRONFIST_SPECIAL_DESCRIPTION,Win up to 180 Iron Fist shards
+ID_GACHA_CRATE_FCO_IRONFIST_SPECIAL_DESCRIPTION,Get up to 180 Iron Fist shards
 ID_GACHA_CRATE_FCO_IRONFIST_SPECIAL_TOKEN_NAME,Immortal Protector Orb Fragments
 ID_GACHA_CRATE_FCO_IRONFIST_SPECIAL_TOKEN_DESCRIPTION,Collect Immortal Protector Orb Fragments to earn a Immortal Protector Orb.
 ID_OF_NA_IRONFIST_OFFER_1,Immortal Dragon Offer
@@ -1844,7 +1862,7 @@ ID_OF_DE_IRONFIST_OFFER_3S,"Round out your City Heroes team with this invaluable
 ID_OF_DE_IRONFIST_OFFER_125,"Round out your City Heroes team with this invaluable Mystic Brawler. Get <color=#fff568>125 Iron Fist shards </color> and use his Healing, chaining attacks, and massive single-target damage abilities."
 ID_OF_DE_IRONFIST_OFFER_150,"Round out your City Heroes team with this invaluable Mystic Brawler. Get <color=#fff568>150 Iron Fist shards </color> and use his Healing, chaining attacks, and massive single-target damage abilities."
 ID_GACHA_CRATE_FCO_IRONHEART_SPECIAL_NAME,Tech Prodigy Orb
-ID_GACHA_CRATE_FCO_IRONHEART_SPECIAL_DESCRIPTION,Win up to 180 Ironheart shards
+ID_GACHA_CRATE_FCO_IRONHEART_SPECIAL_DESCRIPTION,Get up to 180 Ironheart shards
 ID_GACHA_CRATE_FCO_IRONHEART_SPECIAL_TOKEN_NAME,Tech Prodigy Orb Fragments
 ID_GACHA_CRATE_FCO_IRONHEART_SPECIAL_TOKEN_DESCRIPTION,Collect Tech Prodigy Orb Fragments to earn a Tech Prodigy Orb.
 ID_OF_NA_IRONHEART_OFFER_1,Tech Prodigy Offer
@@ -1860,7 +1878,7 @@ ID_OF_DE_IRONHEART_GOLD_OFFER_50,Get this amazing bundle and level up Ironheart.
 ID_OF_NA_IRONHEART_TRAINING_OFFER_1,Ironheart: Training
 ID_OF_DE_IRONHEART_TRAINING_OFFER_50,Get this amazing bundle and level up Ironheart. Get over <color=#fff568>50%</color> off when you buy now!
 ID_GACHA_CRATE_FCO_JESSICAJONES_SPECIAL_NAME,Alias Orb
-ID_GACHA_CRATE_FCO_JESSICAJONES_SPECIAL_DESCRIPTION,Win up to 180 Jessica Jones shards
+ID_GACHA_CRATE_FCO_JESSICAJONES_SPECIAL_DESCRIPTION,Get up to 180 Jessica Jones shards
 ID_GACHA_CRATE_FCO_JESSICAJONES_SPECIAL_TOKEN_NAME,Alias Orb Fragments
 ID_GACHA_CRATE_FCO_JESSICAJONES_SPECIAL_TOKEN_DESCRIPTION,Collect Alias Orb Fragments to earn a Alias Orb.
 ID_OF_NA_JESSICAJONES_OFFER_1,Surly Sleuth Offer
@@ -1885,7 +1903,7 @@ ID_OF_DE_JESSICAJONES_FCO_OFFER_6O,Save on <color=#fff568>6 Alias Orbs</color> w
 ID_OF_DE_JESSICAJONES_FCO_OFFER_8O,Save on <color=#fff568>8 Alias Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 shards</color>. Use Jessica Jones to clear negative effects while also generating energy for her teammates!
 ID_OF_DE_JESSICAJONES_FCO_OFFER_10O,Save on <color=#fff568>10 Alias Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 shards</color>. Use Jessica Jones to clear negative effects while also generating energy for her teammates!
 ID_GACHA_CRATE_FCO_JUGGERNAUT_SPECIAL_NAME,I'm the Juggernaut Orb
-ID_GACHA_CRATE_FCO_JUGGERNAUT_SPECIAL_DESCRIPTION,Win up to 180 Juggernaut shards
+ID_GACHA_CRATE_FCO_JUGGERNAUT_SPECIAL_DESCRIPTION,Get up to 180 Juggernaut shards
 ID_GACHA_CRATE_FCO_JUGGERNAUT_SPECIAL_TOKEN_NAME,I'm the Juggernaut Orb Fragments
 ID_GACHA_CRATE_FCO_JUGGERNAUT_SPECIAL_TOKEN_DESCRIPTION,Collect I'm the Juggernaut Orb Fragments to earn a I'm the Juggernaut Orb.
 ID_OF_NA_JUGGERNAUT_OFFER_2,Disciple of Cyttorak
@@ -1913,7 +1931,7 @@ ID_OF_DE_JUGGERNAUT_FCO_OFFER_6O,Save on <color=#fff568>6 I'm the Juggernaut Orb
 ID_OF_DE_JUGGERNAUT_FCO_OFFER_8O,Save on <color=#fff568>8 I'm the Juggernaut Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Juggernaut shards</color>. Bulldoze through your foes with the Juggernaut!
 ID_OF_DE_JUGGERNAUT_FCO_OFFER_10O,Save on <color=#fff568>10 I'm the Juggernaut Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Juggernaut shards</color>. Bulldoze through your foes with the Juggernaut!
 ID_GACHA_CRATE_FCO_KARNAK_SPECIAL_NAME,The Shatterer Orb
-ID_GACHA_CRATE_FCO_KARNAK_SPECIAL_DESCRIPTION,Win up to 180 Karnak shards
+ID_GACHA_CRATE_FCO_KARNAK_SPECIAL_DESCRIPTION,Get up to 180 Karnak shards
 ID_GACHA_CRATE_FCO_KARNAK_SPECIAL_TOKEN_NAME,The Shatterer Orb Fragments
 ID_GACHA_CRATE_FCO_KARNAK_SPECIAL_TOKEN_DESCRIPTION,Collect The Shatterer Orb Fragments to earn a The Shatterer Orb.
 ID_OF_NA_KARNAK_FCO,The Shatterer Orb Offer
@@ -1944,7 +1962,7 @@ ID_OF_DE_KARNAK_OFFER_75,"Get <color=#fff568>75 Karnak shards</color> and use hi
 ID_OF_DE_KARNAK_OFFER_125,"Get <color=#fff568>125 Karnak shards</color> and use him to slow enemies by lowering their Speed Bar, flipping their positive effects, and applying Disrupt!"
 ID_OF_DE_KARNAK_OFFER_150,"Get <color=#fff568>150 Karnak shards</color> and use him to slow enemies by lowering their Speed Bar, flipping their positive effects, and applying Disrupt!"
 ID_GACHA_CRATE_FCO_KILLMONGER_SPECIAL_NAME,Rival King Orb
-ID_GACHA_CRATE_FCO_KILLMONGER_SPECIAL_DESCRIPTION,Win up to 180 Killmonger shards
+ID_GACHA_CRATE_FCO_KILLMONGER_SPECIAL_DESCRIPTION,Get up to 180 Killmonger shards
 ID_GACHA_CRATE_FCO_KILLMONGER_SPECIAL_TOKEN_NAME,Rival King Orb Fragments
 ID_GACHA_CRATE_FCO_KILLMONGER_SPECIAL_TOKEN_DESCRIPTION,Collect Rival King Orb Fragments to earn a Rival King Orb.
 ID_OF_NA_KILLMONGER_FCO_OFFER_1,Rival King Orb
@@ -1975,14 +1993,14 @@ ID_OF_DE_KILLMONGER_OFFER_75,Get <color=#fff568>75 Killmonger shards</color> and
 ID_OF_DE_KILLMONGER_OFFER_125,Get <color=#fff568>125 Killmonger shards</color> and send a hailstorm of damage toward your enemies with a higher chance to Crit.
 ID_OF_DE_KILLMONGER_OFFER_150,Get <color=#fff568>150 Killmonger shards</color> and send a hailstorm of damage toward your enemies with a higher chance to Crit.
 ID_GACHA_CRATE_FCO_KINGPIN_SPECIAL_NAME,Kingpin of Crime Orb
-ID_GACHA_CRATE_FCO_KINGPIN_SPECIAL_DESCRIPTION,Win up to 180 Kingpin shards
+ID_GACHA_CRATE_FCO_KINGPIN_SPECIAL_DESCRIPTION,Get up to 180 Kingpin shards
 ID_GACHA_CRATE_FCO_KINGPIN_SPECIAL_TOKEN_NAME,Kingpin of Crime Orb Fragments
 ID_GACHA_CRATE_FCO_KINGPIN_SPECIAL_TOKEN_DESCRIPTION,Collect Kingpin of Crime Orb Fragments to earn a Kingpin of Crime Orb.
 ID_OF_NA_KINGPIN_OFFER,King of Crime Offer
 ID_OF_DE_KINGPIN_OFFER,Strengthen your City team with 55 Kingpin shards! This mastermind Protector will strengthen your squad with Defense Up and summon minions to soak up damage.
 ID_OF_DE_KINGPIN_OFFER_45,Strengthen your City team with 45 Kingpin shards! This mastermind Protector will strengthen your squad with Defense Up and summon minions to soak up damage.
 ID_GACHA_CRATE_FCO_KORATH_SPECIAL_NAME,Pursuer Orb
-ID_GACHA_CRATE_FCO_KORATH_SPECIAL_DESCRIPTION,Win up to 180 Korath shards
+ID_GACHA_CRATE_FCO_KORATH_SPECIAL_DESCRIPTION,Get up to 180 Korath shards
 ID_GACHA_CRATE_FCO_KORATH_SPECIAL_TOKEN_NAME,Pursuer Orb Fragments
 ID_GACHA_CRATE_FCO_KORATH_SPECIAL_TOKEN_DESCRIPTION,Collect Pursuer Orb Fragments to earn a Pursuer Orb.
 ID_OF_NA_KORATH_OFFER_1,Kree Marksman Offer
@@ -1994,11 +2012,11 @@ ID_OF_DE_KORATH_OFFER_70,Grab <color=#fff568>70 Korath shards</color> and utiliz
 ID_OF_DE_KORATH_OFFER_100,Grab <color=#fff568>100 Korath shards</color> and utilize his taunt marking and heavy damage to take down single targets with deadly efficiency.
 ID_OF_DE_KORATH_OFFER_150,Grab <color=#fff568>150 Korath shards</color> and utilize his taunt marking and heavy damage to take down single targets with deadly efficiency.
 ID_GACHA_CRATE_FCO_KREE_SPECIAL_NAME,Kree Minion Orb
-ID_GACHA_CRATE_FCO_KREE_SPECIAL_DESCRIPTION,Win up to 180 Kree minion shards
+ID_GACHA_CRATE_FCO_KREE_SPECIAL_DESCRIPTION,Get up to 180 Kree minion shards
 ID_GACHA_CRATE_FCO_KREE_SPECIAL_TOKEN_NAME,Kree Minion Orb Fragments
 ID_GACHA_CRATE_FCO_KREE_SPECIAL_TOKEN_DESCRIPTION,Collect Kree Minion Orb Fragments to earn a Kree Minion Orb.
 ID_GACHA_CRATE_FCO_KREE_375HC_NAME,Kree Orb
-ID_GACHA_CRATE_FCO_KREE_375HC_DESCRIPTION,Win up to 145 Kree character shards
+ID_GACHA_CRATE_FCO_KREE_375HC_DESCRIPTION,Get up to 145 Kree character shards
 ID_GACHA_CRATE_FCO_KREE_375HC_TOKEN_NAME,Kree Orb Fragments
 ID_GACHA_CRATE_FCO_KREE_375HC_TOKEN_DESCRIPTION,Collect Kree Orb Fragments to earn a Kree Orb.
 ID_OF_NA_LE_KREEORB_OFFER_1,Kree Orb Offer
@@ -2013,11 +2031,11 @@ ID_GACHA_CRATE_FCO_KREEMINION_450HC_DESCRIPTION,A Premium Orb with 5x the chance
 ID_GACHA_CRATE_FCO_KREEMINION_450HC_TOKEN_NAME,Kree Minion Orb Fragments
 ID_GACHA_CRATE_FCO_KREEMINION_450HC_TOKEN_DESCRIPTION,Collect Kree Minion Orb Fragments to earn a Kree Minion Orb.
 ID_GACHA_CRATE_FCO_KREESUPPORT_HOT_SPECIAL_NAME,Farseer Orb
-ID_GACHA_CRATE_FCO_KREESUPPORT_HOT_SPECIAL_DESCRIPTION,Win up to 180 Kree Oracle shards
+ID_GACHA_CRATE_FCO_KREESUPPORT_HOT_SPECIAL_DESCRIPTION,Get up to 180 Kree Oracle shards
 ID_GACHA_CRATE_FCO_KREESUPPORT_HOT_SPECIAL_TOKEN_NAME,Farseer Orb Fragments
 ID_GACHA_CRATE_FCO_KREESUPPORT_HOT_SPECIAL_TOKEN_DESCRIPTION,Collect Farseer Orb Fragments to earn a Farseer Orb.
 ID_GACHA_CRATE_FCO_LOKI_SPECIAL_NAME,God of Mischief Orb
-ID_GACHA_CRATE_FCO_LOKI_SPECIAL_DESCRIPTION,Win up to 180 Loki shards
+ID_GACHA_CRATE_FCO_LOKI_SPECIAL_DESCRIPTION,Get up to 180 Loki shards
 ID_GACHA_CRATE_FCO_LOKI_SPECIAL_TOKEN_NAME,God of Mischief Orb Fragments
 ID_GACHA_CRATE_FCO_LOKI_SPECIAL_TOKEN_DESCRIPTION,Collect God of Mischief Orb Fragments to earn a God of Mischief Orb.
 ID_OF_NA_FCOO_LOKI_01,Master Manipulator
@@ -2063,7 +2081,7 @@ ID_OF_DE_LUKECAGE_OFFER_100,"Upgrade your City Heroes team with the bulletproof 
 ID_OF_DE_LUKECAGE_OFFER_125,"Upgrade your City Heroes team with the bulletproof Protector. Get <color=#fff568>125 Luke Cage shards</color> and boost your team with his Taunt, Defense Up, and energy generation abilities."
 ID_OF_DE_LUKECAGE_OFFER_150,"Upgrade your City Heroes team with the bulletproof Protector. Get <color=#fff568>150 Luke Cage shards</color> and boost your team with his Taunt, Defense Up, and energy generation abilities."
 ID_GACHA_CRATE_FCO_MANTIS_SPECIAL_NAME,Guardian Empath Orb
-ID_GACHA_CRATE_FCO_MANTIS_SPECIAL_DESCRIPTION,Win up to 180 Mantis shards
+ID_GACHA_CRATE_FCO_MANTIS_SPECIAL_DESCRIPTION,Get up to 180 Mantis shards
 ID_GACHA_CRATE_FCO_MANTIS_SPECIAL_TOKEN_NAME,Guardian Empath Orb Fragments
 ID_GACHA_CRATE_FCO_MANTIS_SPECIAL_TOKEN_DESCRIPTION,Collect Guardian Empath Orb Fragments to earn a Guardian Empath Orb.
 ID_OF_NA_MANTIS_FCO_OFFER_1,Guardian Empath Orb
@@ -2091,7 +2109,7 @@ ID_OF_DE_MANTIS_OFFER_125,Get <color=#fff568>125 Mantis shards</color> with this
 ID_OF_DE_MANTIS_OFFER_150,Get <color=#fff568>150 Mantis shards</color> with this offer! Optimize and sustain your Guardians team with her powerful healing abilities.
 ID_OF_DE_MANTIS_OFFER_VAR,Get <color=#fff568>{var1} Mantis shards</color> with this offer! Optimize and sustain your Guardians team with her powerful healing abilities.
 ID_GACHA_CRATE_FCO_MBAKU_SPECIAL_NAME,Jabari Chieftain Orb
-ID_GACHA_CRATE_FCO_MBAKU_SPECIAL_DESCRIPTION,Win up to 180 M'Baku shards
+ID_GACHA_CRATE_FCO_MBAKU_SPECIAL_DESCRIPTION,Get up to 180 M'Baku shards
 ID_GACHA_CRATE_FCO_MBAKU_SPECIAL_TOKEN_NAME,Jabari Chieftain Orb Fragments
 ID_GACHA_CRATE_FCO_MBAKU_SPECIAL_TOKEN_DESCRIPTION,Collect Jabari Chieftain Orb Fragments to earn a Jabari Chieftain Orb.
 ID_OF_NA_MBAKU_FCO_OFFER_1,Jabari Chieftain Orb
@@ -2120,15 +2138,15 @@ ID_OF_DE_MBAKU_OFFER_75,Get <color=#fff568>75 M'Baku shards</color> and use him 
 ID_OF_DE_MBAKU_OFFER_125,Get <color=#fff568>125 M'Baku shards</color> and use him to absorb attacks and keep allies in the fight!
 ID_OF_DE_MBAKU_OFFER_150,Get <color=#fff568>150 M'Baku shards</color> and use him to absorb attacks and keep allies in the fight!
 ID_GACHA_CRATE_FCO_MERC_SPECIAL_NAME,Merc Orb
-ID_GACHA_CRATE_FCO_MERC_SPECIAL_DESCRIPTION,Win up to 180 Mercenary character shards
+ID_GACHA_CRATE_FCO_MERC_SPECIAL_DESCRIPTION,Get up to 180 Mercenary character shards
 ID_GACHA_CRATE_FCO_MERC_SPECIAL_TOKEN_NAME,Merc Orb Fragments
 ID_GACHA_CRATE_FCO_MERC_SPECIAL_TOKEN_DESCRIPTION,Collect Merc Orb Fragments to earn a Merc Orb.
 ID_GACHA_CRATE_FCO_MERC_375HC_NAME,Merc Orb
-ID_GACHA_CRATE_FCO_MERC_375HC_DESCRIPTION,Win up to 145 Mercenary character shards
+ID_GACHA_CRATE_FCO_MERC_375HC_DESCRIPTION,Get up to 145 Mercenary character shards
 ID_GACHA_CRATE_FCO_MERC_375HC_TOKEN_NAME,Merc Orb Fragments
 ID_GACHA_CRATE_FCO_MERC_375HC_TOKEN_DESCRIPTION,Collect Merc Orb Fragments to earn a Merc Orb.
 ID_GACHA_CRATE_FCO_MERCSUPPORT_BUFFS_SPECIAL_NAME,Shot Caller Orb
-ID_GACHA_CRATE_FCO_MERCSUPPORT_BUFFS_SPECIAL_DESCRIPTION,Win up to 180 Mercenary Lieutenant shards
+ID_GACHA_CRATE_FCO_MERCSUPPORT_BUFFS_SPECIAL_DESCRIPTION,Get up to 180 Mercenary Lieutenant shards
 ID_GACHA_CRATE_FCO_MERCSUPPORT_BUFFS_SPECIAL_TOKEN_NAME,Shot Caller Orb Fragments
 ID_GACHA_CRATE_FCO_MERCSUPPORT_BUFFS_SPECIAL_TOKEN_DESCRIPTION,Collect Shot Caller Orb Fragments to earn a Shot Caller Orb.
 ID_OF_DE_MERC_ORB_2O,Save on <color=#fff568>2 Merc Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 145 shards</color>. Optimize your Mercenary team to help complete <color=#fff568>Payday</color>.
@@ -2143,7 +2161,7 @@ ID_OF_DE_MERC_ORB_10O,Save on <color=#fff568>10 Merc Orbs</color> with this offe
 ID_OF_DE_MERC_ORB_11O,Save on <color=#fff568>11 Merc Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 145 shards</color>. Optimize your Mercenary team to help complete <color=#fff568>Payday</color>.
 ID_OF_DE_MERC_ORB_12O,Save on <color=#fff568>12 Merc Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 145 shards</color>. Optimize your Mercenary team to help complete <color=#fff568>Payday</color>.
 ID_GACHA_CRATE_FCO_MINERVA_SPECIAL_NAME,Gene Genie Orb
-ID_GACHA_CRATE_FCO_MINERVA_SPECIAL_DESCRIPTION,Win up to 180 Minn-Erva shards
+ID_GACHA_CRATE_FCO_MINERVA_SPECIAL_DESCRIPTION,Get up to 180 Minn-Erva shards
 ID_GACHA_CRATE_FCO_MINERVA_SPECIAL_TOKEN_NAME,Gene Genie Orb Fragments
 ID_GACHA_CRATE_FCO_MINERVA_SPECIAL_TOKEN_DESCRIPTION,Collect Gene Genie Orb Fragments to earn a Gene Genie Orb.
 ID_OF_NA_MINERVA_FCO_OFFER_1,Gene Genie Orb
@@ -2170,7 +2188,7 @@ ID_OF_DE_MINERVA_OFFER_75,Get <color=#fff568>75 Minn-Erva shards</color> and str
 ID_OF_DE_MINERVA_OFFER_125,Get <color=#fff568>125 Minn-Erva shards</color> and strengthen your Cosmic or Kree teams with this Villain Healer.
 ID_OF_DE_MINERVA_OFFER_150,Get <color=#fff568>150 Minn-Erva shards</color> and strengthen your Cosmic or Kree teams with this Villain Healer.
 ID_GACHA_CRATE_FCO_MRFANTASTIC_SPECIAL_NAME,Elastic Orb
-ID_GACHA_CRATE_FCO_MRFANTASTIC_SPECIAL_DESCRIPTION,Win up to 180 Mister Fantastic shards
+ID_GACHA_CRATE_FCO_MRFANTASTIC_SPECIAL_DESCRIPTION,Get up to 180 Mister Fantastic shards
 ID_GACHA_CRATE_FCO_MRFANTASTIC_SPECIAL_TOKEN_NAME,Elastic Orb Fragments
 ID_GACHA_CRATE_FCO_MRFANTASTIC_SPECIAL_TOKEN_DESCRIPTION,Collect Elastic Orb Fragments to earn a Elastic Orb.
 ID_OF_NA_MISTERFANTASTIC_FCO,Elastic Orb Offer
@@ -2200,7 +2218,7 @@ ID_OF_DE_MISTERFANTASTIC_OFFER_75,"Get <color=#fff568>75 Mister Fantastic shards
 ID_OF_DE_MISTERFANTASTIC_OFFER_125,"Get <color=#fff568>125 Mister Fantastic shards</color> and use him to apply single-target stuns, assist Fantastic Four allies, and clear enemy positive effects!"
 ID_OF_DE_MISTERFANTASTIC_OFFER_150,"Get <color=#fff568>150 Mister Fantastic shards</color> and use him to apply single-target stuns, assist Fantastic Four allies, and clear enemy positive effects!"
 ID_GACHA_CRATE_FCO_MRSINISTER_SPECIAL_NAME,House of Essex Orb
-ID_GACHA_CRATE_FCO_MRSINISTER_SPECIAL_DESCRIPTION,Win up to 180 Mister Sinister shards
+ID_GACHA_CRATE_FCO_MRSINISTER_SPECIAL_DESCRIPTION,Get up to 180 Mister Sinister shards
 ID_GACHA_CRATE_FCO_MRSINISTER_SPECIAL_TOKEN_NAME,House of Essex Orb Fragments
 ID_GACHA_CRATE_FCO_MRSINISTER_SPECIAL_TOKEN_DESCRIPTION,Collect House of Essex Fragments to earn a House of Essex Orb.
 ID_OF_NA_MRSINISTER_FCO,House of Essex Orb
@@ -2232,7 +2250,7 @@ ID_OF_DE_MRSINISTER_OFFER_75,"Get <color=#fff568>75 Mister Sinister shards</colo
 ID_OF_DE_MRSINISTER_OFFER_125,"Get <color=#fff568>125 Mister Sinister shards</color> and use him to clone enemies and sustain Marauder allies with Health, Regeneration, Ability Energy, and positive effects."
 ID_OF_DE_MRSINISTER_OFFER_150,"Get <color=#fff568>150 Mister Sinister shards</color> and use him to clone enemies and sustain Marauder allies with Health, Regeneration, Ability Energy, and positive effects."
 ID_GACHA_CRATE_FCO_MKRAAN_SPECIAL_NAME,M'Kraan Orb
-ID_GACHA_CRATE_FCO_MKRAAN_SPECIAL_DESCRIPTION,Win up to 75 character shards
+ID_GACHA_CRATE_FCO_MKRAAN_SPECIAL_DESCRIPTION,Get up to 75 character shards
 ID_GACHA_CRATE_FCO_MKRAAN_SPECIAL_TOKEN_NAME,M'Kraan Orb Fragments
 ID_GACHA_CRATE_FCO_MKRAAN_SPECIAL_TOKEN_DESCRIPTION,Collect M'Kraan Orb Fragments to earn a M'Kraan Orb.
 ID_OF_NA_TEAMUP_SCARLETWITCH_MSMARVEL,M'Kraan Orb
@@ -2258,7 +2276,7 @@ ID_OF_DE_TEAMUP_SCARLETWITCH_MSMARVEL_8O_50,Save on <color=#fff568>8 M'Kraan Orb
 ID_OF_DE_TEAMUP_SCARLETWITCH_MSMARVEL_9O_50,Save on <color=#fff568>9 M'Kraan Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 50 shards</color>. Use Scarlet Witch and Ms. Marvel to unbind the M'Kraan Crystal before catastrophe strikes!
 ID_OF_DE_TEAMUP_SCARLETWITCH_MSMARVEL_10O_50,Save on <color=#fff568>10 M'Kraan Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 50 shards</color>. Use Scarlet Witch and Ms. Marvel to unbind the M'Kraan Crystal before catastrophe strikes!
 ID_GACHA_CRATE_FCO_MSMARVEL_SPECIAL_NAME,Fangirl Orb
-ID_GACHA_CRATE_FCO_MSMARVEL_SPECIAL_DESCRIPTION,Win up to 180 Ms. Marvel shards
+ID_GACHA_CRATE_FCO_MSMARVEL_SPECIAL_DESCRIPTION,Get up to 180 Ms. Marvel shards
 ID_GACHA_CRATE_FCO_MSMARVEL_SPECIAL_TOKEN_NAME,Fangirl Orb Fragments
 ID_GACHA_CRATE_FCO_MSMARVEL_SPECIAL_TOKEN_DESCRIPTION,Collect Fangirl Orb Fragments to earn a Fangirl Orb.
 ID_OF_NA_MSMARVEL_FCO_OFFER_1,Fangirl Orb Offer
@@ -2287,7 +2305,7 @@ ID_OF_DE_MSMARVEL_OFFER_100,Build an unstoppable Hero Brawlers team with this of
 ID_OF_DE_MSMARVEL_OFFER_125,Build an unstoppable Hero Brawlers team with this offer! Get <color=#fff568>125 Ms. Marvel shards </color> and use her energy generation and assist to dominate enemy squads.
 ID_OF_DE_MSMARVEL_OFFER_150,Build an unstoppable Hero Brawlers team with this offer! Get <color=#fff568>150 Ms. Marvel shards </color> and use her energy generation and assist to dominate enemy squads.
 ID_GACHA_CRATE_FCO_MYSTERIO_SPECIAL_NAME,Illusion Master Orb
-ID_GACHA_CRATE_FCO_MYSTERIO_SPECIAL_DESCRIPTION,Win up to 180 Mysterio shards
+ID_GACHA_CRATE_FCO_MYSTERIO_SPECIAL_DESCRIPTION,Get up to 180 Mysterio shards
 ID_GACHA_CRATE_FCO_MYSTERIO_SPECIAL_TOKEN_NAME,Illusion Master Orb Fragments
 ID_GACHA_CRATE_FCO_MYSTERIO_SPECIAL_TOKEN_DESCRIPTION,Collect Illusion Master Orb Fragments to earn a Illusion Master Orb.
 ID_OF_NA_MYSTERIO_FCO_OFFER_1,Illusion Master Orb Offer
@@ -2314,12 +2332,13 @@ ID_OF_DE_MYSTERIO_OFFER_55,"Get <color=#fff568>55 Mysterio shards</color> and us
 ID_OF_DE_MYSTERIO_OFFER_75,"Get <color=#fff568>75 Mysterio shards</color> and use him to nullify City Hero abilities, clear enemy positive effects, and spawn Mirror Images when he dies!"
 ID_OF_DE_MYSTERIO_OFFER_125,"Get <color=#fff568>125 Mysterio shards</color> and use him to nullify City Hero abilities, clear enemy positive effects, and spawn Mirror Images when he dies!"
 ID_OF_DE_MYSTERIO_OFFER_150,"Get <color=#fff568>150 Mysterio shards</color> and use him to nullify City Hero abilities, clear enemy positive effects, and spawn Mirror Images when he dies!"
+ID_OF_DE_MYSTERIO_OFFER_VAR,"Get <color=#fff568>{var1} Mysterio shards</color> and use him to nullify City Hero abilities, clear enemy positive effects, and spawn Mirror Images when he dies!"
 ID_GACHA_CRATE_FCO_MYSTIC_375HC_NAME,Mystic Orb
-ID_GACHA_CRATE_FCO_MYSTIC_375HC_DESCRIPTION,Win up to 180 select Mystic character shards
+ID_GACHA_CRATE_FCO_MYSTIC_375HC_DESCRIPTION,Get up to 180 select Mystic character shards
 ID_GACHA_CRATE_FCO_MYSTIC_375HC_TOKEN_NAME,Mystic Orb Fragments
 ID_GACHA_CRATE_FCO_MYSTIC_375HC_TOKEN_DESCRIPTION,Collect Mystic Orb Fragments to earn a Mystic Orb.
 ID_GACHA_CRATE_FCO_MYSTIQUE_SPECIAL_NAME,Shapeshifter Orb
-ID_GACHA_CRATE_FCO_MYSTIQUE_SPECIAL_DESCRIPTION,Win up to 180 Mystique shards
+ID_GACHA_CRATE_FCO_MYSTIQUE_SPECIAL_DESCRIPTION,Get up to 180 Mystique shards
 ID_GACHA_CRATE_FCO_MYSTIQUE_SPECIAL_TOKEN_NAME,Shapeshifter Orb Fragments
 ID_GACHA_CRATE_FCO_MYSTIQUE_SPECIAL_TOKEN_DESCRIPTION,Collect Shapeshifter Orb Fragments to earn a Shapeshifter Orb.
 ID_OF_NA_MYSTIQUE_FCO_OFFER_1,Shapeshifter Orb Offer
@@ -2346,7 +2365,7 @@ ID_OF_DE_MYSTIQUE_OFFER_150,Round out your Brotherhood team with this elusive sh
 ID_OF_NA_MYSTIQUEGEAR_OFFER_1,Mystique Gear Offer
 ID_OF_DE_MYSTIQUEGEAR_OFFER_50,Get this amazing bundle and power up Mystique. Get over <color=#fff568>50%</color> off when you buy now!
 ID_GACHA_CRATE_FCO_NAMOR_SPECIAL_NAME,Atlantean Prince Orb
-ID_GACHA_CRATE_FCO_NAMOR_SPECIAL_DESCRIPTION,Win up to 180 Namor shards
+ID_GACHA_CRATE_FCO_NAMOR_SPECIAL_DESCRIPTION,Get up to 180 Namor shards
 ID_GACHA_CRATE_FCO_NAMOR_SPECIAL_TOKEN_NAME,Atlantean Prince Orb Fragments
 ID_GACHA_CRATE_FCO_NAMOR_SPECIAL_TOKEN_DESCRIPTION,Collect Atlantean Prince Orb Fragments to earn an Atlantean Prince Orb.
 ID_OF_NA_NAMOR_FCO,Atlantean Prince Orb
@@ -2377,7 +2396,7 @@ ID_OF_DE_NAMOR_OFFER_75,Get <color=#fff568>75 Namor shards</color> and use him t
 ID_OF_DE_NAMOR_OFFER_125,Get <color=#fff568>125 Namor shards</color> and use him to slow and remove enemy positive effects while powering up the Fantastic Four in War!
 ID_OF_DE_NAMOR_OFFER_150,Get <color=#fff568>150 Namor shards</color> and use him to slow and remove enemy positive effects while powering up the Fantastic Four in War!
 ID_GACHA_CRATE_FCO_NEBULA_SPECIAL_NAME,Sadistic Sister Orb
-ID_GACHA_CRATE_FCO_NEBULA_SPECIAL_DESCRIPTION,Win up to 180 Nebula shards
+ID_GACHA_CRATE_FCO_NEBULA_SPECIAL_DESCRIPTION,Get up to 180 Nebula shards
 ID_GACHA_CRATE_FCO_NEBULA_SPECIAL_TOKEN_NAME,Sadistic Sister Orb Fragments
 ID_GACHA_CRATE_FCO_NEBULA_SPECIAL_TOKEN_DESCRIPTION,Collect Sadistic Sister Orb Fragments to earn a Sadistic Sister Orb.
 ID_OF_NA_NEBULA_1,Sadistic Sister Offer
@@ -2398,7 +2417,7 @@ ID_OF_DE_NEBULA_FCO_OFFER_8O,Save on <color=#fff568>8 Sadistic Sister Orbs</colo
 ID_OF_DE_NEBULA_FCO_OFFER_10O,Save on <color=#fff568>10 Sadistic Sister Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 shards</color>. Never miss an opportunity to attack with Nebula's counters and speed.
 ID_OF_DE_NEBULA_125,Add the Sadistic Sister to your squad with this offer for <color=#fff568>125 Nebula shards</color>! Never miss an opportunity to attack with her counters and speed.
 ID_GACHA_CRATE_FCO_NEGASONIC_SPECIAL_NAME,Big Boom Orb
-ID_GACHA_CRATE_FCO_NEGASONIC_SPECIAL_DESCRIPTION,Win up to 180 Negasonic shards
+ID_GACHA_CRATE_FCO_NEGASONIC_SPECIAL_DESCRIPTION,Get up to 180 Negasonic shards
 ID_GACHA_CRATE_FCO_NEGASONIC_SPECIAL_TOKEN_NAME,Big Boom Orb Fragments
 ID_GACHA_CRATE_FCO_NEGASONIC_SPECIAL_TOKEN_DESCRIPTION,Collect Big Boom Orb Fragments to earn a Big Boom Orb.
 ID_OF_NA_NEGASONIC_OFFER_1,Big Boom Offer
@@ -2416,11 +2435,11 @@ ID_OF_DE_NEGASONIC_GOLD_OFFER_50,Get this amazing bundle and level up Negasonic.
 ID_OF_NA_NEGASONIC_TRAINING_OFFER_1,Negasonic: Training
 ID_OF_DE_NEGASONIC_TRAINING_OFFER_40,Get this amazing bundle and level up Negasonic. Get over <color=#fff568>40%</color> off when you buy now!
 ID_GACHA_CRATE_FCO_NIGHTNURSE_SPECIAL_NAME,First Responder Orb
-ID_GACHA_CRATE_FCO_NIGHTNURSE_SPECIAL_DESCRIPTION,Win up to 180 Night Nurse shards
+ID_GACHA_CRATE_FCO_NIGHTNURSE_SPECIAL_DESCRIPTION,Get up to 180 Night Nurse shards
 ID_GACHA_CRATE_FCO_NIGHTNURSE_SPECIAL_TOKEN_NAME,First Responder Orb Fragments
 ID_GACHA_CRATE_FCO_NIGHTNURSE_SPECIAL_TOKEN_DESCRIPTION,Collect First Responder Orb Fragments to earn a First Responder Orb.
 ID_GACHA_CRATE_FCO_NOBU_SPECIAL_NAME,Master of Ninjas Orb
-ID_GACHA_CRATE_FCO_NOBU_SPECIAL_DESCRIPTION,Win up to 180 Nobu shards
+ID_GACHA_CRATE_FCO_NOBU_SPECIAL_DESCRIPTION,Get up to 180 Nobu shards
 ID_GACHA_CRATE_FCO_NOBU_SPECIAL_TOKEN_NAME,Master of Ninjas Orb Fragments
 ID_GACHA_CRATE_FCO_NOBU_SPECIAL_TOKEN_DESCRIPTION,Collect Master of Ninjas Orb Fragments to earn a Master of Ninjas Orb.
 ID_OF_NA_NOBU_OFFER_1,Hand Summoner Offer
@@ -2444,7 +2463,7 @@ ID_OF_DE_NOBU_FCO_OFFER_10O,Save on <color=#fff568>10 Master of Ninjas Orbs</col
 ID_OF_DE_NOBU_FCO_OFFER_5O_2,Save on <color=#fff568>5 Master of Ninjas Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Nobu shards</color>. Power up your character to recruit Phoenix!
 ID_OF_DE_NOBU_FCO_OFFER_6O_2,Save on <color=#fff568>6 Master of Ninjas Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Nobu shards</color>. Power up your character to recruit Phoenix!
 ID_GACHA_CRATE_FCO_OKOYE_SPECIAL_NAME,Dora Milaje Orb
-ID_GACHA_CRATE_FCO_OKOYE_SPECIAL_DESCRIPTION,Win up to 180 Okoye shards
+ID_GACHA_CRATE_FCO_OKOYE_SPECIAL_DESCRIPTION,Get up to 180 Okoye shards
 ID_GACHA_CRATE_FCO_OKOYE_SPECIAL_TOKEN_NAME,Dora Milaje Orb Fragments
 ID_GACHA_CRATE_FCO_OKOYE_SPECIAL_TOKEN_DESCRIPTION,Collect Dora Milaje Orb Fragments to earn a Dora Milaje Orb.
 ID_OF_NA_OKOYE_FCO_OFFER_1,Dora Milaje Orb
@@ -2476,7 +2495,7 @@ ID_OF_DE_OKOYE_OFFER_100,Get <color=#fff568>100 Okoye shards</color> and use her
 ID_OF_DE_OKOYE_OFFER_125,Get <color=#fff568>125 Okoye shards</color> and use her to cut down enemy defenses and clear positive effects!
 ID_OF_DE_OKOYE_OFFER_150,Get <color=#fff568>150 Okoye shards</color> and use her to cut down enemy defenses and clear positive effects!
 ID_GACHA_CRATE_FCO_PROXIMAMIDNIGHT_SPECIAL_NAME,Dead of Night Orb
-ID_GACHA_CRATE_FCO_PROXIMAMIDNIGHT_SPECIAL_DESCRIPTION,Win up to 180 Proxima Midnight shards
+ID_GACHA_CRATE_FCO_PROXIMAMIDNIGHT_SPECIAL_DESCRIPTION,Get up to 180 Proxima Midnight shards
 ID_GACHA_CRATE_FCO_PROXIMAMIDNIGHT_SPECIAL_TOKEN_NAME,Dead of Night Orb Fragments
 ID_GACHA_CRATE_FCO_PROXIMAMIDNIGHT_SPECIAL_TOKEN_DESCRIPTION,Collect Dead of Night Orb Fragments to earn a Dead of Night Orb.
 ID_OF_NA_PROXIMAMIDNIGHT_FCO,Dead of Night Orb
@@ -2507,7 +2526,7 @@ ID_OF_DE_PROXIMAMIDNIGHT_OFFER_75,"Get <color=#fff568>75 Proxima Midnight shards
 ID_OF_DE_PROXIMAMIDNIGHT_OFFER_125,"Get <color=#fff568>125 Proxima Midnight shards</color> and use her to grant Thanos the Space Stone, gain Assists from Corvus Glaive, and apply Stun and Slow to enemies!"
 ID_OF_DE_PROXIMAMIDNIGHT_OFFER_150,"Get <color=#fff568>150 Proxima Midnight shards</color> and use her to grant Thanos the Space Stone, gain Assists from Corvus Glaive, and apply Stun and Slow to enemies!"
 ID_GACHA_CRATE_FCO_PSYLOCKE_SPECIAL_NAME,Psionic Assassin Orb
-ID_GACHA_CRATE_FCO_PSYLOCKE_SPECIAL_DESCRIPTION,Win up to 180 Psylocke shards
+ID_GACHA_CRATE_FCO_PSYLOCKE_SPECIAL_DESCRIPTION,Get up to 180 Psylocke shards
 ID_GACHA_CRATE_FCO_PSYLOCKE_SPECIAL_TOKEN_NAME,Psionic Assassin Orb Fragments
 ID_GACHA_CRATE_FCO_PSYLOCKE_SPECIAL_TOKEN_DESCRIPTION,Collect Psionic Assassin Orb Fragments to earn a Psionic Assassin Orb.
 ID_OF_NA_PSYLOCKE_FCO_OFFER_1,Psionic Assassin Orb
@@ -2537,14 +2556,14 @@ ID_OF_DE_PSYLOCKE_ABILITY_OFFER_50,Get this amazing bundle and power up Psylocke
 ID_OF_NA_PSYLOCKE_GOLD_OFFER_1,Psylocke: Gold
 ID_OF_DE_PSYLOCKE_GOLD_OFFER_50,Get this amazing bundle and level up Psylocke. Get over <color=#fff568>40%</color> off when you buy now!
 ID_GACHA_CRATE_FCO_PUNISHER_SPECIAL_NAME,Violent Vigilante Orb
-ID_GACHA_CRATE_FCO_PUNISHER_SPECIAL_DESCRIPTION,Win up to 180 Punisher shards
+ID_GACHA_CRATE_FCO_PUNISHER_SPECIAL_DESCRIPTION,Get up to 180 Punisher shards
 ID_GACHA_CRATE_FCO_PUNISHER_SPECIAL_TOKEN_NAME,Violent Vigilante Orb Fragments
 ID_GACHA_CRATE_FCO_PUNISHER_SPECIAL_TOKEN_DESCRIPTION,Collect Violent Vigilante Orb Fragments to earn a Violent Vigilante Orb.
 ID_OF_NA_PUNISHER_OFFER_1,Violent Vigilante Offer
 ID_OF_DE_PUNISHER_OFFER_1,Add this <color=#fff568>2-star Punisher</color> to your squad! Use his area of effect attacks to defeat the competition.
 ID_OF_DE_PUNISHER_OFFER_VAR,Get <color=#fff568>{var1} Punisher shards</color> with this offer! Use his area of effect attacks to defeat the competition.
 ID_GACHA_CRATE_FCO_PYRO_SPECIAL_NAME,Pyrokinetic Orb
-ID_GACHA_CRATE_FCO_PYRO_SPECIAL_DESCRIPTION,Win up to 180 Pyro shards
+ID_GACHA_CRATE_FCO_PYRO_SPECIAL_DESCRIPTION,Get up to 180 Pyro shards
 ID_GACHA_CRATE_FCO_PYRO_SPECIAL_TOKEN_NAME,Pyrokinetic Orb Fragments
 ID_GACHA_CRATE_FCO_PYRO_SPECIAL_TOKEN_DESCRIPTION,Collect Pyrokinetic Orb Fragments to earn a Pyrokinetic Orb.
 ID_OF_NA_PYRO_FCO_OFFER_1,Pyrokinetic Orb Offer
@@ -2574,11 +2593,11 @@ ID_OF_DE_PYRO_GEAR_OFFER_50,Get this amazing bundle and gear up Pyro. Get over <
 ID_OF_NA_PYRO_ABILITY_OFFER_1,Pyro: Ability
 ID_OF_DE_PYRO_ABILITY_OFFER_50,Get this amazing bundle and power up Pyro. Get over <color=#fff568>50%</color> off when you buy now!
 ID_GACHA_CRATE_FCO_QUAKE_SPECIAL_NAME,Tremors Orb
-ID_GACHA_CRATE_FCO_QUAKE_SPECIAL_DESCRIPTION,Win up to 180 Quake shards
+ID_GACHA_CRATE_FCO_QUAKE_SPECIAL_DESCRIPTION,Get up to 180 Quake shards
 ID_GACHA_CRATE_FCO_QUAKE_SPECIAL_TOKEN_NAME,Tremors Orb Fragments
 ID_GACHA_CRATE_FCO_QUAKE_SPECIAL_TOKEN_DESCRIPTION,Collect Tremors Orb Fragments to earn a Tremors Orb.
 ID_GACHA_CRATE_FCO_REDSKULL_SPECIAL_NAME,Hail Hydra Orb
-ID_GACHA_CRATE_FCO_REDSKULL_SPECIAL_DESCRIPTION,Win up to 180 Red Skull shards
+ID_GACHA_CRATE_FCO_REDSKULL_SPECIAL_DESCRIPTION,Get up to 180 Red Skull shards
 ID_GACHA_CRATE_FCO_REDSKULL_SPECIAL_TOKEN_NAME,Hail Hydra Orb Fragments
 ID_GACHA_CRATE_FCO_REDSKULL_SPECIAL_TOKEN_DESCRIPTION,Collect Hail Hydra Orb Fragments to earn a Hail Hydra Orb.
 ID_OF_NA_REDSKULL_FCO,Hail Hydra Orb
@@ -2603,13 +2622,14 @@ ID_OF_DE_REDSKULL_OFFER_2S,"Recruit a <color=#fff568>2-star Red Skull</color> wi
 ID_OF_DE_REDSKULL_OFFER_3S,"Recruit a <color=#fff568>3-star Red Skull</color> with this offer! Summon minions, revive minions via Charges, and assassinate enemies with an all-Hydra minion assist attack."
 ID_OF_DE_REDSKULL_OFFER_20,"Get <color=#fff568>20 Red Skull shards</color> and use him to summon minions, revive minions via Charges, and assassinate enemies with an all-Hydra minion assist attack."
 ID_OF_DE_REDSKULL_OFFER_35,"Get <color=#fff568>35 Red Skull shards</color> and use him to summon minions, revive minions via Charges, and assassinate enemies with an all-Hydra minion assist attack."
+ID_OF_DE_REDSKULL_OFFER_45,"Get <color=#fff568>45 Red Skull shards</color> and use him to summon minions, revive minions via Charges, and assassinate enemies with an all-Hydra minion assist attack."
 ID_OF_DE_REDSKULL_OFFER_50,"Get <color=#fff568>50 Red Skull shards</color> and use him to summon minions, revive minions via Charges, and assassinate enemies with an all-Hydra minion assist attack."
 ID_OF_DE_REDSKULL_OFFER_55,"Get <color=#fff568>55 Red Skull shards</color> and use him to summon minions, revive minions via Charges, and assassinate enemies with an all-Hydra minion assist attack."
 ID_OF_DE_REDSKULL_OFFER_75,"Get <color=#fff568>75 Red Skull shards</color> and use him to summon minions, revive minions via Charges, and assassinate enemies with an all-Hydra minion assist attack."
 ID_OF_DE_REDSKULL_OFFER_125,"Get <color=#fff568>125 Red Skull shards</color> and use him to summon minions, revive minions via Charges, and assassinate enemies with an all-Hydra minion assist attack."
 ID_OF_DE_REDSKULL_OFFER_150,"Get <color=#fff568>150 Red Skull shards</color> and use him to summon minions, revive minions via Charges, and assassinate enemies with an all-Hydra minion assist attack."
 ID_GACHA_CRATE_FCO_RESCUE_SPECIAL_NAME,Sonic Resonance Orb
-ID_GACHA_CRATE_FCO_RESCUE_SPECIAL_DESCRIPTION,Win up to 180 Rescue shards
+ID_GACHA_CRATE_FCO_RESCUE_SPECIAL_DESCRIPTION,Get up to 180 Rescue shards
 ID_GACHA_CRATE_FCO_RESCUE_SPECIAL_TOKEN_NAME,Sonic Resonance Orb Fragments
 ID_GACHA_CRATE_FCO_RESCUE_SPECIAL_TOKEN_DESCRIPTION,Collect Sonic Resonance Orb Fragments to earn a Sonic Resonance Orb.
 ID_OF_NA_RESCUE_FCO_OFFER_1,Sonic Resonance Orb
@@ -2638,7 +2658,7 @@ ID_OF_DE_RESCUE_ABILITY_OFFER_50,Get this amazing bundle and power up Rescue. Ge
 ID_OF_NA_RESCUE_GOLD_OFFER_1,Rescue: Gold
 ID_OF_DE_RESCUE_GOLD_OFFER_50,Get this amazing bundle and level up Rescue. Get over <color=#fff568>40%</color> off when you buy now!
 ID_GACHA_CRATE_FCO_RHINO_SPECIAL_NAME,Hard Charger Orb
-ID_GACHA_CRATE_FCO_RHINO_SPECIAL_DESCRIPTION,Win up to 180 Rhino shards
+ID_GACHA_CRATE_FCO_RHINO_SPECIAL_DESCRIPTION,Get up to 180 Rhino shards
 ID_GACHA_CRATE_FCO_RHINO_SPECIAL_TOKEN_NAME,Hard Charger Orb Fragments
 ID_GACHA_CRATE_FCO_RHINO_SPECIAL_TOKEN_DESCRIPTION,Collect Hard Charger Orb Fragments to earn a Hard Charger Orb.
 ID_OF_NA_RHINO_FCO_OFFER_1,Hard Charger Orb
@@ -2667,11 +2687,11 @@ ID_OF_DE_RHINO_ABILITY_OFFER_50,Get this amazing bundle and power up Rhino. Get 
 ID_OF_NA_RHINO_GOLD_OFFER_1,Rhino: Gold
 ID_OF_DE_RHINO_GOLD_OFFER_50,Get this amazing bundle and level up Rhino. Get over <color=#fff568>40%</color> off when you buy now!
 ID_GACHA_CRATE_FCO_ROCKETRACCOON_SPECIAL_NAME,Weapons Expert Orb
-ID_GACHA_CRATE_FCO_ROCKETRACCOON_SPECIAL_DESCRIPTION,Win up to 180 Rocket Raccoon shards
+ID_GACHA_CRATE_FCO_ROCKETRACCOON_SPECIAL_DESCRIPTION,Get up to 180 Rocket Raccoon shards
 ID_GACHA_CRATE_FCO_ROCKETRACCOON_SPECIAL_TOKEN_NAME,Weapons Expert Orb Fragments
 ID_GACHA_CRATE_FCO_ROCKETRACCOON_SPECIAL_TOKEN_DESCRIPTION,Collect Weapons Expert Orb Fragments to earn a Weapons Expert Orb.
 ID_GACHA_CRATE_FCO_RONAN_SPECIAL_NAME,Accuser Orb
-ID_GACHA_CRATE_FCO_RONAN_SPECIAL_DESCRIPTION,Win up to 180 Ronan shards
+ID_GACHA_CRATE_FCO_RONAN_SPECIAL_DESCRIPTION,Get up to 180 Ronan shards
 ID_GACHA_CRATE_FCO_RONAN_SPECIAL_TOKEN_NAME,Accuser Orb Fragments
 ID_GACHA_CRATE_FCO_RONAN_SPECIAL_TOKEN_DESCRIPTION,Collect Accuser Orb Fragments to earn a Accuser Orb.
 ID_OF_NA_RONAN_OFFER_1,Supreme Accuser Offer
@@ -2700,7 +2720,7 @@ ID_OF_DE_RONAN_FCO_OFFER_10O,"Save on <color=#fff568>10 Accuser Orbs</color> wit
 ID_OF_DE_RONAN_FCO_OFFER_5O_2,Save on <color=#fff568>5 Accuser Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Ronan shards</color>. Power up your character to recruit Phoenix!
 ID_OF_DE_RONAN_FCO_OFFER_6O_2,Save on <color=#fff568>6 Accuser Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Ronan shards</color>. Power up your character to recruit Phoenix!
 ID_GACHA_CRATE_FCO_SABRETOOTH_SPECIAL_NAME,Vicious Hunter Orb
-ID_GACHA_CRATE_FCO_SABRETOOTH_SPECIAL_DESCRIPTION,Win up to 180 Sabretooth shards
+ID_GACHA_CRATE_FCO_SABRETOOTH_SPECIAL_DESCRIPTION,Get up to 180 Sabretooth shards
 ID_GACHA_CRATE_FCO_SABRETOOTH_SPECIAL_TOKEN_NAME,Vicious Hunter Orb Fragments
 ID_GACHA_CRATE_FCO_SABRETOOTH_SPECIAL_TOKEN_DESCRIPTION,Collect Vicious Hunter Orb Fragments to earn a Vicious Hunter Orb.
 ID_OF_NA_SABRETOOTH_FCO_OFFER_1,Vicious Hunter Orb Offer
@@ -2730,7 +2750,7 @@ ID_OF_DE_SABRETOOTH_GEAR_OFFER_50,Get this amazing bundle and gear up Sabretooth
 ID_OF_NA_SABRETOOTH_ABILITY_OFFER_1,Sabretooth: Ability
 ID_OF_DE_SABRETOOTH_ABILITY_OFFER_50,Get this amazing bundle and power up Sabretooth. Get over <color=#fff568>50%</color> off when you buy now!
 ID_GACHA_CRATE_FCO_SCARLETWITCH_SPECIAL_NAME,Mistress of Magic Orb
-ID_GACHA_CRATE_FCO_SCARLETWITCH_SPECIAL_DESCRIPTION,Win up to 180 Scarlet Witch shards
+ID_GACHA_CRATE_FCO_SCARLETWITCH_SPECIAL_DESCRIPTION,Get up to 180 Scarlet Witch shards
 ID_GACHA_CRATE_FCO_SCARLETWITCH_SPECIAL_TOKEN_NAME,Mistress of Magic Orb Fragments
 ID_GACHA_CRATE_FCO_SCARLETWITCH_SPECIAL_TOKEN_DESCRIPTION,Collect Mistress of Magic Orb Fragments to earn a Mistress of Magic Orb.
 ID_OF_NA_SCARLETWITCH_FCO_OFFER_1,Mistress of Magic Orb
@@ -2753,26 +2773,26 @@ ID_OF_DE_SCARLETWITCH_OFFER_75,Optimize your Mystic and Avengers teams with this
 ID_OF_DE_SCARLETWITCH_OFFER_125,Optimize your Mystic and Avengers teams with this fantastic Global Controller. Get <color=#fff568>125 Scarlet Witch shards</color> and extend Negative Effects and ignore Heal Block to restore injured squadmates.
 ID_OF_DE_SCARLETWITCH_OFFER_150,Optimize your Mystic and Avengers teams with this fantastic Global Controller. Get <color=#fff568>150 Scarlet Witch shards</color> and extend Negative Effects and ignore Heal Block to restore injured squadmates.
 ID_GACHA_CRATE_FCO_SCIENTISTSUPREME_SPECIAL_NAME,Experimental Orb
-ID_GACHA_CRATE_FCO_SCIENTISTSUPREME_SPECIAL_DESCRIPTION,Win up to 180 Scientist Supreme shards
+ID_GACHA_CRATE_FCO_SCIENTISTSUPREME_SPECIAL_DESCRIPTION,Get up to 180 Scientist Supreme shards
 ID_GACHA_CRATE_FCO_SCIENTISTSUPREME_SPECIAL_TOKEN_NAME,Experimental Orb Fragments
 ID_GACHA_CRATE_FCO_SCIENTISTSUPREME_SPECIAL_TOKEN_DESCRIPTION,Collect Experimental Orb Fragments to earn a Experimental Orb.
 ID_OF_NA_SCIENTISTSUPREME_OFFER_1,Scientist Supreme Offer
 ID_OF_DE_SCIENTISTSUPREME_OFFER_50,"Get <color=#fff568>50 Scientist Supreme shards</color> and use her to heal all allies, flip negative effects to positive effects for allies, and get a chance to revive and bring allies back into the fight!"
 ID_OF_DE_SCIENTISTSUPREME_OFFER_45,"Get <color=#fff568>45 Scientist Supreme shards</color> and use her to heal all allies, flip negative effects to positive effects for allies, and get a chance to revive and bring allies back into the fight!"
 ID_GACHA_CRATE_FCO_SCREAM_SPECIAL_NAME,Locks of Terror Orb
-ID_GACHA_CRATE_FCO_SCREAM_SPECIAL_DESCRIPTION,Win up to 180 Scream shards
+ID_GACHA_CRATE_FCO_SCREAM_SPECIAL_DESCRIPTION,Get up to 180 Scream shards
 ID_GACHA_CRATE_FCO_SCREAM_SPECIAL_TOKEN_NAME,Locks of Terror Orb Fragments
 ID_GACHA_CRATE_FCO_SCREAM_SPECIAL_TOKEN_DESCRIPTION,Collect Locks of Terror Orb Fragments to earn a Locks of Terror Orb.
 ID_GACHA_CRATE_FCO_SHEHULK_SPECIAL_NAME,Emerald Liberator Orb
-ID_GACHA_CRATE_FCO_SHEHULK_SPECIAL_DESCRIPTION,Win up to 180 She-Hulk shards
+ID_GACHA_CRATE_FCO_SHEHULK_SPECIAL_DESCRIPTION,Get up to 180 She-Hulk shards
 ID_GACHA_CRATE_FCO_SHEHULK_SPECIAL_TOKEN_NAME,Emerald Liberator Orb Fragments
 ID_GACHA_CRATE_FCO_SHEHULK_SPECIAL_TOKEN_DESCRIPTION,Collect Emerald Liberator Orb Fragments to earn a Emerald Liberator Orb.
 ID_GACHA_CRATE_FCO_SHIELD_SPECIAL_NAME,S.H.I.E.L.D. Orb
-ID_GACHA_CRATE_FCO_SHIELD_SPECIAL_DESCRIPTION,Win up to 180 S.H.I.E.L.D. character shards (excluding Nick Fury)
+ID_GACHA_CRATE_FCO_SHIELD_SPECIAL_DESCRIPTION,Get up to 180 S.H.I.E.L.D. character shards (excluding Nick Fury)
 ID_GACHA_CRATE_FCO_SHIELD_SPECIAL_TOKEN_NAME,S.H.I.E.L.D. Orb Fragments
 ID_GACHA_CRATE_FCO_SHIELD_SPECIAL_TOKEN_DESCRIPTION,Collect S.H.I.E.L.D. Orb Fragments to earn a S.H.I.E.L.D. Orb.
 ID_GACHA_CRATE_FCO_SHIELDAVENGERS_450HC_NAME,Initiative Orb
-ID_GACHA_CRATE_FCO_SHIELDAVENGERS_450HC_DESCRIPTION,Win up to 145 select S.H.I.E.L.D. or Avenger character shards
+ID_GACHA_CRATE_FCO_SHIELDAVENGERS_450HC_DESCRIPTION,Get up to 145 select S.H.I.E.L.D. or Avenger character shards
 ID_GACHA_CRATE_FCO_SHIELDAVENGERS_450HC_TOKEN_NAME,Initiative Orb Fragments
 ID_GACHA_CRATE_FCO_SHIELDAVENGERS_450HC_TOKEN_DESCRIPTION,Collect Initiative Orb Fragments to earn a Initiative Orb.
 ID_OF_NA_SHIELDORB_1,S.H.I.E.L.D. Orb Offer
@@ -2784,7 +2804,7 @@ ID_OF_DE_SHIELDORB_5_02,Purchase this limited time offer for <color=#fff568>5 In
 ID_OF_DE_SHIELDORB_6,Purchase this limited time offer for <color=#fff568>6 Initiative Orbs</color> and use them to recruit Iron Man!
 ID_OF_DE_SHIELDORB_6_02,Purchase this limited time offer for <color=#fff568>6 Initiative Orbs</color>!
 ID_GACHA_CRATE_FCO_SHIELDDMG_AOE_SPECIAL_NAME,Air Support Orb
-ID_GACHA_CRATE_FCO_SHIELDDMG_AOE_SPECIAL_DESCRIPTION,Win up to 180 S.H.I.E.L.D. Assault shards
+ID_GACHA_CRATE_FCO_SHIELDDMG_AOE_SPECIAL_DESCRIPTION,Get up to 180 S.H.I.E.L.D. Assault shards
 ID_GACHA_CRATE_FCO_SHIELDDMG_AOE_SPECIAL_TOKEN_NAME,Air Support Orb Fragments
 ID_GACHA_CRATE_FCO_SHIELDDMG_AOE_SPECIAL_TOKEN_DESCRIPTION,Collect Air Support Orb Fragments to earn a Air Support Orb.
 ID_OF_NA_ASSAULT_OFFER_1,S.H.I.E.L.D. Assault Offer
@@ -2795,7 +2815,7 @@ ID_OF_DE_ASSAULT_OFFER_80,Save big on <color=#fff568>80 S.H.I.E.L.D. Assault sha
 ID_OF_DE_ASSAULT_OFFER_120,Save big on <color=#fff568>120 S.H.I.E.L.D. Assault shards</color> with this offer! Power up your hero to recruit Iron Man!
 ID_OF_DE_ASSAULT_OFFER_200,Save big on <color=#fff568>200 S.H.I.E.L.D. Assault shards</color> with this offer! Power up your hero to recruit Iron Man!
 ID_GACHA_CRATE_FCO_SHIELDDMG_DEFENSE_SPECIAL_NAME,Cover Fire Orb
-ID_GACHA_CRATE_FCO_SHIELDDMG_DEFENSE_SPECIAL_DESCRIPTION,Win up to 180 S.H.I.E.L.D. Trooper shards
+ID_GACHA_CRATE_FCO_SHIELDDMG_DEFENSE_SPECIAL_DESCRIPTION,Get up to 180 S.H.I.E.L.D. Trooper shards
 ID_GACHA_CRATE_FCO_SHIELDDMG_DEFENSE_SPECIAL_TOKEN_NAME,Cover Fire Orb Fragments
 ID_GACHA_CRATE_FCO_SHIELDDMG_DEFENSE_SPECIAL_TOKEN_DESCRIPTION,Collect Cover Fire Orb Fragments to earn a Cover Fire Orb.
 ID_OF_NA_TROOPER_OFFER_1,S.H.I.E.L.D. Trooper Offer
@@ -2806,7 +2826,7 @@ ID_OF_DE_TROOPER_OFFER_70,Save big on <color=#fff568>70 S.H.I.E.L.D. Trooper sha
 ID_OF_DE_TROOPER_OFFER_100,Save big on <color=#fff568>100 S.H.I.E.L.D. Trooper shards</color> with this offer! Power up your hero to recruit Iron Man!
 ID_OF_DE_TROOPER_OFFER_150,Save big on <color=#fff568>150 S.H.I.E.L.D. Trooper shards</color> with this offer! Power up your hero to recruit Iron Man!
 ID_GACHA_CRATE_FCO_SHIELDSUPPORT_HEAL_SPECIAL_NAME,Best Medic Orb
-ID_GACHA_CRATE_FCO_SHIELDSUPPORT_HEAL_SPECIAL_DESCRIPTION,Win up to 180 S.H.I.E.L.D. Medic shards
+ID_GACHA_CRATE_FCO_SHIELDSUPPORT_HEAL_SPECIAL_DESCRIPTION,Get up to 180 S.H.I.E.L.D. Medic shards
 ID_GACHA_CRATE_FCO_SHIELDSUPPORT_HEAL_SPECIAL_TOKEN_NAME,Best Medic Orb Fragments
 ID_GACHA_CRATE_FCO_SHIELDSUPPORT_HEAL_SPECIAL_TOKEN_DESCRIPTION,Collect Best Medic Orb Fragments to earn a Best Medic Orb.
 ID_OF_NA_MEDIC_OFFER_1,S.H.I.E.L.D. Medic Offer
@@ -2817,7 +2837,7 @@ ID_OF_DE_MEDIC_OFFER_70,Save big on <color=#fff568>70 S.H.I.E.L.D. Medic shards<
 ID_OF_DE_MEDIC_OFFER_100,Save big on <color=#fff568>100 S.H.I.E.L.D. Medic shards</color> with this offer! Power up your hero to recruit Iron Man!
 ID_OF_DE_MEDIC_OFFER_150,Save big on <color=#fff568>150 S.H.I.E.L.D. Medic shards</color> with this offer! Power up your hero to recruit Iron Man!
 ID_GACHA_CRATE_FCO_SHIELDSUPPORT_STEALTH_SPECIAL_NAME,Extractor Orb
-ID_GACHA_CRATE_FCO_SHIELDSUPPORT_STEALTH_SPECIAL_DESCRIPTION,Win up to 180 S.H.I.E.L.D. Operative shards
+ID_GACHA_CRATE_FCO_SHIELDSUPPORT_STEALTH_SPECIAL_DESCRIPTION,Get up to 180 S.H.I.E.L.D. Operative shards
 ID_GACHA_CRATE_FCO_SHIELDSUPPORT_STEALTH_SPECIAL_TOKEN_NAME,Extractor Orb Fragments
 ID_GACHA_CRATE_FCO_SHIELDSUPPORT_STEALTH_SPECIAL_TOKEN_DESCRIPTION,Collect Extractor Orb Fragments to earn a Extractor Orb.
 ID_OF_NA_OPERATIVE_OFFER_1,S.H.I.E.L.D. Operative Offer
@@ -2828,7 +2848,7 @@ ID_OF_DE_OPERATIVE_OFFER_70,Save big on <color=#fff568>70 S.H.I.E.L.D. Operative
 ID_OF_DE_OPERATIVE_OFFER_100,Save big on <color=#fff568>100 S.H.I.E.L.D. Operative shards</color> with this offer! Power up your hero to recruit Iron Man!
 ID_OF_DE_OPERATIVE_OFFER_150,Save big on <color=#fff568>150 S.H.I.E.L.D. Operative shards</color> with this offer! Power up your hero to recruit Iron Man!
 ID_GACHA_CRATE_FCO_SHIELDTANK_STUN_SPECIAL_NAME,Bulwark Orb
-ID_GACHA_CRATE_FCO_SHIELDTANK_STUN_SPECIAL_DESCRIPTION,Win up to 180 S.H.I.E.L.D. Security shards
+ID_GACHA_CRATE_FCO_SHIELDTANK_STUN_SPECIAL_DESCRIPTION,Get up to 180 S.H.I.E.L.D. Security shards
 ID_GACHA_CRATE_FCO_SHIELDTANK_STUN_SPECIAL_TOKEN_NAME,Bulwark Orb Fragments
 ID_GACHA_CRATE_FCO_SHIELDTANK_STUN_SPECIAL_TOKEN_DESCRIPTION,Collect Bulwark Orb Fragments to earn a Bulwark Orb.
 ID_OF_NA_SECURITY_OFFER_1,S.H.I.E.L.D. Security Offer
@@ -2841,7 +2861,7 @@ ID_OF_DE_SECURITY_OFFER_80,Save big on <color=#fff568>80 S.H.I.E.L.D. Security s
 ID_OF_DE_SECURITY_OFFER_120,Save big on <color=#fff568>120 S.H.I.E.L.D. Security shards</color> with this offer! Power up your hero to recruit Iron Man!
 ID_OF_DE_SECURITY_OFFER_200,Save big on <color=#fff568>200 S.H.I.E.L.D. Security shards</color> with this offer! Power up your hero to recruit Iron Man!
 ID_GACHA_CRATE_FCO_SHOCKER_SPECIAL_NAME,Vibro-Smasher Orb
-ID_GACHA_CRATE_FCO_SHOCKER_SPECIAL_DESCRIPTION,Win up to 180 Shocker shards
+ID_GACHA_CRATE_FCO_SHOCKER_SPECIAL_DESCRIPTION,Get up to 180 Shocker shards
 ID_GACHA_CRATE_FCO_SHOCKER_SPECIAL_TOKEN_NAME,Vibro-Smasher Orb Fragments
 ID_GACHA_CRATE_FCO_SHOCKER_SPECIAL_TOKEN_DESCRIPTION,Collect Vibro-Smasher Orb Fragments to earn a Vibro-Smasher Orb.
 ID_OF_NA_SHOCKER_FCO_OFFER_1,Vibro-Smasher Orb
@@ -2870,11 +2890,11 @@ ID_OF_DE_SHOCKER_OFFER_75,Get <color=#fff568>75 Shocker shards</color> and use h
 ID_OF_DE_SHOCKER_OFFER_125,Get <color=#fff568>125 Shocker shards</color> and use him to pierce enemy armor with single or area of effect attacks and amp up Sinister Six allies with Offense Up.
 ID_OF_DE_SHOCKER_OFFER_150,Get <color=#fff568>150 Shocker shards</color> and use him to pierce enemy armor with single or area of effect attacks and amp up Sinister Six allies with Offense Up.
 ID_GACHA_CRATE_FCO_SHURI_SPECIAL_NAME,Tech Ambassador Orb
-ID_GACHA_CRATE_FCO_SHURI_SPECIAL_DESCRIPTION,Win up to 180 Shuri shards
+ID_GACHA_CRATE_FCO_SHURI_SPECIAL_DESCRIPTION,Get up to 180 Shuri shards
 ID_GACHA_CRATE_FCO_SHURI_SPECIAL_TOKEN_NAME,Tech Ambassador Orb Fragments
 ID_GACHA_CRATE_FCO_SHURI_SPECIAL_TOKEN_DESCRIPTION,Collect Tech Ambassador Orb Fragments to earn a Tech Ambassador Orb.
 ID_GACHA_CRATE_FCO_SIF_SPECIAL_NAME,Shield Maiden Orb
-ID_GACHA_CRATE_FCO_SIF_SPECIAL_DESCRIPTION,Win up to 180 Sif shards
+ID_GACHA_CRATE_FCO_SIF_SPECIAL_DESCRIPTION,Get up to 180 Sif shards
 ID_GACHA_CRATE_FCO_SIF_SPECIAL_TOKEN_NAME,Shield Maiden Orb Fragments
 ID_GACHA_CRATE_FCO_SIF_SPECIAL_TOKEN_DESCRIPTION,Collect Shield Maiden Orb Fragments to earn a Shield Maiden Orb.
 ID_OF_NA_SIF_FCO,Shield Maiden Orb Offer
@@ -2905,13 +2925,13 @@ ID_OF_DE_SIF_OFFER_75,"Get <color=#fff568>75 Sif shards</color> and use her to d
 ID_OF_DE_SIF_OFFER_125,"Get <color=#fff568>125 Sif shards</color> and use her to draw enemy fire with a Taunt fortified by Block and Deflect, then make enemies pay with Counter!"
 ID_OF_DE_SIF_OFFER_150,"Get <color=#fff568>150 Sif shards</color> and use her to draw enemy fire with a Taunt fortified by Block and Deflect, then make enemies pay with Counter!"
 ID_GACHA_CRATE_FCO_SINISTER_SIX_450HC_NAME,Sinister Six Orb
-ID_GACHA_CRATE_FCO_SINISTER_SIX_450HC_DESCRIPTION,Win up to 145 shards
+ID_GACHA_CRATE_FCO_SINISTER_SIX_450HC_DESCRIPTION,Get up to 145 shards
 ID_GACHA_CRATE_FCO_SINISTER_SIX_450HC_TOKEN_NAME,Sinister Six Orb Fragments
 ID_GACHA_CRATE_FCO_SINISTER_SIX_450HC_TOKEN_DESCRIPTION,Collect Sinister Six Orb Fragments to earn a Sinister Six Orb.
 ID_OF_NA_SINISTER_SIX_ORB,Sinister Six Orb
 ID_OF_DE_SINISTER_SIX_ORB_6O,Save on <color=#fff568>6 Sinister Six Orbs</color> and strengthen your team to recruit Invisible Woman!
 ID_GACHA_CRATE_FCO_SPIDER_450HC_NAME,Spider-Verse Orb
-ID_GACHA_CRATE_FCO_SPIDER_450HC_DESCRIPTION,Win up to 145 Shards of Spider-Verse characters
+ID_GACHA_CRATE_FCO_SPIDER_450HC_DESCRIPTION,Get up to 145 Shards of Spider-Verse characters
 ID_GACHA_CRATE_FCO_SPIDER_450HC_TOKEN_NAME,Spider-Verse Orb Fragments
 ID_GACHA_CRATE_FCO_SPIDER_450HC_TOKEN_DESCRIPTION,Collect Spider-Verse Orb Fragments to earn a Spider-Verse Orb.
 ID_OF_NA_LE_SPIDERVERSE_ORB,Spider-Verse Orb
@@ -2928,7 +2948,7 @@ ID_OF_DE_LE_SPIDERVERSE_OFFER_14O,Save on <color=#fff568>14 Spider-Verse Orbs</c
 ID_OF_DE_LE_SPIDERVERSE_OFFER_15O,Save on <color=#fff568>15 Spider-Verse Orbs</color> and strengthen your Spider-Verse team to recruit Shuri!
 ID_OF_DE_LE_SPIDERVERSE_OFFER_16O,Save on <color=#fff568>16 Spider-Verse Orbs</color> and strengthen your Spider-Verse team to recruit Shuri!
 ID_GACHA_CRATE_FCO_SPIDERMAN_SPECIAL_NAME,Web-Slinger Orb
-ID_GACHA_CRATE_FCO_SPIDERMAN_SPECIAL_DESCRIPTION,Win up to 180 Spider-Man shards
+ID_GACHA_CRATE_FCO_SPIDERMAN_SPECIAL_DESCRIPTION,Get up to 180 Spider-Man shards
 ID_GACHA_CRATE_FCO_SPIDERMAN_SPECIAL_TOKEN_NAME,Web-Slinger Orb Fragments
 ID_GACHA_CRATE_FCO_SPIDERMAN_SPECIAL_TOKEN_DESCRIPTION,Collect Web-Slinger Orb Fragments to earn a Web-Slinger Orb.
 ID_OF_NA_SPIDERMAN_OFFER_1,Web-Slinger Offer
@@ -2943,7 +2963,7 @@ ID_OF_DE_SPIDERMAN_OFFER_100,Get this exclusive <color=#fff568>100 shard Spider-
 ID_OF_DE_SPIDERMAN_OFFER_125,Get this exclusive <color=#fff568>125 shard Spider-Man</color> offer and save! Lower your opponents' defense and evade their attacks with this quick Brawler.
 ID_OF_DE_SPIDERMAN_OFFER_150,Get this exclusive <color=#fff568>150 shard Spider-Man</color> offer and save! Lower your opponents' defense and evade their attacks with this quick Brawler.
 ID_GACHA_CRATE_FCO_SQUIRRELGIRL_SPECIAL_NAME,SQUIRREL! Orb
-ID_GACHA_CRATE_FCO_SQUIRRELGIRL_SPECIAL_DESCRIPTION,Win up to 180 Squirrel Girl shards
+ID_GACHA_CRATE_FCO_SQUIRRELGIRL_SPECIAL_DESCRIPTION,Get up to 180 Squirrel Girl shards
 ID_GACHA_CRATE_FCO_SQUIRRELGIRL_SPECIAL_TOKEN_NAME,SQUIRREL! Orb Fragments
 ID_GACHA_CRATE_FCO_SQUIRRELGIRL_SPECIAL_TOKEN_DESCRIPTION,Collect SQUIRREL! Orb Fragments to earn a SQUIRREL! Orb.
 ID_OF_NA_SQUIRRELGIRL_FCO,SQUIRREL! Orb
@@ -2960,8 +2980,12 @@ ID_OF_DE_SQUIRRELGIRL_TRAINING_OFFER_40,Get this amazing bundle and level up Squ
 ID_OF_NA_SQUIRRELGIRL_OFFER_1,SQUIRREL! Offer
 ID_OF_DE_SQUIRRELGIRL_OFFER_VAR_S,"Recruit a <color=#fff568>{var1}-star Squirrel Girl</color> with this offer! Fortify allies with Drain, Health, and Defense Up."
 ID_OF_DE_SQUIRRELGIRL_OFFER_VAR,"Get <color=#fff568>{var1} Squirrel Girl shards</color> and use her to fortify allies with Drain, Health, and Defense Up."
+ID_GACHA_CRATE_FCO_STATURE_SPECIAL_NAME,Big Shoes Orb
+ID_GACHA_CRATE_FCO_STATURE_SPECIAL_DESCRIPTION,Earn up to 180 Stature shards
+ID_GACHA_CRATE_FCO_STATURE_SPECIAL_TOKEN_NAME,Big Shoes Orb Fragments
+ID_GACHA_CRATE_FCO_STATURE_SPECIAL_TOKEN_DESCRIPTION,Collect Big Shoes Orb Fragments to earn a Big Shoes Orb.
 ID_GACHA_CRATE_FCO_STORM_SPECIAL_NAME,Weather Goddess Orb
-ID_GACHA_CRATE_FCO_STORM_SPECIAL_DESCRIPTION,Win up to 180 Storm shards
+ID_GACHA_CRATE_FCO_STORM_SPECIAL_DESCRIPTION,Get up to 180 Storm shards
 ID_GACHA_CRATE_FCO_STORM_SPECIAL_TOKEN_NAME,Weather Goddess Orb Fragments
 ID_GACHA_CRATE_FCO_STORM_SPECIAL_TOKEN_DESCRIPTION,Collect Weather Goddess Orb Fragments to earn a Weather Goddess Orb.
 ID_OF_NA_STORM_FCO_OFFER_1,Weather Goddess Orb Offer
@@ -2987,7 +3011,7 @@ ID_OF_DE_STORM_OFFER_75,"Boost your Mutants team and recruit the ultimate Raid B
 ID_OF_DE_STORM_OFFER_125,"Boost your Mutants team and recruit the ultimate Raid Boss destroyer. Get <color=#fff568>125 Storm shards</color> and use her special to Slow and Stun, then unleash her charged ultimate to wipe out enemies."
 ID_OF_DE_STORM_OFFER_150,"Boost your Mutants team and recruit the ultimate Raid Boss destroyer. Get <color=#fff568>150 Storm shards</color> and use her special to Slow and Stun, then unleash her charged ultimate to wipe out enemies."
 ID_GACHA_CRATE_FCO_STRYFE_SPECIAL_NAME,Bad Blood Orb
-ID_GACHA_CRATE_FCO_STRYFE_SPECIAL_DESCRIPTION,Win up to 180 Stryfe shards
+ID_GACHA_CRATE_FCO_STRYFE_SPECIAL_DESCRIPTION,Get up to 180 Stryfe shards
 ID_GACHA_CRATE_FCO_STRYFE_SPECIAL_TOKEN_NAME,Bad Blood Orb Fragments
 ID_GACHA_CRATE_FCO_STRYFE_SPECIAL_TOKEN_DESCRIPTION,Collect Bad Blood Orb Fragments to earn a Bad Blood Orb.
 ID_OF_NA_STRYFE_FCO,Bad Blood Orb
@@ -3019,7 +3043,7 @@ ID_OF_DE_STRYFE_OFFER_75,"Get <color=#fff568>75 Stryfe shards</color> and use hi
 ID_OF_DE_STRYFE_OFFER_125,"Get <color=#fff568>125 Stryfe shards</color> and use him to steal Taunt, fortify with Deflect, and Ability Block enemies!"
 ID_OF_DE_STRYFE_OFFER_150,"Get <color=#fff568>150 Stryfe shards</color> and use him to steal Taunt, fortify with Deflect, and Ability Block enemies!"
 ID_GACHA_CRATE_FCO_SWARM_SPECIAL_NAME,Bzzzz Orb
-ID_GACHA_CRATE_FCO_SWARM_SPECIAL_DESCRIPTION,Win up to 180 Swarm shards
+ID_GACHA_CRATE_FCO_SWARM_SPECIAL_DESCRIPTION,Get up to 180 Swarm shards
 ID_GACHA_CRATE_FCO_SWARM_SPECIAL_TOKEN_NAME,Bzzzz Orb Fragments
 ID_GACHA_CRATE_FCO_SWARM_SPECIAL_TOKEN_DESCRIPTION,Collect Bzzzz Orb Fragments to earn a Bzzzz Orb.
 ID_OF_NA_SWARM_FCO,Bzzzz Orb
@@ -3038,7 +3062,7 @@ ID_OF_DE_SWARM_OFFER_VAR_S,"Recruit a <color=#fff568>{var1}-star Swarm</color> w
 ID_OF_DE_SWARM_OFFER_VAR,"Get <color=#fff568>{var1} Swarm shards</color> and use him to infest the battlefield with Bonus Attacks when enemies have Defense Down or Disrupted, and apply Disrupted via a rebound chain."
 ID_OF_DE_SWARM_FCO_OFFER_VAR_O_S,"Save on <color=#fff568>{var1} Bzzzz Orb</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Swarm shards</color>. Release the bees with this Sinister Six Controller! Sting enemies with Drain and Bonus Attacks, while healing himself each turn when Charged."
 ID_GACHA_CRATE_FCO_SYMBIOTESPIDERMAN_SPECIAL_NAME,Back In Black Orb
-ID_GACHA_CRATE_FCO_SYMBIOTESPIDERMAN_SPECIAL_DESCRIPTION,Win up to 180 Spider-Man (Symbiote) shards
+ID_GACHA_CRATE_FCO_SYMBIOTESPIDERMAN_SPECIAL_DESCRIPTION,Get up to 180 Spider-Man (Symbiote) shards
 ID_GACHA_CRATE_FCO_SYMBIOTESPIDERMAN_SPECIAL_TOKEN_NAME,Back In Black Orb Fragments
 ID_GACHA_CRATE_FCO_SYMBIOTESPIDERMAN_SPECIAL_TOKEN_DESCRIPTION,Collect Back In Black Orb Fragments to earn a Back In Black Orb.
 ID_OF_NA_SYMBIOTESPIDERMAN_FCO,Back In Black Orb Offer
@@ -3069,7 +3093,7 @@ ID_OF_DE_SYMBIOTESPIDERMAN_OFFER_75,"Get <color=#fff568>75 Spider-Man (Symbiote)
 ID_OF_DE_SYMBIOTESPIDERMAN_OFFER_125,"Get <color=#fff568>125 Spider-Man (Symbiote) shards</color> and use him to hit foes with hard chain attacks, lengthen enemy negative effects, and apply Bleed and Slow."
 ID_OF_DE_SYMBIOTESPIDERMAN_OFFER_150,"Get <color=#fff568>150 Spider-Man (Symbiote) shards</color> and use him to hit foes with hard chain attacks, lengthen enemy negative effects, and apply Bleed and Slow."
 ID_GACHA_CRATE_FCO_TASKMASTER_SPECIAL_NAME,Mimic Master Orb
-ID_GACHA_CRATE_FCO_TASKMASTER_SPECIAL_DESCRIPTION,Win up to 180 Taskmaster shards
+ID_GACHA_CRATE_FCO_TASKMASTER_SPECIAL_DESCRIPTION,Get up to 180 Taskmaster shards
 ID_GACHA_CRATE_FCO_TASKMASTER_SPECIAL_TOKEN_NAME,Mimic Master Orb Fragments
 ID_GACHA_CRATE_FCO_TASKMASTER_SPECIAL_TOKEN_DESCRIPTION,Collect Mimic Master Orb Fragments to earn a Mimic Master Orb.
 ID_OF_NA_TASKMASTER_FCO,Mimic Master Orb
@@ -3100,7 +3124,7 @@ ID_OF_DE_TASKMASTER_OFFER_75,"Get <color=#fff568>75 Taskmaster shards</color> an
 ID_OF_DE_TASKMASTER_OFFER_125,"Get <color=#fff568>125 Taskmaster shards</color> and use him to assassinate enemies with high damage attacks, apply Bleed and Stun, and Defend your Helicarrier with special Mercenary synergies."
 ID_OF_DE_TASKMASTER_OFFER_150,"Get <color=#fff568>150 Taskmaster shards</color> and use him to assassinate enemies with high damage attacks, apply Bleed and Stun, and Defend your Helicarrier with special Mercenary synergies."
 ID_GACHA_CRATE_FCO_THING_SPECIAL_NAME,Clobberin' Time Orb
-ID_GACHA_CRATE_FCO_THING_SPECIAL_DESCRIPTION,Win up to 180 The Thing shards
+ID_GACHA_CRATE_FCO_THING_SPECIAL_DESCRIPTION,Get up to 180 The Thing shards
 ID_GACHA_CRATE_FCO_THING_SPECIAL_TOKEN_NAME,Clobberin' Time Orb Fragments
 ID_GACHA_CRATE_FCO_THING_SPECIAL_TOKEN_DESCRIPTION,Collect Clobberin' Time Orb Fragments to earn a Clobberin' Time Orb.
 ID_OF_NA_THING_FCO,Clobberin' Time Orb Offer
@@ -3128,7 +3152,7 @@ ID_OF_DE_THING_OFFER_75,"Get <color=#fff568>75 The Thing shards</color> and use 
 ID_OF_DE_THING_OFFER_125,"Get <color=#fff568>125 The Thing shards</color> and use him to clobber enemies with single-target attacks and recoil damage, while armoring up the Fantastic Four and Namor!"
 ID_OF_DE_THING_OFFER_150,"Get <color=#fff568>150 The Thing shards</color> and use him to clobber enemies with single-target attacks and recoil damage, while armoring up the Fantastic Four and Namor!"
 ID_GACHA_CRATE_FCO_THOR_SPECIAL_NAME,God of Thunder Orb
-ID_GACHA_CRATE_FCO_THOR_SPECIAL_DESCRIPTION,Win up to 180 Thor shards
+ID_GACHA_CRATE_FCO_THOR_SPECIAL_DESCRIPTION,Get up to 180 Thor shards
 ID_GACHA_CRATE_FCO_THOR_SPECIAL_TOKEN_NAME,God of Thunder Orb Fragments
 ID_GACHA_CRATE_FCO_THOR_SPECIAL_TOKEN_DESCRIPTION,Collect God of Thunder Orb Fragments to earn a God of Thunder Orb.
 ID_OF_NA_THOR_OFFER_1,Lord of Thunder Offer
@@ -3142,7 +3166,7 @@ ID_OF_DE_THOR_OFFER_75,Upgrade your Blaster team with this Mystic Avenger. Get <
 ID_OF_DE_THOR_OFFER_125,Upgrade your Blaster team with this Mystic Avenger. Get <color=#fff568>125 Thor shards</color> and use his Hammer Throw to chain attack enemies and use his ultimate ability to stun enemies.
 ID_OF_DE_THOR_OFFER_150,Upgrade your Blaster team with this Mystic Avenger. Get <color=#fff568>150 Thor shards</color> and use his Hammer Throw to chain attack enemies and use his ultimate ability to stun enemies.
 ID_GACHA_CRATE_FCO_TOAD_SPECIAL_NAME,Sticky Situation Orb
-ID_GACHA_CRATE_FCO_TOAD_SPECIAL_DESCRIPTION,Win up to 180 Toad shards
+ID_GACHA_CRATE_FCO_TOAD_SPECIAL_DESCRIPTION,Get up to 180 Toad shards
 ID_GACHA_CRATE_FCO_TOAD_SPECIAL_TOKEN_NAME,Sticky Situation Orb Fragments
 ID_GACHA_CRATE_FCO_TOAD_SPECIAL_TOKEN_DESCRIPTION,Collect Sticky Situation Orb Fragments to earn a Sticky Situation Orb.
 ID_OF_NA_TOAD_FCO,Sticky Situation Orb
@@ -3173,7 +3197,7 @@ ID_OF_DE_TOAD_OFFER_75,"Get <color=#fff568>75 Toad shards</color> and use him to
 ID_OF_DE_TOAD_OFFER_125,"Get <color=#fff568>125 Toad shards</color> and use him to apply negative effects, clear enemy positive effects, and synergize attacks with Blob!"
 ID_OF_DE_TOAD_OFFER_150,"Get <color=#fff568>150 Toad shards</color> and use him to apply negative effects, clear enemy positive effects, and synergize attacks with Blob!"
 ID_GACHA_CRATE_FCO_ULTGREENGOBLIN_SPECIAL_NAME,Oz Orb
-ID_GACHA_CRATE_FCO_ULTGREENGOBLIN_SPECIAL_DESCRIPTION,Win up to 180 Green Goblin shards
+ID_GACHA_CRATE_FCO_ULTGREENGOBLIN_SPECIAL_DESCRIPTION,Get up to 180 Green Goblin shards
 ID_GACHA_CRATE_FCO_ULTGREENGOBLIN_SPECIAL_TOKEN_NAME,Oz Orb Fragments
 ID_GACHA_CRATE_FCO_ULTGREENGOBLIN_SPECIAL_TOKEN_DESCRIPTION,Collect Oz Orb Fragments to earn an Oz Orb.
 ID_OF_NA_GREENGOBLIN_FCO_OFFER_1,"Oz Orb Offer "
@@ -3203,7 +3227,7 @@ ID_OF_DE_GREENGOBLIN_GEAR_OFFER_50,Get this amazing bundle and gear up Green Gob
 ID_OF_NA_GREENGOBLIN_ABILITY_OFFER_1,Green Goblin: Ability
 ID_OF_DE_GREENGOBLIN_ABILITY_OFFER_50,Get this amazing bundle and power up Green Goblin. Get over <color=#fff568>50%</color> off when you buy now!
 ID_GACHA_CRATE_FCO_ULTSPIDERMAN_SPECIAL_NAME,Kid Arachnid Orb
-ID_GACHA_CRATE_FCO_ULTSPIDERMAN_SPECIAL_DESCRIPTION,Win up to 180 Spider-Man (Miles) shards
+ID_GACHA_CRATE_FCO_ULTSPIDERMAN_SPECIAL_DESCRIPTION,Get up to 180 Spider-Man (Miles) shards
 ID_GACHA_CRATE_FCO_ULTSPIDERMAN_SPECIAL_TOKEN_NAME,Kid Arachnid Orb Fragments
 ID_GACHA_CRATE_FCO_ULTSPIDERMAN_SPECIAL_TOKEN_DESCRIPTION,Collect Kid Arachnid Orb Fragments to earn a Kid Arachnid Orb.
 ID_OF_NA_MILESMORALES_OFFER_1,Shadow Spider Offer
@@ -3217,7 +3241,7 @@ ID_OF_DE_MILESMORALES_OFFER_55,Round out your Spider-Verse team with this slick 
 ID_OF_DE_MILESMORALES_OFFER_75,Round out your Spider-Verse team with this slick City Brawler! Get <color=#fff568>75 Spider-Man (Miles) shards</color> and navigate the battlefield with Stealth. Clear positive effects while applying Slow and Disrupted to your foes.
 ID_OF_DE_MILESMORALES_OFFER_125,Round out your Spider-Verse team with this slick City Brawler! Get <color=#fff568>125 Spider-Man (Miles) shards</color> and navigate the battlefield with Stealth. Clear positive effects while applying Slow and Disrupted to your foes.
 ID_GACHA_CRATE_FCO_VENOM_SPECIAL_NAME,Symbiotic Terror Orb
-ID_GACHA_CRATE_FCO_VENOM_SPECIAL_DESCRIPTION,Win up to 180 Venom shards
+ID_GACHA_CRATE_FCO_VENOM_SPECIAL_DESCRIPTION,Get up to 180 Venom shards
 ID_GACHA_CRATE_FCO_VENOM_SPECIAL_TOKEN_NAME,Symbiotic Terror Orb Fragments
 ID_GACHA_CRATE_FCO_VENOM_SPECIAL_TOKEN_DESCRIPTION,Collect Symbiotic Terror Orb Fragments to earn a Symbiotic Terror Orb.
 ID_OF_NA_VENOM_OFFER_1,Alien Menace Offer
@@ -3241,7 +3265,7 @@ ID_OF_DE_VENOM_FCO_OFFER_10O,Save on <color=#fff568>10 Symbiotic Terror Orbs</co
 ID_OF_DE_VENOM_FCO_OFFER_12O,Save on <color=#fff568>12 Symbiotic Terror Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 shards</color>. Infect enemies by flipping positive effects and spreading Bleed effects to nearby enemies.
 ID_OF_DE_VENOM_FCO_OFFER_14O,Save on <color=#fff568>14 Symbiotic Terror Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 shards</color>. Infect enemies by flipping positive effects and spreading Bleed effects to nearby enemies.
 ID_GACHA_CRATE_FCO_VULTURE_SPECIAL_NAME,Bird of Prey Orb
-ID_GACHA_CRATE_FCO_VULTURE_SPECIAL_DESCRIPTION,Win up to 180 Vulture shards
+ID_GACHA_CRATE_FCO_VULTURE_SPECIAL_DESCRIPTION,Get up to 180 Vulture shards
 ID_GACHA_CRATE_FCO_VULTURE_SPECIAL_TOKEN_NAME,Bird of Prey Orb Fragments
 ID_GACHA_CRATE_FCO_VULTURE_SPECIAL_TOKEN_DESCRIPTION,Collect Bird of Prey Orb Fragments to earn a Bird of Prey Orb.
 ID_OF_NA_VULTURE_FCO_OFFER_1,Bird of Prey Orb Offer
@@ -3269,17 +3293,17 @@ ID_OF_DE_VULTURE_OFFER_75,Get <color=#fff568>75 Vulture shards</color> and use h
 ID_OF_DE_VULTURE_OFFER_125,Get <color=#fff568>125 Vulture shards</color> and use him to apply Slow and Offense Down to City Heroes and then gouge enemies for extra damage per negative effect!
 ID_OF_DE_VULTURE_OFFER_150,Get <color=#fff568>150 Vulture shards</color> and use him to apply Slow and Offense Down to City Heroes and then gouge enemies for extra damage per negative effect!
 ID_GACHA_CRATE_FCO_VISION_SPECIAL_NAME,Synthezoid Orb
-ID_GACHA_CRATE_FCO_VISION_SPECIAL_DESCRIPTION,Win up to 180 Vision shards
+ID_GACHA_CRATE_FCO_VISION_SPECIAL_DESCRIPTION,Get up to 180 Vision shards
 ID_GACHA_CRATE_FCO_VISION_SPECIAL_TOKEN_NAME,Synthezoid Orb Fragments
 ID_GACHA_CRATE_FCO_VISION_SPECIAL_TOKEN_DESCRIPTION,Collect Synthezoid Orb Fragments to earn a Synthezoid Orb.
 ID_GACHA_CRATE_FCO_VISION_375HC_145JP_NAME,Synthezoid Orb
-ID_GACHA_CRATE_FCO_VISION_375HC_145JP_DESCRIPTION,Win up to 145 Vision shards
+ID_GACHA_CRATE_FCO_VISION_375HC_145JP_DESCRIPTION,Get up to 145 Vision shards
 ID_GACHA_CRATE_FCO_VISION_375HC_145JP_TOKEN_NAME,Synthezoid Orb Fragments
 ID_GACHA_CRATE_FCO_VISION_375HC_145JP_TOKEN_DESCRIPTION,Collect Synthezoid Orb Fragments to earn a Synthezoid Orb.
 ID_OF_NA_VISION_OFFER_1,Synthezoid Offer
 ID_OF_DE_VISION_OFFER_1,Help boost your squad with this opportunity to get a <color=#fff568>2-star Vision</color>! Keep your team alive by blocking enemy abilities and reducing their damage.
 ID_GACHA_CRATE_FCO_WAKANDA_450HC_NAME,Wakanda Orb
-ID_GACHA_CRATE_FCO_WAKANDA_450HC_DESCRIPTION,Win up to 145 shards of Wakanda characters
+ID_GACHA_CRATE_FCO_WAKANDA_450HC_DESCRIPTION,Get up to 145 shards of Wakanda characters
 ID_GACHA_CRATE_FCO_WAKANDA_450HC_TOKEN_NAME,Wakanda Orb Fragments
 ID_GACHA_CRATE_FCO_WAKANDA_450HC_TOKEN_DESCRIPTION,Collect Wakanda Orb Fragments to earn a Wakanda Orb.
 ID_OF_NA_WAKANDA_ORB,Wakanda Orb
@@ -3296,7 +3320,7 @@ ID_OF_DE_WAKANDA_OFFER_14O,Save on <color=#fff568>14 Wakanda Orbs</color> and st
 ID_OF_DE_WAKANDA_OFFER_15O,Save on <color=#fff568>15 Wakanda Orbs</color> and strengthen your Wakandan team for Raids!
 ID_OF_DE_WAKANDA_OFFER_16O,Save on <color=#fff568>16 Wakanda Orbs</color> and strengthen your Wakandan team for Raids!
 ID_GACHA_CRATE_FCO_WARMACHINE_SPECIAL_NAME,Full Salvo Orb
-ID_GACHA_CRATE_FCO_WARMACHINE_SPECIAL_DESCRIPTION,Win up to 180 War Machine shards
+ID_GACHA_CRATE_FCO_WARMACHINE_SPECIAL_DESCRIPTION,Get up to 180 War Machine shards
 ID_GACHA_CRATE_FCO_WARMACHINE_SPECIAL_TOKEN_NAME,Full Salvo Orb Fragments
 ID_GACHA_CRATE_FCO_WARMACHINE_SPECIAL_TOKEN_DESCRIPTION,Collect Full Salvo Orb Fragments to earn a Full Salvo Orb.
 ID_OF_NA_WARMACHINE_FCO_OFFER_1,Full Salvo Orb
@@ -3325,7 +3349,7 @@ ID_OF_DE_WARMACHINE_OFFER_75,Add this Blaster to your roster and enhance your Av
 ID_OF_DE_WARMACHINE_OFFER_125,Add this Blaster to your roster and enhance your Avengers or Tech team. Get <color=#fff568>125 War Machine shards</color> and devastate enemy forces with his array of lethal bombardment capabilities.
 ID_OF_DE_WARMACHINE_OFFER_150,Add this Blaster to your roster and enhance your Avengers or Tech team. Get <color=#fff568>150 War Machine shards</color> and devastate enemy forces with his array of lethal bombardment capabilities.
 ID_GACHA_CRATE_FCO_WASP_SPECIAL_NAME,Stinger Orb
-ID_GACHA_CRATE_FCO_WASP_SPECIAL_DESCRIPTION,Win up to 180 Wasp shards
+ID_GACHA_CRATE_FCO_WASP_SPECIAL_DESCRIPTION,Get up to 180 Wasp shards
 ID_GACHA_CRATE_FCO_WASP_SPECIAL_TOKEN_NAME,Stinger Orb Fragments
 ID_GACHA_CRATE_FCO_WASP_SPECIAL_TOKEN_DESCRIPTION,Collect Stinger Orb Fragments to earn a Stinger Orb.
 ID_OF_NA_WASP_OFFER_1,Wondrous Wasp Offer
@@ -3339,7 +3363,7 @@ ID_OF_DE_WASP_OFFER_75,Strengthen your Global Heroes team with this offer. Get <
 ID_OF_DE_WASP_OFFER_125,Strengthen your Global Heroes team with this offer. Get <color=#fff568>125 Wasp shards</color> and counter enemies with Stealth and stun them while charged using her array of chain attacks.
 ID_OF_DE_WASP_OFFER_150,Strengthen your Global Heroes team with this offer. Get <color=#fff568>150 Wasp shards</color> and counter enemies with Stealth and stun them while charged using her array of chain attacks.
 ID_GACHA_CRATE_FCO_WINTERSOLDIER_SPECIAL_NAME,Bucky Barnes Orb
-ID_GACHA_CRATE_FCO_WINTERSOLDIER_SPECIAL_DESCRIPTION,Win up to 180 Winter Soldier shards
+ID_GACHA_CRATE_FCO_WINTERSOLDIER_SPECIAL_DESCRIPTION,Get up to 180 Winter Soldier shards
 ID_GACHA_CRATE_FCO_WINTERSOLDIER_SPECIAL_TOKEN_NAME,Bucky Barnes Orb Fragments
 ID_GACHA_CRATE_FCO_WINTERSOLDIER_SPECIAL_TOKEN_DESCRIPTION,Collect Bucky Barnes Orb Fragments to earn a Bucky Barnes Orb.
 ID_OF_NA_WINTERSOLDIER_OFFER_1,Expert Killer Offer
@@ -3352,7 +3376,7 @@ ID_OF_DE_WINTERSOLDIER_OFFER_55,"Upgrade your Villains team with this Global Bla
 ID_OF_DE_WINTERSOLDIER_OFFER_75,"Upgrade your Villains team with this Global Blaster offer. Get <color=#fff568>75 Winter Soldier shards</color> and cripple opposing teams early with abilities that deal heavy damage, bleed, and heal block."
 ID_OF_DE_WINTERSOLDIER_OFFER_125,"Upgrade your Villains team with this Global Blaster offer. Get <color=#fff568>125 Winter Soldier shards</color> and cripple opposing teams early with abilities that deal heavy damage, bleed, and heal block."
 ID_GACHA_CRATE_FCO_WOLVERINE_SPECIAL_NAME,Weapon X Orb
-ID_GACHA_CRATE_FCO_WOLVERINE_SPECIAL_DESCRIPTION,Win up to 180 Wolverine shards
+ID_GACHA_CRATE_FCO_WOLVERINE_SPECIAL_DESCRIPTION,Get up to 180 Wolverine shards
 ID_GACHA_CRATE_FCO_WOLVERINE_SPECIAL_TOKEN_NAME,Weapon X Orb Fragments
 ID_GACHA_CRATE_FCO_WOLVERINE_SPECIAL_TOKEN_DESCRIPTION,Collect Weapon X Orb Fragments to earn a Weapon X Orb.
 ID_OF_NA_WOLVERINE_OFFER_1,Lethal Berserker Offer
@@ -3367,7 +3391,7 @@ ID_OF_DE_WOLVERINE_OFFER_100,Upgrade your Mutant Brawler with this special deal.
 ID_OF_DE_WOLVERINE_OFFER_125,Upgrade your Mutant Brawler with this special deal. Get <color=#fff568>125 Wolverine shards </color> so he can slice and dice his way through Raids with his Healing Factor and Bleed effects.
 ID_OF_DE_WOLVERINE_OFFER_150,Upgrade your Mutant Brawler with this special deal. Get <color=#fff568>150 Wolverine shards </color> so he can slice and dice his way through Raids with his Healing Factor and Bleed effects.
 ID_GACHA_CRATE_FCO_X23_SPECIAL_NAME,Target X Orb
-ID_GACHA_CRATE_FCO_X23_SPECIAL_DESCRIPTION,Win up to 180 X-23 shards
+ID_GACHA_CRATE_FCO_X23_SPECIAL_DESCRIPTION,Get up to 180 X-23 shards
 ID_GACHA_CRATE_FCO_X23_SPECIAL_TOKEN_NAME,Target X Orb Fragments
 ID_GACHA_CRATE_FCO_X23_SPECIAL_TOKEN_DESCRIPTION,Collect Target X Orb Fragments to earn a Target X Orb.
 ID_OF_NA_X23_FCO,Target X Orb
@@ -3385,7 +3409,7 @@ ID_OF_NA_X23_OFFER_1,Target X Offer
 ID_OF_DE_X23_OFFER_VAR_S,"Recruit a <color=#fff568>{var1}-star X-23</color> with this offer! Claw enemies for Piercing damage, Heal each turn, and gain Speed Bar."
 ID_OF_DE_X23_OFFER_VAR,"Get <color=#fff568>{var1} X-23 shards</color> and use her to claw enemies for Piercing damage, Heal each turn, and gain Speed Bar."
 ID_GACHA_CRATE_FCO_XFORCE_450HC_NAME,X-Force Orb
-ID_GACHA_CRATE_FCO_XFORCE_450HC_DESCRIPTION,Win up to 145 select X-Force shards.
+ID_GACHA_CRATE_FCO_XFORCE_450HC_DESCRIPTION,Get up to 145 select X-Force shards.
 ID_GACHA_CRATE_FCO_XFORCE_450HC_TOKEN_NAME,X-Force Orb Fragments
 ID_GACHA_CRATE_FCO_XFORCE_450HC_TOKEN_DESCRIPTION,Collect X-Force Orb Fragments to earn a X-Force Orb.
 ID_OF_DE_XFORCE_OFFER_6O,Save on <color=#fff568>6 X-Force Orbs</color> and strengthen your X-Force team!
@@ -3395,7 +3419,7 @@ ID_OF_DE_XFORCE_OFFER_4O,Save on <color=#fff568>4 X-Force Orbs</color> and stren
 ID_OF_DE_XFORCE_OFFER_3O,Save on <color=#fff568>3 X-Force Orbs</color> and strengthen your X-Force team!
 ID_OF_DE_XFORCE_OFFER_8O,Save on <color=#fff568>8 X-Force Orbs</color> and strengthen your X-Force team!
 ID_GACHA_CRATE_FCO_XMENBROTHERHOOD_450HC_NAME,Uncanny Orb
-ID_GACHA_CRATE_FCO_XMENBROTHERHOOD_450HC_DESCRIPTION,Win up to 145 select X-Men and Brotherhood character shards
+ID_GACHA_CRATE_FCO_XMENBROTHERHOOD_450HC_DESCRIPTION,Get up to 145 select X-Men and Brotherhood character shards
 ID_GACHA_CRATE_FCO_XMENBROTHERHOOD_450HC_TOKEN_NAME,Uncanny Orb Fragments
 ID_GACHA_CRATE_FCO_XMENBROTHERHOOD_450HC_TOKEN_DESCRIPTION,Collect Uncanny Orb Fragments to earn a Uncanny Orb.
 ID_OF_NA_MAGNETO_LE_FCO_OFFER_1,Uncanny Orb Bundle
@@ -3405,8 +3429,12 @@ ID_OF_DE_MAGNETO_LE_FCO_OFFER_5O,Save on <color=#fff568>5 Uncanny Orbs</color> w
 ID_OF_DE_MAGNETO_LE_FCO_OFFER_6O,Save on <color=#fff568>6 Uncanny Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 145 shards</color>.
 ID_OF_DE_MAGNETO_LE_FCO_OFFER_8O,Save on <color=#fff568>8 Uncanny Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 145 shards</color>.
 ID_OF_DE_MAGNETO_LE_FCO_OFFER_10O,Save on <color=#fff568>10 Uncanny Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 145 shards</color>.
+ID_GACHA_CRATE_FCO_YELLOWJACKET_SPECIAL_NAME,Sharp Sting Orb
+ID_GACHA_CRATE_FCO_YELLOWJACKET_SPECIAL_DESCRIPTION,Earn up to 180 Yellowjacket shards
+ID_GACHA_CRATE_FCO_YELLOWJACKET_SPECIAL_TOKEN_NAME,Sharp Sting Orb Fragments
+ID_GACHA_CRATE_FCO_YELLOWJACKET_SPECIAL_TOKEN_DESCRIPTION,Collect Sharp Sting Orb Fragments to earn a Sharp Sting Orb.
 ID_GACHA_CRATE_FCO_YONDU_SPECIAL_NAME,Centaurian Hunter Orb
-ID_GACHA_CRATE_FCO_YONDU_SPECIAL_DESCRIPTION,Win up to 180 Yondu shards
+ID_GACHA_CRATE_FCO_YONDU_SPECIAL_DESCRIPTION,Get up to 180 Yondu shards
 ID_GACHA_CRATE_FCO_YONDU_SPECIAL_TOKEN_NAME,Centaurian Hunter Orb Fragments
 ID_GACHA_CRATE_FCO_YONDU_SPECIAL_TOKEN_DESCRIPTION,Collect Centaurian Hunter Orb Fragments to earn a Centaurian Hunter Orb.
 ID_OF_NA_YONDU_FCO_OFFER_1,Centaurian Hunter Orb
@@ -3426,7 +3454,7 @@ ID_OF_DE_YONDU_100,Rank up Yondu with this limited time <color=#fff568>100 shard
 ID_OF_DE_YONDU_150,Rank up Yondu with this limited time <color=#fff568>150 shard</color> offer! Use his summoning and area of effect abilities to overpower the competition.
 ID_OF_DE_YONDU_125,Rank up Yondu with this limited time <color=#fff568>125 shard</color> offer! Use his summoning and area of effect abilities to overpower the competition.
 ID_GACHA_CRATE_FCO_YOYO_SPECIAL_NAME,Slingshot Orb
-ID_GACHA_CRATE_FCO_YOYO_SPECIAL_DESCRIPTION,Win up to 180 Yo-Yo shards
+ID_GACHA_CRATE_FCO_YOYO_SPECIAL_DESCRIPTION,Get up to 180 Yo-Yo shards
 ID_GACHA_CRATE_FCO_YOYO_SPECIAL_TOKEN_NAME,Slingshot Orb Fragments
 ID_GACHA_CRATE_FCO_YOYO_SPECIAL_TOKEN_DESCRIPTION,Collect Slingshot Orb Fragments to earn a Slingshot Orb.
 ID_OF_NA_YOYO_FCO,Slingshot Orb Offer
@@ -3506,13 +3534,13 @@ ID_OF_NA_ASSEMBLY_EVENT_BLUE_OFFER_01,Blue Assembly Orb Offer
 ID_OF_NA_ASSEMBLY_EVENT_BLUE_OFFER_02,Sinister Assembly Offer
 ID_OF_DE_ASSEMBLY_EVENT_OFFER_VAR,Save on <color=#fff568>{var1} Sinister Credits</color> with this offer! Open <color=#fff568>Assembly Orbs</color> to progress in the Sinister Assembly Milestone to earn special rewards.
 ID_GACHA_CRATE_BIO_NAME,Bio Orb
-ID_GACHA_CRATE_BIO_DESCRIPTION,Win up to 26 shards of select Bio characters
+ID_GACHA_CRATE_BIO_DESCRIPTION,Get up to 26 shards of select Bio characters
 ID_GACHA_CRATE_BIO_TOKEN_NAME,Bio Orb Fragments
 ID_GACHA_CRATE_BIO_TOKEN_DESCRIPTION,Collect Bio Orb Fragments to earn a Bio Orb.
 ID_OF_NA_BIO_ORB,Bio Orb
 ID_OF_DE_BIO_ORB_6O,Save on <color=#fff568>6 Bio Orbs</color> and strengthen your Bio roster!
 ID_GACHA_CRATE_CHIMI_NAME,Chimichanga Orb
-ID_GACHA_CRATE_CHIMI_DESCRIPTION,Win up to 75 character shards
+ID_GACHA_CRATE_CHIMI_DESCRIPTION,Get up to 75 character shards
 ID_GACHA_CRATE_CHIMI_TOKEN_NAME,Chimichanga Orb Fragments
 ID_GACHA_CRATE_CHIMI_TOKEN_DESCRIPTION,Collect Chimichanga Orb Fragments by participating in the Chimichanga Blitz Milestone to earn Chimichanga Orbs.
 ID_OF_NA_CHIMI_OFFER_1,Chimichanga Orb Offer
@@ -3534,7 +3562,7 @@ ID_OF_DE_ORB_OFFER_CLOVER_6O,Celebrate St. Patrick's Day and save on <color=#fff
 ID_OF_DE_ORB_OFFER_CLOVER_7O,Celebrate St. Patrick's Day and save on <color=#fff568>7 Clover Orbs</color> with this offer!
 ID_OF_DE_ORB_OFFER_CLOVER_8O,Celebrate St. Patrick's Day and save on <color=#fff568>8 Clover Orbs</color> with this offer!
 ID_GACHA_CRATE_FCO_CRYSTALBALL_NAME,Crystal Ball
-ID_GACHA_CRATE_FCO_CRYSTALBALL_DESCRIPTION,Win up to 140 character shards
+ID_GACHA_CRATE_FCO_CRYSTALBALL_DESCRIPTION,Get up to 140 character shards
 ID_GACHA_CRATE_FCO_CRYSTALBALL_TOKEN_NAME,Crystal Ball Fragments
 ID_GACHA_CRATE_FCO_CRYSTALBALL_TOKEN_DESCRIPTION,Collect Crystal Ball Fragments to earn a Crystal Ball.
 ID_OF_NA_MORB_CRYSTALBALL_1,Crystal Ball Orb Fragment Offer
@@ -3548,7 +3576,7 @@ ID_GACHA_CRATE_EVENT_RAID_PANTS_201910_DESCRIPTION,Earn Champions' Credits by co
 ID_GACHA_CRATE_EVENT_RAID_PANTS_201910_TOKEN_NAME,Pants of Hulk Orb Fragments
 ID_GACHA_CRATE_EVENT_RAID_PANTS_201910_TOKEN_DESCRIPTION,Collect Champions' Credits in Champions' Raids.
 ID_GACHA_CRATE_HEATWAVE_NAME,Heat Wave Orb
-ID_GACHA_CRATE_HEATWAVE_DESCRIPTION,Win up to 26 character shards
+ID_GACHA_CRATE_HEATWAVE_DESCRIPTION,Get up to 26 character shards
 ID_GACHA_CRATE_HEATWAVE_TOKEN_NAME,Heat Wave Orb Fragments
 ID_GACHA_CRATE_HEATWAVE_TOKEN_DESCRIPTION,Collect Heat Wave Orb Fragments by participating in the Code Red Blitz Milestone to earn Heat Wave Orbs.
 ID_OF_NA_HEATWAVE_OFFER_1,Heat Wave Orb Offer
@@ -3561,7 +3589,7 @@ ID_OF_NA_MORB_HEATWAVE_1,Heat Wave Fragment Offer
 ID_OF_DE_MORB_HEATWAVE_500,Take advantage of this limited time deal and complete your orb! Get <color=#fff568>500 Heat Wave Orb Fragments</color> with this offer.
 ID_OF_DE_MORB_HEATWAVE_400,Take advantage of this limited time deal and complete your orb! Get <color=#fff568>400 Heat Wave Orb Fragments</color> with this offer.
 ID_GACHA_CRATE_FCO_LUCKY_NAME,Lucky Orb
-ID_GACHA_CRATE_FCO_LUCKY_DESCRIPTION,Win up to 100 character shards
+ID_GACHA_CRATE_FCO_LUCKY_DESCRIPTION,Get up to 100 character shards
 ID_GACHA_CRATE_FCO_LUCKY_TOKEN_NAME,Lucky Orb Fragments
 ID_GACHA_CRATE_FCO_LUCKY_TOKEN_DESCRIPTION,Collect Lucky Orb Fragments by participating in the Code Green Blitz Milestone to earn Lucky Orbs.
 ID_OF_NA_LUCKY_OFFER_1,Get Lucky Offer
@@ -3574,7 +3602,7 @@ ID_OF_NA_MORB_LUCKY_1,Lucky Fragment Offer
 ID_OF_DE_MORB_LUCKY_500,Take advantage of this limited time deal and complete your orb! Get <color=#fff568>500 Lucky Orb Fragments</color> with this offer.
 ID_OF_DE_MORB_LUCKY_400,Take advantage of this limited time deal and complete your orb! Get <color=#fff568>400 Lucky Orb Fragments</color> with this offer.
 ID_GACHA_CRATE_FCO_LUNAR_NAME,Lunar Orb
-ID_GACHA_CRATE_FCO_LUNAR_DESCRIPTION,Win up to 100 character shards
+ID_GACHA_CRATE_FCO_LUNAR_DESCRIPTION,Get up to 100 character shards
 ID_GACHA_CRATE_FCO_LUNAR_TOKEN_NAME,Lunar Orb Fragments
 ID_GACHA_CRATE_FCO_LUNAR_TOKEN_DESCRIPTION,Collect Lunar Orb Fragments to earn a Lunar Orb.
 ID_OF_NA_LUNARNEWYEAR_FCO_OFFER_1,Lunar Orb Bundle
@@ -3588,7 +3616,7 @@ ID_OF_NA_LUNAR_MORB_1,Lunar Orb Fragments
 ID_OF_DE_LUNAR_MORB_500,Take advantage of this limited time deal and complete your orb! Get <color=#fff568>500 Lunar Orb Fragments</color> with this offer.
 ID_OF_DE_LUNAR_MORB_675,Take advantage of this limited time deal and complete your orb! Get <color=#fff568>675 Lunar Orb Fragments</color> with this offer.
 ID_GACHA_CRATE_MARVEL80_NAME,Marvel Anniversary Orb
-ID_GACHA_CRATE_MARVEL80_DESCRIPTION,Win up to 5 shards of a marquee character
+ID_GACHA_CRATE_MARVEL80_DESCRIPTION,Get up to 5 shards of a marquee character
 ID_GACHA_CRATE_MARVEL80_TOKEN_NAME,Marvel Anniversary Orb Fragments
 ID_GACHA_CRATE_MARVEL80_TOKEN_DESCRIPTION,Collect Marvel Anniversary Orb Fragments to earn a Marvel Anniversary Orb.
 ID_OF_NA_M80_CAPTAINAMERICA_01,Marvel 80th: Captain America
@@ -3626,7 +3654,7 @@ ID_GACHA_CRATE_MEGA_MINION_DESCRIPTION,Contains 50-100 shards of a minion charac
 ID_GACHA_CRATE_MEGA_MINION_TOKEN_NAME,Mega Minion Orb Fragments
 ID_GACHA_CRATE_MEGA_MINION_TOKEN_DESCRIPTION,Collect Mega Minion Orb Fragments to earn a Mega Minion Orb.
 ID_GACHA_CRATE_MUTANT_NAME,Mutant Orb
-ID_GACHA_CRATE_MUTANT_DESCRIPTION,Win up to 26 shards of select Mutant characters
+ID_GACHA_CRATE_MUTANT_DESCRIPTION,Get up to 26 shards of select Mutant characters
 ID_GACHA_CRATE_MUTANT_TOKEN_NAME,Mutant Orb Fragments
 ID_GACHA_CRATE_MUTANT_TOKEN_DESCRIPTION,Collect Mutant Orb Fragments to earn a Mutant Orb.
 ID_OF_NA_MUTANT_ORB_OFFER_1,Mutant Orb
@@ -3642,7 +3670,7 @@ ID_GACHA_CRATE_NEW_YEARS_2019_DESCRIPTION,Celebrate a New Year of MARVEL Strike 
 ID_GACHA_CRATE_NEW_YEARS_2019_TOKEN_NAME,Countdown Orb Fragments
 ID_GACHA_CRATE_NEW_YEARS_2019_TOKEN_DESCRIPTION,Collect Countdown Orb Fragments to earn a Countdown Orb.
 ID_GACHA_CRATE_PUMPKIN_NAME,Jack-O'-Lantern Orb
-ID_GACHA_CRATE_PUMPKIN_DESCRIPTION,Win up to 8 shards of a marquee character
+ID_GACHA_CRATE_PUMPKIN_DESCRIPTION,Get up to 8 shards of a marquee character
 ID_GACHA_CRATE_PUMPKIN_TOKEN_NAME,Jack-O'-Lantern Orb Fragments
 ID_GACHA_CRATE_PUMPKIN_TOKEN_DESCRIPTION,Collect Jack-O'-Lantern Orb Fragments to earn a Jack-O'-Lantern Orb.
 ID_GACHA_CRATE_FCO_SNOWBALL_NAME,Snowball Orb
@@ -3663,7 +3691,7 @@ ID_GACHA_CRATE_FCO_SNOWGLOBE_DESCRIPTION,Contains up to 5 shards of a marquee ch
 ID_GACHA_CRATE_FCO_SNOWGLOBE_TOKEN_NAME,Snow Globe Orb Fragments
 ID_GACHA_CRATE_FCO_SNOWGLOBE_TOKEN_DESCRIPTION,Collect Snow Globe Orb Fragments in the Winter Login Calendar to earn Snow Globe Orbs.
 ID_GACHA_CRATE_SUGARSKULL_NAME,Sugar Skull Orb
-ID_GACHA_CRATE_SUGARSKULL_DESCRIPTION,Win up to 25 shards of Day of the Dead characters
+ID_GACHA_CRATE_SUGARSKULL_DESCRIPTION,Get up to 25 shards of Day of the Dead characters
 ID_GACHA_CRATE_SUGARSKULL_TOKEN_NAME,Sugar Skull Orb Fragments
 ID_GACHA_CRATE_SUGARSKULL_TOKEN_DESCRIPTION,Collect Sugar Skull Orb Fragments to earn a Sugar Skull Orb.
 ID_GACHA_CRATE_SUMMER_BLUE_NAME,Blue Firework Orb
@@ -3708,7 +3736,7 @@ ID_OF_NA_DAILYGOLD_01,10 for 10: Gold
 ID_OF_NA_10FOR10_TADANO_MAC,Tadano Mac 10 for 10: Shards
 ID_OF_DE_10FOR10_TADANO_MAC,Get <color=#fff568>10 shards</color> of one of the characters Tadano Mac used to conquer <color=#fff568>Dark Dimension III</color>!
 ID_GACHA_CRATE_TECH_NAME,Tech Orb
-ID_GACHA_CRATE_TECH_DESCRIPTION,Win up to 26 shards of select Tech characters
+ID_GACHA_CRATE_TECH_DESCRIPTION,Get up to 26 shards of select Tech characters
 ID_GACHA_CRATE_TECH_TOKEN_NAME,Tech Orb Fragments
 ID_GACHA_CRATE_TECH_TOKEN_DESCRIPTION,"Collect Tech Orb Fragments to earn a Tech Orb. "
 ID_OF_NA_TECH_ORB_OFFER_1,Tech Orb
@@ -3720,7 +3748,7 @@ ID_OF_DE_TECH_ORB_OFFER_6O,Save on <color=#fff568>6 Tech Orbs</color> to help ex
 ID_OF_DE_TECH_ORB_OFFER_8O,Save on <color=#fff568>8 Tech Orbs</color> to help expand and strengthen your Tech teams!
 ID_OF_DE_TECH_ORB_OFFER_10O,Save on <color=#fff568>10 Tech Orbs</color> to help expand and strengthen your Tech teams!
 ID_GACHA_CRATE_FCO_TECHSPHERE_NAME,Tech Sphere
-ID_GACHA_CRATE_FCO_TECHSPHERE_DESCRIPTION,Win up to 140 TECH character shards
+ID_GACHA_CRATE_FCO_TECHSPHERE_DESCRIPTION,Get up to 140 TECH character shards
 ID_GACHA_CRATE_FCO_TECHSPHERE_TOKEN_NAME,Tech Sphere Pieces
 ID_GACHA_CRATE_FCO_TECHSPHERE_TOKEN_DESCRIPTION,Collect Tech Sphere Pieces to earn a Tech Sphere.
 ID_OF_NA_TECH_SPHERE_OFFER_1,Open the Tech Sphere
@@ -3738,7 +3766,7 @@ ID_GACHA_CRATE_UNITY_DESCRIPTION,Contains up to 5 shards of a marquee character
 ID_GACHA_CRATE_UNITY_TOKEN_NAME,Unity Orb Fragments
 ID_GACHA_CRATE_UNITY_TOKEN_DESCRIPTION,Collect Unity Orb Fragments to earn a Unity Orb
 ID_GACHA_CRATE_UNITY_2020_NAME,Unity Orb
-ID_GACHA_CRATE_UNITY_2020_DESCRIPTION,Win up to 8 shards of a marquee character
+ID_GACHA_CRATE_UNITY_2020_DESCRIPTION,Get up to 8 shards of a marquee character
 ID_GACHA_CRATE_UNITY_2020_TOKEN_NAME,Unity Orb Fragments
 ID_GACHA_CRATE_UNITY_2020_TOKEN_DESCRIPTION,Collect Unity Orb Fragments to earn a Unity Orb.
 ID_OF_NA_UNITY_OFFER_1,Unity Orb Offer
@@ -3752,7 +3780,7 @@ ID_OF_DE_MORB_UNITY_400,Take advantage of this limited time deal and complete yo
 ID_OF_DE_MORB_UNITY_500,Take advantage of this limited time deal and complete your orb! Get <color=#fff568>500 Unity Orb Fragments</color> with this offer.
 ID_OF_DE_UNITY_2020_ORB_VAR_01,Save on <color=#fff568>{var1} Unity Orbs</color> with this offer! Open <color=#fff568> Unity Orbs</color> to progress in the Explosive Combo Milestone to earn <color=#fff568>Negasonic shards</color>.
 ID_GACHA_CRATE_FCO_VALENTINE_NAME,Ruby Heart Orb
-ID_GACHA_CRATE_FCO_VALENTINE_DESCRIPTION,Win up to 8 shards of a marquee character
+ID_GACHA_CRATE_FCO_VALENTINE_DESCRIPTION,Get up to 8 shards of a marquee character
 ID_GACHA_CRATE_FCO_VALENTINE_TOKEN_NAME,Ruby Heart Orb Fragments
 ID_GACHA_CRATE_FCO_VALENTINE_TOKEN_DESCRIPTION,Collect Ruby Heart Orb Fragments to earn a Ruby Heart Orb.
 ID_OF_NA_VALENTINE2020_01,Valentine's Day Character Bundle
@@ -3770,7 +3798,7 @@ ID_GACHA_CRATE_VENOM_DESCRIPTION,Guaranteed 50-100 Venom Shards
 ID_GACHA_CRATE_VENOM_TOKEN_NAME,Venom Limited Time Orb Fragments
 ID_GACHA_CRATE_VENOM_TOKEN_DESCRIPTION,Collect Venom Orb Fragments to earn a Venom Orb.
 ID_GACHA_CRATE_FCO_TINYWORLD_SPECIAL_NAME,Tiny World Orb
-ID_GACHA_CRATE_FCO_TINYWORLD_SPECIAL_DESCRIPTION,Win up to 75 character shards
+ID_GACHA_CRATE_FCO_TINYWORLD_SPECIAL_DESCRIPTION,Get up to 75 character shards
 ID_GACHA_CRATE_FCO_TINYWORLD_SPECIAL_TOKEN_NAME,Tiny World Orb Fragments
 ID_GACHA_CRATE_FCO_TINYWORLD_SPECIAL_TOKEN_DESCRIPTION,Collect Tiny World Orb Fragments to earn a Tiny World Orb.
 ID_OF_NA_TEAMUP_ANTMAN_WASP,Back to Tiny World Orb
@@ -3796,7 +3824,7 @@ ID_OF_DE_TEAMUP_ANTMAN_WASP_8O_50,Save on <color=#fff568>8 Tiny World Orbs</colo
 ID_OF_DE_TEAMUP_ANTMAN_WASP_9O_50,Save on <color=#fff568>9 Tiny World Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 50 shards</color>. Use Ant-Man and Wasp to help conquer Back to Tiny World!
 ID_OF_DE_TEAMUP_ANTMAN_WASP_10O_50,Save on <color=#fff568>10 Tiny World Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 50 shards</color>. Use Ant-Man and Wasp to help conquer Back to Tiny World!
 ID_GACHA_CRATE_FCO_SECRETADMIRERS_SPECIAL_NAME,Secret Admirers Orb
-ID_GACHA_CRATE_FCO_SECRETADMIRERS_SPECIAL_DESCRIPTION,Win up to 75 character shards
+ID_GACHA_CRATE_FCO_SECRETADMIRERS_SPECIAL_DESCRIPTION,Get up to 75 character shards
 ID_GACHA_CRATE_FCO_SECRETADMIRERS_SPECIAL_TOKEN_NAME,Secret Admirers Orb Fragments
 ID_GACHA_CRATE_FCO_SECRETADMIRERS_SPECIAL_TOKEN_DESCRIPTION,Collect Secret Admirers Orb Fragments to earn a Secret Admirers Orb.
 ID_OF_NA_TEAMUP_ROCKET_GROOT,Secret Admirers Orb
@@ -5660,10 +5688,6 @@ ID_OF_DE_ISO8_ENERGY_OFFER_01_VAR,Save <color=#fff568>over {var1}%</color> and a
 ID_OF_DE_ISO8_ENERGY_OFFER_02_VAR,Save <color=#fff568>over {var1}%</color> and advance in your Isotope-8 Campaigns with <color=#fff568>{var2} Iso-8 Campaign Energy</color>! Enhance your teams and take on new challenges with Iso-8 Crystals.
 ID_OF_NA_CAL_ISO8_ENERGY_OFFER_01,Iso-8 Energy Calendar
 ID_OF_DE_CAL_ISO8_ENERGY_OFFER_01_VAR,Get <color=#fff568>{var1} Iso-8 Campaign Energy</color> over {var2} days to advance in your Isotope-8 Campaigns! Log in for the next {var2} days to collect your rewards.
-ID_GACHA_CRATE_HALLOWEEN_2020_NAME,Fright Light Orb
-ID_GACHA_CRATE_HALLOWEEN_2020_DESCRIPTION,Win up to 8 shards of a marquee character
-ID_GACHA_CRATE_HALLOWEEN_2020_TOKEN_NAME,Fright Light Orb Fragments
-ID_GACHA_CRATE_HALLOWEEN_2020_TOKEN_DESCRIPTION,Collect Fright Light Orb Fragments to earn a Fright Light Orb.
 ID_GACHA_CRATE_ISO8_T1_BASIC_NAME,Basic T1 Iso-8 Orb
 ID_GACHA_CRATE_ISO8_T1_BASIC_DESCRIPTION,Contains T1 Iso-8 Crystals.
 ID_GACHA_CRATE_ISO8_T1_BASIC_TOKEN_NAME,Basic T1 Iso-8 Orb Fragments
@@ -5676,6 +5700,10 @@ ID_GACHA_CRATE_ISO8_T1_ION_CURRENCY_NAME,T1 Ion Orb
 ID_GACHA_CRATE_ISO8_T1_ION_CURRENCY_DESCRIPTION,Contains T1 Ions.
 ID_GACHA_CRATE_ISO8_T1_ION_CURRENCY_TOKEN_NAME,T1 Ion Orb Fragments
 ID_GACHA_CRATE_ISO8_T1_ION_CURRENCY_TOKEN_DESCRIPTION,Collect T1 Ion Orb Fragments to earn a T1 Ion Orb.
+ID_GACHA_CRATE_HALLOWEEN_2020_NAME,Fright Light Orb
+ID_GACHA_CRATE_HALLOWEEN_2020_DESCRIPTION,Get up to 8 shards of a marquee character
+ID_GACHA_CRATE_HALLOWEEN_2020_TOKEN_NAME,Fright Light Orb Fragments
+ID_GACHA_CRATE_HALLOWEEN_2020_TOKEN_DESCRIPTION,Collect Fright Light Orb Fragments to earn a Fright Light Orb.
 ID_OF_NA_PICK_MILESTONE_OFFER,Draft: Milestone
 ID_OF_DE_PICK_MILESTONE_OFFER_VAR,Save <color=#fff568>over {var1}%</color> with this amazing offer and get <color=#fff568>{var2} shards</color> of one of these characters. Available characters:\n<color=#fff568>Spider-Man (Symbiote) / Captain Marvel / Coulson</color>
 ID_OF_NA_LC_HAND_BUNDLE_01,Hand Team
@@ -5708,15 +5736,6 @@ ID_OF_DE_2_3_RS_DRAFT_SKILL_VAR_01,"Get <color=#fff568>{var3} individual</color>
 ID_OF_DE_2_3_RS_DRAFT_MUTANT_VAR_01,"Get <color=#fff568>{var3} individual</color> {var1} Red Star or {var2} Red Star <color=#fff568>marquee Mutant characters</color> that are available in Campaign, Supplies, Basic Orb, Premium Orb, and Mega Orb."
 ID_OF_DE_2_3_RS_DRAFT_MYSTIC_VAR_01,"Get <color=#fff568>{var3} individual</color> {var1} Red Star or {var2} Red Star <color=#fff568>marquee Mystic characters</color> that are available in Campaign, Supplies, Basic Orb, Premium Orb, and Mega Orb."
 ID_OF_DE_2_3_RS_DRAFT_TECH_VAR_01,"Get <color=#fff568>{var3} individual</color> {var1} Red Star or {var2} Red Star <color=#fff568>marquee Tech characters</color> that are available in Campaign, Supplies, Basic Orb, Premium Orb, and Mega Orb."
-ID_OF_NA_DUAL_OFFER_DA_SBC_T4_01,Catalyst or Ability Materials?
-ID_OF_DE_DUAL_OFFER_DA_SBC_T4_01,Take advantage of one of these spectacular <color=#fff568>Catalysts or T4 Ability Materials</color> deals!
-ID_OF_NA_DUAL_OFFER_DA_SC_T4_01,Gold or Ability Materials?
-ID_OF_DE_DUAL_OFFER_DA_SC_T4_01,Take advantage of one of these spectacular <color=#fff568>Gold or T4 Ability Materials</color> deals!
-ID_OF_NA_DUAL_OFFER_DA_T3_XP_01,Catalysts or Training Modules?
-ID_OF_DE_DUAL_OFFER_DA_T3_XP_01,Take advantage of one of these spectacular <color=#fff568>Catalyst Parts or L4 Training Modules</color> deals!
-ID_OF_NA_DUAL_OFFER_GENERIC_01,Pick your Deal!
-ID_OF_NA_DUAL_OFFER_GENERIC_02,Pick your Pack!
-ID_OF_NA_DUAL_OFFER_GENERIC_03,Your Pick!
 ID_OF_NA_ABM_DRAFT_GREEN_01_VAR,T1 Ability Material Draft
 ID_OF_DE_ABM_DRAFT_GREEN_01_VAR,"This super offer will give you an equal chance of getting <color=#fff568>{var1}, {var2}, or {var3} T1 Ability Materials</color>. "
 ID_OF_NA_ABM_DRAFT_BLUE_01_VAR,T2 Ability Material Draft
@@ -5739,8 +5758,8 @@ ID_OF_DE_MORB_HALLOWEEN_2020,Take advantage of this limited time deal and comple
 ID_OF_DE_HALLOWEEN_2020_RAID_VAR_01,Get back in the fight with this amazing Raid bundle to progress in the Lucid Dream Milestone! Get over <color=#fff568>{var1}% off</color> when you buy now!\n*Items ignore resource capacity
 ID_OF_DE_HALLOWEEN_2020_ORB_VAR_01,Save on <color=#fff568>{var1} Fright Light Orbs</color> with this offer! Open <color=#fff568> Fright Light Orbs</color> to progress in the Night Terrors Milestone to earn <color=#fff568>Anti-Venom shards</color>.
 ID_OF_NA_SHARD_MASKED_01,Masked Caper: Draft
-ID_OF_DE_SHARD_MASKED_01,"This amazing offer will give you an equal chance of either <color=#fff568>{var1}, {var2}, or {var3}</color> character shards for the this Masked Caper:\n<color=#fff568>Minn-Erva</color>"
-ID_OF_DE_SHARD_MASKED_02,"This amazing offer will give you an equal chance of either <color=#fff568>{var1}, {var2}, or {var3}</color> character shards for the this Masked Caper:\n<color=#fff568>Spider-Man (Miles)</color>"
+ID_OF_DE_SHARD_MASKED_01,"This amazing offer will give you an equal chance of either <color=#fff568>{var1}, {var2}, or {var3}</color> character shards for this Masked Caper: <color=#fff568>Minn-Erva</color>"
+ID_OF_DE_SHARD_MASKED_02,"This amazing offer will give you an equal chance of either <color=#fff568>{var1}, {var2}, or {var3}</color> character shards for this Masked Caper: <color=#fff568>Spider-Man (Miles)</color>"
 ID_OF_NA_345_RSDRAFT_TEAM_MASKED_01,Red Star: Masked Caper
 ID_OF_DE_345_RSDRAFT_TEAM_MASKED_01_VAR,"Get an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> promotion for one of the following characters:\n<color=#fff568>Spider-Man (Symbiote), Black Bolt, Star-Lord, Carnage, and Proxima Midnight</color>"
 ID_OF_NA_CAL_ELITE_5_OFFER_14D,Elite 5 Credits: 14 Day
@@ -5755,3 +5774,45 @@ ID_OF_NA_HALLOWEEN_ORB_DRAFT_2020_OFFER_1,Fright Light Orb: Draft
 ID_OF_NA_HALLOWEEN_MORB_DRAFT_2020_OFFER_1,Fright Light Orb Fragments: Draft
 ID_OF_DE_MORB_DRAFT_HALLOWEEN_2020,"Take advantage of this limited time deal and complete your orb! Get and equal chance of either <color=#fff568>{var1}, {var2} or {var3} Fright Light Orb Fragments</color> with this offer."
 ID_OF_DE_ORB_DRAFT_HALLOWEEN_2020,"Take advantage of this limited time deal and progress in the Night Terrors Milestone! Get and equal chance of either <color=#fff568>{var1}, {var2} or {var3} Fright Light Orbs</color> with this offer."
+ID_OF_NA_DUAL_OFFER_DA_SBC_T4_01,Catalyst or Ability Materials?
+ID_OF_DE_DUAL_OFFER_DA_SBC_T4_01,Take advantage of one of these spectacular <color=#fff568>Catalysts or T4 Ability Materials</color> deals!
+ID_OF_NA_DUAL_OFFER_DA_SC_T4_01,Gold or Ability Materials?
+ID_OF_DE_DUAL_OFFER_DA_SC_T4_01,Take advantage of one of these spectacular <color=#fff568>Gold or T4 Ability Materials</color> deals!
+ID_OF_NA_DUAL_OFFER_DA_T3_XP_01,Catalysts or Training Modules?
+ID_OF_DE_DUAL_OFFER_DA_SCATS_XP_01,Take advantage of one of these spectacular <color=#fff568>Superior Catalyst Parts or L4 Training Modules</color> deals!
+ID_OF_NA_DUAL_OFFER_GENERIC_01,Pick your Deal!
+ID_OF_NA_DUAL_OFFER_GENERIC_02,Pick your Pack!
+ID_OF_NA_DUAL_OFFER_GENERIC_03,Your Pick!
+ID_OF_DE_DUAL_OFFER_DA_XP_GOLD_ORB_01,Take advantage of one of these spectacular <color=#fff568>Gold Orb or Training Orb</color> deals!
+ID_OF_DE_DUAL_OFFER_DA_SBC_XP_01,Take advantage of one of these spectacular <color=#fff568>Advanced Catalyst Parts or L4 Training Modules</color> deals!
+ID_OF_DE_DUAL_OFFER_DA_ABC_XP_01,Take advantage of one of these spectacular <color=#fff568>Superior Catalyst Parts or L4 Training Modules</color> deals!
+ID_OF_DE_DUAL_OFFER_DA_T3_XP_01,Take advantage of one of these spectacular <color=#fff568>T3 Ability Materials or L4 Training Modules</color> deals!
+ID_OF_DE_DUAL_OFFER_DA_ACATS_XP_01,Take advantage of one of these spectacular <color=#fff568>Advanced Catalyst Parts or L4 Training Modules</color> deals!
+ID_OF_DE_DUAL_OFFER_DA_CATS_XP_01,Take advantage of one of these spectacular <color=#fff568>Catalysts or L4 Training Modules</color> deals!
+ID_OF_DE_DUAL_OFFER_DA_SC_XP_01,Take advantage of one of these spectacular <color=#fff568>Gold or L4 Training Modules</color> deals!
+ID_OF_DE_MEGAORB_6,"Open now to receive <color=#fff568>50-100 shards</color> of a marquee character, with no chance for minions! "
+ID_OF_NA_SYMBIOTE_3RS,Symbiote Red Star Offer
+ID_OF_DE_SYMBIOTE_3RS,"Get a guaranteed <color=#fff568>{var1} Red Star</color> for each of the following characters:\n<color=#fff568>Spider-Man (Symbiote), Venom, Anti-Venom, Carnage, and Scream</color>"
+ID_OF_NA_LC_WAKANDA_BUNDLE_01,Wakanda Team
+ID_OF_DE_LC_WAKANDA_BUNDLE_01_VAR,"Unlock this <color=#fff568>{var1}-Star Wakanda team</color> and take on Chaos Theory! This bundle includes <color=#fff568>{var2} shards</color> of:\n<color=#fff568>Black Panther, M'Baku, Okoye, and Killmonger</color>"
+ID_OF_NA_LC_F4_BUNDLE_01,Fantastic Four Team
+ID_OF_DE_LC_F4_BUNDLE_01_VAR,"Unlock this <color=#fff568>{var1}-Star Fantastic Four team</color> and take on Alliance War! This bundle includes <color=#fff568>{var2} shards</color> of:\n<color=#fff568>Human Torch, The Thing, Mister Fantastic, and Namor</color>"
+ID_OF_NA_3_5_RS,Red Star Draft
+ID_OF_DE_3_5_RS,"Save <color=#fff568>over 90%</color> with this spectacular offer and get an equal chance of receiving either a <color=#fff568>3, 4, or 5 Red Star</color> for this character!"
+ID_OF_NA_STATURE_FCO,Big Shoes Orb Offer
+ID_OF_DE_STATURE_FCO_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Stature</color> with this offer! Each orb has a chance to earn up to 180 shards. Rise above Dark Dimension IV with a powerful Taunt, and grant extra Health in Dark Dimension to Pym Tech allies."
+ID_OF_DE_STATURE_FCO_OFFER_VAR_O,"Save on <color=#fff568>{var1} Aspirational Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Stature shards</color>. Rise above Dark Dimension IV with a powerful Taunt, and grant extra Health in Dark Dimension to Pym Tech allies."
+ID_OF_DE_STATURE_SINGLE_FCO_OFFER_VAR_O,"Save on <color=#fff568>{var1} Big Shoes Orb</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Stature shards</color>. Rise above Dark Dimension IV with a powerful Taunt, and grant extra Health in Dark Dimension to Pym Tech allies."
+ID_OF_NA_STATURE_ABILITY_OFFER_1,Stature: Ability
+ID_OF_DE_STATURE_ABILITY_OFFER_50,Get this amazing bundle and power up Stature. Get over <color=#fff568>50%</color> off when you buy now!
+ID_OF_NA_STATURE_GEAR_OFFER_1,Stature: Gear
+ID_OF_DE_STATURE_GEAR_OFFER_50,Get this amazing bundle and gear up Stature. Get over <color=#fff568>50%</color> off when you buy now!
+ID_OF_NA_STATURE_GOLD_OFFER_1,Stature: Gold
+ID_OF_DE_STATURE_GOLD_OFFER_50,Get this amazing bundle and level up Stature. Get over <color=#fff568>50%</color> off when you buy now!
+ID_OF_NA_STATURE_TRAINING_OFFER_1,Stature: Training
+ID_OF_DE_STATURE_TRAINING_OFFER_40,Get this amazing bundle and level up Stature. Get over <color=#fff568>40%</color> off when you buy now!
+ID_OF_NA_STATURE_OFFER_1,The Towering Teen Offer
+ID_OF_DE_STATURE_OFFER_VAR_S,"Recruit a <color=#fff568>{var1}-star Stature</color> with this offer! Taunt with Defense Up & Regeneration, grant extra health in Dark Dimension, and synergize with Ant-Man."
+ID_OF_DE_STATURE_OFFER_VAR,"Get <color=#fff568>{var1} Stature shards</color> and use her to Taunt with Defense Up & Regeneration, grant extra health in Dark Dimension, and synergize with Ant-Man."
+ID_OF_NA_MYSTERIO_REDSTAR_DRAFT_OFFER_01,Red Star Draft: Mysterio
+ID_OF_DE_MYSTERIO_REDSTAR_DRAFT_OFFER_3_6,"Save <color=#fff568>over 90%</color> with this spectacular offer and get an equal chance of receiving either a <color=#fff568>3, 4, 5, or 6 Red Star</color> <color=#fff568>Mysterio</color>"

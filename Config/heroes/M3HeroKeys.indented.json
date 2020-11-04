@@ -107,6 +107,12 @@
   "Domino": {
     "basekey": "Domino"
   },
+  "Doom": {
+    "basekey": "Doom"
+  },
+  "DoomBot": {
+    "basekey": "DoomBot"
+  },
   "Drax": {
     "basekey": "Drax"
   },
@@ -130,6 +136,9 @@
   },
   "Gamora": {
     "basekey": "Gamora"
+  },
+  "Ghost": {
+    "basekey": "Ghost"
   },
   "GhostRider": {
     "basekey": "GhostRider"
@@ -488,6 +497,9 @@
   "StarLord": {
     "basekey": "StarLord"
   },
+  "Stature": {
+    "basekey": "Stature"
+  },
   "Storm": {
     "basekey": "Storm"
   },
@@ -601,6 +613,9 @@
   },
   "X23": {
     "basekey": "X23"
+  },
+  "Yellowjacket": {
+    "basekey": "Yellowjacket"
   },
   "Yondu": {
     "basekey": "Yondu"

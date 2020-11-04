@@ -206,6 +206,12 @@ ID_MOTD_NA_SCREAM_PREVIEW,Coming Soon: Scream
 ID_MOTD_DE_SCREAM_PREVIEW,This punishing parasite is on her way!
 ID_MOTD_NA_SCREAM_LIVE,LIVE: Parasitic Intentions
 ID_MOTD_DE_SCREAM_LIVE,Battle to win Scream shards!
+ID_MOTD_NA_STATURE_PREVIEW,"Coming Soon: Tiny Stature, Big Problem"
+ID_MOTD_DE_STATURE_PREVIEW,Prepare for Stature!
+ID_MOTD_NA_STATURE_LIVE,"LIVE: Tiny Stature, Big Problem"
+ID_MOTD_DE_STATURE_LIVE,Battle to earn Stature shards!
+ID_MOTD_NA_STATURE_PREHYPE,Coming Soon: Stature
+ID_MOTD_DE_STATURE_PREHYPE,The Mighty Pym Protector is on her way!
 ID_MOTD_NA_ANTMAN_WASP_TEAMUP_LIVE,LIVE: Back to Tiny World
 ID_MOTD_DE_ANTMAN_WASP_TEAMUP_LIVE,Join Ant-Man and Wasp on their adventure to tiny Earth!
 ID_MOTD_NA_ANTMAN_WASP_TEAMUP_PREVIEW,Upcoming: Back to Tiny World
@@ -375,6 +381,8 @@ ID_MOTD_NA_CABLE,Time Traveler: Now Live!
 ID_MOTD_DE_CABLE,Battle for a chance to win CABLE shards
 ID_MOTD_NA_CAPTAINAMERICA,First Avenger: Now Live!
 ID_MOTD_DE_CAPTAINAMERICA,Battle for a chance to win CAPTAIN AMERICA shards
+ID_MOTD_NA_CAPTAINMARVEL,Ace Pilot: Now Live!
+ID_MOTD_DE_CAPTAINMARVEL,Battle for a chance to win Captain Marvel shards
 ID_MOTD_NA_CARNAGE,Psychotic: Now Live!
 ID_MOTD_DE_CARNAGE,Battle for a chance to win Carnage shards
 ID_MOTD_NA_COLOSSUS,Heavy Metal: Now Live!
@@ -423,6 +431,8 @@ ID_MOTD_NA_GAMORA,Deadliest Woman: Now Live!
 ID_MOTD_DE_GAMORA,Battle for a chance to win GAMORA shards
 ID_MOTD_NA_GHOSTRIDER,Devil's Pact: Now Live!
 ID_MOTD_DE_GHOSTRIDER,Battle for a chance to win Ghost Rider shards
+ID_MOTD_NA_GHOST,Quantum Snare: Now Live!
+ID_MOTD_DE_GHOST,Battle for a chance to win Ghost shards
 ID_MOTD_NA_GRAVITON,Minister of Science: Now Live!
 ID_MOTD_DE_GRAVITON,Battle for a chance to win Graviton shards
 ID_MOTD_NA_GROOT,Gentle Giant: Now Live!
@@ -545,8 +555,8 @@ ID_MOTD_NA_SPIDERMAN,Web-Slinger: Now Live!
 ID_MOTD_DE_SPIDERMAN,Battle for a chance to win SPIDER-MAN shards
 ID_MOTD_NA_SQUIRRELGIRL,SQUIRREL!: Now Live!
 ID_MOTD_DE_SQUIRRELGIRL,Battle for a chance to win Squirrel Girl shards
-ID_MOTD_NA_STARLORD,Peter Quill: Now Live!
-ID_MOTD_DE_STARLORD,Battle for a chance to win STAR-LORD shards
+ID_MOTD_NA_STATURE,Big Shoes: Now Live!
+ID_MOTD_DE_STATURE,Battle for a chance to win Stature shards
 ID_MOTD_NA_STORM,Weather Goddess: Now Live!
 ID_MOTD_DE_STORM,Battle for a chance to win Storm shards
 ID_MOTD_NA_STRYFE,Bad Blood: Now Live!
@@ -583,6 +593,8 @@ ID_MOTD_NA_WOLVERINE,Weapon X: Now Live!
 ID_MOTD_DE_WOLVERINE,Battle for a chance to win WOLVERINE shards
 ID_MOTD_NA_X23,Target X: Now Live!
 ID_MOTD_DE_X23,Battle for a chance to win X-23 shards
+ID_MOTD_NA_YELLOWJACKET,Sharp Sting: Now Live!
+ID_MOTD_DE_YELLOWJACKET,Battle for a chance to win Yellowjacket shards
 ID_MOTD_NA_YONDU,Centaurian Hunter: Now Live!
 ID_MOTD_DE_YONDU,Battle for a chance to win YONDU shards
 ID_MOTD_NA_YOYO,Slingshot: Now Live!
@@ -621,3 +633,5 @@ ID_MOTD_NA_HALLOWEEN2020,Live: Waking Nightmare
 ID_MOTD_DE_HALLOWEEN2020,Scare up Anti-Venom shards and gear!
 ID_MOTD_NA_HALLOWEEN_POLL,Trick... Or... Treat...?
 ID_MOTD_DE_HALLOWEEN_POLL,Vote now for your Halloween community prize on our Facebook page!
+ID_MOTD_NA_DOOM_2_ANNOUNCE,Live: Doom War: Chapter 2!
+ID_MOTD_DE_DOOM_2_ANNOUNCE,Join the fight against Doctor Doom's forces!

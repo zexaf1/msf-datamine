@@ -37,9 +37,11 @@ ID_MISSION_INSANITY_01_16_NAME,Mission 16
 ID_INSANITY_NAME_01,DARK DIMENSION I
 ID_INSANITY_NAME_02,DARK DIMENSION II
 ID_INSANITY_NAME_03,DARK DIMENSION III
+ID_INSANITY_NAME_04,DARK DIMENSION IV
 ID_INSANITY_DESC_01,Enter the Darkness
 ID_INSANITY_DESC_02,Fear the Darkness
 ID_INSANITY_DESC_03,Dread the Darkness
+ID_INSANITY_DESC_04,Embrace Your Doom
 ID_MISSION_INSANITY_02_01_NAME,Mission 1 - Expected Attempts to Clear: 5
 ID_MISSION_INSANITY_02_02_NAME,Mission 2 - Expected Attempts to Clear: 8
 ID_MISSION_INSANITY_02_03_NAME,Mission 3 - Expected Attempts to Clear: 12
@@ -73,6 +75,8 @@ ID_MISSION_INSANITY_02_01_DESC,Complete the ten trials of Dark Dimension I befor
 ID_MISSION_INSANITY_02_10_DESC,"Defeat Dormammu's agent of shadows, the notorious Ultron, to survive the Dark Dimension."
 ID_MISSION_INSANITY_030_01_DESC,Complete the sixteen trials of Dark Dimension III before you can challenge Dormammu's ultimate agent of destruction.
 ID_MISSION_INSANITY_030_16_DESC,"Defeat Dormammu's ultimate agent of destruction, the notorious Ghost Rider, to escape from the Dark Dimension."
+ID_MISSION_INSANITY_040_01_DESC,Complete the fifteen trials of Dark Dimension IV before you can challenge Dormammu's ultimate agent of destruction.
+ID_MISSION_INSANITY_040_15_DESC,"Defeat Dormammu's ultimate agent of destruction, the notorious Taskmaster, to escape from the Dark Dimension."
 ID_INSANITY_TIMED_RUN_UNLOCKED,TIMED RUN UNLOCKED
 ID_INSANITY_REWARD_TITLE_GUARANTEED,GUARANTEED:
 ID_INSANITY_REWARD,{count} RANDOM ITEMS:

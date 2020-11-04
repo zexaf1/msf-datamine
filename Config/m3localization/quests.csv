@@ -30,6 +30,7 @@ ID_MILESTONE_BLITZ_DEADPOOL,Win a Blitz battle with: Deadpool
 ID_MILESTONE_BLITZ_DOCTOROCTOPUS,Win a Blitz battle with: Doctor Octopus
 ID_MILESTONE_BLITZ_DOCTORSTRANGE,Win a Blitz battle with: Doctor Strange
 ID_MILESTONE_BLITZ_DOMINO,Win a Blitz battle with: Domino
+ID_MILESTONE_BLITZ_DOOM,Win a Blitz battle with: Doctor Doom
 ID_MILESTONE_BLITZ_DRAX,Win a Blitz battle with: Drax
 ID_MILESTONE_BLITZ_EBONYMAW,Win a Blitz battle with: Ebony Maw
 ID_MILESTONE_BLITZ_ELSABLOODSTONE,Win a Blitz battle with: Elsa Bloodstone
@@ -38,6 +39,7 @@ ID_MILESTONE_BLITZ_ELEKTRA,Win a Blitz battle with: Elektra
 ID_MILESTONE_BLITZ_EMMAFROST,Win a Blitz battle with: Emma Frost
 ID_MILESTONE_BLITZ_FALCON,Win a Blitz battle with: Falcon
 ID_MILESTONE_BLITZ_GAMORA,Win a Blitz battle with: Gamora
+ID_MILESTONE_BLITZ_GHOST,Win a Blitz battle with: Ghost
 ID_MILESTONE_BLITZ_GHOSTRIDER,Win a Blitz battle with: Ghost Rider
 ID_MILESTONE_BLITZ_GRAVITON,Win a Blitz battle with: Graviton
 ID_MILESTONE_BLITZ_GROOT,Win a Blitz battle with: Groot
@@ -125,6 +127,7 @@ ID_MILESTONE_BLITZ_SIF,Win a Blitz battle with: Sif
 ID_MILESTONE_BLITZ_SPIDERMAN,Win a Blitz battle with: Spider-Man
 ID_MILESTONE_BLITZ_SQUIRRELGIRL,Win a Blitz battle with: Squirrel Girl
 ID_MILESTONE_BLITZ_STARLORD,Win a Blitz battle with: Star-Lord
+ID_MILESTONE_BLITZ_STATURE,Win a Blitz battle with: Stature
 ID_MILESTONE_BLITZ_STORM,Win a Blitz battle with: Storm
 ID_MILESTONE_BLITZ_STRYFE,Win a Blitz battle with: Stryfe
 ID_MILESTONE_BLITZ_SWARM,Win a Blitz battle with: Swarm
@@ -146,9 +149,13 @@ ID_MILESTONE_BLITZ_WASP,Win a Blitz battle with: Wasp
 ID_MILESTONE_BLITZ_WINTERSOLDIER,Win a Blitz battle with: Winter Soldier
 ID_MILESTONE_BLITZ_WOLVERINE,Win a Blitz battle with: Wolverine
 ID_MILESTONE_BLITZ_X23,Win a Blitz battle with: X-23
+ID_MILESTONE_BLITZ_YELLOWJACKET,Win a Blitz battle with: Yellowjacket
 ID_MILESTONE_BLITZ_YONDU,Win a Blitz battle with: Yondu
 ID_MILESTONE_BLITZ_YOYO,Win a Blitz battle with: Yo-Yo
 ID_MILESTONE_BLITZ_ZEMO,Win a Blitz battle with: Baron Zemo
+ID_QUEST_KNOCKOUT_GENERIC,Knock out any enemy with any character
+ID_QUEST_DAMAGE_GENERIC,Do damage with any character
+ID_QUEST_ABILITY_GENERIC,Use any ability with any character
 ID_MILESTONE_RAID_DEADPOOL,Win a Raid battle with: Deadpool
 ID_MILESTONE_RAID_DEADPOOL_GT11,Win a Raid battle with Deadpool at Gear Tier 11 or higher
 ID_MILESTONE_RAID_DOCTORSTRANGE,Win a Raid battle with: Doctor Strange

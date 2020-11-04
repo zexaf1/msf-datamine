@@ -173,6 +173,12 @@
     "GearTier": 5,
     "UnlockedByDefault": false
   },
+  "Doom": {
+    "Type": "USER",
+    "HeroID": "Doom",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
   "Drax": {
     "Type": "USER",
     "HeroID": "Drax",
@@ -218,6 +224,12 @@
   "Gamora": {
     "Type": "USER",
     "HeroID": "Gamora",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Ghost": {
+    "Type": "USER",
+    "HeroID": "Ghost",
     "GearTier": 5,
     "UnlockedByDefault": false
   },
@@ -683,6 +695,12 @@
     "GearTier": 5,
     "UnlockedByDefault": false
   },
+  "Stature": {
+    "Type": "USER",
+    "HeroID": "Stature",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
   "StarLord": {
     "Type": "USER",
     "HeroID": "StarLord",
@@ -806,6 +824,12 @@
   "X23": {
     "Type": "USER",
     "HeroID": "X23",
+    "GearTier": 5,
+    "UnlockedByDefault": false
+  },
+  "Yellowjacket": {
+    "Type": "USER",
+    "HeroID": "Yellowjacket",
     "GearTier": 5,
     "UnlockedByDefault": false
   },

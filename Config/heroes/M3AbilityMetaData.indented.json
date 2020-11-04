@@ -1047,6 +1047,58 @@
       "iconOverride": ""
     }
   ],
+  "Doom": [
+    {
+      "heroID": "Doom",
+      "abilityID": "Basic",
+      "progressionID": 1,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "Doom",
+      "abilityID": "Special",
+      "progressionID": 2,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "Doom",
+      "abilityID": "Ultimate",
+      "progressionID": 3,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "Doom",
+      "abilityID": "Passive",
+      "progressionID": 4,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    }
+  ],
+  "DoomBot": [
+    {
+      "heroID": "DoomBot",
+      "abilityID": "Basic",
+      "progressionID": 1,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "DoomBot",
+      "abilityID": "Passive",
+      "progressionID": 4,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    }
+  ],
   "Drax": [
     {
       "heroID": "Drax",
@@ -1312,6 +1364,40 @@
     },
     {
       "heroID": "Gamora",
+      "abilityID": "Passive",
+      "progressionID": 4,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    }
+  ],
+  "Ghost": [
+    {
+      "heroID": "Ghost",
+      "abilityID": "Basic",
+      "progressionID": 1,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "Ghost",
+      "abilityID": "Special",
+      "progressionID": 2,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "Ghost",
+      "abilityID": "Ultimate",
+      "progressionID": 3,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "Ghost",
       "abilityID": "Passive",
       "progressionID": 4,
       "startingEnergy": 0,
@@ -3663,6 +3749,40 @@
       "iconOverride": ""
     }
   ],
+  "RedGuardian": [
+    {
+      "heroID": "RedGuardian",
+      "abilityID": "Basic",
+      "progressionID": 1,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "RedGuardian",
+      "abilityID": "Special",
+      "progressionID": 2,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "RedGuardian",
+      "abilityID": "Ultimate",
+      "progressionID": 3,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "RedGuardian",
+      "abilityID": "Passive",
+      "progressionID": 4,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    }
+  ],
   "RedSkull": [
     {
       "heroID": "RedSkull",
@@ -4366,6 +4486,40 @@
     },
     {
       "heroID": "StarLord",
+      "abilityID": "Passive",
+      "progressionID": 4,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    }
+  ],
+  "Stature": [
+    {
+      "heroID": "Stature",
+      "abilityID": "Basic",
+      "progressionID": 1,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "Stature",
+      "abilityID": "Special",
+      "progressionID": 2,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "Stature",
+      "abilityID": "Ultimate",
+      "progressionID": 3,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "Stature",
       "abilityID": "Passive",
       "progressionID": 4,
       "startingEnergy": 0,
@@ -5294,6 +5448,74 @@
     },
     {
       "heroID": "X23",
+      "abilityID": "Passive",
+      "progressionID": 4,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    }
+  ],
+  "Yelena": [
+    {
+      "heroID": "Yelena",
+      "abilityID": "Basic",
+      "progressionID": 1,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "Yelena",
+      "abilityID": "Special",
+      "progressionID": 2,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "Yelena",
+      "abilityID": "Ultimate",
+      "progressionID": 3,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "Yelena",
+      "abilityID": "Passive",
+      "progressionID": 4,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    }
+  ],
+  "Yellowjacket": [
+    {
+      "heroID": "Yellowjacket",
+      "abilityID": "Basic",
+      "progressionID": 1,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "Yellowjacket",
+      "abilityID": "Special",
+      "progressionID": 2,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "Yellowjacket",
+      "abilityID": "Ultimate",
+      "progressionID": 3,
+      "startingEnergy": 0,
+      "abilityAITemplate": "Default",
+      "iconOverride": ""
+    },
+    {
+      "heroID": "Yellowjacket",
       "abilityID": "Passive",
       "progressionID": 4,
       "startingEnergy": 0,

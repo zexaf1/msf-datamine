@@ -305,7 +305,7 @@
     "picture": "Portrait_DarkPhoenix",
     "player_Character": false,
     "hero_Size": "Medium",
-    "blacklist_mode": 2
+    "blacklist_mode": 1
   },
   "Deadpool": {
     "id": "Deadpool",
@@ -350,6 +350,28 @@
     "player_Character": true,
     "hero_Size": "Medium",
     "blacklist_mode": 0
+  },
+  "Doom": {
+    "id": "Doom",
+    "basekey": "Doom",
+    "unlock_StarLevel": 5,
+    "hero_stat_template_id": "Doom",
+    "hero_gear_tier_data_id": "Doom",
+    "picture": "Portrait_Doom",
+    "player_Character": true,
+    "hero_Size": "Medium",
+    "blacklist_mode": 0
+  },
+  "DoomBot": {
+    "id": "DoomBot",
+    "basekey": "DoomBot",
+    "unlock_StarLevel": 7,
+    "hero_stat_template_id": "Doom",
+    "hero_gear_tier_data_id": "Doom",
+    "picture": "Portrait_Doom",
+    "player_Character": false,
+    "hero_Size": "Medium",
+    "blacklist_mode": 1
   },
   "Drax": {
     "id": "Drax",
@@ -424,6 +446,17 @@
     "hero_stat_template_id": "Falcon",
     "hero_gear_tier_data_id": "Falcon",
     "picture": "Portrait_Falcon",
+    "player_Character": true,
+    "hero_Size": "Medium",
+    "blacklist_mode": 0
+  },
+  "Ghost": {
+    "id": "Ghost",
+    "basekey": "Ghost",
+    "unlock_StarLevel": 3,
+    "hero_stat_template_id": "Ghost",
+    "hero_gear_tier_data_id": "Ghost",
+    "picture": "Portrait_Ghost",
     "player_Character": true,
     "hero_Size": "Medium",
     "blacklist_mode": 0
@@ -1517,6 +1550,17 @@
     "hero_Size": "Medium",
     "blacklist_mode": 0
   },
+  "Stature": {
+    "id": "Stature",
+    "basekey": "Stature",
+    "unlock_StarLevel": 2,
+    "hero_stat_template_id": "Stature",
+    "hero_gear_tier_data_id": "Stature",
+    "picture": "Portrait_Stature",
+    "player_Character": true,
+    "hero_Size": "Medium",
+    "blacklist_mode": 0
+  },
   "Storm": {
     "id": "Storm",
     "basekey": "Storm",
@@ -1744,6 +1788,17 @@
     "hero_stat_template_id": "X23",
     "hero_gear_tier_data_id": "X23",
     "picture": "Portrait_X23",
+    "player_Character": true,
+    "hero_Size": "Medium",
+    "blacklist_mode": 0
+  },
+  "Yellowjacket": {
+    "id": "Yellowjacket",
+    "basekey": "Yellowjacket",
+    "unlock_StarLevel": 2,
+    "hero_stat_template_id": "Yellowjacket",
+    "hero_gear_tier_data_id": "Yellowjacket",
+    "picture": "Portrait_Yellowjacket",
     "player_Character": true,
     "hero_Size": "Medium",
     "blacklist_mode": 0

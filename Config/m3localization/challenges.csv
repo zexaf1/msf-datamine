@@ -235,7 +235,7 @@ ID_LE_BLACKBOLT_EN_SU,The Unite The Kingdoms Event has ended.
 ID_LE_BLACKBOLT_EN_BO,The Unite The Kingdoms Event is now over.
 ID_INFO_NA_4ASGARD,4 Asgard!
 ID_INFO_DE_4ASGARD,2x Asgardian shards
-ID_INFO_BO_4ASGARD,The number of Asgardian shards rewarded for completing Campaign nodes has doubled from 2 to 4. You can get these extra shards from the following Campaign mission:\n\nMystic 3-6 : Loki\nVillains 7-6 : Hela
+ID_INFO_BO_4ASGARD,"The number of Asgardian shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Unite the Kingdoms Legendary Event.\n\nPlease filter your roster using the trait ""Asgardian"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
 ID_LE_DOCTOROCTOPUS_NAME,Surgical S.T.R.I.K.E.
 ID_LE_DOCTOROCTOPUS_DESC,"Forced underground by the forces of Doom, S.T.R.I.K.E. sends their covert X-Force team to aid an unlikely ally - Doctor Otto Octavius!"
 ID_LE_DOCTOROCTOPUS_CHANCE,Earn Doctor Octopus shards
@@ -246,7 +246,7 @@ ID_LE_DOCTOROCTOPUS_EN_SU,The Surgical S.T.R.I.K.E. Event has ended.
 ID_LE_DOCTOROCTOPUS_EN_BO,The Surgical S.T.R.I.K.E. Event is now over.
 ID_INFO_NA_FULLFORCE,Full Force
 ID_INFO_DE_FULLFORCE,2x X-Force Shards
-ID_INFO_BO_FULLFORCE,"For 24 hours, the number of X-Force character shards rewarded in Campaigns will double from 2 to 4 in the following nodes:\n\nCable: Mystic 1-9\nNegasonic Teenage Warhead: Doom 1-9"
+ID_INFO_BO_FULLFORCE,"For 24 hours, the number of X-Force character shards rewarded in Campaigns will double from 2 to 4. These characters will help you with the upcoming Surgical S.T.R.I.K.E. Legendary Event.\n\nPlease filter your roster using the trait ""X-Force"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
 ID_LE_EBONYMAW_NAME,Black & Ebony
 ID_LE_EBONYMAW_DESC,"Surrounded by enemies and under attack, the Inhumans are forced to work with Ebony Maw to find a tool to defeat Doctor Doom - three of the Infinity Stones!"
 ID_LE_EBONYMAW_CHANCE,Earn Ebony Maw shards
@@ -257,7 +257,7 @@ ID_LE_EBONYMAW_EN_SU,The Black & Ebony Event has ended.
 ID_LE_EBONYMAW_EN_BO,The Black & Ebony Event is now over.
 ID_INFO_NA_TERRIGENSTORM,Terrigen Storm
 ID_INFO_DE_TERRIGENSTORM,2x Inhuman shards
-ID_INFO_BO_TERRIGENSTORM,The number of Inhuman shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Unite the Kingdoms Legendary Event. You can get these extra shards from the following Campaign missions:\n\nHeroes 6-6 : Quake\nNexus 8-6 : Karnak\nMystic 2-6 : Ms. Marvel
+ID_INFO_BO_TERRIGENSTORM,"The number of Inhuman shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Black & Ebony Legendary Event.\n\nPlease filter your roster using the trait ""Inhuman"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
 ID_LE_INVISIBLEWOMAN_NAME,Now You See Me
 ID_LE_INVISIBLEWOMAN_DESC,Invisible Woman must lead a team of Sinister Six to a dimension where a corrupted Spider-Man controls tech that threatens our reality.
 ID_LE_INVISIBLEWOMAN_CHANCE,Earn Invisible Woman shards
@@ -268,7 +268,7 @@ ID_LE_INVISIBLEWOMAN_EN_SU,The Now You See Me Event has ended.
 ID_LE_INVISIBLEWOMAN_EN_BO,The event is now over.
 ID_INFO_NA_DOUBLETROUBLE,Double Trouble
 ID_INFO_DE_DOUBLETROUBLE,2x Sinister Six shards
-ID_INFO_BO_DOUBLETROUBLE,The number of Sinister Six shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Now You See Me Legendary Event. You can get these extra shards from the following Campaign missions:\n\nHeroes 2-3 : Mysterio\nHeroes 3-9 : Shocker\nVillains 2-3 : Green Goblin\nNexus 5-6 : Green Goblin\nCosmic 1-9: Shocker
+ID_INFO_BO_DOUBLETROUBLE,"The number of Sinister Six shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Now You See Me Legendary Event.\n\nPlease filter your roster using the trait ""Sinister Six"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
 ID_LE_JEANGREY_NAME,Phoenix Rising
 ID_LE_JEANGREY_DESC,"When a shard of the Phoenix Force becomes trapped in an alternate dimension, Phoenix rallies Mordo and other Mystic members of S.T.R.I.K.E. to retrieve it and set in motion a plan to imprison Ultimus for good."
 ID_LE_JEANGREY_CHANCE,Earn Phoenix Shards
@@ -279,7 +279,7 @@ ID_LE_JEANGREY_EN_SU,The Phoenix Rising Event has ended.
 ID_LE_JEANGREY_EN_BO,The event is now over.
 ID_INFO_MALICIOUSMANIPULATORS_NA,Malicious Manipulators
 ID_INFO_MALICIOUSMANIPULATORS_DE,2x shards for event characters
-ID_INFO_MALICIOUSMANIPULATORS_BO,"The number of Villain, Mystic, Controller character shards rewarded for completing Campaign nodes has doubled from 2 to 4. You can get these extra shards from the following Campaign missions:\n\nVillains 6-3: Nobu\nVillains 7-6: Hela\nNexus 7-6: Hand Assassin\nMystic 3-6: Loki"
+ID_INFO_MALICIOUSMANIPULATORS_BO,"The number of Villain, Mystic, Controller character shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Phoenix Rising Legendary Event.\n\nPlease filter your roster using the traits ""Villain,"" ""Mystic,"" and ""Controller"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
 ID_LE_MAGNETO_NAME,Asteroid M
 ID_LE_MAGNETO_DESC,"After discovering Asteroid M has gone missing, Magneto reluctantly approaches Storm seeking aid. S.T.R.I.K.E.'s X-Men and the Brotherhood must find and recover the base before Ultimus can get his hands on it."
 ID_LE_MAGNETO_CHANCE,Earn Magneto Shards
@@ -290,7 +290,7 @@ ID_LE_MAGNETO_EN_SU,The Asteroid M Event has ended.
 ID_LE_MAGNETO_EN_BO,The event is now over.
 ID_INFO_NA_BROMEN,Gifted Gathering
 ID_INFO_DE_BROMEN,2x X-Men and Brotherhood shards
-ID_INFO_BO_BROMEN,The number of X-Men and Brotherhood shards rewarded for completing Campaign nodes has doubled from 2 to 4. You can get these extra shards from the following Campaign missions:\n\nHeroes 7-9 : Colossus\nVillains 5-6 : Mystique\nMystic 2-3 : Storm\nCosmic 3-6 : Psylocke
+ID_INFO_BO_BROMEN,"The number of X-Men and Brotherhood shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Asteroid M Legendary Event.\n\nPlease filter your roster using the trait ""X-Men"" or ""Brotherhood"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
 ID_LE_NICKFURY_NAME,Chasing Fury
 ID_LE_NICKFURY_DESC,"After agreeing to help the Free Kree resurrect the Supreme Intelligence, Nick Fury has gone missing. The Free Kree must save him in order to finish the work he started."
 ID_LE_NICKFURY_CHANCE,Earn Nick Fury Shards
@@ -301,7 +301,7 @@ ID_LE_NICKFURY_EN_SU,The Chasing Fury Event has ended.
 ID_LE_NICKFURY_EN_BO,The event is now over.
 ID_INFO_NA_KREEFORALL,Kree For All
 ID_INFO_DE_KREEFORALL,2x Kree minion shards
-ID_INFO_BO_KREEFORALL,The number of Kree minion shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the Chasing Fury Legendary Event. You can get these extra shards from the following Campaign missions:\n\nHeroes 5-6 : Kree Reaper\nNexus 3-6 : Kree Cyborg\nCosmic 1-6 : Kree Noble\nCosmic 2-3 : Kree Cyborg\nCosmic 2-6 : Kree Reaper
+ID_INFO_BO_KREEFORALL,"The number of Kree minion shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the Chasing Fury Legendary Event.\n\nPlease filter your roster using the traits ""Kree"" and ""minion"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
 ID_LE_SHURI_NAME,Princess and the Symbiote
 ID_LE_SHURI_DESC,"Ultimus has converted the Carnage Symbiote into a dangerous super-soldier serum for his army. With the aid of Spider-Man, Shuri and her fellow Wakandans must find a way to rid Ultimus of this new weapon."
 ID_LE_SHURI_CHANCE,Earn Shuri Shards
@@ -312,7 +312,7 @@ ID_LE_SHURI_EN_SU,The Princess and the Symbiote Event has ended.
 ID_LE_SHURI_EN_BO,The event is now over.
 ID_INFO_TANGLEDWEB_NA,Tangled Web
 ID_INFO_TANGLEDWEB_DE,2x Spider-Verse shards
-ID_INFO_TANGLEDWEB_BO,The number of Spider-Verse character shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Princess and the Symbiote Legendary Event. You can get these extra shards from the following Campaign missions:\n\nHeroes 2-3 : Mysterio\nHeroes 3-9 : Shocker\nVillains 2-3 : Green Goblin\nNexus 5-6 : Green Goblin\nNexus 6-9: Venom\nCosmic 1-9: Shocker
+ID_INFO_TANGLEDWEB_BO,"The number of Spider-Verse character shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Princess and the Symbiote Legendary Event.\n\nPlease filter your roster using the trait ""Spider-Verse"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
 ID_LE_STARLORD_NAME,Space Ace
 ID_LE_STARLORD_DESC,Nick Fury seeks aid from Star-Lord to stop corrupted Kree forces from utilizing a hybrid Odium serum that will create an unstoppable Super-Soldier army.
 ID_LE_STARLORD_CHANCE,Earn Star-Lord Shards
@@ -323,7 +323,7 @@ ID_LE_STARLORD_EN_SU,The Space Ace Event has ended.
 ID_LE_STARLORD_EN_BO,The event is now over.
 ID_INFO_GOINGKNOWHERE_NA,Going Knowhere
 ID_INFO_GOINGKNOWHERE_DE,2x Guardian and Ravager shards
-ID_INFO_GOINGKNOWHERE_BO,The number of Guardian and Ravager character shards rewarded for completing Campaign nodes will double from 2 to 4. These characters will help you with the upcoming Space Ace Legendary Event. You can get these extra shards from the following Campaign missions:\n\nHeroes 2-6 : Yondu\nHeroes 4-6 : Ravager Bruiser\nNexus 2-9 : Groot
+ID_INFO_GOINGKNOWHERE_BO,"The number of Guardian and Ravager character shards rewarded for completing Campaign nodes will double from 2 to 4. These characters will help you with the upcoming Space Ace Legendary Event.\n\nPlease filter your roster using the trait ""Guardian"" or ""Ravager"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
 ID_ECM_NAME_A,Hard
 ID_ECM_NAME_B,Medium
 ID_ECM_NAME_C,Easy
@@ -505,6 +505,15 @@ ID_ECM_SCREAM_DESC_C,Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Abilit
 ID_ECM_SCREAM_MB,Help Scream as she joins forces with Doctor Doom to find help with controlling her Symbiote and her mind.
 ID_ECM_SCREAM_MC,GO!
 ID_ECM_SCREAM_MT,The Parasitic Intentions event has started!
+ID_ECM_STATURE_NAME,"Tiny Stature, Big Problem"
+ID_ECM_STATURE_DESC,Join Stature on a not-so-little adventure through the Quantum Realm as she proves that she isn't just Ant-Man's daughter.
+ID_ECM_CHANCE_STATURE,Earn Stature shards
+ID_ECM_STATURE_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nJoin Stature on a not-so-little adventure through the Quantum Realm as she proves that she isn't just Ant-Man's daughter, but also a hero."
+ID_ECM_STATURE_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nJoin Stature on a not-so-little adventure through the Quantum Realm as she proves that she isn't just Ant-Man's daughter, but also a hero."
+ID_ECM_STATURE_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nJoin Stature on a not-so-little adventure through the Quantum Realm as she proves that she isn't just Ant-Man's daughter, but also a hero."
+ID_ECM_STATURE_MB,"Join Stature on a not-so-little adventure through the Quantum Realm as she proves that she isn't just Ant-Man's daughter, but also a hero."
+ID_ECM_STATURE_MC,GO!
+ID_ECM_STATURE_MT,"The Tiny Stature, Big Problem event has started!"
 ID_ECM_SIX_NAME,Sinister S.T.R.I.K.E.
 ID_ECM_SIX_DESC,"Working with S.T.R.I.K.E., Norman Osborn recruits members of the Sinister Six to recapture a corrupted Kingpin who's turning Manhattan into his personal playground."
 ID_ECM_CHANCE_SIX,Earn Rhino character shards
@@ -642,7 +651,7 @@ ID_FL_CITY_HERO_EN_SU,The Block Party Event has ended.
 ID_FL_CITY_HERO_EN_BO,The event is now over.
 ID_INFO_NA_NEIGHBORHOOD,Neighborhood Watch
 ID_INFO_DE_NEIGHBORHOOD,2x City Hero shards
-ID_INFO_BO_NEIGHBORHOOD,The number of City Hero shards rewarded from Campaign nodes has doubled from 2 to 4. You can get these extra shards from the following Campaign missions:\n\nHeroes 1-6 : Punisher\nHeroes 3-3 : Luke Cage\nHeroes 5-9 : Night Nurse\nNexus 1-9 : Iron Fist\nVillains 2-9 : Jessica Jones\nVillains 3-9 : Night Nurse\nCosmic 3-9 : Ghost Rider\nMystic 2-6 : Ms. Marvel
+ID_INFO_BO_NEIGHBORHOOD,"The number of City Hero shards rewarded from Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Block Party Flash Event.\n\nPlease filter your roster using the traits ""City"" and ""Hero"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
 ID_FL_HAND_NAME,Relic Hunt
 ID_FL_HAND_DESC,Nobu and his best warriors must secure seven broken pieces of an ancient Hand sword from corrupted forces.
 ID_FL_HAND_MT,The Relic Hunt event has begun!
@@ -653,7 +662,7 @@ ID_FL_HAND_EN_SU,The Relic Hunt Event has ended.
 ID_FL_HAND_EN_BO,The event is now over.
 ID_INFO_NEEDAHAND_NA,Need A Hand?
 ID_INFO_NEEDAHAND_DE,2x Hand shards
-ID_INFO_NEEDAHAND_BO,The number of Hand character shards rewarded from Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Relic Hunt flash event. You can get these extra shards from the following Campaign missions:\n\nHeroes 2-9 : Hand Sorceress\nVillains 1-3: Elektra\nVillains 3-6 : Hand Blademaster\nVillains 6-3 : Nobu\nNexus 3-3 : Hand Sorceress\nNexus 7-6 : Hand Assassin\nMystic 1-6 : Hand Sentry
+ID_INFO_NEEDAHAND_BO,"The number of Hand character shards rewarded from Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Relic Hunt Flash Event.\n\nPlease filter your roster using the trait ""Hand"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
 ID_FL_MERC_NAME,Payday
 ID_FL_MERC_DESC,Recruit a team of your best mercenaries to score a payload of GOLD.
 ID_FL_MERC_CHANCE,Earn a ton of Gold
@@ -665,7 +674,7 @@ ID_FL_MERC_EN_SU,The Payday Event has ended.
 ID_FL_MERC_EN_BO,The event is now over.
 ID_INFO_MERCMAYHEM_NA,Merc Mayhem
 ID_INFO_MERCMAYHEM_DE,2x Mercenary shards
-ID_INFO_MERCMAYHEM_BO,The number of Mercenary shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Payday flash event. You can get these extra shards from the following Campaign missions:\n\nHeroes 4-9 : Bullseye\nVillains 3-3 : Mercenary Lieutenant\nVillains 5-9 : Korath the Pursuer\nNexus 4-6 : Mercenary Sniper
+ID_INFO_MERCMAYHEM_BO,"The number of Mercenary shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Payday Flash Event.\n\nPlease filter your roster using the trait ""Mercenary"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
 ID_FL_WAKANDAN_NAME,Chaos Theory
 ID_FL_WAKANDAN_DESC,Nick Fury dispatches the Wakandans to find a way back to Nexus Earth.
 ID_FL_WAKANDAN_MT,The Chaos Theory event has begun!
@@ -677,16 +686,16 @@ ID_FL_WAKANDAN_EN_SU,The Chaos Theory Event has ended.
 ID_FL_WAKANDAN_EN_BO,The event is now over.
 ID_BONUS_WAKANDANATION_NA,Wakanda Nation
 ID_BONUS_WAKANDANATION_DE,2x Wakandan shards
-ID_BONUS_WAKANDANATION_BO,The number of Wakandan shards rewarded for completing Campaign nodes has doubled from 2 to 4. You can get these extra shards from the following Campaign mission:\n\nNexus 6-3: Okoye\nNexus 4-9: Black Panther
+ID_BONUS_WAKANDANATION_BO,"The number of Wakandan shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Chaos Theory Flash Event.\n\nPlease filter your roster using the trait ""Wakandan"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
 ID_INFO_NA_BADSCIENCE,Bad Science
 ID_INFO_DE_BADSCIENCE,2x A.I.M. shards
-ID_INFO_BO_BADSCIENCE,The number of <color=#fff568>A.I.M.</color> character shards rewarded from Campaign nodes have doubled from 2 to 4. You can get these extra shards from the following Campaign missions:\n\nHeroes 5-3 : A.I.M. Assaulter\nVillains 5-3 : A.I.M. Security\nCosmic 2-9 : Scientist Supreme
+ID_INFO_BO_BADSCIENCE,"The number of <color=#fff568>A.I.M.</color> character shards rewarded from Campaign nodes have doubled from 2 to 4.\n\nPlease filter your roster using the trait ""A.I.M."" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
 ID_INFO_CALLINGAGENTS_NA,Calling All Agents
 ID_INFO_CALLINGAGENTS_DE,2x S.H.I.E.L.D. shards
-ID_INFO_CALLINGAGENTS_BO,"The number of S.H.I.E.L.D. character shards rewarded for completing Campaign nodes has doubled from 2 to 4. You can get these extra shards from the following Campaign missions:\n\nHeroes 2-3 : S.H.I.E.L.D. Medic\nHeroes 3-6 : S.H.I.E.L.D. Security\nHeroes 4-3 : S.H.I.E.L.D. Operative\nHeroes 6-6 : Hawkeye\nHeroes 6-9 : Captain America\nHeroes 7-3 : Black Widow\nVillains 1-6 : S.H.I.E.L.D. Medic\nVillains 1-9 : Hawkeye\nVillains 4-3 : S.H.I.E.L.D. Trooper\nNexus 1-3 : Captain America\nNexus 2-3 : S.H.I.E.L.D. Assault\n\nGive your Collection Power a boost with these bonus drops!\n\nGood luck, Commander!"
+ID_INFO_CALLINGAGENTS_BO,"The number of S.H.I.E.L.D. character shards rewarded for completing Campaign nodes has doubled from 2 to 4.\n\nPlease filter your roster using the trait ""S.H.I.E.L.D."" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
 ID_INFO_IM_CALLINGAGENTS_NA,Calling All Agents
 ID_INFO_IM_CALLINGAGENTS_DE,2x S.H.I.E.L.D. shards
-ID_INFO_IM_CALLINGAGENTS_BO,"The number of S.H.I.E.L.D. character shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the I am Iron Man legendary event. You can get these extra shards from the following Campaign missions:\n\nHeroes 1-9 : Hawkeye\nHeroes 3-6 : Captain America\nHeroes 4-3 : S.H.I.E.L.D. Operative\nHeroes 6-6 : Quake\nHeroes 7-3 : Black Widow\nVillains 1-6 : S.H.I.E.L.D. Medic\nVillains 1-9 : Black Widow\nVillains 4-3 : S.H.I.E.L.D. Trooper\nNexus 1-3 : Captain America\nNexus 2-3 : S.H.I.E.L.D. Assault\n\nGive your Collection Power a boost with these bonus drops!\n\nGood luck, Commander!"
+ID_INFO_IM_CALLINGAGENTS_BO,"The number of S.H.I.E.L.D. character shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the I am Iron Man Legendary Event.\n\nPlease filter your roster using the trait ""S.H.I.E.L.D."" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
 ID_INFO_ALLIANCEDONATION_NA,War Effort
 ID_INFO_ALLIANCEDONATION_DE,Additional Alliance Donation Rewards
 ID_INFO_ALLIANCEDONATION_BO,"War Energy Refills, War Defense Boosts, and additional Gold have been added to the Alliance Donation Milestone Rewards. Donate to increase your Alliance level and receive the new rewards!"
@@ -725,13 +734,30 @@ ID_INFO_DE_VS_BATTLE_MATCHMAKING_CLASSIC,Classic Draft
 ID_INFO_DE_VS_BATTLE_MATCHMAKING_BALANCED,Balanced Draft
 ID_INFO_DE_VS_BATTLE_MATCHMAKING_QUICKMATCH,Quick Match
 ID_INFO_DE_VS_BATTLE_MATCHMAKING_QUICKPICK,Quick Match
+ID_INFO_DE_VS_BATTLE_MATCHMAKING_QUICKDRAFT,Quick Draft
 ID_INFO_BO_VS_BATTLE_MATCHMAKING,Test your skills with the new <color=#fff568>Matchmaking for VS Battle</color>! Get automatically connected to an opponent and start fighting now!
 ID_INFO_BO_VS_BATTLE_MATCHMAKING_CLASSIC,Test your skills with <color=#fff568>Matchmaking for VS Battle</color>! Get automatically connected to an opponent and start fighting now!\n\n<color=#fff568>Featured Mode</color>\n- <color=#fff568>Classic Draft</color>: Uses character power from your actual roster
 ID_INFO_BO_VS_BATTLE_MATCHMAKING_BALANCED,Test your skills with <color=#fff568>Matchmaking for VS Battle</color>! Get automatically connected to an opponent and start fighting now!\n\n<color=#fff568>Featured Mode</color>\n- <color=#fff568>Balanced Draft</color>: Provides characters on both sides with equal power levels in combat. Any character at or above <color=#fff568>Gear Tier 9</color> will have their power modified to:\nLevel: <color=#fff568>75</color>\nGear Tier: <color=#fff568>13</color>\nYellow Stars: <color=#fff568>7</color>\nRed Stars: <color=#fff568>0</color>\nAbility Levels: <color=#fff568>7 / 7 / 7 / 5</color>
 ID_INFO_BO_VS_BATTLE_MATCHMAKING_QUICKPICK,Test your skills with <color=#fff568>Matchmaking for VS Battle</color>! Get automatically connected to an opponent and start fighting now!\n\n<color=#fff568>Featured Mode</color>\n- <color=#fff568>Quick Match</color>: Select up to 5 characters and search to match up against another player in real time!
+ID_INFO_BO_VS_BATTLE_MATCHMAKING_QUICKDRAFT,Test your skills with <color=#fff568>Matchmaking for VS Battle</color>! Get automatically connected to an opponent and start fighting now!\n\n<color=#fff568>Featured Mode</color>\n- <color=#fff568>Quick Draft</color>: Select up to 5 characters and ban 1 character from your opponent's draft!
+ID_INFO_DE_VS_BATTLE_MATCHMAKING_CLASSIC_RESTRICTED,Restricted Classic Draft
+ID_INFO_DE_VS_BATTLE_MATCHMAKING_BALANCED_RESTRICTED,Restricted Balanced Draft
+ID_INFO_DE_VS_BATTLE_MATCHMAKING_QUICKMATCH_RESTRICTED,Restricted Quick Match
+ID_INFO_DE_VS_BATTLE_MATCHMAKING_QUICKDRAFT_RESTRICTED,Restricted Quick Draft
+ID_INFO_BO_VS_BATTLE_MATCHMAKING_CLASSIC_RESTRICTED,Test your skills with <color=#fff568>Matchmaking for VS Battle</color>! Get automatically connected to an opponent and start fighting now!\n\n<color=#fff568>Featured Mode</color>\n- <color=#fff568>Restricted Classic Draft</color>: Uses character power from your actual roster.\n\nExcludes characters with the <color=#fff568>Legendary</color> trait.
+ID_INFO_BO_VS_BATTLE_MATCHMAKING_BALANCED_RESTRICTED,Test your skills with <color=#fff568>Matchmaking for VS Battle</color>! Get automatically connected to an opponent and start fighting now!\n\n<color=#fff568>Featured Mode</color>\n- <color=#fff568>Balanced Draft</color>: Provides characters on both sides with equal power levels in combat. Any character at or above <color=#fff568>Gear Tier 9</color> will have their power modified to:\nLevel: <color=#fff568>75</color>\nGear Tier: <color=#fff568>13</color>\nYellow Stars: <color=#fff568>7</color>\nRed Stars: <color=#fff568>0</color>\nAbility Levels: <color=#fff568>7 / 7 / 7 / 5</color>\n\nExcludes characters with the <color=#fff568>Legendary</color> trait.
+ID_INFO_BO_VS_BATTLE_MATCHMAKING_QUICKMATCH_RESTRICTED,Test your skills with <color=#fff568>Matchmaking for VS Battle</color>! Get automatically connected to an opponent and start fighting now!\n\n<color=#fff568>Featured Mode</color>\n- <color=#fff568>Quick Match</color>: Select up to 5 characters and search to match up against another player in real time!\n\nExcludes characters with the <color=#fff568>Legendary</color> trait.
+ID_INFO_BO_VS_BATTLE_MATCHMAKING_QUICKDRAFT_RESTRICTED,Test your skills with <color=#fff568>Matchmaking for VS Battle</color>! Get automatically connected to an opponent and start fighting now!\n\n<color=#fff568>Featured Mode</color>\n- <color=#fff568>Quick Draft</color>: Select up to 5 characters and ban 1 character from your opponent's draft!\n\nExcludes characters with the <color=#fff568>Legendary</color> trait.
 ID_INFO_NA_ORB_AVALANCHE_MILESTONE,Orb Avalanche
 ID_INFO_DE_ORB_AVALANCHE_MILESTONE,Open Orbs for Rewards!
 ID_INFO_BO_ORB_AVALANCHE_MILESTONE,Open any of the following orbs to score points and earn various rewards:\n- Basic Orb\n- Blue Gear Raid Orb\n- Purple Gear Raid Orb\n- Ability Orb\n- Training Orb\n- Blitz Orb\n- Premium Orb\n- Red Star Orb\n- Raid Orb\n- Kingpin's Vault\n- Orange Gear Raid Orb\n- Gold Orb\n- Ultimus Orb\n- Mega Orb\n- Legacy I Orb
+ID_EVENT_DOOM_SHOWCASE_NAME,The Might of Doom
+ID_EVENT_DOOM_SHOWCASE_DESC,"Capitalizing on the defeat of Ultimus, Doom seeks to crush the mightiest allies of Ultimus.\n\nDoom has deemed Commanders level 40 and higher worthy of these missions."
+ID_EVENT_CHANCE_DOOM_SHOWCASE,Feel the Might of Doom
+ID_EVENT_DOOM_SHOWCASE_MB,"Capitalizing on the defeat of Ultimus, Doom seeks to crush the mightiest allies of Ultimus."
+ID_EVENT_DOOM_SHOWCASE_MC,GO!
+ID_EVENT_DOOM_SHOWCASE_MT,The Might of Doom Event has started!
+ID_EVENT_DOOM_SHOWCASE_MS,Play as Doctor Doom
 ID_EVENT_DEADPOOL_NAME,Merc with a Mouth
 ID_EVENT_DEADPOOL_DESC,Deadpool must avenge the loss of his favorite chimichanga restaurant at the hands of Ultimus.
 ID_EVENT_CHANCE_DEADPOOL,Earn Deadpool Shards
@@ -773,6 +799,7 @@ ID_INFO_NA_VS_BATTLE_MILESTONE,Proving Grounds
 ID_INFO_DE_VS_BATTLE_MILESTONE_CLASSIC,Classic Draft
 ID_INFO_DE_VS_BATTLE_MILESTONE_BALANCED,Balanced Draft
 ID_INFO_DE_VS_BATTLE_MILESTONE_QUICKMATCH,Quick Match
+ID_INFO_DE_VS_BATTLE_MILESTONE_QUICKDRAFT,Quick Draft
 ID_INFO_BO_VS_BATTLE_MILESTONE,Face off against other players in <color=#fff568>VS Battle</color> to earn milestone points and reap rewards.\n\nGet matched up with an opponent and start earning these limited-time rewards!
 ID_INFO_NA_DOOMS_DAY_SALE,Doom's Day Sale
 ID_INFO_DE_DOOMS_DAY_SALE,Limited-time deals!
@@ -785,7 +812,7 @@ ID_INFO_DE_VALUABLELESSONS_SALE,Limited-time deals
 ID_INFO_BO_VALUABLELESSONS_SALE,Stock up on supplies and school your enemies with the Valuable Lessons Sale! Study these deals:\n\n- Character shards\n- Iron Man Red Star Draft\n- Energy and more!\n\nHurry and save before the bell rings on these offers!
 ID_INFO_NA_SINISTERASSEMBLY,Sinister Assembly
 ID_INFO_DE_SINISTERASSEMBLY,"Earn Orange gear, Elite Credits, and more!"
-ID_INFO_BO_SINISTERASSEMBLY,"Earn Sinister Credits by participating in Campaign, Blitz, Raids, Arena, and VS Battle Match. Spend those Credits to open the following Orbs:\n\n- Orange Assembly Orb\n- Purple Assembly Orb\n- Blue Assembly Orb"
+ID_INFO_BO_SINISTERASSEMBLY,"Earn Sinister Credits by participating in Campaign, Blitz, VS Battle Match, and from the Raid and Arena Daily Objectives. You can earn Sinister Credits as follows:\n\n- 1 Sinister Credit per Campaign Energy spent\n- 35 Sinister Credits per Blitz win\n- 250 Sinister Credits per Hunting Grounds Milestone tier reached\n- 300 Sinister Credits by completing the Arena Daily Objective\n- 400 Sinister Credits by completing the Raid Daily Objective\n\nSpend Sinister Credits to open the following orbs:\n\n- Orange Assembly Orb\n- Purple Assembly Orb\n- Blue Assembly Orb"
 ID_INFO_NA_SINISTERASSEMBLY_SALE,Sinister Assembly Sale
 ID_INFO_DE_SINISTERASSEMBLY_SALE,Limited-time savings!
 ID_INFO_BO_SINISTERASSEMBLY_SALE,"Snatch and grab big savings during the Sinister Assembly Sale. Enjoy Sinister Credit bundles that give you Sinister Assembly milestone progress, <color=#fff568>daily discounts</color> on character shards, and <color=#fff568>offers</color> for Gold, Energy, Sinister Credit bundles, and more."
@@ -798,3 +825,8 @@ ID_INFO_BO_DOOM_NODE_CHANGE,"Doctor Doom has begun his mystical assault on Nexus
 ID_INFO_NA_HALLOWEEN2020,Waking Nightmare
 ID_INFO_DE_HALLOWEEN2020,Earn Anti-Venom shards!
 ID_INFO_BO_HALLOWEEN2020,"Conjure Anti-Venom character shards and other rewards during this limited-time event:\n\n<color=#fff568>Fright Light Orb</color>\nGo into the light: Earn Fright Light Orb Fragments via the event milestones, and then open them to earn Gold, gear, and shards for characters with the limited-time <color=#fff568>Masked Caper</color> trait, with Anti-Venom at a higher drop rate.\n\n<color=#fff568>Dream Warriors Milestones</color>\nTerrorize other teams in Blitz and Arena using characters with the Masked Caper trait. Score points by winning in Blitz, and either winning or losing in Arena to earn Anti-Venom character shards, Fright Light Orb Fragments, and more. This event refreshes daily until the Waking Nightmare event ends.\n\n<color=#fff568>Lucid Dream Raid Milestone</color>\nTeam up with your Alliance in Raids using Masked Caper characters to earn dreamy rewards: Anti-Venom shards, Fright Light Orb Fragments, Training Modules and various gear.\n\n<color=#fff568>Night Terrors Milestone</color>\nScore points by carving opening Fright Light Orbs to earn Anti-Venom characters shards and other scary rewards.\n\n<color=#fff568>Bonus Events</color>\n<color=#fff568>Train and Gain</color> - Earn 2x Training Modules from Campaign nodes\n<color=#fff568>Raid Frenzy</color> - 20% cost reduction for Raid Energy, Heals, and Revives in Raids\n<color=#fff568>Re-Energize</color> - The cost to purchase 120 Campaign Energy (excluding Iso-8 Campaign Energy) will remain at 50 Power Cores for 24 hours."
+ID_INFO_NA_SALE_LEVEL80,LEVEL 80 SALE
+ID_INFO_NA_SALE_THANKSGIVING,Thanksgiving Week Deals
+ID_INFO_DE_SALE_MULTIDAY,Limited-time Deals
+ID_INFO_NA_SALE_BLACKFRIDAY,Black Friday Sale
+ID_INFO_NA_SALE_CYBERMONDAY,Cyber Monday Sale

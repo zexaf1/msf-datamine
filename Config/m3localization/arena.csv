@@ -32,6 +32,10 @@ ID_AR_NO_OPPONENT_TITLE,NO OPPONENT SELECTED
 ID_AR_NO_OPPONENT_BODY,The opponent's squad is empty. Please tap New Opponent.
 ID_AR_NO_SQUAD_TITLE,OPPONENT SQUAD IS EMPTY
 ID_AR_NO_SQUAD_BODY,The opponent's squad is empty. Please tap New Opponent.
+ID_AR_AUTOSIM_LOCKED_TITLE,BLITZ SIM: LOCKED
+ID_AR_AUTOSIM_LOCKED_BODY,Every Blitz that starts after you reach level 60 will allow you to simulate Blitz combats!\n\nActivate the SIM button and hit Battle to have the game run the combat and report the result.
+ID_AR_AUTOSIM_UNLOCKED_TITLE,BLITZ SIM UNLOCKED!
+ID_AR_AUTOSIM_UNLOCKED_BODY,"Congratulations, you've unlocked Blitz Sim!\n\nActivate the SIM button and hit Battle to have the game run the combat and report the result."
 ID_PVP_ERROR_INVALID_EVENT,"This event has already ended. Unfortunately, any missions you just completed will not count."
 ID_BLITZ_TEAM_SIZE,{team_size} vs {team_size}
 ID_BLITZ_SQUAD_SELECTOR_TEAM_SIZE_REQUIREMENT,Team size: {team_size}
@@ -231,6 +235,13 @@ ID_AR_MC_CAPTAINAMERICA,GO!
 ID_AR_ES_CAPTAINAMERICA,ENDED: First Avenger Blitz
 ID_AR_EB_CAPTAINAMERICA,The First Avenger Blitz has ended; visit <color=#fff568>BLITZ</color> to collect your rewards.
 ID_AR_NA_CAPTAINAMERICA_CARD,First Avenger
+ID_AR_NA_CAPTAINMARVEL,Ace Pilot
+ID_AR_SM_CAPTAINMARVEL,Win Captain Marvel Shards!
+ID_AR_LM_CAPTAINMARVEL,Face off against other players' teams to earn various milestone rewards and a chance to win Captain Marvel shards!
+ID_AR_MT_CAPTAINMARVEL,LIVE: Ace Pilot Blitz
+ID_AR_MS_CAPTAINMARVEL,Your chance to win Captain Marvel shards!
+ID_AR_MB_CAPTAINMARVEL,"<color=#fff568>Ace Pilot Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Captain Marvel shards!\n\n<color=#fff568>Ace Pilot Orb</color>\nFor a limited time, a new Ace Pilot Orb is available in the Store. The orb contains <color=#fff568>only Captain Marvel shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Captain Marvel now!"
+ID_AR_NA_CAPTAINMARVEL_CARD,Ace Pilot
 ID_AR_NA_CARNAGE,Psychotic
 ID_AR_SM_CARNAGE,Win Carnage Shards!
 ID_AR_LM_CARNAGE,Face off against other players' teams to earn various milestone rewards and a chance to win Carnage shards!
@@ -390,6 +401,13 @@ ID_AR_MT_GHOSTRIDER,LIVE: Devil's Pact Blitz
 ID_AR_MS_GHOSTRIDER,Your chance to win Ghost Rider shards!
 ID_AR_MB_GHOSTRIDER,"<color=#fff568>Devil's Pact Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Ghost Rider shards!\n\n<color=#fff568>Devil's Pact Orb</color>\nFor a limited time, a new Devil's Pact Orb is available in the Store. The orb contains <color=#fff568>only Ghost Rider shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit Ghost Rider now!"
 ID_AR_NA_GHOSTRIDER_CARD,Devil's Pact
+ID_AR_NA_GHOST,Quantum Snare
+ID_AR_SM_GHOST,Win Ghost Shards!
+ID_AR_LM_GHOST,Face off against other players' teams to earn various milestone rewards and a chance to win Ghost shards!
+ID_AR_MT_GHOST,LIVE: Quantum Snare Blitz
+ID_AR_MS_GHOST,Your chance to win Ghost shards!
+ID_AR_MB_GHOST,"<color=#fff568>Quantum Snare Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Ghost shards!\n\n<color=#fff568>Quantum Snare Orb</color>\nFor a limited time, a new Quantum Snare Orb is available in the Store. The orb contains <color=#fff568>only Ghost shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit Ghost now!"
+ID_AR_NA_GHOST_CARD,Quantum Snare
 ID_AR_NA_GRAVITON,Minister of Science
 ID_AR_SM_GRAVITON,Win Graviton Shards!
 ID_AR_LM_GRAVITON,Face off against other players' teams to earn various milestone rewards and a chance to win Graviton shards!
@@ -886,16 +904,13 @@ ID_AR_MT_SQUIRRELGIRL,LIVE: SQUIRREL! Blitz
 ID_AR_MS_SQUIRRELGIRL,Your chance to win Squirrel Girl shards!
 ID_AR_MB_SQUIRRELGIRL,"<color=#fff568>SQUIRREL! Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Squirrel Girl shards!\n\n<color=#fff568>SQUIRREL! Orb</color>\nFor a limited time, a new SQUIRREL! Orb is available in the Store. The orb contains <color=#fff568>only Squirrel Girl shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit Squirrel Girl now!"
 ID_AR_NA_SQUIRRELGIRL_CARD,SQUIRREL!
-ID_AR_NA_STARLORD,Peter Quill
-ID_AR_SM_STARLORD,Win Star-Lord Shards!
-ID_AR_LM_STARLORD,Face off against other players' teams to earn various milestone rewards and a chance to win STAR-LORD shards!
-ID_AR_MT_STARLORD,LIVE: Peter Quill Blitz
-ID_AR_MS_STARLORD,Your chance to win STAR-LORD shards.
-ID_AR_MB_STARLORD,Face off against other players' teams to earn various milestone rewards and a chance to win <color=#fff568>STAR-LORD</color> shards!
-ID_AR_MC_STARLORD,GO!
-ID_AR_ES_STARLORD,ENDED: Peter Quill Blitz
-ID_AR_EB_STARLORD,The Peter Quill Blitz has ended; visit <color=#fff568>BLITZ</color> to collect your rewards.
-ID_AR_NA_STARLORD_CARD,Peter Quill
+ID_AR_NA_STATURE,Big Shoes
+ID_AR_SM_STATURE,Win Stature Shards!
+ID_AR_LM_STATURE,Face off against other players' teams to earn various milestone rewards and a chance to win Stature shards!
+ID_AR_MT_STATURE,LIVE: Big Shoes Blitz
+ID_AR_MS_STATURE,Your chance to win Stature shards!
+ID_AR_MB_STATURE,"<color=#fff568>Big Shoes Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Stature shards!\n\n<color=#fff568>Big Shoes Orb</color>\nFor a limited time, a new Big Shoes Orb is available in the Store. The orb contains <color=#fff568>only Stature shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit Stature now!"
+ID_AR_NA_STATURE_CARD,Big Shoes
 ID_AR_NA_STORM,Weather Goddess
 ID_AR_SM_STORM,Win Storm Shards!
 ID_AR_LM_STORM,Face off against other players' teams to earn various milestone rewards and a chance to win Storm shards!
@@ -1048,6 +1063,13 @@ ID_AR_MT_X23,LIVE: Target X Blitz
 ID_AR_MS_X23,Your chance to win X-23 shards!
 ID_AR_MB_X23,"<color=#fff568>Target X Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win X-23 shards!\n\n<color=#fff568>Target X Orb</color>\nFor a limited time, a new Target X Orb is available in the Store. The orb contains <color=#fff568>only X-23 shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit X-23 now!"
 ID_AR_NA_X23_CARD,Target X
+ID_AR_NA_YELLOWJACKET,Sharp Sting
+ID_AR_SM_YELLOWJACKET,Win Yellowjacket Shards!
+ID_AR_LM_YELLOWJACKET,Face off against other players' teams to earn various milestone rewards and a chance to win Yellowjacket shards!
+ID_AR_MT_YELLOWJACKET,LIVE: Sharp Sting Blitz
+ID_AR_MS_YELLOWJACKET,Your chance to win Yellowjacket shards!
+ID_AR_MB_YELLOWJACKET,"<color=#fff568>Sharp Sting Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Yellowjacket shards!\n\n<color=#fff568>Sharp Sting Orb</color>\nFor a limited time, a new Sharp Sting Orb is available in the Store. The orb contains <color=#fff568>only Yellowjacket shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Yellowjacket now!"
+ID_AR_NA_YELLOWJACKET_CARD,Sharp Sting
 ID_AR_NA_YONDU,Centaurian Hunter
 ID_AR_SM_YONDU,Win Yondu Shards!
 ID_AR_LM_YONDU,Face off against other players' teams to earn various milestone rewards and a chance to win YONDU shards!

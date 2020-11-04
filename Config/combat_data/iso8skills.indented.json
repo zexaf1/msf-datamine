@@ -203,6 +203,7 @@
           "exclude_Secondary": true,
           "exec": "on_successful_hit",
           "feature_source": "iso8",
+          "skip_for_killed_targets": true,
           "stat_lock": [
             {
               "stat": "accuracy_pct",
@@ -242,6 +243,7 @@
           "exclude_Secondary": false,
           "exec": "on_successful_hit",
           "feature_source": "iso8",
+          "skip_for_killed_targets": true,
           "stat_lock": [
             {
               "stat": "accuracy_pct",
@@ -281,6 +283,7 @@
           "exclude_Secondary": false,
           "exec": "on_successful_subsequent_hit",
           "feature_source": "iso8",
+          "skip_for_killed_targets": true,
           "stat_lock": [
             {
               "stat": "accuracy_pct",
@@ -320,6 +323,7 @@
           "exclude_Secondary": true,
           "exec": "on_successful_subsequent_hit",
           "feature_source": "iso8",
+          "skip_for_killed_targets": true,
           "stat_lock": [
             {
               "stat": "accuracy_pct",
@@ -497,10 +501,12 @@
             }
           ],
           "can_trigger_on_assist": true,
+          "can_trigger_on_counter": true,
           "exclude_Primary": false,
           "exclude_Secondary": true,
           "exec": "on_successful_hit",
           "feature_source": "iso8",
+          "skip_for_killed_targets": true,
           "stat_lock": [
             {
               "stat": "accuracy_pct",

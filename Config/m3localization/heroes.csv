@@ -63,6 +63,10 @@ ID_SHARD_DOCTORSTRANGE_NAME,Doctor Strange
 ID_SHARD_DOCTORSTRANGE_DESCRIPTION,Sorcerer Supreme and versatile healer with the ability to remove effects from friends and foes.
 ID_SHARD_DOMINO_NAME,Domino
 ID_SHARD_DOMINO_DESCRIPTION,Domino is X-Force's Controller whose Mutant luck lets her allies Dodge and deal deadlier Critical hits.
+ID_SHARD_DOOM_NAME,Doctor Doom
+ID_SHARD_DOOM_DESCRIPTION,"A master of technology and magic, Doctor Doom will stop at nothing to conquer Nexus Earth."
+ID_SHARD_DOOMBOT_NAME,Doombot
+ID_SHARD_DOOMBOT_DESCRIPTION,A near-identical robotic copy of Doctor Doom.
 ID_SHARD_DRAX_NAME,Drax
 ID_SHARD_DRAX_DESCRIPTION,"An unpredictable, taunting attacker with rapid attacks that drain health."
 ID_SHARD_EBONYMAW_NAME,Ebony Maw
@@ -79,6 +83,8 @@ ID_SHARD_FALCON_NAME,Falcon
 ID_SHARD_FALCON_DESCRIPTION,A soldier who excels at War and deals massive damage to enemies who have multiple positive effects.
 ID_SHARD_GAMORA_NAME,Gamora
 ID_SHARD_GAMORA_DESCRIPTION,An aggressive warrior who can attack again after defeating an enemy.
+ID_SHARD_GHOST_NAME,Ghost
+ID_SHARD_GHOST_DESCRIPTION,"Originally trained by S.H.I.E.L.D. as a spy, Ghost now uses her Quantum phasing powers as an untraceable thief."
 ID_SHARD_GHOSTRIDER_NAME,Ghost Rider
 ID_SHARD_GHOSTRIDER_DESCRIPTION,"As the Spirit of Vengeance, Ghost Rider brutally inflicts damage on those who harm his allies."
 ID_SHARD_GRAVITON_NAME,Graviton
@@ -265,6 +271,8 @@ ID_SHARD_SQUIRRELGIRL_NAME,Squirrel Girl
 ID_SHARD_SQUIRRELGIRL_DESCRIPTION,Squirrel Girl is a Young Avenger who uses her unbeatable squirrel powers to eat nuts and kick butts!
 ID_SHARD_STARLORD_NAME,Star-Lord
 ID_SHARD_STARLORD_DESCRIPTION,A charismatic leader who generates ability energy for allies and distracts enemies.
+ID_SHARD_STATURE_NAME,Stature
+ID_SHARD_STATURE_DESCRIPTION,"The daughter of Ant-Man, Stature uses her Pym Tech to grow to great heights, drawing fire and stomping down enemy defenses."
 ID_SHARD_STORM_NAME,Storm
 ID_SHARD_STORM_DESCRIPTION,A powerful weather controller that charges up devastating attacks to lead her mutant allies to victory.
 ID_SHARD_STRYFE_NAME,Stryfe
@@ -319,6 +327,8 @@ ID_SHARD_WOLVERINE_NAME,Wolverine
 ID_SHARD_WOLVERINE_DESCRIPTION,A mutant armed with adamantium claws that ignore armor and tear through his opponents.
 ID_SHARD_X23_NAME,X-23
 ID_SHARD_X23_DESCRIPTION,X-23 is a savage Mutant Brawler who specializes in finishing off X-Force's wounded enemies.
+ID_SHARD_YELLOWJACKET_NAME,Yellowjacket
+ID_SHARD_YELLOWJACKET_DESCRIPTION,"Darren Cross was the protege of Hank Pym before stealing his company and technology, creating the Yellowjacket suit to crush his foes."
 ID_SHARD_YONDU_NAME,Yondu
 ID_SHARD_YONDU_DESCRIPTION,A leader who can summon Ravager allies and deliver high piercing damage.
 ID_SHARD_YOYO_NAME,Yo-Yo
