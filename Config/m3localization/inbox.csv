@@ -335,6 +335,9 @@ ID_ME_BO_WARTIP4,"Commander,\n\nGet ready for Alliance War with this final tip: 
 ID_ME_NA_VS_BATTLE_PUSHNOTIF,VS Battle Requests
 ID_ME_DE_VS_BATTLE_PUSHNOTIF,Enable Push Notifications
 ID_ME_BO_VS_BATTLE_PUSHNOTIF,"Commander,\n\nStarting today, never miss a single battle with our new VS Battle Challenge notifications! Turn on <color=#fff568>push notifications</color> from your <color=#fff568>device Settings menu</color> to receive <color=#fff568>VS Battle Challenges</color> whenever an Alliance member or Contact sends you a request.\n\n<color=#fff568>For iOS Users:</color>\nOpen Settings > Notifications > Strike Force > On\n\n<color=#fff568>For Android Users:</color>\nOpen Settings > Apps & notifications > Notifications > Strike Force > On\n\nPrepare your rosters for real-time combat and engage in friendly battles with your Alliance members and friends!"
+ID_ME_NA_DOOM_SHOWCASE,The Might of Doom
+ID_ME_DE_DOOM_SHOWCASE,Doctor Doom's power in action!
+ID_ME_BO_DOOM_SHOWCASE,"Commander,\n\nDoctor Doom demands your presence for the <color=#fff568>Might of Doom</color> event!\n\n<color=#fff568>Commanders level 40 and higher</color>, get hands-on experience with the Destroyer of Worlds as Doctor Doom lays waste to the top allies of Ultimus in 3 <color=#fff568>limited-time</color> missions:\n\n<color=#fff568>Mission 1</color>: Doom showcases his might against supposedly worthy gods, the Asgardians.\n<color=#fff568>Mission 2</color>: Doom proves that actions speak louder than words against the Inhumans.\n<color=#fff568>Mission 3</color>: A gauntlet and some gems are not enough to stop Victor von Doom!\nDon't miss this monumental event -- or you'll anger Doom!\n\nAnd be sure to check out the <color=#fff568>Doom Trailer</color> with Doctor Doom's strength on full cinematic display."
 ID_ME_NA_NEEDAHAND,Need A Hand?
 ID_ME_DE_NEEDAHAND,2x Hand shards from Campaign
 ID_ME_BO_NEEDAHAND,"Commander,\n\nFor 24 hours, the number of <color=#fff568>Hand</color> character shards rewarded from <color=#fff568>Campaign</color> nodes has <color=#fff568>doubled</color> from 2 to 4. These characters will help you with the upcoming Relic Hunt Flash Event.\n\nPlease filter your roster using the trait ""Hand"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node.\n\nGood luck, Commander!"
@@ -1174,6 +1177,9 @@ ID_ME_BO_450PATCHNOTES_ANNOUNCE,"Tremble before the destroyer of worlds and your
 ID_ME_NA_TRICKORTREAT_TREATWINNER,Trick or Treat Poll Results
 ID_ME_DE_TRICKORTREAT_TREATWINNER,The terrifying results...
 ID_ME_BO_TRICKORTREAT_TREATWINNER,"Commander,\n\nThe trick or treat poll on our Facebook page has concluded and the sweet treat for the community is:\n\n<color=#fff568>Minn-Erva shards, Purple Mutant Gear Orbs, T3 Ability Materials</color>\n\nClaim your reward now and take a bite out of the competition!"
+ID_ME_NA_STATURE_RS_ENDING,Red Star feat. Stature
+ID_ME_DE_STATURE_RS_ENDING,1 day left!
+ID_ME_BO_STATURE_RS_ENDING,<color=#fff568>Stature</color> will only be featured in all Red Star Orbs for 1 more day! Hurry and open Red Star Orbs while her drop rate is still 15%.
 ID_ME_NA_STATURE_AVAILABILITY_UPDATE,Availability Update
 ID_ME_DE_STATURE_AVAILABILITY_UPDATE,Recruit Stature!
 ID_ME_BO_STATURE_AVAILABILITY_UPDATE,"Commander,\n\n<color=#fff568>Stature</color> has been added to the Ultimus Orb, Basic Orb, Premium Orb, Mega Orb, and the Supplies section in the Store. As a result, we have removed <color=#fff568>Carnage</color> from the Mega Orb to keep the orb's content exciting and up to date.\n\nRecruit the Towering Teen now!"
@@ -1182,7 +1188,7 @@ ID_ME_DE_STATURE_ELITE_STORE,Get Red Stars for Stature
 ID_ME_BO_STATURE_ELITE_STORE,"Commander,\n\nDirect Red Star promotions for <color=#fff568>Stature</color> have been added to the <color=#fff568>Elite Store</color>! You can now use <color=#fff568>Silver or Gold Promotion Credits</color> to promote Stature <color=#fff568>1 Red Star higher than his current rank</color>. You can earn Promotion Credits by <color=#fff568>exchanging your Elite Credits</color> or by completing the Alliance Donation daily objective."
 ID_ME_NA_GHOST_PREHYPE,Coming Soon: Ghost
 ID_ME_DE_GHOST_PREHYPE,The Quantum Shadow
-ID_ME_BO_GHOST_PREHYPE,"Commander,\n\nGhost is on the way to the battlefield! Add this Phantom of the Dark Dimension to your Roster:\n\n- Villain, Global, Tech, Controller, PymTech\n- In Dark Dimension for Pym Tech allies: Applies evades, chance to boost allies with stolen enemy positive effects, grants additional speed\n- Heals all Pym Tech allies on Dodge\n- Prolongs enemy negative effects and Steals Health\n- Basic attack reduces enemy Speed Bar\n\nBe on the lookout for the <color=#fff568>Quantum Snare Blitz</color>, featuring Ghost, and haunt the competition!"
+ID_ME_BO_GHOST_PREHYPE,"Commander,\n\nGhost is on the way to the battlefield! Add this Phantom of the Dark Dimension to your Roster:\n\n- Villain, Global, Tech, Controller, Pym Tech\n- In Dark Dimension for Pym Tech allies: Applies evades, chance to boost allies with stolen enemy positive effects, grants additional speed\n- Heals all Pym Tech allies on Dodge\n- Prolongs enemy negative effects and Steals Health\n- Basic attack reduces enemy Speed Bar\n\nBe on the lookout for the <color=#fff568>Quantum Snare Blitz</color>, featuring Ghost, and haunt the competition!"
 ID_ME_NA_GHOST_RS_ENDING,Red Star feat. Ghost
 ID_ME_DE_GHOST_RS_ENDING,1 day left!
 ID_ME_BO_GHOST_RS_ENDING,<color=#fff568>Ghost</color> will only be featured in all Red Star Orbs for 1 more day! Hurry and open Red Star Orbs while the drop rate is still 15%.
@@ -1195,3 +1201,6 @@ ID_ME_BO_GHOST_ELITE_STORE,"Commander,\n\nDirect Red Star promotions for <color=
 ID_ME_NA_GT15_MINIUNIQUEFARM,Gear Tier 15 Update
 ID_ME_DE_GT15_MINIUNIQUEFARM,Gear up your roster!
 ID_ME_BO_GT15_MINIUNIQUEFARM,"Commander,\n\nTo help you prepare for Dark Dimension IV, we've added various <color=#fff568>Gear Tier 15</color> pieces to the Supplies Store. Upon reaching <color=#fff568>Commander Level 75</color>, you can find them in the following locations:\n\n- <color=#fff568>Main Store</color>\n- <color=#fff568>War Store</color>\n- <color=#fff568>New Orange Gear War Orb</color> containing unique gear required for Gear Tier 15 at a cost of 1,200 Elite War Credits.\n\nPower up your roster with Gear Tier 15!"
+ID_ME_NA_NEWBLOGPOST_110620,New Blog Available
+ID_ME_DE_NEWBLOGPOST_110620,See the latest MARVEL Strike Force news
+ID_ME_BO_NEWBLOGPOST_110620,"Commander,\n\nThere's a new blog available to read. Inside you'll learn about:\n\n- Ghost Ability Breakdown\n- Recurring Milestones Update\n- Returning Legendary Events\n- Upcoming Blitzes\n- Weekly Events"

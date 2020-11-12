@@ -14195,7 +14195,9 @@
         "Global",
         "Mutant",
         "Controller",
-        "Xmen"
+        "Xmen",
+        "Uncanny",
+        "Legendary"
       ],
       "ultimate": {
         "actions": [
@@ -62243,6 +62245,7 @@
         },
         {
           "apply_if": {
+            "mode": "INSANITY",
             "relationship": "ally",
             "traits": {
               "has_any": [
@@ -62276,6 +62279,7 @@
               "max_duration": [
                 4
               ],
+              "new_result": true,
               "only_procs": [
                 "Evade"
               ]
@@ -62360,6 +62364,7 @@
                 2
               ],
               "max_duration": 4,
+              "new_result": true,
               "only_procs": [
                 "Evade"
               ],
@@ -77173,7 +77178,8 @@
         "Global",
         "Mutant",
         "Brawler",
-        "Xforce"
+        "Xforce",
+        "Xmen"
       ],
       "ultimate": {
         "actions": [

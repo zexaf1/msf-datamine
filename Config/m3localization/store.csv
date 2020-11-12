@@ -5816,3 +5816,24 @@ ID_OF_DE_STATURE_OFFER_VAR_S,"Recruit a <color=#fff568>{var1}-star Stature</colo
 ID_OF_DE_STATURE_OFFER_VAR,"Get <color=#fff568>{var1} Stature shards</color> and use her to Taunt with Defense Up & Regeneration, grant extra health in Dark Dimension, and synergize with Ant-Man."
 ID_OF_NA_MYSTERIO_REDSTAR_DRAFT_OFFER_01,Red Star Draft: Mysterio
 ID_OF_DE_MYSTERIO_REDSTAR_DRAFT_OFFER_3_6,"Save <color=#fff568>over 90%</color> with this spectacular offer and get an equal chance of receiving either a <color=#fff568>3, 4, 5, or 6 Red Star</color> <color=#fff568>Mysterio</color>"
+ID_OF_NA_STATURE_ECO_BUNDLE_1,Aspirational Orb Bundle
+ID_OF_DE_STATURE_ECO_BUNDLE_VAR_O,Save on <color=#fff568>{var1} Aspirational Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 28 character shards</color>!
+ID_OF_NA_STATURE_MORB_1,Aspirational Orb Fragments
+ID_OF_DE_STATURE_MORB_500,Take advantage of this limited time deal and complete your orb! Get <color=#fff568>500 Aspirational Orb Fragments</color> with this offer!
+ID_OF_NA_STATURE_ENERGY_OFFER_1,Aspirational Energy Offer
+ID_OF_NA_STATURE_ENERGY_OFFER_2,Aspirational Energy Bundle
+ID_OF_DE_STATURE_ENERGY_OFFER_1,"Save on <color=#fff568>Aspirational Energy</color> with this offer! Play in the Tiny Stature, Big Problem Event Campaign and recruit Stature!"
+ID_OF_NA_NICKFURY_REDSTAR_DRAFT_OFFER_01,Red Star Draft: Nick Fury
+ID_OF_DE_NICKFURY_REDSTAR_DRAFT_OFFER_02,"Save <color=#fff568>over 90%</color> with this spectacular offer and get an equal chance of receiving either a <color=#fff568>3, 4, 5, or 6 Red Star</color> <color=#fff568>Nick Fury</color>"
+ID_OF_NA_MAGNETO_REDSTAR_DRAFT_OFFER_01,Red Star Draft: Magneto
+ID_OF_DE_MAGNETO_REDSTAR_DRAFT_OFFER_02,"Save <color=#fff568>over 90%</color> with this spectacular offer and get an equal chance of receiving either a <color=#fff568>3, 4, 5, or 6 Red Star</color> <color=#fff568>Magneto</color>"
+ID_OF_NA_SHARD_CHARACTER_01,Character Shard: Draft
+ID_OF_DE_SHARD_JUGGERNAUT_02,"This amazing offer will give you an equal chance of either <color=#fff568>{var1}, {var2}, or {var3}</color> character shards for this character: <color=#fff568>Juggernaut</color>"
+ID_OF_NA_GT15_DRAFT_01,Gear Tier 15 Draft
+ID_OF_DE_GT15_DRAFT_VAR,Save on this spectacular offer and get <color=#fff568>{var1} Superior</color> gear parts to help level your roster toward Gear Tier 15!
+ID_OF_NA_NOVEMBER2020_RED_STAR_DRAFT_3_5,3-5 Red Star Draft
+ID_OF_DE_NOVEMBER2020_RED_STAR_DRAFT_3_5,"Save <color=#fff568>over 90%</color> with this spectacular offer and get an equal chance of receiving a <color=#fff568>3</color>, <color=#fff568>4</color>, or <color=#fff568>5 Red Star</color> for one of the following: <color=#fff568>Proxima Midnight</color> / <color=#fff568>Cyclops</color> / <color=#fff568>Spider-Man (Symbiote)</color> / <color=#fff568>Wasp</color> / <color=#fff568>Coulson</color>"
+ID_OF_DE_50_75_100_DRAFT_GENERIC,"This amazing offer will give you an equal chance of receiving <color=#fff568>{var1}</color>,<color=#fff568>{var2}</color>, or <color=#fff568>{var3}</color> character shards for this character when you buy now!"
+ID_OF_DE_CELEBRATE_STP_50,"Well done, Commander! You've reached <color=#fff568>50,000</color> Strongest Team Power! Enjoy this limited-time offer to continue powering up your teams and boosting your squads."
+ID_OF_DE_CELEBRATE_STP_VAR,"Well done, Commander! You've reached <color=#fff568>{var1}</color> Strongest Team Power! Enjoy this limited-time offer to continue powering up your teams and boosting your squads."
+ID_OF_DE_CELEBRATE_TCP_VAR,"Well done, Commander! You've reached <color=#fff568>{var1}</color> Total Collection Power! Enjoy this limited-time offer to continue powering up your teams and boosting your squads."

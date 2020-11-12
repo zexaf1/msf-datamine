@@ -1,9 +1,8 @@
 {
   "Home": {
     "Heroes": [
-      "Carnage",
-      "Scream",
-      "AntiVenom",
+      "Wasp",
+      "AntMan",
       "Ghost",
       "Yellowjacket",
       "Stature"
@@ -12,7 +11,7 @@
   },
   "Arena": {
     "Heroes": [
-      "Okoye"
+      "JessicaJones"
     ],
     "CycleTime": 1
   }

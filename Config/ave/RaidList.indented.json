@@ -181,7 +181,8 @@
           "loyalty": 1,
           "level": 1
         }
-      }
+      },
+      "isEvent": false
     },
     {
       "raidId": "raid_lvl_35",
@@ -272,7 +273,8 @@
           ]
         }
       },
-      "requirements": {}
+      "requirements": {},
+      "isEvent": false
     },
     {
       "raidId": "raid_lvl_40",
@@ -392,7 +394,8 @@
           "level": 1,
           "loyalty": 1
         }
-      }
+      },
+      "isEvent": false
     },
     {
       "raidId": "raid_lvl_50_v2",
@@ -1199,7 +1202,8 @@
           ]
         }
       },
-      "requirements": {}
+      "requirements": {},
+      "isEvent": true
     },
     {
       "raidId": "raid_beta_c",
@@ -1287,7 +1291,8 @@
           ]
         }
       },
-      "requirements": {}
+      "requirements": {},
+      "isEvent": true
     },
     {
       "raidId": "raid_beta_d",
