@@ -1378,6 +1378,7 @@ ID_OF_DE_CYCLOPS_TRAINING_OFFER_40,Get this amazing bundle and level up Cyclops.
 ID_OF_NA_CYCLOPS_OFFER_1,The X-Leader Offer
 ID_OF_DE_CYCLOPS_OFFER_2S,"Recruit a <color=#fff568>2-star Cyclops</color> with this offer! Coordinate ally attacks around Taunters, apply Slow, and unleash a massive area of effect attack."
 ID_OF_DE_CYCLOPS_OFFER_3S,"Recruit a <color=#fff568>3-star Cyclops</color> with this offer! Coordinate ally attacks around Taunters, apply Slow, and unleash a massive area of effect attack."
+ID_OF_DE_CYCLOPS_OFFER_VAR,"Get <color=#fff568>{var1} Cyclops shards</color> and use him to coordinate ally attacks around Taunters, apply Slow, and unleash a massive area of effect attack."
 ID_OF_DE_CYCLOPS_OFFER_20,"Get <color=#fff568>20 Cyclops shards</color> and use him to coordinate ally attacks around Taunters, apply Slow, and unleash a massive area of effect attack."
 ID_OF_DE_CYCLOPS_OFFER_35,"Get <color=#fff568>35 Cyclops shards</color> and use him to coordinate ally attacks around Taunters, apply Slow, and unleash a massive area of effect attack."
 ID_OF_DE_CYCLOPS_OFFER_50,"Get <color=#fff568>50 Cyclops shards</color> and use him to coordinate ally attacks around Taunters, apply Slow, and unleash a massive area of effect attack."
@@ -5837,3 +5838,25 @@ ID_OF_DE_50_75_100_DRAFT_GENERIC,"This amazing offer will give you an equal chan
 ID_OF_DE_CELEBRATE_STP_50,"Well done, Commander! You've reached <color=#fff568>50,000</color> Strongest Team Power! Enjoy this limited-time offer to continue powering up your teams and boosting your squads."
 ID_OF_DE_CELEBRATE_STP_VAR,"Well done, Commander! You've reached <color=#fff568>{var1}</color> Strongest Team Power! Enjoy this limited-time offer to continue powering up your teams and boosting your squads."
 ID_OF_DE_CELEBRATE_TCP_VAR,"Well done, Commander! You've reached <color=#fff568>{var1}</color> Total Collection Power! Enjoy this limited-time offer to continue powering up your teams and boosting your squads."
+ID_OF_NA_GHOST_FCO,Quantum Snare Orb Offer
+ID_OF_DE_GHOST_FCO_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Ghost</color> with this offer! Each orb has a chance to earn up to 180 shards. Unlock The Lynchpin Pym Tech Controller who terrorizes enemies by stealing their Health and boosting Pym Tech allies in Dark Dimension.
+ID_OF_DE_GHOST_FCO_OFFER_VAR_O,Save on <color=#fff568>{var1} Quantum Snare Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Ghost shards</color>. Unlock the Lynchpin Pym Tech Controller who terrorizes enemies by stealing their Health and boosting Pym Tech allies in Dark Dimension.
+ID_OF_DE_GHOST_SINGLE_FCO_OFFER_VAR_O,Save on <color=#fff568>{var1} Quantum Snare Orb</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Ghost shards</color>. Unlock the Lynchpin Pym Tech Controller who terrorizes enemies by stealing their Health and boosting Pym Tech allies in Dark Dimension.
+ID_OF_NA_GHOST_ABILITY_OFFER_1,Ghost: Ability
+ID_OF_DE_GHOST_ABILITY_OFFER_50,Get this amazing bundle and power up Ghost. Get over <color=#fff568>50%</color> off when you buy now!
+ID_OF_NA_GHOST_GEAR_OFFER_1,Ghost: Gear
+ID_OF_DE_GHOST_GEAR_OFFER_50,Get this amazing bundle and gear up Ghost. Get over <color=#fff568>50%</color> off when you buy now!
+ID_OF_NA_GHOST_GOLD_OFFER_1,Ghost: Gold
+ID_OF_DE_GHOST_GOLD_OFFER_50,Get this amazing bundle and level up Ghost. Get over <color=#fff568>50%</color> off when you buy now!
+ID_OF_NA_GHOST_TRAINING_OFFER_1,Ghost: Training
+ID_OF_DE_GHOST_TRAINING_OFFER_40,Get this amazing bundle and level up Ghost. Get over <color=#fff568>40%</color> off when you buy now!
+ID_OF_NA_GHOST_OFFER_1,Quantum Shadow Offer
+ID_OF_DE_GHOST_OFFER_VAR_S,"Recruit a <color=#fff568>{var1}-star Ghost</color> with this offer! haunts enemies in the Dark Dimension by applying Evade, Heals, and Speed to Pym Tech allies."
+ID_OF_DE_GHOST_OFFER_VAR,Get <color=#fff568>{var1} Ghost shards</color> and terrorizes enemies by stealing their Health and boosting Pym Tech allies in Dark Dimension.
+ID_OF_NA_RED_STAR_CHARACTER,Character: Red Star Offer
+ID_OF_DE_RED_STAR_CHARACTER,Get a guaranteed <color=#fff568>{var1} Red Star</color> for this character!
+ID_OF_NA_LC_POWERARMOR_BUNDLE_01,Power Armor Team
+ID_OF_DE_LC_POWERARMOR_BUNDLE_01_VAR,"Unlock this <color=#fff568>{var1}-Star Power Armor team</color> and take on Alliance War! This bundle includes <color=#fff568>{var2} Shards</color> of:\n<color=#fff568>IronHeart, War Machine, Rescue and Falcon</color>"
+ID_OF_DE_ANTMAN_OFFER_45,Boost your Avengers squad by adding this tiny Tech Controller to your roster. Get <color=#fff568>45 Ant-Man shards</color> and cripple enemies with Ability Block and Slow with the Giant Man's Stomp.
+ID_OF_NA_SYMBIOTE_FCO_OFFER_1,Symbiote Orb
+ID_OF_DE_SYMBIOTE_FCO_OFFER_1,Save on <color=#fff568>{var1} Symbiote Orbs</color> and strengthen your Symbiote team!

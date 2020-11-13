@@ -273,8 +273,7 @@
           ]
         }
       },
-      "requirements": {},
-      "isEvent": false
+      "requirements": {}
     },
     {
       "raidId": "raid_lvl_40",
@@ -1114,7 +1113,8 @@
           ]
         }
       },
-      "requirements": {}
+      "requirements": {},
+      "isEvent": true
     },
     {
       "raidId": "raid_beta_b",

@@ -4,6 +4,7 @@ ID_INSANITY_FIRST_TIME_REWARDS,Possible Rewards
 ID_INSANITY_EVENT_CARD_INFO_01,"Earn 1,320 Orange Gear Materials and 6 pieces of Orange Gear from the rewards below on your first completion!"
 ID_INSANITY_EVENT_CARD_INFO_02,"Earn 3,960 Orange Gear Materials and 18 pieces of Orange Gear from the rewards below on your first completion, as well as the ultra-powerful Ultron!"
 ID_INSANITY_EVENT_CARD_INFO_03,"Earn 9,768 Orange Gear Materials and 27 pieces of Orange Gear from the rewards below on your first completion, and unlock a 5 Red Star Ultimus on your Timed Run!"
+ID_INSANITY_EVENT_CARD_INFO_04,"Earn 9,800 Orange Gear Materials and 20 pieces of Orange Gear from the rewards below on your first completion as well as unlocking a 5-star Doctor Doom and a 2-Red Star Doctor Doom! Earn an additional 14,650 Orange Gear Materials and 30 pieces of Orange Gear from the rewards below on your Timed Run as well as unlocking a maxed out 7-star Doctor Doom and a 4-Red Star Doctor Doom!"
 ID_INSANITY_TIMELEFT,TIME LEFT
 ID_INSANITY_PROGRESS,PROGRESS
 ID_INSANITY_PERCENT,{percent}%
@@ -92,6 +93,10 @@ ID_INSANITY_03_REWARD_FTC_GEAR_FULL,27 RANDOM ITEMS:
 ID_INSANITY_03_REWARD_FTT_GEAR_FULL,36 RANDOM ITEMS:
 ID_INSANITY_03_REWARD_FTC_GEAR_MAT,9768 RANDOM ITEMS:
 ID_INSANITY_03_REWARD_FTT_GEAR_MAT,14676 RANDOM ITEMS:
+ID_INSANITY_04_REWARD_FTC_GEAR_FULL,20 RANDOM ITEMS:
+ID_INSANITY_04_REWARD_FTT_GEAR_FULL,30 RANDOM ITEMS:
+ID_INSANITY_04_REWARD_FTC_GEAR_MAT,9800 RANDOM ITEMS:
+ID_INSANITY_04_REWARD_FTT_GEAR_MAT,14650 RANDOM ITEMS:
 ID_INSANITY_REWARD_DESC_FTC,Reach 100% Completion in <color=#f7941d>{title}</color> to receive these rewards:
 ID_INSANITY_REWARD_DESC_FTT,100% a timed run of <color=#f7941d>{title}</color> to receive these rewards:
 ID_INSANITY_REWARD_DESC_COMPLETE,You have already earned these rewards.
