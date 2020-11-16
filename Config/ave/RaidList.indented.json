@@ -181,8 +181,7 @@
           "loyalty": 1,
           "level": 1
         }
-      },
-      "isEvent": false
+      }
     },
     {
       "raidId": "raid_lvl_35",
@@ -273,7 +272,8 @@
           ]
         }
       },
-      "requirements": {}
+      "requirements": {},
+      "isEvent": false
     },
     {
       "raidId": "raid_lvl_40",

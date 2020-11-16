@@ -4295,7 +4295,7 @@ ID_OF_DE_AIM_INFECTOR_OFFER_1,Save big on <color=#fff568>A.I.M. Infector shards<
 ID_OF_DE_AIM_RESEARCHER_OFFER_1,Save big on <color=#fff568>A.I.M. Researcher shards</color> and strengthen your A.I.M. team!
 ID_OF_DE_AIM_ASSAULTER_OFFER_1,Save big on <color=#fff568>A.I.M. Assaulter shards</color> and strengthen your A.I.M. team!
 ID_OF_NA_AIM_MINION_BUNDLE,A.I.M. Minion Bundle
-ID_OF_DE_AIM_BUNDLE_1,"<color=#fff568>Save over 70%</color> and assemble your A.I.M. team in the battle against Ultimus with this bundle that includes:\n<color=#fff568>A.I.M. Monstrosity, A.I.M. Security, A.I.M. Assaulter, A.I.M. Researcher, and A.I.M. Infector</color>"
+ID_OF_DE_AIM_BUNDLE_1,"<color=#fff568>Save over 70%</color> and assemble your A.I.M. team in the battle against Ultimus with this bundle that includes:\n<color=#fff568>A.I.M. Monstrosity, A.I.M. Security, A.I.M. Assaulter, A.I.M. Researcher, A.I.M. Infector and Scientist Supreme.</color>"
 ID_OF_NA_MORDO_OFFER_2,Menacing Magician Offer
 ID_OF_DE_MORDO_OFFER_2,Improve your team with <color=#fff568>35 Baron Mordo shards</color>! Dominate Arena and Blitz using his mystical dark arts.
 ID_OF_NA_MORDO_OFFER_3,Transylvanian Tyrant Offer
@@ -5860,3 +5860,7 @@ ID_OF_DE_LC_POWERARMOR_BUNDLE_01_VAR,"Unlock this <color=#fff568>{var1}-Star Pow
 ID_OF_DE_ANTMAN_OFFER_45,Boost your Avengers squad by adding this tiny Tech Controller to your roster. Get <color=#fff568>45 Ant-Man shards</color> and cripple enemies with Ability Block and Slow with the Giant Man's Stomp.
 ID_OF_NA_SYMBIOTE_FCO_OFFER_1,Symbiote Orb
 ID_OF_DE_SYMBIOTE_FCO_OFFER_1,Save on <color=#fff568>{var1} Symbiote Orbs</color> and strengthen your Symbiote team!
+ID_GACHA_CRATE_FALL2020_NAME,Bounty Orb
+ID_GACHA_CRATE_FALL2020_DESCRIPTION,Contains partially crafted Superior Gear
+ID_GACHA_CRATE_FALL2020_TOKEN_NAME,Bounty Orb Fragments
+ID_GACHA_CRATE_FALL2020_TOKEN_DESCRIPTION,Collect Bounty Orb Fragments to earn a Bounty Orb

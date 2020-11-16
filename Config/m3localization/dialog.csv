@@ -9347,7 +9347,7 @@ ID_DIALOG_CHAL_XP_LV80_OPERATOR_LOSE_0,MISSION FAILED. ALL STAGES HAVE BEEN COMP
 ID_DIALOG_CHAL_XP_LV80_OPERATOR_03_0,3 / 4 STAGES COMPLETE.
 ID_DIALOG_CHAL_XP_LV80_OPERATOR_02_0,2 / 4 STAGES COMPLETE.
 ID_DIALOG_CHAL_XP_LV80_OPERATOR_01_0,1 / 4 STAGES COMPLETE.
-ID_DIALOG_CHAL_ABLMAT_LV76_FAIL_0,MISSION FAILED. ALL THE CIVILIANS HAVE BEEN TAKEN OUT.
+ID_DIALOG_CHAL_ABLMAT_LV76_FAIL_0,MISSION FAILED. CIVILIANS NOT PROTECTED.
 ID_DIALOG_CHAL_ABLMAT_LV80_OPERATOR_LOSE_0,MISSION FAILED. ALL STAGES HAVE BEEN COMPLETED.
 ID_DIALOG_CHAL_ABLMAT_LV80_OPERATOR_03_0,3 / 4 STAGES COMPLETE.
 ID_DIALOG_CHAL_ABLMAT_LV80_OPERATOR_02_0,2 / 4 STAGES COMPLETE.
@@ -9356,7 +9356,7 @@ ID_DIALOG_CHAL_HEALTHBUCKS_13_OPERATOR_LOSE_0,MISSION FAILED. ALL STAGES HAVE BE
 ID_DIALOG_CHAL_HEALTHBUCKS_13_OPERATOR_03_0,3 / 4 STAGES COMPLETE.
 ID_DIALOG_CHAL_HEALTHBUCKS_13_OPERATOR_02_0,2 / 4 STAGES COMPLETE.
 ID_DIALOG_CHAL_HEALTHBUCKS_13_OPERATOR_01_0,1 / 4 STAGES COMPLETE.
-ID_DIALOG_CHAL_HEALTHBUCKS_14_FAIL_0,MISSION FAILED. ALL THE CIVILIANS HAVE BEEN TAKEN OUT.
+ID_DIALOG_CHAL_HEALTHBUCKS_14_FAIL_0,MISSION FAILED. CIVILIANS NOT PROTECTED.
 ID_DIALOG_CHAL_SHARDS_LV76_OPERATOR_LOSE_0,MISSION FAILED. ALL STAGES HAVE BEEN COMPLETED.
 ID_DIALOG_CHAL_SHARDS_LV76_OPERATOR_03_0,3 / 4 STAGES COMPLETE.
 ID_DIALOG_CHAL_SHARDS_LV76_OPERATOR_02_0,2 / 4 STAGES COMPLETE.
@@ -9432,7 +9432,7 @@ ID_DIALOG_INSANITY_040_M04_W02_1,Psylocke from this wave will always perform her
 ID_DIALOG_INSANITY_040_M05_W01_0,Squirrel Girl from this wave will always perform her ultimate ability.
 ID_DIALOG_INSANITY_040_M05_W01_1,Okoye from this wave will always perform her ultimate ability.
 ID_DIALOG_INSANITY_040_M05_W01_2,M'Baku from this wave will always perform his ultimate ability.
-ID_DIALOG_INSANITY_040_M05_W02_0,Promixa Midnight from this wave will always perform her ultimate ability.
+ID_DIALOG_INSANITY_040_M05_W02_0,Proxima Midnight from this wave will always perform her ultimate ability.
 ID_DIALOG_INSANITY_040_M05_W02_1,Loki from this wave will always perform his special ability.
 ID_DIALOG_INSANITY_040_M05_W04_0,Heimdall from this wave will always perform his ultimate ability.
 ID_DIALOG_INSANITY_040_M05_W04_1,Thor from this wave will always perform his special ability.
@@ -9460,14 +9460,15 @@ ID_DIALOG_INSANITY_040_M08_W04_0,Hawkeye from this wave will always perform his 
 ID_DIALOG_INSANITY_040_M08_W04_1,Luke Cage from this wave will always perform his ultimate ability.
 ID_DIALOG_INSANITY_040_M08_W06_0,Jessica Jones from this wave will always perform her special ability.
 ID_DIALOG_INSANITY_040_M08_W06_1,Daredevil from this wave will always perform his ultimate ability.
-ID_DIALOG_INSANITY_040_M09_W01_0,Cull Obsidian from this wave will always perform his ultimate ability.
-ID_DIALOG_INSANITY_040_M09_W01_1,Human Torch from this wave will always perform his special and ultimate abilities.
-ID_DIALOG_INSANITY_040_M09_W01_2,Taskmaster from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M09_W05_0,Cull Obsidian from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M09_W05_1,Human Torch from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M09_W05_2,Taskmaster from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M09_W07_0,Human Torch from this wave will always perform his special and ultimate abilities.
 ID_DIALOG_INSANITY_040_M09_W02_0,Hulks from this wave will always perform their ultimate ability.
 ID_DIALOG_INSANITY_040_M09_W03_0,Heimdall from this wave will always perform his special and ultimate abilities.
 ID_DIALOG_INSANITY_040_M09_W03_1,Green Goblin from this wave will always perform his ultimate ability.
-ID_DIALOG_INSANITY_040_M09_W03_2,Vulture from this wave will always perform his special and ultimate abilities.
-ID_DIALOG_INSANITY_040_M09_W03_3,Crossbones from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M09_W01_0,Vulture from this wave will always perform his special and ultimate abilities.
+ID_DIALOG_INSANITY_040_M09_W01_1,Crossbones from this wave will always perform his special and ultimate abilities.
 ID_DIALOG_INSANITY_040_M10_W01_0,Nobu from this wave will always perform his ultimate ability.
 ID_DIALOG_INSANITY_040_M10_W01_1,Hand Archers from this wave will always perform their special ability.
 ID_DIALOG_INSANITY_040_M10_W03_0,America Chavez from this wave will always perform her special and ultimate abilities.
@@ -9486,12 +9487,12 @@ ID_DIALOG_INSANITY_040_M12_W01_1,Star-Lord from this wave will always perform hi
 ID_DIALOG_INSANITY_040_M12_W01_2,Jessica Jones from this wave will always perform her special and ultimate abilities.
 ID_DIALOG_INSANITY_040_M12_W02_0,Sabretooths from this wave will always perform their special and ultimate abilities.
 ID_DIALOG_INSANITY_040_M12_W02_1,Wolverine from this wave will always perform his special and ultimate abilities.
-ID_DIALOG_INSANITY_040_M12_W03_0,Punisher from this wave will always perform his special and ultimate abilities.
-ID_DIALOG_INSANITY_040_M12_W03_1,Captain America from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M12_W03_0,Emma Frost from this wave will always perform her special ability every other turn.
 ID_DIALOG_INSANITY_040_M12_W05_0,Iron Man from this wave will always perform his special and ultimate abilities.
 ID_DIALOG_INSANITY_040_M12_W05_1,Shield Trooper from this wave will always perform his special ability.
 ID_DIALOG_INSANITY_040_M12_W07_0,Captain Marvel from this wave will always perform her special and ultimate abilities.
 ID_DIALOG_INSANITY_040_M12_W07_1,Ms. Marvel from this wave will always perform her ultimate ability.
+ID_DIALOG_INSANITY_040_M12_W07_2,Jessica Jones from this wave will always perform her special ability every other turn.
 ID_DIALOG_INSANITY_040_M13_W01_0,Swarm from this wave will always perform his special and ultimate abilities.
 ID_DIALOG_INSANITY_040_M13_W01_1,Kree Nobles from this wave will always perform their special ability.
 ID_DIALOG_INSANITY_040_M13_W02_0,Hydra Grenadiers from this wave will always perform their special ability.

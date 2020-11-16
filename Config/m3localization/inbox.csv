@@ -1221,4 +1221,7 @@ ID_ME_DE_BOUNTYORB_TEASER,Earn partially crafted Superior Gear!
 ID_ME_BO_BOUNTYORB_TEASER,"Commander,\n\nA new orb is on the way with a cornucopia of rewards: the <color=#fff568>Bounty Orb</color>!\n\nThis limited-time orb features partially crafted <color=#fff568>Superior Gear</color> needed for Gear Tier 14 and 15.\n\nYour first chance to carve open Bounty Orbs will be in the upcoming <color=#fff568>Bounty Login Calendar</color> and then the <color=#fff568>Parasitic Symbiosis</color> milestone.\n\nThis gear feast is coming soon, so be on the lookout!"
 ID_ME_NA_RTA_RESTRICTED_LEGS,VS Battle Update
 ID_ME_DE_RTA_RESTRICTED_LEGS,A new test awaits
-ID_ME_BO_RTA_RESTRICTED_LEGS,"Commander,/n/nA new test is coming to real-time matches: <color=#fff568>Restricted VS Battles</color>!/n/nFeatured VS Battle Match modes will now block the use of specific characters. The restricted modes are now available in the Events section./n/nMix up your roster and test your skills in Restricted VS Battles today!"
+ID_ME_BO_RTA_RESTRICTED_LEGS,"Commander,\n\nA new test is coming to real-time matches: <color=#fff568>Restricted VS Battles</color>!\n\nFeatured VS Battle Match modes will now block the use of specific characters. The restricted modes are now available in the Events section.\n\nMix up your roster and test your skills in Restricted VS Battles today!"
+ID_ME_NA_LEVEL_REWARDS_MG,Level Rewards Issue
+ID_ME_DE_LEVEL_REWARDS_MG,Thank you for your understanding
+ID_ME_BO_LEVEL_REWARDS_MG,"Commander,\n\n Following our 4.5.0 release, incorrect rewards were delivered upon reaching Commander Levels 70-75. We have resolved this issue and have attached the rewards you were owed.\n\nThank you for your understanding!"
