@@ -830,3 +830,6 @@ ID_INFO_NA_SALE_THANKSGIVING,Thanksgiving Week Deals
 ID_INFO_DE_SALE_MULTIDAY,Limited-time Deals
 ID_INFO_NA_SALE_BLACKFRIDAY,Black Friday Sale
 ID_INFO_NA_SALE_CYBERMONDAY,Cyber Monday Sale
+ID_INFO_NA_PARASITIC_SYMBIOSIS_MILESTONE,Parasitic Symbiosis
+ID_INFO_DE_PARASITIC_SYMBIOSIS_MILESTONE,Battle with Symbiotes!
+ID_INFO_BO_PARASITIC_SYMBIOSIS_MILESTONE,"Battle with <color=#fff568>Symbiote</color> team members in <color=#fff568>Blitz</color>, <color=#fff568>Arena</color>, and <color=#fff568>Raids</color> to earn points and hit daily milestones that reward:\n\n- Advanced and Superior gear\n- Training Modules\n- Bounty Orb Fragments"

@@ -21792,6 +21792,7 @@
       "global_stats": [
         {
           "apply_if": {
+            "mode": "INSANITY",
             "relationship": "ally",
             "traits": {
               "has_any": [
@@ -77780,6 +77781,7 @@
       "global_stats": [
         {
           "apply_if": {
+            "mode": "INSANITY",
             "relationship": "ally",
             "traits": {
               "has_any": [
