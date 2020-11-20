@@ -80,7 +80,8 @@
           ]
         }
       },
-      "requirements": {}
+      "requirements": {},
+      "isEvent": false
     },
     {
       "raidId": "raid_lvl_30",
@@ -181,7 +182,8 @@
           "loyalty": 1,
           "level": 1
         }
-      }
+      },
+      "isEvent": false
     },
     {
       "raidId": "raid_lvl_35",
@@ -1113,8 +1115,7 @@
           ]
         }
       },
-      "requirements": {},
-      "isEvent": true
+      "requirements": {}
     },
     {
       "raidId": "raid_beta_b",
@@ -1202,8 +1203,7 @@
           ]
         }
       },
-      "requirements": {},
-      "isEvent": true
+      "requirements": {}
     },
     {
       "raidId": "raid_beta_c",
@@ -1291,8 +1291,7 @@
           ]
         }
       },
-      "requirements": {},
-      "isEvent": true
+      "requirements": {}
     },
     {
       "raidId": "raid_beta_d",
@@ -1380,8 +1379,7 @@
           ]
         }
       },
-      "requirements": {},
-      "isEvent": true
+      "requirements": {}
     },
     {
       "raidId": "raid_gamma_a",
@@ -1469,7 +1467,8 @@
           ]
         }
       },
-      "requirements": {}
+      "requirements": {},
+      "isEvent": true
     },
     {
       "raidId": "raid_gamma_b",
@@ -1557,7 +1556,8 @@
           ]
         }
       },
-      "requirements": {}
+      "requirements": {},
+      "isEvent": true
     },
     {
       "raidId": "raid_gamma_c",
@@ -1645,7 +1645,8 @@
           ]
         }
       },
-      "requirements": {}
+      "requirements": {},
+      "isEvent": true
     },
     {
       "raidId": "raid_gamma_d",
@@ -1683,7 +1684,7 @@
       "strikeTeamImages": [],
       "cost": [
         {
-          "res": "ave_key_event01",
+          "res": "ave_key_event03",
           "amount": 14400
         }
       ],
@@ -1733,7 +1734,8 @@
           ]
         }
       },
-      "requirements": {}
+      "requirements": {},
+      "isEvent": true
     }
   ],
   "Groups": [

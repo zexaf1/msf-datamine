@@ -1547,6 +1547,7 @@ ID_OF_DE_ELSA_OFFER_55,Get <color=#fff568>55 Elsa Bloodstone shards</color> and 
 ID_OF_DE_ELSA_OFFER_75,Get <color=#fff568>75 Elsa Bloodstone shards</color> and use her to finish off injured enemies and attack enemies again when she or her allies miss an attack!
 ID_OF_DE_ELSA_OFFER_125,Get <color=#fff568>125 Elsa Bloodstone shards</color> and use her to finish off injured enemies and attack enemies again when she or her allies miss an attack!
 ID_OF_DE_ELSA_OFFER_150,Get <color=#fff568>150 Elsa Bloodstone shards</color> and use her to finish off injured enemies and attack enemies again when she or her allies miss an attack!
+ID_OF_DE_ELSA_OFFER_VAR_SPECIAL,Get <color=#fff568>{var1} Elsa Bloodstone shards</color> and either a <color=#fff568>{var2} or {var3} Red Star Elsa Bloodstone</color> with this special offer!
 ID_GACHA_CRATE_FCO_EMMAFROST_SPECIAL_NAME,Tough Skin Orb
 ID_GACHA_CRATE_FCO_EMMAFROST_SPECIAL_DESCRIPTION,Get up to 180 Emma Frost shards
 ID_GACHA_CRATE_FCO_EMMAFROST_SPECIAL_TOKEN_NAME,Tough Skin Orb Fragments
@@ -2333,7 +2334,6 @@ ID_OF_DE_MYSTERIO_OFFER_55,"Get <color=#fff568>55 Mysterio shards</color> and us
 ID_OF_DE_MYSTERIO_OFFER_75,"Get <color=#fff568>75 Mysterio shards</color> and use him to nullify City Hero abilities, clear enemy positive effects, and spawn Mirror Images when he dies!"
 ID_OF_DE_MYSTERIO_OFFER_125,"Get <color=#fff568>125 Mysterio shards</color> and use him to nullify City Hero abilities, clear enemy positive effects, and spawn Mirror Images when he dies!"
 ID_OF_DE_MYSTERIO_OFFER_150,"Get <color=#fff568>150 Mysterio shards</color> and use him to nullify City Hero abilities, clear enemy positive effects, and spawn Mirror Images when he dies!"
-ID_OF_DE_MYSTERIO_OFFER_VAR,"Get <color=#fff568>{var1} Mysterio shards</color> and use him to nullify City Hero abilities, clear enemy positive effects, and spawn Mirror Images when he dies!"
 ID_GACHA_CRATE_FCO_MYSTIC_375HC_NAME,Mystic Orb
 ID_GACHA_CRATE_FCO_MYSTIC_375HC_DESCRIPTION,Get up to 180 select Mystic character shards
 ID_GACHA_CRATE_FCO_MYSTIC_375HC_TOKEN_NAME,Mystic Orb Fragments
@@ -3011,6 +3011,8 @@ ID_OF_DE_STORM_OFFER_55,"Boost your Mutants team and recruit the ultimate Raid B
 ID_OF_DE_STORM_OFFER_75,"Boost your Mutants team and recruit the ultimate Raid Boss destroyer. Get <color=#fff568>75 Storm shards</color> and use her special to Slow and Stun, then unleash her charged ultimate to wipe out enemies."
 ID_OF_DE_STORM_OFFER_125,"Boost your Mutants team and recruit the ultimate Raid Boss destroyer. Get <color=#fff568>125 Storm shards</color> and use her special to Slow and Stun, then unleash her charged ultimate to wipe out enemies."
 ID_OF_DE_STORM_OFFER_150,"Boost your Mutants team and recruit the ultimate Raid Boss destroyer. Get <color=#fff568>150 Storm shards</color> and use her special to Slow and Stun, then unleash her charged ultimate to wipe out enemies."
+ID_OF_DE_STORM_OFFER_VAR,"Boost your Mutants team and recruit the ultimate Raid Boss destroyer. Get <color=#fff568>{var1} Storm shards</color> and use her special to Slow and Stun, then unleash her charged ultimate to wipe out enemies."
+ID_OF_DE_STORM_OFFER_VAR_SPECIAL,"Get <color=#fff568>{var1} Storm shards</color> and either a <color=#fff568>{var2} or {var3} Red Star Storm</color> with this special offer. Use her special to Slow and Stun, then unleash her charged ultimate to wipe out enemies."
 ID_GACHA_CRATE_FCO_STRYFE_SPECIAL_NAME,Bad Blood Orb
 ID_GACHA_CRATE_FCO_STRYFE_SPECIAL_DESCRIPTION,Get up to 180 Stryfe shards
 ID_GACHA_CRATE_FCO_STRYFE_SPECIAL_TOKEN_NAME,Bad Blood Orb Fragments
@@ -4228,6 +4230,7 @@ ID_OF_DE_CAL_ELITE_4_OFFER_VAR,Get <color=#fff568>{var1} Elite 4 Credits</color>
 ID_OF_NA_CAL_ENERGY_OFFER_01,Energy: 7 Day
 ID_OF_NA_CAL_ENERGY_OFFER_02,Daily Energy
 ID_OF_DE_CAL_ENERGY_OFFER_01,"Get <color=#fff568>1,000 Campaign Energy</color> over 7 days and get <color=#fff568>40% off</color> when you buy this offer! Log in for the next 7 days to collect your rewards."
+ID_OF_DE_CAL_ENERGY_OFFER_VAR,Get <color=#fff568>{var1} Campaign Energy</color> over {var2} days and get <color=#fff568>{var3}% off</color> when you buy this offer! Log in for the next {var2} days to collect your rewards.
 ID_OF_NA_CAL_GOLD_OFFER_01,Gold: 7 Day
 ID_OF_NA_CAL_GOLD_OFFER_02,Daily Gold
 ID_OF_DE_CAL_GOLD_OFFER_01,"Get <color=#fff568>1,000,000 Gold</color> over 7 days and get <color=#fff568>50% off</color> when you buy this offer! Log in for the next 7 days to collect your rewards."
@@ -5586,6 +5589,8 @@ ID_OF_NA_345_RSDRAFT_TEAM_BROTHERHOOD_01,Red Star: Brotherhood
 ID_OF_NA_345_RSDRAFT_TEAM_INHUMAN_01,Red Star: Inhuman
 ID_OF_NA_345_RSDRAFT_TEAM_SUPERNATURAL_01,Red Star: Supernatural
 ID_OF_NA_345_RSDRAFT_TEAM_SINISTERSIX_01,Red Star: Sinister Six
+ID_OF_NA_345_RSDRAFT_TEAM_SHIELDM_01,Red Star: Shield Minion
+ID_OF_DE_345_RSDRAFT_TEAM_SHIELDM_01_VAR,"Get an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> promotion for each of the following characters:\n<color=#fff568>S.H.I.E.L.D. Assault, S.H.I.E.L.D. Trooper, S.H.I.E.L.D. Medic, S.H.I.E.L.D. Operative, and S.H.I.E.L.D. Security</color>"
 ID_OF_DE_345_RSDRAFT_TEAM_XMEN_01_VAR,"Get an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> promotion for each of the following characters:\n<color=#fff568>Cyclops, Colossus, Psylocke, Storm, and Wolverine</color>"
 ID_OF_DE_345_RSDRAFT_TEAM_GUARDIAN_01_VAR,"Get an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> promotion for each of the following characters:\n<color=#fff568>Rocket Raccoon, Groot, Mantis, Gamora, and Drax</color>"
 ID_OF_DE_345_RSDRAFT_TEAM_XFORCE_01_VAR,"Get an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> promotion for each of the following characters:\n<color=#fff568>Deadpool, Cable, X-23, Negasonic, and Domino</color>"
@@ -5653,8 +5658,10 @@ ID_OF_DE_GOLD_PROMOTION_CREDIT_01_VAR,Get <color=#fff568>{var1} Gold Promotion C
 ID_OF_DE_SILVER_PROMOTION_CREDIT_01_VAR,Get <color=#fff568>{var1} Silver Promotion Credits</color> with this offer to help Promote a character of your choice up to 5 Red Stars!
 ID_OF_NA_CAL_PROMO_CREDITS_SILVER_01,Silver Promotion Credits
 ID_OF_NA_CAL_PROMO_CREDITS_GOLD_01,Gold Promotion Credits
+ID_OF_NA_CAL_PROMO_CREDITS_COMBO_01,Silver and Gold Promotion Credits
 ID_OF_DE_CAL_PROMO_CREDITS_GOLD_01_VAR,Get <color=#fff568>{var1} Gold Promotion Credits</color> over {var2} days to help Promote a character of your choice to 6 or 7 Red Stars! Log in for the next {var2} days to collect your rewards.
 ID_OF_DE_CAL_PROMO_CREDITS_SILVER_01_VAR,Get <color=#fff568>{var1} Silver Promotion Credits</color> over {var2} days to help Promote a character of your choice up to 5 Red Stars! Log in for the next {var2} days to collect your rewards.
+ID_OF_DE_CAL_PROMO_CREDITS_SILVER_GOLD_01_VAR,Get <color=#fff568>{var1} Silver Promotion Credits</color> and <color=#fff568>{var2} Gold Promotion Credits</color> over {var3} days! Log in for the next {var3} days to collect your rewards.
 ID_OF_NA_MEGA_4S_BUNDLE_LOKI_01,Mega Loki Offer
 ID_OF_DE_MEGA_4S_BUNDLE_LOKI_01_VAR,Save on this mega deal! Get a <color=#fff568>{var1}-Star ({var2} Shards) Loki</color> with this amazing deal and strengthen your Asgardian team!
 ID_OF_NA_MEGA_4S_BUNDLE_VENOM_01,Mega Venom Offer
@@ -5860,7 +5867,60 @@ ID_OF_DE_LC_POWERARMOR_BUNDLE_01_VAR,"Unlock this <color=#fff568>{var1}-Star Pow
 ID_OF_DE_ANTMAN_OFFER_45,Boost your Avengers squad by adding this tiny Tech Controller to your roster. Get <color=#fff568>45 Ant-Man shards</color> and cripple enemies with Ability Block and Slow with the Giant Man's Stomp.
 ID_OF_NA_SYMBIOTE_FCO_OFFER_1,Symbiote Orb
 ID_OF_DE_SYMBIOTE_FCO_OFFER_1,Save on <color=#fff568>{var1} Symbiote Orbs</color> and strengthen your Symbiote team!
+ID_OF_NA_CAL_TRAINING_OFFER_VAR,Training: 5 Day
+ID_OF_DE_CAL_TRAINING_OFFER_VAR,Get <color=#fff568>{var1} Training Orbs</color> over {var2} days and get <color=#fff568>{var3}% off</color> when you buy this offer! Log in for the next {var2} days to collect your rewards.
+ID_OF_NA_RESOURCE_OFFER,Resource Offer
+ID_OF_DE_RESOURCE_OFFER,Save over <color=#fff568>{var1}%</color> when you buy this resource offer!
+ID_OF_NA_PCATBIT_DRAFT,Advanced Basic Catalyst Draft
+ID_OF_DE_PCATBIT_DRAFT,"Save up to <color=#fff568>{var1}%</color> when you buy now and get an equal chance of receiving <color=#fff568>{var2}, {var3}, or {var4}</color> Advanced Basic Catalyst Parts when you buy now!"
+ID_OF_NA_OCATBIT_DRAFT,Superior Basic Catalyst Draft
+ID_OF_DE_OCATBIT_DRAFT,"Save up to <color=#fff568>{var1}%</color> when you buy now and get an equal chance of receiving <color=#fff568>{var2}, {var3}, or {var4}</color> Superior Basic Catalyst Parts when you buy now!"
+ID_OF_NA_ELITE_WAR_CREDIT_OFFER_VAR,Elite War Credit Offer
+ID_OF_DE_ELITE_WAR_CREDIT_OFFER_VAR,Save over <color=#fff568>{var1}%</color> with this offer and power up your roster toward Gear Tier 15 with <color=#fff568>{var2} Elite War Credits</color>!
+ID_OF_NA_BOUNTY_ORB_OFFER,Bounty Orb Offer
+ID_OF_DE_BOUNTY_ORB_OFFER,Save over <color=#fff568>{var1}%</color> and get <color=#fff568>{var2} Bounty Orbs</color> to help gear up your roster toward Gear Tier 15!
+ID_OF_NA_YELLOWJACKET_FCO,Sharp Sting Orb Offer
+ID_OF_DE_YELLOWJACKET_FCO_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Yellowjacket</color> with this offer! Each orb has a chance to earn up to 180 shards. Unlock The Pym Tech Blaster who won't buzz off! Deal heavy damage, steal enemy Health, and increase Pym Tech damage in Dark Dimension."
+ID_OF_DE_YELLOWJACKET_FCO_OFFER_VAR_O,"Save on <color=#fff568>{var1} Sharp Sting Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Yellowjacket shards</color>. Unlock The Pym Tech Blaster who won't buzz off! Deal heavy damage, steal enemy Health, and increase Pym Tech damage in Dark Dimension."
+ID_OF_DE_YELLOWJACKET_SINGLE_FCO_OFFER_VAR_O,"Save on <color=#fff568>{var1} Sharp Sting Orb</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Yellowjacket shards</color>. Unlock The Pym Tech Blaster who won't buzz off! Deal heavy damage, steal enemy Health, and increase Pym Tech damage in Dark Dimension."
+ID_OF_NA_YELLOWJACKET_ABILITY_OFFER_1,Yellowjacket: Ability
+ID_OF_DE_YELLOWJACKET_ABILITY_OFFER_50,Get this amazing bundle and power up Yellowjacket. Get over <color=#fff568>50%</color> off when you buy now!
+ID_OF_NA_YELLOWJACKET_GEAR_OFFER_1,Yellowjacket: Gear
+ID_OF_DE_YELLOWJACKET_GEAR_OFFER_50,Get this amazing bundle and gear up Yellowjacket. Get over <color=#fff568>50%</color> off when you buy now!
+ID_OF_NA_YELLOWJACKET_GOLD_OFFER_1,Yellowjacket: Gold
+ID_OF_DE_YELLOWJACKET_GOLD_OFFER_50,Get this amazing bundle and level up Yellowjacket. Get over <color=#fff568>50%</color> off when you buy now!
+ID_OF_NA_YELLOWJACKET_TRAINING_OFFER_1,Yellowjacket: Training
+ID_OF_DE_YELLOWJACKET_TRAINING_OFFER_40,Get this amazing bundle and level up Yellowjacket. Get over <color=#fff568>40%</color> off when you buy now!
+ID_OF_NA_YELLOWJACKET_OFFER_1,Deadly Drone Offer
+ID_OF_DE_YELLOWJACKET_OFFER_VAR_S,"Recruit a <color=#fff568>{var1}-star Yellowjacket</color> with this offer! Deal heavy damage, steal enemy Health, and increase Pym Tech damage in Dark Dimension."
+ID_OF_DE_YELLOWJACKET_OFFER_VAR,"Get <color=#fff568>{var1} Yellowjacket shards</color> and deal heavy damage, steal enemy Health, and increase Pym Tech damage in Dark Dimension."
 ID_GACHA_CRATE_FALL2020_NAME,Bounty Orb
 ID_GACHA_CRATE_FALL2020_DESCRIPTION,Contains partially crafted Superior Gear
 ID_GACHA_CRATE_FALL2020_TOKEN_NAME,Bounty Orb Fragments
 ID_GACHA_CRATE_FALL2020_TOKEN_DESCRIPTION,Collect Bounty Orb Fragments to earn a Bounty Orb
+ID_GACHA_CRATE_FCO_SNOWGLOBE2020_NAME,Snow Globe Orb
+ID_GACHA_CRATE_FCO_SNOWGLOBE2020_DESCRIPTION,Contains up to 8 shards of a marquee character
+ID_GACHA_CRATE_FCO_SNOWGLOBE2020_TOKEN_NAME,Snow Globe Orb Fragments
+ID_GACHA_CRATE_FCO_SNOWGLOBE2020_TOKEN_DESCRIPTION,Collect Snow Globe Orb Framents in the Snow Globe Login Calendar to earn Snow Globe Orbs.
+ID_OF_DE_MYSTERIO_OFFER_VAR,"Get <color=#fff568>{var1} Mysterio shards</color> and use him to nullify City Hero abilities, clear enemy positive effects, and spawn Mirror Images when he dies!"
+ID_OF_DE_SHOCKER_OFFER_VAR,Get <color=#fff568>{var1} Shocker shards</color> and use him to pierce enemy armor with single or area of effect attacks and amp up Sinister Six allies with Offense Up.
+ID_OF_DE_GREENGOBLIN_OFFER_VAR,Strengthen your Spider-Verse and Villains teams with the ultimate form of Norman Osborn. Get <color=#fff568>{var1} Green Goblin shards</color> and unleash the power of his devastating explosives and ability to target enemies with Stealth.
+ID_OF_NA_NOVEMBER2020_RED_STAR_DRAFT_5,5 Red Star Draft
+ID_OF_DE_NOVEMBER2020_RED_STAR_DRAFT_5,Save <color=#fff568>over 90%</color> with this spectacular offer and get an equal chance of receiving a guaranteed <color=#fff568>5 Red Star</color> for one of the following: <color=#fff568>Carnage</color> / <color=#fff568>Taskmaster</color> / <color=#fff568>Negasonic</color> / <color=#fff568>Thor</color> / <color=#fff568>Electro</color>
+ID_OF_NA_NOVEMBER2020_100_SHARD_DRAFT,Black Friday Three Star Draft
+ID_OF_DE_NOVEMBER2020_100_SHARD_DRAFT,Save <color=#fff568>over 90%</color> with this spectacular offer and get an equal chance of receiving a <color=#fff568>3 star (100 shards) unlock</color> for one of the following: <color=#fff568>Captain Marvel</color> / <color=#fff568>Taskmaster</color> / <color=#fff568>Cyclops</color>
+ID_OF_NA_UNIQUES_BUNDLE,Superior Unique Gear Draft
+ID_OF_DE_UNIQUES_BUNDLE_01_VAR,Save on this spectacular offer and get an equal chace of receiving <color=#fff568>{var1} Superior Unique</color> gear pieces of one of the following: <color=#fff568>Superior Alien Spores</color> / <color=#fff568>Superior Titanium Alloy</color> / <color=#fff568>Superior Miasma</color>
+ID_OF_DE_UNIQUES_BUNDLE_02_VAR,Save on this spectacular offer and get an equal chace of receiving <color=#fff568>{var1} Superior Unique</color> gear pieces of one of the following: <color=#fff568>Superior Ballistic Weave</color> / <color=#fff568>Superior Palladium</color> / <color=#fff568>Superior Adamantium</color>
+ID_GACHA_CRATE_FCO_SYMBIOTE_450HC_NAME,Symbiote Orb
+ID_GACHA_CRATE_FCO_SYMBIOTE_450HC_DESCRIPTION,Get up to 145 select Symbiotes character shards
+ID_GACHA_CRATE_FCO_SYMBIOTE_450HC_TOKEN_NAME,Symbiote Orb Fragments
+ID_GACHA_CRATE_FCO_SYMBIOTE_450HC_TOKEN_DESCRIPTION,Collect Symbiote Orb Fragments to earn a Symbiote Orb.
+ID_OF_NA_NEWYEAR_MEGA_DRAFT,Mega Draft
+ID_OF_DE_NEWYEAR_MEGA_DRAFT_VAR,"Save up to <color=#fff568>{var1}%</color> when you buy now and get an equal chance of receiving <color=#fff568>{var2}, {var3}, or {var4}</color> Mega Orbs when you buy now!"
+ID_OF_NA_NAUGHTYORNICE_DUAL_DRAFT,Dual: Naughty or Nice Draft
+ID_OF_DE_NAUGHTYORNICE_DUAL_DRAFT,"Save <color=#fff568>over {var1}%</color> with this spectacular offer and take advantage of receiving <color=#fff568>{var2} shards, and a {var3} Red Star</color> of one of these Naughty or Nice Poll characters!"
+ID_OF_NA_MEGA_BUNDLE_04,Training Mega Orb Bundle
+ID_OF_DE_MEGA_BUNDLE_04,"Save <color=#fff568>over {var1}%</color> on this amazing offer! Strengthen your roster with <color=#fff568>{var2} Mega Orbs</color> and <color=#fff568>{var3} Training Orbs</color> when you buy now! "
+ID_OF_NA_CAL_ELITE_4_OFFER_VAR_V2,Elite a Day Offer
+ID_OF_DE_CAL_ELITE_4_OFFER_VAR_V2,Get <color=#fff568>{var1} Elite 4 Orb each day</color> over {var2} days and save up to <color=#fff568>{var3}% off</color> when you buy this offer! Log in for the next {var2} days to collect your rewards.

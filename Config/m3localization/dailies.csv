@@ -152,8 +152,16 @@ ID_LOGIN_OFFER_DE_ADVANCED_CATALYST_05D,Log in 5 days to claim Advanced Basic Ca
 ID_LOGIN_OFFER_DE_ADVANCED_CATALYST_07D,Log in 7 days to claim Advanced Basic Catalyst Parts from your premium calendar!
 ID_LOGIN_OFFER_DE_ADVANCED_CATALYST_10D,Log in 10 days to claim Advanced Basic Catalyst Parts from your premium calendar!
 ID_LOGIN_OFFER_NA_ELITE_4,Elite 4 Credits
+ID_LOGIN_OFFER_DE_ELITE_4_5D,Log in 5 days to claim Elite 4 Credits from your premium calendar!
+ID_LOGIN_OFFER_DE_ELITE_4_7D,Log in 7 days to claim Elite 4 Credits from your premium calendar!
+ID_LOGIN_OFFER_DE_ELITE_4_21D,Log in 21 days to claim Elite 4 Credits from your premium calendar!
 ID_LOGIN_OFFER_DE_ELITE_4,Log in 14 days to claim Elite 4 Credits from your premium calendar!
+ID_LOGIN_OFFER_DE_ELITE_4_28D,Log in 28 days to claim Elite 4 Credits from your premium calendar!
 ID_LOGIN_OFFER_NA_ELITE_5,Elite 5 Credits
+ID_LOGIN_OFFER_DE_ELITE_5_5D,Log in 5 days to claim Elite 5 Credits from your premium calendar!
+ID_LOGIN_OFFER_DE_ELITE_5_7D,Log in 7 days to claim Elite 5 Credits from your premium calendar!
+ID_LOGIN_OFFER_DE_ELITE_5_21D,Log in 21 days to claim Elite 5 Credits from your premium calendar!
+ID_LOGIN_OFFER_DE_ELITE_5_28D,Log in 28 days to claim Elite 5 Credits from your premium calendar!
 ID_LOGIN_OFFER_DE_ELITE_5,Log in 14 days to claim Elite 5 Credits from your premium calendar!
 ID_LOGIN_OFFER_NA_ENERGY,Energy
 ID_LOGIN_OFFER_DE_ENERGY_03D,Log in 3 days to claim Campaign Energy from your premium calendar!
@@ -200,6 +208,7 @@ ID_LOGIN_OFFER_DE_PREMIUM_07D,Log in 7 days to claim Premium Orbs from your prem
 ID_LOGIN_OFFER_DE_PREMIUM_10D,Log in 10 days to claim Premium Orbs from your premium calendar!
 ID_LOGIN_OFFER_NA_PROMO,Promotion
 ID_LOGIN_OFFER_DE_PROMO_28D,Log in 28 days to claim Silver Promo Credits from your premium calendar!
+ID_LOGIN_OFFER_DE_PROMO_COMBO_23D,Log in 23 days to claim Silver and Gold Promo Credits from your premium calendar!
 ID_LOGIN_OFFER_NA_RAID_ENERGY,Raid
 ID_LOGIN_OFFER_DE_RAID_ENERGY_03D,Log in 3 days to claim Raid Energy from your premium calendar!
 ID_LOGIN_OFFER_DE_RAID_ENERGY_05D,Log in 5 days to claim Raid Energy from your premium calendar!
@@ -256,6 +265,12 @@ ID_LOGIN_OFFER_DE_GENERIC_ORB_12D,Log in 12 days to claim orbs from your premium
 ID_LOGIN_DE_PROMO_GOLD_28D,Log in 28 days to claim Gold Promo Credits from your calendar!
 ID_LOGIN_OFFER_NA_ISO8_ENERGY,Iso-8 Campaign Energy
 ID_LOGIN_OFFER_DE_ISO8_ENERGY_21D,Log in 21 days to claim Iso-8 Campaign Energy from your premium calendar!
+ID_LOGIN_OFFER_DE_ISO8_ENERGY_7D,Log in 7 days to claim Iso-8 Campaign Energy from your premium calendar!
+ID_LOGIN_OFFER_DE_ISO8_ENERGY_14D,Log in 14 days to claim Iso-8 Campaign Energy from your premium calendar!
+ID_LOGIN_OFFER_DE_ISO8_ENERGY_28D,Log in 28 days to claim Iso-8 Campaign Energy from your premium calendar!
+ID_LOGIN_OFFER_NA_TRAINING_ORB,Training Orb
+ID_LOGIN_OFFER_DE_TRAINING_ORB_5D,Log in 5 days to claim Training Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_TRAINING_ORB_7D,Log in 7 days to claim Training Orbs from your premium calendar!
 ID_LOGIN_VALUABLELESSONS_NA,Valuable Lessons
 ID_LOGIN_VALUABLELESSONS_DE,Log in every day to earn wonderful rewards in celebration of Valuable Lessons event!
 ID_LOGIN_CATALYSTBLAST_NA,Catalyst Blast
@@ -278,3 +293,5 @@ ID_LOGIN_DE_FALL2020,"Log in for 7 consecutive days to earn up to 14 Bounty Orbs
 ID_LOGIN_LEVEL80_NA,Level 80
 ID_LOGIN_LEVEL80_DE,"In honor of level 80, log in every day to earn more Campaign Energy!"
 ID_LOGIN_LEVEL80_DE_V2,"In honor of level 80, log in every day to earn more Campaign Energy and Iso-8 Campaign Energy!"
+ID_LOGIN_NA_WINTER,Snow Globe
+ID_LOGIN_DE_WINTER,Log in for 14 consecutive days to earn up to 20 Snow Globe Orbs and 3 Gold Orbs.

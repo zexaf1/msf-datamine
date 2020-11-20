@@ -9379,10 +9379,12 @@ ID_DIALOG_INSANITY_040_M03_W01_0,Black Bolt from this wave will always perform h
 ID_DIALOG_INSANITY_040_M03_W01_1,Cables from this wave will always perform their special ability.
 ID_DIALOG_INSANITY_040_M03_W02_0,Agent Coulson from this wave will always perform his special ability.
 ID_DIALOG_INSANITY_040_M03_W02_1,Spider-Man (Miles) from this wave will always perform his ultimate ability.
+ID_DIALOG_INSANITY_040_M03_W02_2,Jessica Jones from this wave will always perform her special ability every other turn.
 ID_DIALOG_INSANITY_040_M03_W03_0,Negasonic from this wave will always perform her special ability.
 ID_DIALOG_INSANITY_040_M03_W03_1,Quake from this wave will always perform her ultimate ability.
 ID_DIALOG_INSANITY_040_M03_W05_0,Deadpool from this wave will always perform his special ability.
 ID_DIALOG_INSANITY_040_M03_W05_1,Spider-Man from this wave will always perform his special ability.
+ID_DIALOG_INSANITY_040_M03_W06_0,Iron Man from this wave will always perform his ultimate ability every other turn.
 ID_DIALOG_INSANITY_040_M03_W07_0,Negasonic from this wave will always perform her special ability.
 ID_DIALOG_DOOM_SHOWCASE_1_INTRO_0,Hours after Ultimus was banished to the M'Kraan Crystal dimension...
 ID_DIALOG_DOOM_SHOWCASE_1_INTRO_1,S.T.R.I.K.E.'s assault has concluded in a predictable manner. With Ultimus banished his mental hold over the corrupted is no more.
