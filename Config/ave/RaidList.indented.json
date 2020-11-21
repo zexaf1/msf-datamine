@@ -80,8 +80,7 @@
           ]
         }
       },
-      "requirements": {},
-      "isEvent": false
+      "requirements": {}
     },
     {
       "raidId": "raid_lvl_30",
@@ -182,8 +181,7 @@
           "loyalty": 1,
           "level": 1
         }
-      },
-      "isEvent": false
+      }
     },
     {
       "raidId": "raid_lvl_35",
@@ -274,8 +272,7 @@
           ]
         }
       },
-      "requirements": {},
-      "isEvent": false
+      "requirements": {}
     },
     {
       "raidId": "raid_lvl_40",
@@ -395,8 +392,7 @@
           "level": 1,
           "loyalty": 1
         }
-      },
-      "isEvent": false
+      }
     },
     {
       "raidId": "raid_lvl_50_v2",
@@ -488,8 +484,7 @@
           ]
         }
       },
-      "requirements": {},
-      "isEvent": false
+      "requirements": {}
     },
     {
       "raidId": "raid_lvl_65",
@@ -581,8 +576,7 @@
           ]
         }
       },
-      "requirements": {},
-      "isEvent": false
+      "requirements": {}
     },
     {
       "raidId": "raid_lvl_70",
@@ -1467,8 +1461,7 @@
           ]
         }
       },
-      "requirements": {},
-      "isEvent": true
+      "requirements": {}
     },
     {
       "raidId": "raid_gamma_b",
@@ -1684,7 +1677,7 @@
       "strikeTeamImages": [],
       "cost": [
         {
-          "res": "ave_key_event03",
+          "res": "ave_key_event01",
           "amount": 14400
         }
       ],
