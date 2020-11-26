@@ -338,6 +338,8 @@ ID_MOTD_NA_TRAINING,Train Station: Now Live!
 ID_MOTD_DE_TRAINING,Battle for a chance to win Training Orbs
 ID_MOTD_NA_DOUBLETRAINING,Train And Gain
 ID_MOTD_DE_DOUBLETRAINING,Increased Training Modules from Campaigns!
+ID_MOTD_NA_BONUS_XP,XP Throttle
+ID_MOTD_DE_BONUS_XP,Doubled Commander XP from Campaigns!
 ID_MOTD_NA_AIMCONTROL_INFECT,Contagion: Now Live!
 ID_MOTD_DE_AIMCONTROL_INFECT,Battle for a chance to win A.I.M. Infector shards
 ID_MOTD_NA_AIMDMG_OFFENSE,Science Project: Now Live!

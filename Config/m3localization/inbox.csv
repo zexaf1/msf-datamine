@@ -684,6 +684,9 @@ ID_ME_BO_REENERGIZE_50,The cost to purchase <color=#fff568>120 Campaign Energy</
 ID_ME_NA_DOUBLETRAINING,Train and Gain
 ID_ME_DE_DOUBLETRAINING,Increased Training Modules from Campaign!
 ID_ME_BO_DOUBLETRAINING,"Commander,\n\nFor a limited time earn <color=#fff568>double</color> Training Modules from Campaigns for the next <color=#fff568>24 hours</color>.\n\nHurry and earn more Training Modules to upgrade your characters!"
+ID_ME_NA_BONUS_XP,XP Throttle
+ID_ME_DE_BONUS_XP,Doubled Commander XP from Campaigns!
+ID_ME_BO_BONUS_XP,"Commander,\n\nFor a limited time earn <color=#fff568>2x</color> Commander XP from Campaigns.\n\nEarn more Commander XP to level up faster!"
 ID_ME_NA_10FOR10_TEASER,Coming Soon: 10 for 10
 ID_ME_DE_10FOR10_TEASER,Limited time only!
 ID_ME_BO_10FOR10_TEASER,"Commander,\n\nBe on the lookout for a limited time deal where you will be able to spend <color=#fff568>10 Power Cores</color> to get <color=#fff568>10 shards</color> of a character currently available in Campaign Missions.\n\nCheck back soon for this limited time deal!"
@@ -1243,6 +1246,21 @@ ID_ME_BO_RTA_RESTRICTED_LEGS,"Commander,\n\nA new test is coming to real-time ma
 ID_ME_NA_LEVEL_REWARDS_MG,Level Rewards Issue
 ID_ME_DE_LEVEL_REWARDS_MG,Thank you for your understanding
 ID_ME_BO_LEVEL_REWARDS_MG,"Commander,\n\n Following our 4.5.0 release, incorrect rewards were delivered upon reaching Commander Levels 70-75. We have resolved this issue and have attached the rewards you were owed.\n\nThank you for your understanding!"
+ID_ME_NA_XMEN_REVEAL_BLOG,X-Sneak Peek Week
+ID_ME_DE_XMEN_REVEAL_BLOG,Blog Series
+ID_ME_BO_XMEN_REVEAL_BLOG,"Commander,\n\nIt's <color=#fff568>X-Sneak Peek Week!</color>\n\nWe're previewing details around the forthcoming Astonishing X-Men through a series of blogs this week.\n\nVisit our blog right now to check out today's featured character!"
 ID_ME_NA_DARKDIMENSION_4_CELEBRATION,Dark Dimension IV Celebration
 ID_ME_DE_DARKDIMENSION_4_CELEBRATION,Who will finish first?
 ID_ME_BO_DARKDIMENSION_4_CELEBRATION,"Commander,\n\n<color=#fff568>Dark Dimension IV</color>'s opening is nearly upon us! To honor the first Commander who conquers this immense challenge, we'll be holding a <color=#fff568>celebration</color> fit for Dormammu himself. Here are the details:\n\n<color=#fff568>Login Calendar</color>\nThe first conqueror of Dark Dimension IV will choose a character to be featured in a future Login Calendar. This limited-time calendar will reward a total of 100 character shards (character details below), in addition to other rewards.\n\n<color=#fff568>Blitz</color>\nBased on characters used by the first finisher, 3 social polls will be voted on by the community, and the winners will be featured in Blitzes that reward Red Stars for the Blitz character.\n\n<color=#fff568>Events</color>\nBe on the lookout for a slew of Bonus Events and a special edition of the 10-for-10 offer, both of which will feature characters used by the first finisher.\n\n<color=#fff568>In-Game Enshrinement</color>\nA Dark Dimension tradition: the winner will live on forever in MARVEL Strike Force infamy as a part of the in-game environment!\n\n<color=#fff568>Character Selection</color>\nCharacters eligible to be selected by the winner or featured in these events must have been released before November 24, 2020, and must have been released via Blitz, Campaign mode, Event Campaign, or Raid.\n\nGood luck to all those who dare attempt Dark Dimension IV!"
+ID_ME_NA_PYMTECH_RS_FEATURING,Red Star Featuring
+ID_ME_DE_PYMTECH_RS_FEATURING,Get supersized with Red Stars!
+ID_ME_BO_PYMTECH_RS_FEATURING,"Commander,\n\nThe Red Star Orbs have been injected with Pym Particles!\n\nFor a limited-time, <color=#fff568>all Red Star Orbs</color> have an increased drop rate of 3% for each of the following <color=#fff568>Pym Tech</color> characters:\n\n- Ant-Man\n- Wasp\n- Stature\n- Ghost\n- Yellowjacket\n\nGrow your Pym Tech team power with Red Stars!"
+ID_ME_NA_PYMTECH_RS_ENDING,Red Star feat. Pym Tech
+ID_ME_DE_PYMTECH_RS_ENDING,1 day left!
+ID_ME_BO_PYMTECH_RS_ENDING,"Commander,\n\n<color=#fff568>Pym Tech</color> characters will only be featured in Red Star Orbs for 1 more day! Hurry and open Red Star Orbs while the drop rate is still 3% for each of the following characters:\n\n- Ant-Man\n- Wasp\n- Stature\n- Ghost\n- Yellowjacket"
+ID_ME_NA_500PATCHNOTES_TEASER,Update Coming Soon
+ID_ME_DE_500PATCHNOTES_TEASER,Prepare yourself
+ID_ME_BO_500PATCHNOTES_TEASER,"Commander,\n\n A new MARVEL Strike Force update is coming soon, including:\n\n- Real-Time Arena & Mojo's Mayhem\n- 6 new playable characters\n- Battle Sim for Blitz\n- Holiday Event and Sales\n- New Event Campaign\n- And more!\n\nGet ready for these and other big changes coming soon!"
+ID_ME_NA_DECEMBER_CALENDAR,Special December Calendar
+ID_ME_DE_DECEMBER_CALENDAR,A blizzard of Cyclops shards!
+ID_ME_BO_DECEMBER_CALENDAR,"Commander,\n\nShovel up an avalanche of rewards with a special calendar featuring <color=#fff568>Cyclops!</color> Starting <color=#fff568>December 1, 12:00AM (local time)</color>, log in every day for daily rewards including Cyclops character shards.\n\nThis special calendar will reward <color=#fff568>120 character shards</color> instead of the usual 55 and the quantities are spaced out more evenly, causing the final day's reward to be lower. Future calendars will revert back to 55 shards and the typical reward structure.\n\nRecruit and rank up Cyclops!"

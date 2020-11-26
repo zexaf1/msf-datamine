@@ -164,6 +164,58 @@
           "tier": 14
         }
       }
+    },
+    {
+      "raidId": "insanity_040",
+      "name": "ID_INSANITY_NAME_04",
+      "duration": 24,
+      "total_rooms": 30,
+      "total_missions": 15,
+      "description": "ID_INSANITY_DESC_04",
+      "details": null,
+      "image": "Insanity_Event_Card_DD4",
+      "mapBgImageTopLeft": "raid_Insanity_Map_TL.png",
+      "mapBgImageTopRight": "raid_Insanity_Map_TR.png",
+      "mapBgImageBottomLeft": "raid_Insanity_Map_BL.png",
+      "mapBgImageBottomRight": "raid_Insanity_Map_BR.png",
+      "mapOverlayPrefabName": "VFX_Ui_Raids_Bg_Insanity_Prefab",
+      "startNodePosition": {
+        "x": 1000,
+        "y": 1000
+      },
+      "scrollBoundarySize": {
+        "x": 4096,
+        "y": 4096
+      },
+      "nearZoom": 4,
+      "farZoom": 10,
+      "backgroundParallaxDelta": 0.5,
+      "recommendedPlayerLevel": "80",
+      "player_limit": 24,
+      "group": null,
+      "isOperation": false,
+      "stCount": 3,
+      "stPlayerLimit": 8,
+      "stNextTeamUnlockThreshold": 0,
+      "allianceProgressText": null,
+      "strikeTeamImages": [],
+      "cost": [],
+      "objectives": [],
+      "alliance_rewards": [],
+      "percent_complete_thresholds": [],
+      "consolation_reward": "",
+      "tier_rewards": {},
+      "requirements": {},
+      "filters": {
+        "description": "ID_REQUIRES_GEAR_TIER_15",
+        "shortDescription": "ID_REQUIRES_RESTRICTION_GEAR_TIER_15",
+        "longDescription": "",
+        "previewDescription": "",
+        "quantity": 5,
+        "filters": {
+          "tier": 15
+        }
+      }
     }
   ],
   "Groups": []

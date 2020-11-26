@@ -8707,8 +8707,8 @@
       "ID": "insanity_040_02",
       "locNameKey": "ID_MISSION_INSANITY_01_02_NAME",
       "locDescriptionName": "ID_MISSION_INSANITY_040_01_DESC",
-      "mapName": "Env_Jungle_merged",
-      "timeOfDay": "SUNSET",
+      "mapName": "Env_HellsKitchen_RoofTop_merged",
+      "timeOfDay": "NIGHT",
       "Settings": [
         {
           "Power": 0,
@@ -8716,12 +8716,138 @@
           "CompactWave": []
         },
         {
-          "Power": 3534910,
-          "TotalHealth": 37908378,
+          "Power": 3526871,
+          "TotalHealth": 38840035,
           "CompactWave": [
             {
-              "HeroId": "SquirrelGirl",
-              "Power": 102042,
+              "HeroId": "GhostRider",
+              "Power": 101352,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                7,
+                6,
+                4,
+                1,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_0_e_0"
+            },
+            {
+              "HeroId": "MrSinister",
+              "Power": 115614,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                7,
+                6,
+                6,
+                1,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_0_e_1"
+            },
+            {
+              "HeroId": "RocketRaccoon",
+              "Power": 104664,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                7,
+                6,
+                6,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_0_e_2"
+            },
+            {
+              "HeroId": "DoctorStrange",
+              "Power": 72308,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                7,
+                6,
+                -1,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_0_e_3"
+            },
+            {
+              "HeroId": "StarLord",
+              "Power": 107890,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                7,
+                6,
+                6,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_0_e_4"
+            },
+            {
+              "HeroId": "ElsaBloodstone",
+              "Power": 76683,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                7,
+                6,
+                -1,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_0_e_5"
+            },
+            {
+              "HeroId": "Drax",
+              "Power": 109057,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                7,
+                6,
+                6,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_0_e_6"
+            },
+            {
+              "HeroId": "Hela",
+              "Power": 99808,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -8735,137 +8861,11 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_0_e_0"
-            },
-            {
-              "HeroId": "AmericaChavez",
-              "Power": 109878,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 5,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                6,
-                6,
-                6,
-                4,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_0_e_1"
-            },
-            {
-              "HeroId": "AmericaChavez",
-              "Power": 112887,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 5,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                6,
-                6,
-                6,
-                4,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_0_e_2"
-            },
-            {
-              "HeroId": "MsMarvel",
-              "Power": 109781,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 5,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                6,
-                6,
-                6,
-                1,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_0_e_3"
-            },
-            {
-              "HeroId": "Okoye",
-              "Power": 112230,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 5,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                6,
-                6,
-                6,
-                4,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_0_e_4"
-            },
-            {
-              "HeroId": "BlackPanther",
-              "Power": 97094,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 5,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                6,
-                6,
-                6,
-                1,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_0_e_5"
-            },
-            {
-              "HeroId": "MBaku",
-              "Power": 117619,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 5,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                6,
-                6,
-                6,
-                4,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_0_e_6"
-            },
-            {
-              "HeroId": "ProximaMidnight",
-              "Power": 115622,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 5,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                6,
-                6,
-                6,
-                4,
-                0,
-                0
-              ],
               "WavePosition": "s_1_wl_0_w_1_e_0"
             },
             {
-              "HeroId": "Loki",
-              "Power": 59694,
+              "HeroId": "Graviton",
+              "Power": 105806,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -8874,16 +8874,16 @@
               "Abilities": [
                 6,
                 6,
-                -1,
-                -1,
+                6,
+                4,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_1_e_1"
             },
             {
-              "HeroId": "Thor",
-              "Power": 99536,
+              "HeroId": "Graviton",
+              "Power": 108423,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -8900,8 +8900,8 @@
               "WavePosition": "s_1_wl_0_w_1_e_2"
             },
             {
-              "HeroId": "Thor",
-              "Power": 101497,
+              "HeroId": "Mysterio",
+              "Power": 107637,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -8918,8 +8918,8 @@
               "WavePosition": "s_1_wl_0_w_1_e_3"
             },
             {
-              "HeroId": "Heimdall",
-              "Power": 106634,
+              "HeroId": "Pyro",
+              "Power": 101909,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -8936,8 +8936,8 @@
               "WavePosition": "s_1_wl_0_w_1_e_4"
             },
             {
-              "HeroId": "Heimdall",
-              "Power": 109220,
+              "HeroId": "Blob",
+              "Power": 113903,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -8954,8 +8954,8 @@
               "WavePosition": "s_1_wl_0_w_1_e_5"
             },
             {
-              "HeroId": "Thanos",
-              "Power": 121995,
+              "HeroId": "Toad",
+              "Power": 108436,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -8972,8 +8972,8 @@
               "WavePosition": "s_1_wl_0_w_1_e_6"
             },
             {
-              "HeroId": "Sif",
-              "Power": 110848,
+              "HeroId": "Graviton",
+              "Power": 108423,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -8990,8 +8990,8 @@
               "WavePosition": "s_1_wl_0_w_2_e_0"
             },
             {
-              "HeroId": "CullObsidian",
-              "Power": 107944,
+              "HeroId": "Pyro",
+              "Power": 101909,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -9001,15 +9001,15 @@
                 6,
                 6,
                 6,
-                1,
+                4,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_2_e_1"
             },
             {
-              "HeroId": "Groot",
-              "Power": 100619,
+              "HeroId": "Toad",
+              "Power": 108436,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -9026,8 +9026,8 @@
               "WavePosition": "s_1_wl_0_w_2_e_2"
             },
             {
-              "HeroId": "Heimdall",
-              "Power": 114352,
+              "HeroId": "Graviton",
+              "Power": 112664,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -9044,8 +9044,8 @@
               "WavePosition": "s_1_wl_0_w_3_e_0"
             },
             {
-              "HeroId": "Thor",
-              "Power": 69453,
+              "HeroId": "GhostRider",
+              "Power": 116563,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -9054,16 +9054,16 @@
               "Abilities": [
                 6,
                 6,
-                -1,
-                4,
+                6,
+                1,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_3_e_1"
             },
             {
-              "HeroId": "Gamora",
-              "Power": 106536,
+              "HeroId": "ElsaBloodstone",
+              "Power": 115498,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -9080,8 +9080,8 @@
               "WavePosition": "s_1_wl_0_w_3_e_2"
             },
             {
-              "HeroId": "BlackWidow",
-              "Power": 102109,
+              "HeroId": "DoctorStrange",
+              "Power": 104002,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -9098,8 +9098,8 @@
               "WavePosition": "s_1_wl_0_w_3_e_3"
             },
             {
-              "HeroId": "BlackPanther",
-              "Power": 94952,
+              "HeroId": "Pyro",
+              "Power": 105228,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -9109,15 +9109,15 @@
                 6,
                 6,
                 6,
-                1,
+                4,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_3_e_4"
             },
             {
-              "HeroId": "BlackPanther",
-              "Power": 97094,
+              "HeroId": "Toad",
+              "Power": 74273,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -9126,16 +9126,16 @@
               "Abilities": [
                 6,
                 6,
-                6,
-                1,
+                -1,
+                4,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_3_e_5"
             },
             {
-              "HeroId": "MBaku",
-              "Power": 111801,
+              "HeroId": "Drax",
+              "Power": 109994,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -9152,8 +9152,8 @@
               "WavePosition": "s_1_wl_0_w_3_e_6"
             },
             {
-              "HeroId": "Okoye",
-              "Power": 97418,
+              "HeroId": "ElsaBloodstone",
+              "Power": 115498,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -9163,15 +9163,15 @@
                 6,
                 6,
                 6,
-                1,
+                4,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_4_e_0"
             },
             {
-              "HeroId": "Okoye",
-              "Power": 99766,
+              "HeroId": "StarLord",
+              "Power": 108229,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -9181,15 +9181,15 @@
                 6,
                 6,
                 6,
-                1,
+                4,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_4_e_1"
             },
             {
-              "HeroId": "ProximaMidnight",
-              "Power": 110580,
+              "HeroId": "RocketRaccoon",
+              "Power": 109050,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -9197,7 +9197,7 @@
               "PercentageEquippedGear": 50,
               "Abilities": [
                 6,
-                6,
+                7,
                 6,
                 4,
                 0,
@@ -9206,8 +9206,8 @@
               "WavePosition": "s_1_wl_0_w_4_e_2"
             },
             {
-              "HeroId": "Groot",
-              "Power": 104245,
+              "HeroId": "StarLord",
+              "Power": 68044,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -9216,7 +9216,7 @@
               "Abilities": [
                 6,
                 6,
-                6,
+                -1,
                 4,
                 0,
                 0
@@ -9224,8 +9224,8 @@
               "WavePosition": "s_1_wl_0_w_5_e_0"
             },
             {
-              "HeroId": "BlackWidow",
-              "Power": 105863,
+              "HeroId": "Graviton",
+              "Power": 112664,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -9242,8 +9242,8 @@
               "WavePosition": "s_1_wl_0_w_5_e_1"
             },
             {
-              "HeroId": "BlackPanther",
-              "Power": 97094,
+              "HeroId": "Mysterio",
+              "Power": 104325,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -9253,15 +9253,15 @@
                 6,
                 6,
                 6,
-                1,
+                4,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_5_e_2"
             },
             {
-              "HeroId": "Gamora",
-              "Power": 106536,
+              "HeroId": "Pyro",
+              "Power": 99971,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -9278,8 +9278,8 @@
               "WavePosition": "s_1_wl_0_w_5_e_3"
             },
             {
-              "HeroId": "Thor",
-              "Power": 101497,
+              "HeroId": "Pyro",
+              "Power": 102075,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -9296,8 +9296,8 @@
               "WavePosition": "s_1_wl_0_w_5_e_4"
             },
             {
-              "HeroId": "AmericaChavez",
-              "Power": 112887,
+              "HeroId": "Hela",
+              "Power": 102472,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -9307,15 +9307,15 @@
                 6,
                 6,
                 6,
-                4,
+                1,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_5_e_5"
             },
             {
-              "HeroId": "Okoye",
-              "Power": 107587,
+              "HeroId": "Blob",
+              "Power": 114063,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -9339,8 +9339,8 @@
       "ID": "insanity_040_03",
       "locNameKey": "ID_MISSION_INSANITY_01_03_NAME",
       "locDescriptionName": "ID_MISSION_INSANITY_040_01_DESC",
-      "mapName": "Env_Jungle_merged",
-      "timeOfDay": "SUNSET",
+      "mapName": "Env_HellsKitchen_Docks_merged",
+      "timeOfDay": "NIGHT",
       "Settings": [
         {
           "Power": 0,
@@ -10043,8 +10043,8 @@
       "ID": "insanity_040_04",
       "locNameKey": "ID_MISSION_INSANITY_01_04_NAME",
       "locDescriptionName": "ID_MISSION_INSANITY_040_01_DESC",
-      "mapName": "Env_DestroyedCity_merged",
-      "timeOfDay": "NIGHT",
+      "mapName": "Env_Warehouse_merged",
+      "timeOfDay": "DAY",
       "Settings": [
         {
           "Power": 0,
@@ -10333,8 +10333,8 @@
       "ID": "insanity_040_05",
       "locNameKey": "ID_MISSION_INSANITY_01_05_NAME",
       "locDescriptionName": "ID_MISSION_INSANITY_040_01_DESC",
-      "mapName": "Env_Jungle_merged",
-      "timeOfDay": "SUNSET",
+      "mapName": "Env_DestroyedCity_merged",
+      "timeOfDay": "DAY",
       "Settings": [
         {
           "Power": 0,
@@ -10342,138 +10342,12 @@
           "CompactWave": []
         },
         {
-          "Power": 3526871,
-          "TotalHealth": 38840035,
+          "Power": 3534910,
+          "TotalHealth": 37908378,
           "CompactWave": [
             {
-              "HeroId": "GhostRider",
-              "Power": 101352,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 5,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                7,
-                6,
-                4,
-                1,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_0_e_0"
-            },
-            {
-              "HeroId": "MrSinister",
-              "Power": 115614,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 5,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                7,
-                6,
-                6,
-                1,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_0_e_1"
-            },
-            {
-              "HeroId": "RocketRaccoon",
-              "Power": 104664,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 5,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                7,
-                6,
-                6,
-                4,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_0_e_2"
-            },
-            {
-              "HeroId": "DoctorStrange",
-              "Power": 72308,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 5,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                7,
-                6,
-                -1,
-                4,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_0_e_3"
-            },
-            {
-              "HeroId": "StarLord",
-              "Power": 107890,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 5,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                7,
-                6,
-                6,
-                4,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_0_e_4"
-            },
-            {
-              "HeroId": "ElsaBloodstone",
-              "Power": 76683,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 5,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                7,
-                6,
-                -1,
-                4,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_0_e_5"
-            },
-            {
-              "HeroId": "Drax",
-              "Power": 109057,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 5,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                7,
-                6,
-                6,
-                4,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_0_e_6"
-            },
-            {
-              "HeroId": "Hela",
-              "Power": 99808,
+              "HeroId": "SquirrelGirl",
+              "Power": 102042,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10487,11 +10361,11 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_1_e_0"
+              "WavePosition": "s_1_wl_0_w_0_e_0"
             },
             {
-              "HeroId": "Graviton",
-              "Power": 105806,
+              "HeroId": "AmericaChavez",
+              "Power": 109878,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10505,11 +10379,137 @@
                 0,
                 0
               ],
+              "WavePosition": "s_1_wl_0_w_0_e_1"
+            },
+            {
+              "HeroId": "AmericaChavez",
+              "Power": 112887,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                6,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_0_e_2"
+            },
+            {
+              "HeroId": "MsMarvel",
+              "Power": 109781,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                6,
+                1,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_0_e_3"
+            },
+            {
+              "HeroId": "Okoye",
+              "Power": 112230,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                6,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_0_e_4"
+            },
+            {
+              "HeroId": "BlackPanther",
+              "Power": 97094,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                6,
+                1,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_0_e_5"
+            },
+            {
+              "HeroId": "MBaku",
+              "Power": 117619,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                6,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_0_e_6"
+            },
+            {
+              "HeroId": "ProximaMidnight",
+              "Power": 115622,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                6,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_1_e_0"
+            },
+            {
+              "HeroId": "Loki",
+              "Power": 59694,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                -1,
+                -1,
+                0,
+                0
+              ],
               "WavePosition": "s_1_wl_0_w_1_e_1"
             },
             {
-              "HeroId": "Graviton",
-              "Power": 108423,
+              "HeroId": "Thor",
+              "Power": 99536,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10526,8 +10526,8 @@
               "WavePosition": "s_1_wl_0_w_1_e_2"
             },
             {
-              "HeroId": "Mysterio",
-              "Power": 107637,
+              "HeroId": "Thor",
+              "Power": 101497,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10544,8 +10544,8 @@
               "WavePosition": "s_1_wl_0_w_1_e_3"
             },
             {
-              "HeroId": "Pyro",
-              "Power": 101909,
+              "HeroId": "Heimdall",
+              "Power": 106634,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10562,8 +10562,8 @@
               "WavePosition": "s_1_wl_0_w_1_e_4"
             },
             {
-              "HeroId": "Blob",
-              "Power": 113903,
+              "HeroId": "Heimdall",
+              "Power": 109220,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10580,8 +10580,8 @@
               "WavePosition": "s_1_wl_0_w_1_e_5"
             },
             {
-              "HeroId": "Toad",
-              "Power": 108436,
+              "HeroId": "Thanos",
+              "Power": 121995,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10598,8 +10598,8 @@
               "WavePosition": "s_1_wl_0_w_1_e_6"
             },
             {
-              "HeroId": "Graviton",
-              "Power": 108423,
+              "HeroId": "Sif",
+              "Power": 110848,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10616,8 +10616,8 @@
               "WavePosition": "s_1_wl_0_w_2_e_0"
             },
             {
-              "HeroId": "Pyro",
-              "Power": 101909,
+              "HeroId": "CullObsidian",
+              "Power": 107944,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10627,15 +10627,15 @@
                 6,
                 6,
                 6,
-                4,
+                1,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_2_e_1"
             },
             {
-              "HeroId": "Toad",
-              "Power": 108436,
+              "HeroId": "Groot",
+              "Power": 100619,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10652,8 +10652,8 @@
               "WavePosition": "s_1_wl_0_w_2_e_2"
             },
             {
-              "HeroId": "Graviton",
-              "Power": 112664,
+              "HeroId": "Heimdall",
+              "Power": 114352,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10670,8 +10670,8 @@
               "WavePosition": "s_1_wl_0_w_3_e_0"
             },
             {
-              "HeroId": "GhostRider",
-              "Power": 116563,
+              "HeroId": "Thor",
+              "Power": 69453,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10680,16 +10680,16 @@
               "Abilities": [
                 6,
                 6,
-                6,
-                1,
+                -1,
+                4,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_3_e_1"
             },
             {
-              "HeroId": "ElsaBloodstone",
-              "Power": 115498,
+              "HeroId": "Gamora",
+              "Power": 106536,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10706,8 +10706,8 @@
               "WavePosition": "s_1_wl_0_w_3_e_2"
             },
             {
-              "HeroId": "DoctorStrange",
-              "Power": 104002,
+              "HeroId": "BlackWidow",
+              "Power": 102109,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10724,8 +10724,8 @@
               "WavePosition": "s_1_wl_0_w_3_e_3"
             },
             {
-              "HeroId": "Pyro",
-              "Power": 105228,
+              "HeroId": "BlackPanther",
+              "Power": 94952,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10735,15 +10735,15 @@
                 6,
                 6,
                 6,
-                4,
+                1,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_3_e_4"
             },
             {
-              "HeroId": "Toad",
-              "Power": 74273,
+              "HeroId": "BlackPanther",
+              "Power": 97094,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10752,16 +10752,16 @@
               "Abilities": [
                 6,
                 6,
-                -1,
-                4,
+                6,
+                1,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_3_e_5"
             },
             {
-              "HeroId": "Drax",
-              "Power": 109994,
+              "HeroId": "MBaku",
+              "Power": 111801,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10778,8 +10778,8 @@
               "WavePosition": "s_1_wl_0_w_3_e_6"
             },
             {
-              "HeroId": "ElsaBloodstone",
-              "Power": 115498,
+              "HeroId": "Okoye",
+              "Power": 97418,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10789,15 +10789,15 @@
                 6,
                 6,
                 6,
-                4,
+                1,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_4_e_0"
             },
             {
-              "HeroId": "StarLord",
-              "Power": 108229,
+              "HeroId": "Okoye",
+              "Power": 99766,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10807,15 +10807,15 @@
                 6,
                 6,
                 6,
-                4,
+                1,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_4_e_1"
             },
             {
-              "HeroId": "RocketRaccoon",
-              "Power": 109050,
+              "HeroId": "ProximaMidnight",
+              "Power": 110580,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10823,7 +10823,7 @@
               "PercentageEquippedGear": 50,
               "Abilities": [
                 6,
-                7,
+                6,
                 6,
                 4,
                 0,
@@ -10832,8 +10832,8 @@
               "WavePosition": "s_1_wl_0_w_4_e_2"
             },
             {
-              "HeroId": "StarLord",
-              "Power": 68044,
+              "HeroId": "Groot",
+              "Power": 104245,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10842,7 +10842,7 @@
               "Abilities": [
                 6,
                 6,
-                -1,
+                6,
                 4,
                 0,
                 0
@@ -10850,8 +10850,8 @@
               "WavePosition": "s_1_wl_0_w_5_e_0"
             },
             {
-              "HeroId": "Graviton",
-              "Power": 112664,
+              "HeroId": "BlackWidow",
+              "Power": 105863,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10868,8 +10868,8 @@
               "WavePosition": "s_1_wl_0_w_5_e_1"
             },
             {
-              "HeroId": "Mysterio",
-              "Power": 104325,
+              "HeroId": "BlackPanther",
+              "Power": 97094,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10879,15 +10879,15 @@
                 6,
                 6,
                 6,
-                4,
+                1,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_5_e_2"
             },
             {
-              "HeroId": "Pyro",
-              "Power": 99971,
+              "HeroId": "Gamora",
+              "Power": 106536,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10904,8 +10904,8 @@
               "WavePosition": "s_1_wl_0_w_5_e_3"
             },
             {
-              "HeroId": "Pyro",
-              "Power": 102075,
+              "HeroId": "Thor",
+              "Power": 101497,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10922,8 +10922,8 @@
               "WavePosition": "s_1_wl_0_w_5_e_4"
             },
             {
-              "HeroId": "Hela",
-              "Power": 102472,
+              "HeroId": "AmericaChavez",
+              "Power": 112887,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10933,15 +10933,15 @@
                 6,
                 6,
                 6,
-                1,
+                4,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_5_e_5"
             },
             {
-              "HeroId": "Blob",
-              "Power": 114063,
+              "HeroId": "Okoye",
+              "Power": 107587,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -10965,8 +10965,8 @@
       "ID": "insanity_040_06",
       "locNameKey": "ID_MISSION_INSANITY_01_06_NAME",
       "locDescriptionName": "ID_MISSION_INSANITY_040_01_DESC",
-      "mapName": "Env_Jungle_merged",
-      "timeOfDay": "SUNSET",
+      "mapName": "Env_DestroyedCity_merged",
+      "timeOfDay": "NIGHT",
       "Settings": [
         {
           "Power": 0,
@@ -10974,8 +10974,8 @@
           "CompactWave": []
         },
         {
-          "Power": 5167479,
-          "TotalHealth": 66287147,
+          "Power": 5224514,
+          "TotalHealth": 68898498,
           "CompactWave": [
             {
               "HeroId": "BlackBolt",
@@ -10997,7 +10997,7 @@
             },
             {
               "HeroId": "BlackWidow",
-              "Power": 118067,
+              "Power": 119487,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -11015,7 +11015,7 @@
             },
             {
               "HeroId": "Quake",
-              "Power": 114604,
+              "Power": 115047,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -11033,7 +11033,7 @@
             },
             {
               "HeroId": "Crystal",
-              "Power": 120013,
+              "Power": 120673,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -11051,7 +11051,7 @@
             },
             {
               "HeroId": "Cable",
-              "Power": 73297,
+              "Power": 75427,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -11105,7 +11105,7 @@
             },
             {
               "HeroId": "CaptainAmerica",
-              "Power": 122397,
+              "Power": 123514,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -11123,7 +11123,7 @@
             },
             {
               "HeroId": "Coulson",
-              "Power": 71337,
+              "Power": 72077,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -11140,8 +11140,8 @@
               "WavePosition": "s_1_wl_0_w_1_e_0"
             },
             {
-              "HeroId": "NickFury",
-              "Power": 121653,
+              "HeroId": "JessicaJones",
+              "Power": 143046,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -11149,9 +11149,9 @@
               "PercentageEquippedGear": 50,
               "Abilities": [
                 6,
+                7,
                 6,
-                6,
-                4,
+                5,
                 0,
                 0
               ],
@@ -11159,7 +11159,7 @@
             },
             {
               "HeroId": "SymbioteSpiderMan",
-              "Power": 133452,
+              "Power": 134038,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -11212,8 +11212,8 @@
               "WavePosition": "s_1_wl_0_w_1_e_4"
             },
             {
-              "HeroId": "SpiderMan",
-              "Power": 119519,
+              "HeroId": "BlackBolt",
+              "Power": 110870,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -11221,9 +11221,9 @@
               "PercentageEquippedGear": 50,
               "Abilities": [
                 6,
+                -1,
                 6,
-                6,
-                4,
+                5,
                 0,
                 0
               ],
@@ -11231,7 +11231,7 @@
             },
             {
               "HeroId": "ShieldDmg_AoE",
-              "Power": 107481,
+              "Power": 111637,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -11241,15 +11241,15 @@
                 6,
                 6,
                 6,
-                4,
+                5,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_1_e_6"
             },
             {
-              "HeroId": "ShieldTank_Stun",
-              "Power": 103755,
+              "HeroId": "ShieldDmg_AoE",
+              "Power": 104847,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -11285,7 +11285,7 @@
             },
             {
               "HeroId": "Deadpool",
-              "Power": 114428,
+              "Power": 115073,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -11320,8 +11320,8 @@
               "WavePosition": "s_1_wl_0_w_2_e_2"
             },
             {
-              "HeroId": "NickFury",
-              "Power": 121653,
+              "HeroId": "Beast",
+              "Power": 115547,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -11329,17 +11329,17 @@
               "PercentageEquippedGear": 50,
               "Abilities": [
                 6,
+                5,
                 6,
-                6,
-                4,
+                1,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_2_e_3"
             },
             {
-              "HeroId": "UltSpiderMan",
-              "Power": 113207,
+              "HeroId": "Psylocke",
+              "Power": 140859,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -11348,8 +11348,8 @@
               "Abilities": [
                 6,
                 6,
-                6,
-                4,
+                7,
+                5,
                 0,
                 0
               ],
@@ -11357,7 +11357,7 @@
             },
             {
               "HeroId": "Quake",
-              "Power": 118158,
+              "Power": 118601,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -11410,8 +11410,8 @@
               "WavePosition": "s_1_wl_0_w_2_e_7"
             },
             {
-              "HeroId": "Coulson",
-              "Power": 110250,
+              "HeroId": "Psylocke",
+              "Power": 135186,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -11420,8 +11420,8 @@
               "Abilities": [
                 6,
                 6,
-                6,
-                4,
+                7,
+                5,
                 0,
                 0
               ],
@@ -11518,8 +11518,8 @@
               "WavePosition": "s_1_wl_0_w_4_e_2"
             },
             {
-              "HeroId": "UltSpiderMan",
-              "Power": 123329,
+              "HeroId": "BlackBolt",
+              "Power": 110000,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -11527,9 +11527,9 @@
               "PercentageEquippedGear": 50,
               "Abilities": [
                 6,
+                -1,
                 6,
-                6,
-                4,
+                5,
                 0,
                 0
               ],
@@ -11626,8 +11626,8 @@
               "WavePosition": "s_1_wl_0_w_5_e_0"
             },
             {
-              "HeroId": "NickFury",
-              "Power": 121653,
+              "HeroId": "IronMan",
+              "Power": 101356,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -11635,8 +11635,8 @@
               "PercentageEquippedGear": 50,
               "Abilities": [
                 6,
-                6,
-                6,
+                -1,
+                7,
                 4,
                 0,
                 0
@@ -11662,8 +11662,8 @@
               "WavePosition": "s_1_wl_0_w_5_e_2"
             },
             {
-              "HeroId": "ShieldDmg_AoE",
-              "Power": 107481,
+              "HeroId": "BlackBolt",
+              "Power": 110000,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -11671,9 +11671,9 @@
               "PercentageEquippedGear": 50,
               "Abilities": [
                 6,
+                -1,
                 6,
-                6,
-                4,
+                5,
                 0,
                 0
               ],
@@ -11717,7 +11717,7 @@
             },
             {
               "HeroId": "Negasonic",
-              "Power": 83547,
+              "Power": 75792,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -11725,9 +11725,9 @@
               "PercentageEquippedGear": 50,
               "Abilities": [
                 6,
-                6,
+                7,
                 -1,
-                4,
+                3,
                 0,
                 0
               ],
@@ -11752,8 +11752,8 @@
               "WavePosition": "s_1_wl_0_w_6_e_4"
             },
             {
-              "HeroId": "UltSpiderMan",
-              "Power": 120036,
+              "HeroId": "X23",
+              "Power": 129096,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -11763,7 +11763,7 @@
                 6,
                 6,
                 6,
-                4,
+                1,
                 0,
                 0
               ],
@@ -11788,8 +11788,8 @@
               "WavePosition": "s_1_wl_0_w_6_e_6"
             },
             {
-              "HeroId": "ShieldTank_Stun",
-              "Power": 107356,
+              "HeroId": "Domino",
+              "Power": 121535,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -11813,8 +11813,8 @@
       "ID": "insanity_040_07",
       "locNameKey": "ID_MISSION_INSANITY_01_07_NAME",
       "locDescriptionName": "ID_MISSION_INSANITY_040_01_DESC",
-      "mapName": "Env_Jungle_merged",
-      "timeOfDay": "SUNSET",
+      "mapName": "Env_Kree_Bridge_merged",
+      "timeOfDay": "NIGHT",
       "Settings": [
         {
           "Power": 0,
@@ -12103,7 +12103,7 @@
       "ID": "insanity_040_08",
       "locNameKey": "ID_MISSION_INSANITY_01_08_NAME",
       "locDescriptionName": "ID_MISSION_INSANITY_040_01_DESC",
-      "mapName": "Env_Jungle_merged",
+      "mapName": "Env_AlienRuins_merged",
       "timeOfDay": "SUNSET",
       "Settings": [
         {
@@ -12735,8 +12735,8 @@
       "ID": "insanity_040_09",
       "locNameKey": "ID_MISSION_INSANITY_01_09_NAME",
       "locDescriptionName": "ID_MISSION_INSANITY_040_01_DESC",
-      "mapName": "Env_Jungle_merged",
-      "timeOfDay": "SUNSET",
+      "mapName": "Env_AIM_ChemLab_merged",
+      "timeOfDay": "DAY",
       "Settings": [
         {
           "Power": 0,
@@ -12744,9 +12744,153 @@
           "CompactWave": []
         },
         {
-          "Power": 4550620,
-          "TotalHealth": 60637715,
+          "Power": 5390540,
+          "TotalHealth": 70398238,
           "CompactWave": [
+            {
+              "HeroId": "AimTank_Taunt",
+              "Power": 113930,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                6,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_0_e_0"
+            },
+            {
+              "HeroId": "Vision",
+              "Power": 117723,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                6,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_0_e_1"
+            },
+            {
+              "HeroId": "Graviton",
+              "Power": 120758,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                6,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_0_e_2"
+            },
+            {
+              "HeroId": "ScarletWitch",
+              "Power": 121332,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                6,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_0_e_3"
+            },
+            {
+              "HeroId": "Graviton",
+              "Power": 117551,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                6,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_0_e_4"
+            },
+            {
+              "HeroId": "AimControl_Infect",
+              "Power": 61540,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                -1,
+                -1,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_0_e_5"
+            },
+            {
+              "HeroId": "ScientistSupreme",
+              "Power": 121796,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                6,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_0_e_6"
+            },
+            {
+              "HeroId": "DoctorStrange",
+              "Power": 115236,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                6,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_0_e_7"
+            },
             {
               "HeroId": "Vulture",
               "Power": 122328,
@@ -12763,7 +12907,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_0_e_0"
+              "WavePosition": "s_1_wl_0_w_1_e_0"
             },
             {
               "HeroId": "Crossbones",
@@ -12781,7 +12925,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_0_e_1"
+              "WavePosition": "s_1_wl_0_w_1_e_1"
             },
             {
               "HeroId": "Mysterio",
@@ -12799,7 +12943,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_0_e_2"
+              "WavePosition": "s_1_wl_0_w_1_e_2"
             },
             {
               "HeroId": "Mysterio",
@@ -12817,7 +12961,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_0_e_3"
+              "WavePosition": "s_1_wl_0_w_1_e_3"
             },
             {
               "HeroId": "MrFantastic",
@@ -12835,7 +12979,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_0_e_4"
+              "WavePosition": "s_1_wl_0_w_1_e_4"
             },
             {
               "HeroId": "Bullseye",
@@ -12853,7 +12997,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_0_e_5"
+              "WavePosition": "s_1_wl_0_w_1_e_5"
             },
             {
               "HeroId": "Bullseye",
@@ -12871,7 +13015,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_0_e_6"
+              "WavePosition": "s_1_wl_0_w_1_e_6"
             },
             {
               "HeroId": "Taskmaster",
@@ -12889,7 +13033,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_0_e_7"
+              "WavePosition": "s_1_wl_0_w_1_e_7"
             },
             {
               "HeroId": "Hulk",
@@ -12907,7 +13051,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_1_e_0"
+              "WavePosition": "s_1_wl_0_w_2_e_0"
             },
             {
               "HeroId": "Hulk",
@@ -12925,7 +13069,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_1_e_1"
+              "WavePosition": "s_1_wl_0_w_2_e_1"
             },
             {
               "HeroId": "MrFantastic",
@@ -12943,7 +13087,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_1_e_2"
+              "WavePosition": "s_1_wl_0_w_2_e_2"
             },
             {
               "HeroId": "MrFantastic",
@@ -12961,7 +13105,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_1_e_3"
+              "WavePosition": "s_1_wl_0_w_2_e_3"
             },
             {
               "HeroId": "Vulture",
@@ -12979,7 +13123,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_1_e_4"
+              "WavePosition": "s_1_wl_0_w_2_e_4"
             },
             {
               "HeroId": "Mysterio",
@@ -12997,11 +13141,11 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_1_e_5"
+              "WavePosition": "s_1_wl_0_w_2_e_5"
             },
             {
-              "HeroId": "RedSkull",
-              "Power": 117143,
+              "HeroId": "Falcon",
+              "Power": 118795,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -13015,7 +13159,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_1_e_6"
+              "WavePosition": "s_1_wl_0_w_2_e_6"
             },
             {
               "HeroId": "HydraTank_Taunt",
@@ -13033,7 +13177,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_1_e_7"
+              "WavePosition": "s_1_wl_0_w_2_e_7"
             },
             {
               "HeroId": "Heimdall",
@@ -13051,7 +13195,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_2_e_0"
+              "WavePosition": "s_1_wl_0_w_3_e_0"
             },
             {
               "HeroId": "UltGreenGoblin",
@@ -13069,7 +13213,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_2_e_1"
+              "WavePosition": "s_1_wl_0_w_3_e_1"
             },
             {
               "HeroId": "HydraDmg_Buff",
@@ -13087,7 +13231,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_2_e_2"
+              "WavePosition": "s_1_wl_0_w_3_e_2"
             },
             {
               "HeroId": "HydraDmg_Buff",
@@ -13105,97 +13249,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_2_e_3"
-            },
-            {
-              "HeroId": "Bullseye",
-              "Power": 114881,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 6,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                6,
-                6,
-                6,
-                4,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_2_e_4"
-            },
-            {
-              "HeroId": "HydraDmg_Single",
-              "Power": 99708,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 6,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                6,
-                6,
-                6,
-                4,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_2_e_5"
-            },
-            {
-              "HeroId": "HydraDmg_Single",
-              "Power": 101978,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 6,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                6,
-                6,
-                6,
-                4,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_2_e_6"
-            },
-            {
-              "HeroId": "Vulture",
-              "Power": 118092,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 6,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                6,
-                6,
-                6,
-                4,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_2_e_7"
-            },
-            {
-              "HeroId": "Taskmaster",
-              "Power": 121015,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 6,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                6,
-                6,
-                6,
-                1,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_3_e_0"
+              "WavePosition": "s_1_wl_0_w_3_e_3"
             },
             {
               "HeroId": "RedSkull",
@@ -13213,7 +13267,97 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_3_e_1"
+              "WavePosition": "s_1_wl_0_w_3_e_4"
+            },
+            {
+              "HeroId": "HydraDmg_Single",
+              "Power": 99708,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                6,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_3_e_5"
+            },
+            {
+              "HeroId": "HydraDmg_Single",
+              "Power": 101978,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                6,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_3_e_6"
+            },
+            {
+              "HeroId": "Vulture",
+              "Power": 118092,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                6,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_3_e_7"
+            },
+            {
+              "HeroId": "Taskmaster",
+              "Power": 121015,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                6,
+                1,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_4_e_0"
+            },
+            {
+              "HeroId": "Zemo",
+              "Power": 120296,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                6,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_4_e_1"
             },
             {
               "HeroId": "Crossbones",
@@ -13231,7 +13375,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_3_e_2"
+              "WavePosition": "s_1_wl_0_w_4_e_2"
             },
             {
               "HeroId": "CullObsidian",
@@ -13249,7 +13393,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_4_e_0"
+              "WavePosition": "s_1_wl_0_w_5_e_0"
             },
             {
               "HeroId": "HumanTorch",
@@ -13267,7 +13411,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_4_e_1"
+              "WavePosition": "s_1_wl_0_w_5_e_1"
             },
             {
               "HeroId": "Heimdall",
@@ -13285,7 +13429,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_4_e_2"
+              "WavePosition": "s_1_wl_0_w_5_e_2"
             },
             {
               "HeroId": "Taskmaster",
@@ -13303,7 +13447,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_4_e_3"
+              "WavePosition": "s_1_wl_0_w_5_e_3"
             },
             {
               "HeroId": "Bullseye",
@@ -13321,7 +13465,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_4_e_4"
+              "WavePosition": "s_1_wl_0_w_5_e_4"
             },
             {
               "HeroId": "Bullseye",
@@ -13339,7 +13483,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_4_e_5"
+              "WavePosition": "s_1_wl_0_w_5_e_5"
             },
             {
               "HeroId": "UltGreenGoblin",
@@ -13357,7 +13501,7 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_4_e_6"
+              "WavePosition": "s_1_wl_0_w_5_e_6"
             },
             {
               "HeroId": "Crossbones",
@@ -13375,11 +13519,29 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_4_e_7"
+              "WavePosition": "s_1_wl_0_w_5_e_7"
             },
             {
-              "HeroId": "UltGreenGoblin",
-              "Power": 118790,
+              "HeroId": "HumanTorch",
+              "Power": 95289,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                0,
+                6,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_6_e_0"
+            },
+            {
+              "HeroId": "Falcon",
+              "Power": 118795,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -13393,29 +13555,11 @@
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_5_e_0"
-            },
-            {
-              "HeroId": "UltGreenGoblin",
-              "Power": 122058,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 6,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                6,
-                6,
-                6,
-                4,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_5_e_1"
+              "WavePosition": "s_1_wl_0_w_6_e_1"
             },
             {
               "HeroId": "Hulk",
-              "Power": 137438,
+              "Power": 107189,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -13423,13 +13567,13 @@
               "PercentageEquippedGear": 50,
               "Abilities": [
                 6,
-                6,
+                -1,
                 6,
                 4,
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_5_e_2"
+              "WavePosition": "s_1_wl_0_w_6_e_2"
             }
           ]
         }
@@ -13439,7 +13583,7 @@
       "ID": "insanity_040_10",
       "locNameKey": "ID_MISSION_INSANITY_01_10_NAME",
       "locDescriptionName": "ID_MISSION_INSANITY_040_01_DESC",
-      "mapName": "Env_Jungle_merged",
+      "mapName": "Env_Dojo_merged",
       "timeOfDay": "SUNSET",
       "Settings": [
         {
@@ -13729,8 +13873,8 @@
       "ID": "insanity_040_11",
       "locNameKey": "ID_MISSION_INSANITY_01_11_NAME",
       "locDescriptionName": "ID_MISSION_INSANITY_040_01_DESC",
-      "mapName": "Env_Jungle_merged",
-      "timeOfDay": "SUNSET",
+      "mapName": "Env_Hydra_Lab_merged",
+      "timeOfDay": "DAY",
       "Settings": [
         {
           "Power": 0,
@@ -14361,7 +14505,7 @@
       "ID": "insanity_040_12",
       "locNameKey": "ID_MISSION_INSANITY_01_12_NAME",
       "locDescriptionName": "ID_MISSION_INSANITY_040_01_DESC",
-      "mapName": "Env_Jungle_merged",
+      "mapName": "Env_Hydra_Base_merged",
       "timeOfDay": "SUNSET",
       "Settings": [
         {
@@ -14370,8 +14514,8 @@
           "CompactWave": []
         },
         {
-          "Power": 3252874,
-          "TotalHealth": 42833733,
+          "Power": 3409995,
+          "TotalHealth": 42684885,
           "CompactWave": [
             {
               "HeroId": "RocketRaccoon",
@@ -14465,7 +14609,7 @@
             },
             {
               "HeroId": "JessicaJones",
-              "Power": 134329,
+              "Power": 147566,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -14473,8 +14617,8 @@
               "PercentageEquippedGear": 50,
               "Abilities": [
                 6,
-                6,
-                6,
+                7,
+                7,
                 4,
                 0,
                 0
@@ -14519,7 +14663,7 @@
             },
             {
               "HeroId": "IronMan",
-              "Power": 124682,
+              "Power": 125492,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -14537,7 +14681,7 @@
             },
             {
               "HeroId": "ShieldDmg_Defense",
-              "Power": 110856,
+              "Power": 112352,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -14547,7 +14691,7 @@
                 6,
                 6,
                 -1,
-                4,
+                5,
                 0,
                 0
               ],
@@ -14573,7 +14717,7 @@
             },
             {
               "HeroId": "X23",
-              "Power": 144384,
+              "Power": 133888,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -14583,7 +14727,7 @@
                 6,
                 6,
                 6,
-                4,
+                1,
                 0,
                 0
               ],
@@ -14591,7 +14735,7 @@
             },
             {
               "HeroId": "Venom",
-              "Power": 119736,
+              "Power": 120269,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -14627,7 +14771,7 @@
             },
             {
               "HeroId": "StarLord",
-              "Power": 119902,
+              "Power": 121126,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -14645,7 +14789,7 @@
             },
             {
               "HeroId": "ShieldTank_Stun",
-              "Power": 106705,
+              "Power": 107677,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -14663,17 +14807,17 @@
             },
             {
               "HeroId": "SymbioteSpiderMan",
-              "Power": 136502,
+              "Power": 149974,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
               "RedStar": 6,
               "PercentageEquippedGear": 50,
               "Abilities": [
-                6,
-                6,
-                6,
-                2,
+                7,
+                7,
+                7,
+                -1,
                 0,
                 0
               ],
@@ -14681,35 +14825,35 @@
             },
             {
               "HeroId": "Scream",
-              "Power": 127081,
+              "Power": 134125,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
               "RedStar": 6,
               "PercentageEquippedGear": 50,
               "Abilities": [
-                6,
-                6,
-                6,
-                4,
+                7,
+                7,
+                7,
+                -1,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_2_e_1"
             },
             {
-              "HeroId": "RocketRaccoon",
-              "Power": 116475,
+              "HeroId": "EmmaFrost",
+              "Power": 128309,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
               "RedStar": 6,
               "PercentageEquippedGear": 50,
               "Abilities": [
-                6,
-                6,
-                6,
-                4,
+                7,
+                7,
+                7,
+                1,
                 0,
                 0
               ],
@@ -14717,7 +14861,7 @@
             },
             {
               "HeroId": "CaptainMarvel",
-              "Power": 128362,
+              "Power": 142804,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -14725,8 +14869,8 @@
               "PercentageEquippedGear": 50,
               "Abilities": [
                 6,
-                6,
-                6,
+                7,
+                7,
                 1,
                 0,
                 0
@@ -14735,7 +14879,7 @@
             },
             {
               "HeroId": "MsMarvel",
-              "Power": 127293,
+              "Power": 143548,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -14743,17 +14887,17 @@
               "PercentageEquippedGear": 50,
               "Abilities": [
                 6,
-                6,
-                6,
-                3,
+                7,
+                7,
+                4,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_3_e_1"
             },
             {
-              "HeroId": "Sabretooth",
-              "Power": 108948,
+              "HeroId": "BlackBolt",
+              "Power": 132994,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -14761,9 +14905,9 @@
               "PercentageEquippedGear": 50,
               "Abilities": [
                 6,
-                6,
-                6,
-                1,
+                7,
+                7,
+                5,
                 0,
                 0
               ],
@@ -14771,7 +14915,7 @@
             },
             {
               "HeroId": "X23",
-              "Power": 119434,
+              "Power": 130738,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -14779,9 +14923,9 @@
               "PercentageEquippedGear": 50,
               "Abilities": [
                 6,
-                6,
-                6,
-                2,
+                7,
+                7,
+                -1,
                 0,
                 0
               ],
@@ -14789,7 +14933,7 @@
             },
             {
               "HeroId": "BlackPanther",
-              "Power": 109910,
+              "Power": 121028,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -14797,8 +14941,8 @@
               "PercentageEquippedGear": 50,
               "Abilities": [
                 6,
-                6,
-                6,
+                7,
+                7,
                 3,
                 0,
                 0
@@ -14807,7 +14951,7 @@
             },
             {
               "HeroId": "X23",
-              "Power": 128437,
+              "Power": 138704,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -14815,9 +14959,9 @@
               "PercentageEquippedGear": 50,
               "Abilities": [
                 6,
-                6,
-                6,
-                2,
+                7,
+                7,
+                1,
                 0,
                 0
               ],
@@ -14825,7 +14969,7 @@
             },
             {
               "HeroId": "JessicaJones",
-              "Power": 119057,
+              "Power": 137545,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -14833,8 +14977,8 @@
               "PercentageEquippedGear": 50,
               "Abilities": [
                 6,
-                5,
-                6,
+                7,
+                7,
                 4,
                 0,
                 0
@@ -14843,7 +14987,7 @@
             },
             {
               "HeroId": "CaptainAmerica",
-              "Power": 113837,
+              "Power": 124912,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -14851,8 +14995,8 @@
               "PercentageEquippedGear": 50,
               "Abilities": [
                 6,
-                6,
-                6,
+                7,
+                7,
                 4,
                 0,
                 0
@@ -14867,7 +15011,7 @@
       "ID": "insanity_040_13",
       "locNameKey": "ID_MISSION_INSANITY_01_13_NAME",
       "locDescriptionName": "ID_MISSION_INSANITY_040_01_DESC",
-      "mapName": "Env_Jungle_merged",
+      "mapName": "Env_Bunker_Sub_merged",
       "timeOfDay": "SUNSET",
       "Settings": [
         {
@@ -15265,7 +15409,7 @@
       "ID": "insanity_040_14",
       "locNameKey": "ID_MISSION_INSANITY_01_14_NAME",
       "locDescriptionName": "ID_MISSION_INSANITY_040_01_DESC",
-      "mapName": "Env_Jungle_merged",
+      "mapName": "Env_Bunker_Storage_merged",
       "timeOfDay": "SUNSET",
       "Settings": [
         {
@@ -16023,7 +16167,7 @@
       "ID": "insanity_040_15",
       "locNameKey": "ID_MISSION_INSANITY_01_15_NAME",
       "locDescriptionName": "ID_MISSION_INSANITY_040_15_DESC",
-      "mapName": "Env_Jungle_merged",
+      "mapName": "Helicarrier_Ember_01_merged",
       "timeOfDay": "SUNSET",
       "Settings": [
         {
@@ -16032,12 +16176,12 @@
           "CompactWave": []
         },
         {
-          "Power": 5348027,
-          "TotalHealth": 70828505,
+          "Power": 7519375,
+          "TotalHealth": 91632039,
           "CompactWave": [
             {
-              "HeroId": "Taskmaster",
-              "Power": 115095,
+              "HeroId": "Stature",
+              "Power": 122492,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16046,16 +16190,16 @@
               "Abilities": [
                 6,
                 6,
-                6,
-                1,
+                7,
+                4,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_0_e_0"
             },
             {
-              "HeroId": "Korath",
-              "Power": 125582,
+              "HeroId": "Falcon",
+              "Power": 79878,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16064,7 +16208,7 @@
               "Abilities": [
                 6,
                 6,
-                6,
+                -1,
                 4,
                 0,
                 0
@@ -16072,8 +16216,8 @@
               "WavePosition": "s_1_wl_0_w_0_e_1"
             },
             {
-              "HeroId": "Korath",
-              "Power": 129587,
+              "HeroId": "Yellowjacket",
+              "Power": 127705,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16082,7 +16226,7 @@
               "Abilities": [
                 6,
                 6,
-                6,
+                7,
                 4,
                 0,
                 0
@@ -16090,8 +16234,8 @@
               "WavePosition": "s_1_wl_0_w_0_e_2"
             },
             {
-              "HeroId": "EbonyMaw",
-              "Power": 131970,
+              "HeroId": "BaronMordo",
+              "Power": 127838,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16100,16 +16244,16 @@
               "Abilities": [
                 6,
                 6,
-                6,
-                1,
+                7,
+                4,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_0_e_3"
             },
             {
-              "HeroId": "ScarletWitch",
-              "Power": 120698,
+              "HeroId": "Hawkeye",
+              "Power": 125039,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16118,7 +16262,7 @@
               "Abilities": [
                 6,
                 6,
-                6,
+                7,
                 4,
                 0,
                 0
@@ -16126,8 +16270,8 @@
               "WavePosition": "s_1_wl_0_w_0_e_4"
             },
             {
-              "HeroId": "Vision",
-              "Power": 105894,
+              "HeroId": "BlackWidow",
+              "Power": 124238,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16136,16 +16280,16 @@
               "Abilities": [
                 6,
                 6,
-                6,
-                1,
+                7,
+                4,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_0_e_5"
             },
             {
-              "HeroId": "Deadpool",
-              "Power": 113761,
+              "HeroId": "AntMan",
+              "Power": 119374,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16154,16 +16298,16 @@
               "Abilities": [
                 6,
                 6,
-                6,
-                1,
+                7,
+                4,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_0_e_6"
             },
             {
-              "HeroId": "Thanos",
-              "Power": 146820,
+              "HeroId": "StarLord",
+              "Power": 126907,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16172,7 +16316,7 @@
               "Abilities": [
                 6,
                 6,
-                6,
+                7,
                 4,
                 0,
                 0
@@ -16180,8 +16324,8 @@
               "WavePosition": "s_1_wl_0_w_0_e_7"
             },
             {
-              "HeroId": "NickFury",
-              "Power": 120834,
+              "HeroId": "Taskmaster",
+              "Power": 135884,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16190,16 +16334,16 @@
               "Abilities": [
                 6,
                 6,
-                6,
-                4,
+                7,
+                1,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_1_e_0"
             },
             {
-              "HeroId": "BlackWidow",
-              "Power": 121282,
+              "HeroId": "Korath",
+              "Power": 135134,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16208,7 +16352,7 @@
               "Abilities": [
                 6,
                 6,
-                6,
+                7,
                 4,
                 0,
                 0
@@ -16216,8 +16360,8 @@
               "WavePosition": "s_1_wl_0_w_1_e_1"
             },
             {
-              "HeroId": "HumanTorch",
-              "Power": 120786,
+              "HeroId": "Korath",
+              "Power": 137258,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16226,7 +16370,7 @@
               "Abilities": [
                 6,
                 6,
-                6,
+                7,
                 4,
                 0,
                 0
@@ -16234,8 +16378,8 @@
               "WavePosition": "s_1_wl_0_w_1_e_2"
             },
             {
-              "HeroId": "HumanTorch",
-              "Power": 124140,
+              "HeroId": "EbonyMaw",
+              "Power": 140326,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16244,16 +16388,16 @@
               "Abilities": [
                 6,
                 6,
-                6,
-                4,
+                7,
+                1,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_1_e_3"
             },
             {
-              "HeroId": "Quake",
-              "Power": 113904,
+              "HeroId": "ScarletWitch",
+              "Power": 127996,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16262,7 +16406,7 @@
               "Abilities": [
                 6,
                 6,
-                6,
+                7,
                 4,
                 0,
                 0
@@ -16270,8 +16414,8 @@
               "WavePosition": "s_1_wl_0_w_1_e_4"
             },
             {
-              "HeroId": "JessicaJones",
-              "Power": 128866,
+              "HeroId": "Vision",
+              "Power": 115631,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16280,16 +16424,16 @@
               "Abilities": [
                 6,
                 6,
-                6,
-                4,
+                7,
+                1,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_1_e_5"
             },
             {
-              "HeroId": "Ultimus",
-              "Power": 125403,
+              "HeroId": "Deadpool",
+              "Power": 121099,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16298,16 +16442,16 @@
               "Abilities": [
                 6,
                 6,
-                6,
-                4,
+                7,
+                1,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_1_e_6"
             },
             {
-              "HeroId": "ShieldTank_Stun",
-              "Power": 106637,
+              "HeroId": "Thanos",
+              "Power": 155296,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16316,7 +16460,7 @@
               "Abilities": [
                 6,
                 6,
-                6,
+                7,
                 4,
                 0,
                 0
@@ -16324,8 +16468,8 @@
               "WavePosition": "s_1_wl_0_w_1_e_7"
             },
             {
-              "HeroId": "Deadpool",
-              "Power": 74718,
+              "HeroId": "Quake",
+              "Power": 120713,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16334,16 +16478,16 @@
               "Abilities": [
                 6,
                 6,
-                -1,
-                1,
+                7,
+                4,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_2_e_0"
             },
             {
-              "HeroId": "Cable",
-              "Power": 120139,
+              "HeroId": "BlackWidow",
+              "Power": 128461,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16352,7 +16496,7 @@
               "Abilities": [
                 6,
                 6,
-                6,
+                7,
                 4,
                 0,
                 0
@@ -16360,8 +16504,8 @@
               "WavePosition": "s_1_wl_0_w_2_e_1"
             },
             {
-              "HeroId": "Taskmaster",
-              "Power": 122305,
+              "HeroId": "HumanTorch",
+              "Power": 129682,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16370,16 +16514,16 @@
               "Abilities": [
                 6,
                 6,
-                6,
-                1,
+                7,
+                4,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_2_e_2"
             },
             {
-              "HeroId": "Korath",
-              "Power": 124559,
+              "HeroId": "HumanTorch",
+              "Power": 131610,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16388,7 +16532,7 @@
               "Abilities": [
                 6,
                 6,
-                6,
+                7,
                 4,
                 0,
                 0
@@ -16396,8 +16540,8 @@
               "WavePosition": "s_1_wl_0_w_2_e_3"
             },
             {
-              "HeroId": "KreeDmg_Offense",
-              "Power": 106164,
+              "HeroId": "Korath",
+              "Power": 131954,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16406,7 +16550,7 @@
               "Abilities": [
                 6,
                 6,
-                6,
+                7,
                 4,
                 0,
                 0
@@ -16414,8 +16558,8 @@
               "WavePosition": "s_1_wl_0_w_2_e_4"
             },
             {
-              "HeroId": "Vision",
-              "Power": 117170,
+              "HeroId": "JessicaJones",
+              "Power": 136533,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16424,7 +16568,7 @@
               "Abilities": [
                 6,
                 6,
-                6,
+                7,
                 4,
                 0,
                 0
@@ -16432,8 +16576,8 @@
               "WavePosition": "s_1_wl_0_w_2_e_5"
             },
             {
-              "HeroId": "KreeControl_Assist",
-              "Power": 111970,
+              "HeroId": "Ultimus",
+              "Power": 132498,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16442,7 +16586,7 @@
               "Abilities": [
                 6,
                 6,
-                6,
+                7,
                 4,
                 0,
                 0
@@ -16450,8 +16594,8 @@
               "WavePosition": "s_1_wl_0_w_2_e_6"
             },
             {
-              "HeroId": "Thanos",
-              "Power": 146820,
+              "HeroId": "KreeTank_Counter",
+              "Power": 122296,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16460,7 +16604,7 @@
               "Abilities": [
                 6,
                 6,
-                6,
+                7,
                 4,
                 0,
                 0
@@ -16468,8 +16612,8 @@
               "WavePosition": "s_1_wl_0_w_2_e_7"
             },
             {
-              "HeroId": "HumanTorch",
-              "Power": 124140,
+              "HeroId": "Deadpool",
+              "Power": 75076,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16478,16 +16622,16 @@
               "Abilities": [
                 6,
                 6,
-                6,
-                4,
+                -1,
+                1,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_3_e_0"
             },
             {
-              "HeroId": "ScarletWitch",
-              "Power": 109193,
+              "HeroId": "Cable",
+              "Power": 127284,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16496,16 +16640,16 @@
               "Abilities": [
                 6,
                 6,
-                6,
-                -1,
+                7,
+                4,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_3_e_1"
             },
             {
-              "HeroId": "NickFury",
-              "Power": 120834,
+              "HeroId": "Taskmaster",
+              "Power": 130037,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16514,16 +16658,16 @@
               "Abilities": [
                 6,
                 6,
-                6,
-                4,
+                7,
+                1,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_3_e_2"
             },
             {
-              "HeroId": "JessicaJones",
-              "Power": 88466,
+              "HeroId": "ScarletWitch",
+              "Power": 127996,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16532,7 +16676,97 @@
               "Abilities": [
                 6,
                 6,
-                -1,
+                7,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_3_e_3"
+            },
+            {
+              "HeroId": "KreeDmg_Offense",
+              "Power": 106540,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                7,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_3_e_4"
+            },
+            {
+              "HeroId": "Vision",
+              "Power": 124190,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                7,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_3_e_5"
+            },
+            {
+              "HeroId": "KreeControl_Assist",
+              "Power": 112302,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                7,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_3_e_6"
+            },
+            {
+              "HeroId": "Thanos",
+              "Power": 155296,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                7,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_3_e_7"
+            },
+            {
+              "HeroId": "HumanTorch",
+              "Power": 131610,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                7,
                 4,
                 0,
                 0
@@ -16540,8 +16774,26 @@
               "WavePosition": "s_1_wl_0_w_4_e_0"
             },
             {
-              "HeroId": "Quake",
-              "Power": 77421,
+              "HeroId": "KreeControl_Assist",
+              "Power": 96513,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                7,
+                -1,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_4_e_1"
+            },
+            {
+              "HeroId": "Deadpool",
+              "Power": 73927,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16551,24 +16803,6 @@
                 6,
                 6,
                 -1,
-                4,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_4_e_1"
-            },
-            {
-              "HeroId": "EbonyMaw",
-              "Power": 131970,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 6,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                6,
-                6,
-                6,
                 1,
                 0,
                 0
@@ -16576,8 +16810,8 @@
               "WavePosition": "s_1_wl_0_w_4_e_2"
             },
             {
-              "HeroId": "KreeControl_Assist",
-              "Power": 108915,
+              "HeroId": "JessicaJones",
+              "Power": 88834,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16586,106 +16820,16 @@
               "Abilities": [
                 6,
                 6,
-                6,
+                -1,
                 4,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_4_e_3"
-            },
-            {
-              "HeroId": "KreeControl_Assist",
-              "Power": 111970,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 6,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                6,
-                6,
-                6,
-                4,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_4_e_4"
-            },
-            {
-              "HeroId": "KreeDmg_Offense",
-              "Power": 109768,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 6,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                6,
-                6,
-                6,
-                4,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_4_e_5"
-            },
-            {
-              "HeroId": "BlackWidow",
-              "Power": 117278,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 6,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                6,
-                6,
-                6,
-                4,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_4_e_6"
-            },
-            {
-              "HeroId": "ShieldTank_Stun",
-              "Power": 106637,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 6,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                6,
-                6,
-                6,
-                4,
-                0,
-                0
-              ],
-              "WavePosition": "s_1_wl_0_w_4_e_7"
-            },
-            {
-              "HeroId": "Deadpool",
-              "Power": 113761,
-              "Level": 80,
-              "GearLevel": 15,
-              "Loyalty": 7,
-              "RedStar": 6,
-              "PercentageEquippedGear": 50,
-              "Abilities": [
-                6,
-                6,
-                6,
-                1,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_5_e_0"
             },
             {
-              "HeroId": "Cable",
-              "Power": 116322,
+              "HeroId": "Quake",
+              "Power": 77766,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16694,7 +16838,7 @@
               "Abilities": [
                 6,
                 6,
-                6,
+                -1,
                 4,
                 0,
                 0
@@ -16702,8 +16846,8 @@
               "WavePosition": "s_1_wl_0_w_5_e_1"
             },
             {
-              "HeroId": "Ultimus",
-              "Power": 121176,
+              "HeroId": "EbonyMaw",
+              "Power": 140326,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16712,43 +16856,133 @@
               "Abilities": [
                 6,
                 6,
-                6,
-                4,
+                7,
+                1,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_5_e_2"
             },
             {
-              "HeroId": "HumanTorch",
-              "Power": 120487,
+              "HeroId": "KreeControl_Assist",
+              "Power": 120122,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
-              "RedStar": 5,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                7,
+                -1,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_5_e_3"
+            },
+            {
+              "HeroId": "KreeControl_Assist",
+              "Power": 121973,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                7,
+                -1,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_5_e_4"
+            },
+            {
+              "HeroId": "KreeDmg_Offense",
+              "Power": 119628,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                7,
+                -1,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_5_e_5"
+            },
+            {
+              "HeroId": "BlackWidow",
+              "Power": 124238,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
               "PercentageEquippedGear": 50,
               "Abilities": [
                 6,
                 6,
-                6,
+                7,
                 4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_5_e_6"
+            },
+            {
+              "HeroId": "Thanos",
+              "Power": 155296,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                7,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_5_e_7"
+            },
+            {
+              "HeroId": "Deadpool",
+              "Power": 118775,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 6,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                7,
+                1,
                 0,
                 0
               ],
               "WavePosition": "s_1_wl_0_w_6_e_0"
             },
             {
-              "HeroId": "Ultimus",
-              "Power": 117408,
+              "HeroId": "Cable",
+              "Power": 121244,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
-              "RedStar": 5,
+              "RedStar": 6,
               "PercentageEquippedGear": 50,
               "Abilities": [
                 6,
                 6,
-                6,
+                7,
                 4,
                 0,
                 0
@@ -16756,17 +16990,17 @@
               "WavePosition": "s_1_wl_0_w_6_e_1"
             },
             {
-              "HeroId": "BlackWidow",
-              "Power": 109797,
+              "HeroId": "Ultimus",
+              "Power": 125823,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
-              "RedStar": 5,
+              "RedStar": 6,
               "PercentageEquippedGear": 50,
               "Abilities": [
                 6,
                 6,
-                6,
+                7,
                 4,
                 0,
                 0
@@ -16774,8 +17008,8 @@
               "WavePosition": "s_1_wl_0_w_6_e_2"
             },
             {
-              "HeroId": "ScarletWitch",
-              "Power": 102232,
+              "HeroId": "HumanTorch",
+              "Power": 125468,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16784,16 +17018,70 @@
               "Abilities": [
                 6,
                 6,
-                6,
-                -1,
+                7,
+                4,
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_6_e_3"
+              "WavePosition": "s_1_wl_0_w_7_e_0"
+            },
+            {
+              "HeroId": "Ultimus",
+              "Power": 121965,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                7,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_7_e_1"
+            },
+            {
+              "HeroId": "BlackWidow",
+              "Power": 114334,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                7,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_7_e_2"
+            },
+            {
+              "HeroId": "ScarletWitch",
+              "Power": 117688,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                7,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_7_e_3"
             },
             {
               "HeroId": "KreeControl_Assist",
-              "Power": 104833,
+              "Power": 111928,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16801,17 +17089,17 @@
               "PercentageEquippedGear": 50,
               "Abilities": [
                 6,
-                6,
-                6,
+                7,
+                -1,
                 4,
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_6_e_4"
+              "WavePosition": "s_1_wl_0_w_7_e_4"
             },
             {
               "HeroId": "Vision",
-              "Power": 109695,
+              "Power": 114360,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16820,16 +17108,16 @@
               "Abilities": [
                 6,
                 6,
-                6,
+                7,
                 4,
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_6_e_5"
+              "WavePosition": "s_1_wl_0_w_7_e_5"
             },
             {
               "HeroId": "NickFury",
-              "Power": 113130,
+              "Power": 117586,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16838,16 +17126,16 @@
               "Abilities": [
                 6,
                 6,
-                6,
+                7,
                 4,
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_6_e_6"
+              "WavePosition": "s_1_wl_0_w_7_e_6"
             },
             {
               "HeroId": "Thanos",
-              "Power": 137490,
+              "Power": 141407,
               "Level": 80,
               "GearLevel": 15,
               "Loyalty": 7,
@@ -16856,12 +17144,156 @@
               "Abilities": [
                 6,
                 6,
-                6,
+                7,
                 4,
                 0,
                 0
               ],
-              "WavePosition": "s_1_wl_0_w_6_e_7"
+              "WavePosition": "s_1_wl_0_w_7_e_7"
+            },
+            {
+              "HeroId": "BaronMordo",
+              "Power": 116725,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                7,
+                7,
+                2,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_8_e_0"
+            },
+            {
+              "HeroId": "KreeControl_Assist",
+              "Power": 111928,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                7,
+                -1,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_8_e_1"
+            },
+            {
+              "HeroId": "Taskmaster",
+              "Power": 127829,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                7,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_8_e_2"
+            },
+            {
+              "HeroId": "MercSupport_Buffs",
+              "Power": 105910,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                7,
+                -1,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_8_e_3"
+            },
+            {
+              "HeroId": "MercTank_Debuff",
+              "Power": 111667,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                7,
+                -1,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_8_e_4"
+            },
+            {
+              "HeroId": "Graviton",
+              "Power": 117137,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                7,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_8_e_5"
+            },
+            {
+              "HeroId": "Vision",
+              "Power": 114360,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                7,
+                4,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_8_e_6"
+            },
+            {
+              "HeroId": "EmmaFrost",
+              "Power": 118445,
+              "Level": 80,
+              "GearLevel": 15,
+              "Loyalty": 7,
+              "RedStar": 5,
+              "PercentageEquippedGear": 50,
+              "Abilities": [
+                6,
+                6,
+                7,
+                1,
+                0,
+                0
+              ],
+              "WavePosition": "s_1_wl_0_w_8_e_7"
             }
           ]
         }

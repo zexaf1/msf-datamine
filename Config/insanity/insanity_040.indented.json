@@ -1,0 +1,1355 @@
+{
+  "Name": "insanity_040",
+  "RaidDetails": {
+    "raidId": "insanity_040",
+    "rows": 5,
+    "columns": 13,
+    "isOperation": false,
+    "map": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "A6",
+        "A7",
+        "A8",
+        "A9",
+        "A10",
+        "A11",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "B6",
+        "",
+        "B8",
+        "B9",
+        "",
+        "B11",
+        "",
+        ""
+      ],
+      [
+        "C1",
+        "",
+        "C3",
+        "C4",
+        "",
+        "C6",
+        "",
+        "C8",
+        "C9",
+        "",
+        "C11",
+        "",
+        ""
+      ],
+      [
+        "D1",
+        "",
+        "D3",
+        "D4",
+        "",
+        "D6",
+        "",
+        "",
+        "",
+        "",
+        "D11",
+        "D12",
+        "D13"
+      ],
+      [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E6",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "rooms": {
+      "C1": {
+        "roomId": "C1",
+        "name": "insanity_040_xx",
+        "starting": true,
+        "objective": false,
+        "missions": {},
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          null,
+          null,
+          "D1"
+        ]
+      },
+      "D1": {
+        "roomId": "D1",
+        "name": "insanity_040_01",
+        "starting": false,
+        "objective": false,
+        "missions": {
+          "1": {
+            "missionIndex": "1",
+            "ID": "insanity_040_01",
+            "icon": "Portrait_Killmonger",
+            "iconBgColor": null,
+            "rewards": [
+              {
+                "m_rewardID": "m_insanity_eyd_lvl_01",
+                "m_firstTimeOnly": true
+              }
+            ],
+            "cost": [
+              {
+                "res": "ave_attack_energy",
+                "amount": 10
+              }
+            ],
+            "requirements": {},
+            "filters": {
+              "description": "ID_UI_4_CHARACTERS",
+              "shortDescription": "ID_REQUIRES_GEAR_TIER_15",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_GEAR_TIER_15",
+              "quantity": 4,
+              "filters": {
+                "tier": 15
+              }
+            },
+            "combatFilters": {
+              "description": "",
+              "shortDescription": "ID_REQUIRES_GEAR_TIER_15",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_GEAR_TIER_15",
+              "quantity": 4,
+              "filters": {
+                "tier": 15
+              }
+            },
+            "characterLimit": 5,
+            "isBoss": true
+          }
+        },
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          null,
+          null,
+          "E1"
+        ]
+      },
+      "E1": {
+        "roomId": "E1",
+        "name": "insanity_040_xx",
+        "starting": false,
+        "objective": false,
+        "missions": {},
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          "E2",
+          null,
+          null
+        ]
+      },
+      "E2": {
+        "roomId": "E2",
+        "name": "insanity_040_02",
+        "starting": false,
+        "objective": false,
+        "missions": {
+          "1": {
+            "missionIndex": "1",
+            "ID": "insanity_040_02",
+            "icon": "Portrait_ElsaBloodstone",
+            "iconBgColor": null,
+            "rewards": [
+              {
+                "m_rewardID": "m_insanity_eyd_lvl_02",
+                "m_firstTimeOnly": true
+              }
+            ],
+            "cost": [
+              {
+                "res": "ave_attack_energy",
+                "amount": 10
+              }
+            ],
+            "requirements": {},
+            "filters": {
+              "description": "ID_UI_4_CHARACTERS",
+              "shortDescription": "ID_REQUIRES_GEAR_TIER_15",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_GEAR_TIER_15",
+              "quantity": 4,
+              "filters": {
+                "tier": 15
+              }
+            },
+            "combatFilters": {
+              "description": "",
+              "shortDescription": "ID_REQUIRES_GEAR_TIER_15",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_GEAR_TIER_15",
+              "quantity": 4,
+              "filters": {
+                "tier": 15
+              }
+            },
+            "characterLimit": 5,
+            "isBoss": true
+          }
+        },
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          "E3",
+          null,
+          null
+        ]
+      },
+      "E3": {
+        "roomId": "E3",
+        "name": "insanity_040_xx",
+        "starting": false,
+        "objective": false,
+        "missions": {},
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          null,
+          "D3",
+          null
+        ]
+      },
+      "D3": {
+        "roomId": "D3",
+        "name": "insanity_040_03",
+        "starting": false,
+        "objective": false,
+        "missions": {
+          "1": {
+            "missionIndex": "1",
+            "ID": "insanity_040_03",
+            "icon": "Portrait_Wasp",
+            "iconBgColor": null,
+            "rewards": [
+              {
+                "m_rewardID": "m_insanity_eyd_lvl_03",
+                "m_firstTimeOnly": true
+              }
+            ],
+            "cost": [
+              {
+                "res": "ave_attack_energy",
+                "amount": 10
+              }
+            ],
+            "requirements": {},
+            "filters": {
+              "description": "ID_UI_4_CHARACTERS",
+              "shortDescription": "ID_REQUIRES_GEAR_TIER_15",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_GEAR_TIER_15",
+              "quantity": 4,
+              "filters": {
+                "tier": 15
+              }
+            },
+            "combatFilters": {
+              "description": "",
+              "shortDescription": "ID_REQUIRES_GEAR_TIER_15",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_GEAR_TIER_15",
+              "quantity": 4,
+              "filters": {
+                "tier": 15
+              }
+            },
+            "characterLimit": 5,
+            "isBoss": true
+          }
+        },
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          null,
+          "C3",
+          null
+        ]
+      },
+      "C3": {
+        "roomId": "C3",
+        "name": "insanity_040_xx",
+        "starting": false,
+        "objective": false,
+        "missions": {},
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          "C4",
+          null,
+          null
+        ]
+      },
+      "C4": {
+        "roomId": "C4",
+        "name": "insanity_040_xx",
+        "starting": false,
+        "objective": false,
+        "missions": {},
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          null,
+          null,
+          "D4"
+        ]
+      },
+      "D4": {
+        "roomId": "D4",
+        "name": "insanity_040_04",
+        "starting": false,
+        "objective": false,
+        "missions": {
+          "1": {
+            "missionIndex": "1",
+            "ID": "insanity_040_04",
+            "icon": "Portrait_CaptainMarvel",
+            "iconBgColor": null,
+            "rewards": [
+              {
+                "m_rewardID": "m_insanity_eyd_lvl_04",
+                "m_firstTimeOnly": true
+              }
+            ],
+            "cost": [
+              {
+                "res": "ave_attack_energy",
+                "amount": 10
+              }
+            ],
+            "requirements": {},
+            "filters": {
+              "description": "ID_UI_4_CHARACTERS",
+              "shortDescription": "ID_REQUIRES_TRAITS_GLOBAL_NO_LEGENDARY",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_TRAITS_GLOBAL_NO_LEGENDARY",
+              "quantity": 4,
+              "filters": {
+                "tier": 15,
+                "allTraits": [
+                  "Global"
+                ],
+                "exceptTrait": [
+                  "Legendary"
+                ]
+              }
+            },
+            "combatFilters": {
+              "description": "",
+              "shortDescription": "ID_REQUIRES_TRAITS_GLOBAL_NO_LEGENDARY",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_TRAITS_GLOBAL_NO_LEGENDARY",
+              "quantity": 4,
+              "filters": {
+                "tier": 15,
+                "allTraits": [
+                  "Global"
+                ],
+                "exceptTrait": [
+                  "Legendary"
+                ]
+              }
+            },
+            "characterLimit": 5,
+            "isBoss": true
+          }
+        },
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          null,
+          null,
+          "E4"
+        ]
+      },
+      "E4": {
+        "roomId": "E4",
+        "name": "insanity_040_xx",
+        "starting": false,
+        "objective": false,
+        "missions": {},
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          "E5",
+          null,
+          null
+        ]
+      },
+      "E5": {
+        "roomId": "E5",
+        "name": "insanity_040_05",
+        "starting": false,
+        "objective": false,
+        "missions": {
+          "1": {
+            "missionIndex": "1",
+            "ID": "insanity_040_05",
+            "icon": "Portrait_SquirrelGirl",
+            "iconBgColor": null,
+            "rewards": [
+              {
+                "m_rewardID": "m_insanity_eyd_lvl_05",
+                "m_firstTimeOnly": true
+              }
+            ],
+            "cost": [
+              {
+                "res": "ave_attack_energy",
+                "amount": 10
+              }
+            ],
+            "requirements": {},
+            "filters": {
+              "description": "ID_UI_4_CHARACTERS",
+              "shortDescription": "ID_REQUIRES_TRAITS_GLOBAL_NO_LEGENDARY",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_TRAITS_GLOBAL_NO_LEGENDARY",
+              "quantity": 4,
+              "filters": {
+                "tier": 15,
+                "allTraits": [
+                  "Global"
+                ],
+                "exceptTrait": [
+                  "Legendary"
+                ]
+              }
+            },
+            "combatFilters": {
+              "description": "",
+              "shortDescription": "ID_REQUIRES_TRAITS_GLOBAL_NO_LEGENDARY",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_TRAITS_GLOBAL_NO_LEGENDARY",
+              "quantity": 4,
+              "filters": {
+                "tier": 15,
+                "allTraits": [
+                  "Global"
+                ],
+                "exceptTrait": [
+                  "Legendary"
+                ]
+              }
+            },
+            "characterLimit": 5,
+            "isBoss": true
+          }
+        },
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          "E6",
+          null,
+          null
+        ]
+      },
+      "E6": {
+        "roomId": "E6",
+        "name": "insanity_040_xx",
+        "starting": false,
+        "objective": false,
+        "missions": {},
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          null,
+          "D6",
+          null
+        ]
+      },
+      "D6": {
+        "roomId": "D6",
+        "name": "insanity_040_06",
+        "starting": false,
+        "objective": false,
+        "missions": {
+          "1": {
+            "missionIndex": "1",
+            "ID": "insanity_040_06",
+            "icon": "Portrait_BlackBolt",
+            "iconBgColor": null,
+            "rewards": [
+              {
+                "m_rewardID": "m_insanity_eyd_lvl_06",
+                "m_firstTimeOnly": true
+              }
+            ],
+            "cost": [
+              {
+                "res": "ave_attack_energy",
+                "amount": 10
+              }
+            ],
+            "requirements": {},
+            "filters": {
+              "description": "ID_UI_4_CHARACTERS",
+              "shortDescription": "ID_REQUIRES_TRAITS_GLOBAL_NO_LEGENDARY",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_TRAITS_GLOBAL_NO_LEGENDARY",
+              "quantity": 4,
+              "filters": {
+                "tier": 15,
+                "allTraits": [
+                  "Global"
+                ],
+                "exceptTrait": [
+                  "Legendary"
+                ]
+              }
+            },
+            "combatFilters": {
+              "description": "",
+              "shortDescription": "ID_REQUIRES_TRAITS_GLOBAL_NO_LEGENDARY",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_TRAITS_GLOBAL_NO_LEGENDARY",
+              "quantity": 4,
+              "filters": {
+                "tier": 15,
+                "allTraits": [
+                  "Global"
+                ],
+                "exceptTrait": [
+                  "Legendary"
+                ]
+              }
+            },
+            "characterLimit": 5,
+            "isBoss": true
+          }
+        },
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          null,
+          "C6",
+          null
+        ]
+      },
+      "C6": {
+        "roomId": "C6",
+        "name": "insanity_040_xx",
+        "starting": false,
+        "objective": false,
+        "missions": {},
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          null,
+          "B6",
+          null
+        ]
+      },
+      "B6": {
+        "roomId": "B6",
+        "name": "insanity_040_07",
+        "starting": false,
+        "objective": false,
+        "missions": {
+          "1": {
+            "missionIndex": "1",
+            "ID": "insanity_040_07",
+            "icon": "Portrait_EmmaFrost",
+            "iconBgColor": null,
+            "rewards": [
+              {
+                "m_rewardID": "m_insanity_eyd_lvl_07",
+                "m_firstTimeOnly": true
+              }
+            ],
+            "cost": [
+              {
+                "res": "ave_attack_energy",
+                "amount": 10
+              }
+            ],
+            "requirements": {},
+            "filters": {
+              "description": "ID_UI_4_CHARACTERS",
+              "shortDescription": "ID_REQUIRES_TRAITS_COSMIC_NO_LEGENDARY",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_TRAITS_COSMIC_NO_LEGENDARY",
+              "quantity": 4,
+              "filters": {
+                "tier": 15,
+                "allTraits": [
+                  "Cosmic"
+                ],
+                "exceptTrait": [
+                  "Legendary"
+                ]
+              }
+            },
+            "combatFilters": {
+              "description": "",
+              "shortDescription": "ID_REQUIRES_TRAITS_COSMIC_NO_LEGENDARY",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_TRAITS_COSMIC_NO_LEGENDARY",
+              "quantity": 4,
+              "filters": {
+                "tier": 15,
+                "allTraits": [
+                  "Cosmic"
+                ],
+                "exceptTrait": [
+                  "Legendary"
+                ]
+              }
+            },
+            "characterLimit": 5,
+            "isBoss": true
+          }
+        },
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          null,
+          "A6",
+          null
+        ]
+      },
+      "A6": {
+        "roomId": "A6",
+        "name": "insanity_040_xx",
+        "starting": false,
+        "objective": false,
+        "missions": {},
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          "A7",
+          null,
+          null
+        ]
+      },
+      "A7": {
+        "roomId": "A7",
+        "name": "insanity_040_08",
+        "starting": false,
+        "objective": false,
+        "missions": {
+          "1": {
+            "missionIndex": "1",
+            "ID": "insanity_040_08",
+            "icon": "Portrait_Vision",
+            "iconBgColor": null,
+            "rewards": [
+              {
+                "m_rewardID": "m_insanity_eyd_lvl_08",
+                "m_firstTimeOnly": true
+              }
+            ],
+            "cost": [
+              {
+                "res": "ave_attack_energy",
+                "amount": 10
+              }
+            ],
+            "requirements": {},
+            "filters": {
+              "description": "ID_UI_4_CHARACTERS",
+              "shortDescription": "ID_REQUIRES_TRAITS_COSMIC_NO_LEGENDARY",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_TRAITS_COSMIC_NO_LEGENDARY",
+              "quantity": 4,
+              "filters": {
+                "tier": 15,
+                "allTraits": [
+                  "Cosmic"
+                ],
+                "exceptTrait": [
+                  "Legendary"
+                ]
+              }
+            },
+            "combatFilters": {
+              "description": "",
+              "shortDescription": "ID_REQUIRES_TRAITS_COSMIC_NO_LEGENDARY",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_TRAITS_COSMIC_NO_LEGENDARY",
+              "quantity": 4,
+              "filters": {
+                "tier": 15,
+                "allTraits": [
+                  "Cosmic"
+                ],
+                "exceptTrait": [
+                  "Legendary"
+                ]
+              }
+            },
+            "characterLimit": 5,
+            "isBoss": true
+          }
+        },
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          "A8",
+          null,
+          null
+        ]
+      },
+      "A8": {
+        "roomId": "A8",
+        "name": "insanity_040_xx",
+        "starting": false,
+        "objective": false,
+        "missions": {},
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          null,
+          null,
+          "B8"
+        ]
+      },
+      "B8": {
+        "roomId": "B8",
+        "name": "insanity_040_09",
+        "starting": false,
+        "objective": false,
+        "missions": {
+          "1": {
+            "missionIndex": "1",
+            "ID": "insanity_040_09",
+            "icon": "Portrait_Vulture",
+            "iconBgColor": null,
+            "rewards": [
+              {
+                "m_rewardID": "m_insanity_eyd_lvl_09",
+                "m_firstTimeOnly": true
+              }
+            ],
+            "cost": [
+              {
+                "res": "ave_attack_energy",
+                "amount": 10
+              }
+            ],
+            "requirements": {},
+            "filters": {
+              "description": "ID_UI_4_CHARACTERS",
+              "shortDescription": "ID_REQUIRES_TRAITS_COSMIC_NO_LEGENDARY",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_TRAITS_COSMIC_NO_LEGENDARY",
+              "quantity": 4,
+              "filters": {
+                "tier": 15,
+                "allTraits": [
+                  "Cosmic"
+                ],
+                "exceptTrait": [
+                  "Legendary"
+                ]
+              }
+            },
+            "combatFilters": {
+              "description": "",
+              "shortDescription": "ID_REQUIRES_TRAITS_COSMIC_NO_LEGENDARY",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_TRAITS_COSMIC_NO_LEGENDARY",
+              "quantity": 4,
+              "filters": {
+                "tier": 15,
+                "allTraits": [
+                  "Cosmic"
+                ],
+                "exceptTrait": [
+                  "Legendary"
+                ]
+              }
+            },
+            "characterLimit": 5,
+            "isBoss": true
+          }
+        },
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          null,
+          null,
+          "C8"
+        ]
+      },
+      "C8": {
+        "roomId": "C8",
+        "name": "insanity_040_xx",
+        "starting": false,
+        "objective": false,
+        "missions": {},
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          "C9",
+          null,
+          null
+        ]
+      },
+      "C9": {
+        "roomId": "C9",
+        "name": "insanity_040_xx",
+        "starting": false,
+        "objective": false,
+        "missions": {},
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          null,
+          "B9",
+          null
+        ]
+      },
+      "B9": {
+        "roomId": "B9",
+        "name": "insanity_040_10",
+        "starting": false,
+        "objective": false,
+        "missions": {
+          "1": {
+            "missionIndex": "1",
+            "ID": "insanity_040_10",
+            "icon": "Portrait_Nobu",
+            "iconBgColor": null,
+            "rewards": [
+              {
+                "m_rewardID": "m_insanity_eyd_lvl_10",
+                "m_firstTimeOnly": true
+              }
+            ],
+            "cost": [
+              {
+                "res": "ave_attack_energy",
+                "amount": 10
+              }
+            ],
+            "requirements": {},
+            "filters": {
+              "description": "ID_UI_4_CHARACTERS",
+              "shortDescription": "ID_REQUIRES_TRAITS_CITY_NO_LEGENDARY",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_TRAITS_CITY_NO_LEGENDARY",
+              "quantity": 4,
+              "filters": {
+                "tier": 15,
+                "allTraits": [
+                  "City"
+                ],
+                "exceptTrait": [
+                  "Legendary"
+                ]
+              }
+            },
+            "combatFilters": {
+              "description": "",
+              "shortDescription": "ID_REQUIRES_TRAITS_CITY_NO_LEGENDARY",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_TRAITS_CITY_NO_LEGENDARY",
+              "quantity": 4,
+              "filters": {
+                "tier": 15,
+                "allTraits": [
+                  "City"
+                ],
+                "exceptTrait": [
+                  "Legendary"
+                ]
+              }
+            },
+            "characterLimit": 5,
+            "isBoss": true
+          }
+        },
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          null,
+          "A9",
+          null
+        ]
+      },
+      "A9": {
+        "roomId": "A9",
+        "name": "insanity_040_xx",
+        "starting": false,
+        "objective": false,
+        "missions": {},
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          "A10",
+          null,
+          null
+        ]
+      },
+      "A10": {
+        "roomId": "A10",
+        "name": "insanity_040_11",
+        "starting": false,
+        "objective": false,
+        "missions": {
+          "1": {
+            "missionIndex": "1",
+            "ID": "insanity_040_11",
+            "icon": "Portrait_Namor",
+            "iconBgColor": null,
+            "rewards": [
+              {
+                "m_rewardID": "m_insanity_eyd_lvl_11",
+                "m_firstTimeOnly": true
+              }
+            ],
+            "cost": [
+              {
+                "res": "ave_attack_energy",
+                "amount": 10
+              }
+            ],
+            "requirements": {},
+            "filters": {
+              "description": "ID_UI_4_CHARACTERS",
+              "shortDescription": "ID_REQUIRES_TRAITS_CITY_NO_LEGENDARY",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_TRAITS_CITY_NO_LEGENDARY",
+              "quantity": 4,
+              "filters": {
+                "tier": 15,
+                "allTraits": [
+                  "City"
+                ],
+                "exceptTrait": [
+                  "Legendary"
+                ]
+              }
+            },
+            "combatFilters": {
+              "description": "",
+              "shortDescription": "ID_REQUIRES_TRAITS_CITY_NO_LEGENDARY",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_TRAITS_CITY_NO_LEGENDARY",
+              "quantity": 4,
+              "filters": {
+                "tier": 15,
+                "allTraits": [
+                  "City"
+                ],
+                "exceptTrait": [
+                  "Legendary"
+                ]
+              }
+            },
+            "characterLimit": 5,
+            "isBoss": true
+          }
+        },
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          "A11",
+          null,
+          null
+        ]
+      },
+      "A11": {
+        "roomId": "A11",
+        "name": "insanity_040_xx",
+        "starting": false,
+        "objective": false,
+        "missions": {},
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          null,
+          null,
+          "B11"
+        ]
+      },
+      "B11": {
+        "roomId": "B11",
+        "name": "insanity_040_12",
+        "starting": false,
+        "objective": false,
+        "missions": {
+          "1": {
+            "missionIndex": "1",
+            "ID": "insanity_040_12",
+            "icon": "Portrait_StarLord",
+            "iconBgColor": null,
+            "rewards": [
+              {
+                "m_rewardID": "m_insanity_eyd_lvl_12",
+                "m_firstTimeOnly": true
+              }
+            ],
+            "cost": [
+              {
+                "res": "ave_attack_energy",
+                "amount": 10
+              }
+            ],
+            "requirements": {},
+            "filters": {
+              "description": "ID_UI_4_CHARACTERS",
+              "shortDescription": "ID_REQUIRES_TRAITS_CITY_NO_LEGENDARY",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_TRAITS_CITY_NO_LEGENDARY",
+              "quantity": 4,
+              "filters": {
+                "tier": 15,
+                "allTraits": [
+                  "City"
+                ],
+                "exceptTrait": [
+                  "Legendary"
+                ]
+              }
+            },
+            "combatFilters": {
+              "description": "",
+              "shortDescription": "ID_REQUIRES_TRAITS_CITY_NO_LEGENDARY",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_TRAITS_CITY_NO_LEGENDARY",
+              "quantity": 4,
+              "filters": {
+                "tier": 15,
+                "allTraits": [
+                  "City"
+                ],
+                "exceptTrait": [
+                  "Legendary"
+                ]
+              }
+            },
+            "characterLimit": 5,
+            "isBoss": true
+          }
+        },
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          null,
+          null,
+          "C11"
+        ]
+      },
+      "C11": {
+        "roomId": "C11",
+        "name": "insanity_040_xx",
+        "starting": false,
+        "objective": false,
+        "missions": {},
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          null,
+          null,
+          "D11"
+        ]
+      },
+      "D11": {
+        "roomId": "D11",
+        "name": "insanity_040_13",
+        "starting": false,
+        "objective": false,
+        "missions": {
+          "1": {
+            "missionIndex": "1",
+            "ID": "insanity_040_13",
+            "icon": "Portrait_Swarm",
+            "iconBgColor": null,
+            "rewards": [
+              {
+                "m_rewardID": "m_insanity_eyd_lvl_13",
+                "m_firstTimeOnly": true
+              }
+            ],
+            "cost": [
+              {
+                "res": "ave_attack_energy",
+                "amount": 10
+              }
+            ],
+            "requirements": {},
+            "filters": {
+              "description": "ID_UI_4_CHARACTERS",
+              "shortDescription": "ID_REQUIRES_TRAITS_LEGENDARY",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_TRAITS_LEGENDARY",
+              "quantity": 4,
+              "filters": {
+                "tier": 15,
+                "allTraits": [
+                  "Legendary"
+                ]
+              }
+            },
+            "combatFilters": {
+              "description": "",
+              "shortDescription": "ID_REQUIRES_TRAITS_LEGENDARY",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_TRAITS_LEGENDARY",
+              "quantity": 4,
+              "filters": {
+                "tier": 15,
+                "allTraits": [
+                  "Legendary"
+                ]
+              }
+            },
+            "characterLimit": 5,
+            "isBoss": true
+          }
+        },
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          "D12",
+          null,
+          null
+        ]
+      },
+      "D12": {
+        "roomId": "D12",
+        "name": "insanity_040_14",
+        "starting": false,
+        "objective": false,
+        "missions": {
+          "1": {
+            "missionIndex": "1",
+            "ID": "insanity_040_14",
+            "icon": "Portrait_Venom",
+            "iconBgColor": null,
+            "rewards": [
+              {
+                "m_rewardID": "m_insanity_eyd_lvl_14",
+                "m_firstTimeOnly": true
+              }
+            ],
+            "cost": [
+              {
+                "res": "ave_attack_energy",
+                "amount": 10
+              }
+            ],
+            "requirements": {},
+            "filters": {
+              "description": "ID_UI_4_CHARACTERS",
+              "shortDescription": "ID_REQUIRES_TRAITS_LEGENDARY",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_TRAITS_LEGENDARY",
+              "quantity": 4,
+              "filters": {
+                "tier": 15,
+                "allTraits": [
+                  "Legendary"
+                ]
+              }
+            },
+            "combatFilters": {
+              "description": "",
+              "shortDescription": "ID_REQUIRES_TRAITS_LEGENDARY",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_TRAITS_LEGENDARY",
+              "quantity": 4,
+              "filters": {
+                "tier": 15,
+                "allTraits": [
+                  "Legendary"
+                ]
+              }
+            },
+            "characterLimit": 5,
+            "isBoss": true
+          }
+        },
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          "D13",
+          null,
+          null
+        ]
+      },
+      "D13": {
+        "roomId": "D13",
+        "name": "insanity_040_15",
+        "starting": false,
+        "objective": false,
+        "missions": {
+          "1": {
+            "missionIndex": "1",
+            "ID": "insanity_040_15",
+            "icon": "Portrait_Taskmaster",
+            "iconBgColor": null,
+            "rewards": [
+              {
+                "m_rewardID": "m_insanity_eyd_lvl_15",
+                "m_firstTimeOnly": true
+              }
+            ],
+            "cost": [
+              {
+                "res": "ave_attack_energy",
+                "amount": 10
+              }
+            ],
+            "requirements": {},
+            "filters": {
+              "description": "ID_UI_4_CHARACTERS",
+              "shortDescription": "ID_REQUIRES_TRAITS_LEGENDARY",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_TRAITS_LEGENDARY",
+              "quantity": 4,
+              "filters": {
+                "tier": 15,
+                "allTraits": [
+                  "Legendary"
+                ]
+              }
+            },
+            "combatFilters": {
+              "description": "",
+              "shortDescription": "ID_REQUIRES_TRAITS_LEGENDARY",
+              "longDescription": "",
+              "previewDescription": "ID_REQUIRES_TRAITS_LEGENDARY",
+              "quantity": 4,
+              "filters": {
+                "tier": 15,
+                "allTraits": [
+                  "Legendary"
+                ]
+              }
+            },
+            "characterLimit": 5,
+            "isBoss": true
+          }
+        },
+        "requirements": {},
+        "roomOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "nextRooms": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "startingRoomId": "C1"
+  }
+}

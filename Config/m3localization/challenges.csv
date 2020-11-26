@@ -729,6 +729,9 @@ ID_INFO_BO_REENERGIZE_50,The cost to purchase <color=#fff568>120 Campaign Energy
 ID_INFO_NA_DOUBLETRAINING,Train and Gain
 ID_INFO_DE_DOUBLETRAINING,2x Training Modules
 ID_INFO_BO_DOUBLETRAININGDAY,"For 24 hours, the number of Training Modules earned from all Campaign nodes have been doubled."
+ID_INFO_NA_BONUS_XP,XP Throttle
+ID_INFO_DE_BONUS_XP,2x Commander XP
+ID_INFO_BO_BONUS_XP,The amount of Commander XP earned from all Campaign nodes have been doubled.
 ID_INFO_NA_VS_BATTLE_MATCHMAKING,VS Battle Match
 ID_INFO_DE_VS_BATTLE_MATCHMAKING_CLASSIC,Classic Draft
 ID_INFO_DE_VS_BATTLE_MATCHMAKING_BALANCED,Balanced Draft
