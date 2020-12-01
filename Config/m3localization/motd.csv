@@ -20,7 +20,7 @@ ID_MOTD_DE_ACHIEVEMENTS_ADDITION,Earn more rewards by leveling up and growing yo
 ID_MOTD_NA_CHALLENGES_TIER_UPDATE,New Challenge Tiers have Arrived!
 ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to earn more rewards
 ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
-ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 11AM (PDT) (04/25).
+ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 11AM (PST) (12/8).
 ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
 ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
 ID_MOTD_NA_DARKDIMENSION,Dark Dimension
@@ -214,6 +214,10 @@ ID_MOTD_NA_STATURE_LIVE,"LIVE: Tiny Stature, Big Problem"
 ID_MOTD_DE_STATURE_LIVE,Battle to earn Stature shards!
 ID_MOTD_NA_STATURE_PREHYPE,Coming Soon: Stature
 ID_MOTD_DE_STATURE_PREHYPE,The Mighty Pym Protector is on her way!
+ID_MOTD_NA_SHATTERSTAR_PREVIEW,Coming Soon: Mojoverse Mayhem
+ID_MOTD_DE_SHATTERSTAR_PREVIEW,Prepare for Shatterstar!
+ID_MOTD_NA_SHATTERSTAR_PREHYPE,Coming Soon: Shatterstar
+ID_MOTD_DE_SHATTERSTAR_PREHYPE,The Prince of Blades
 ID_MOTD_NA_ANTMAN_WASP_TEAMUP_LIVE,LIVE: Back to Tiny World
 ID_MOTD_DE_ANTMAN_WASP_TEAMUP_LIVE,Join Ant-Man and Wasp on their adventure to tiny Earth!
 ID_MOTD_NA_ANTMAN_WASP_TEAMUP_PREVIEW,Upcoming: Back to Tiny World
