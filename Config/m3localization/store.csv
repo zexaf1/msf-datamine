@@ -2219,6 +2219,7 @@ ID_OF_DE_MISTERFANTASTIC_OFFER_55,"Get <color=#fff568>55 Mister Fantastic shards
 ID_OF_DE_MISTERFANTASTIC_OFFER_75,"Get <color=#fff568>75 Mister Fantastic shards</color> and use him to apply single-target stuns, assist Fantastic Four allies, and clear enemy positive effects!"
 ID_OF_DE_MISTERFANTASTIC_OFFER_125,"Get <color=#fff568>125 Mister Fantastic shards</color> and use him to apply single-target stuns, assist Fantastic Four allies, and clear enemy positive effects!"
 ID_OF_DE_MISTERFANTASTIC_OFFER_150,"Get <color=#fff568>150 Mister Fantastic shards</color> and use him to apply single-target stuns, assist Fantastic Four allies, and clear enemy positive effects!"
+ID_OF_DE_MISTERFANTASTIC_OFFER_VAR,"Get <color=#fff568>{var1} Mister Fantastic shards</color> and use him to apply single-target stuns, assist Fantastic Four allies, and clear enemy positive effects!"
 ID_GACHA_CRATE_FCO_MRSINISTER_SPECIAL_NAME,House of Essex Orb
 ID_GACHA_CRATE_FCO_MRSINISTER_SPECIAL_DESCRIPTION,Get up to 180 Mister Sinister shards
 ID_GACHA_CRATE_FCO_MRSINISTER_SPECIAL_TOKEN_NAME,House of Essex Orb Fragments
@@ -3168,6 +3169,7 @@ ID_OF_DE_THOR_OFFER_55,Upgrade your Blaster team with this Mystic Avenger. Get <
 ID_OF_DE_THOR_OFFER_75,Upgrade your Blaster team with this Mystic Avenger. Get <color=#fff568>75 Thor shards</color> and use his Hammer Throw to chain attack enemies and use his ultimate ability to stun enemies.
 ID_OF_DE_THOR_OFFER_125,Upgrade your Blaster team with this Mystic Avenger. Get <color=#fff568>125 Thor shards</color> and use his Hammer Throw to chain attack enemies and use his ultimate ability to stun enemies.
 ID_OF_DE_THOR_OFFER_150,Upgrade your Blaster team with this Mystic Avenger. Get <color=#fff568>150 Thor shards</color> and use his Hammer Throw to chain attack enemies and use his ultimate ability to stun enemies.
+ID_OF_DE_THOR_OFFER_VAR,Upgrade your Blaster team with this Mystic Avenger. Get <color=#fff568>{var1} Thor shards</color> and use his Hammer Throw to chain attack enemies and use his ultimate ability to stun enemies.
 ID_GACHA_CRATE_FCO_TOAD_SPECIAL_NAME,Sticky Situation Orb
 ID_GACHA_CRATE_FCO_TOAD_SPECIAL_DESCRIPTION,Get up to 180 Toad shards
 ID_GACHA_CRATE_FCO_TOAD_SPECIAL_TOKEN_NAME,Sticky Situation Orb Fragments
@@ -4216,6 +4218,7 @@ ID_OF_NA_HC_CALENDAR_1620HC,Anniversary Power Core Calendar
 ID_OF_DE_HC_CALENDAR_1620HC_15D,Get <color=#fff568>1620 Power Cores</color> over 15 days and get over <color=#fff568>70% off</color> when you buy this offer! Log in for the next 15 days to collect your rewards.
 ID_OF_DE_HC_CALENDAR_1620HC_18D,Get <color=#fff568>1620 Power Cores</color> over 18 days and get over <color=#fff568>70% off</color> when you buy this offer! Log in for the next 18 days to collect your rewards.
 ID_OF_DE_HC_CALENDAR_1620HC_30D,Get <color=#fff568>1620 Power Cores</color> over 30 days and get over <color=#fff568>70% off</color> when you buy this offer! Log in for the next 30 days to collect your rewards.
+ID_OF_DE_HC_CALENDAR_VAR,Get <color=#fff568>{var1} Power Cores</color> over {var2} days and get over <color=#fff568>{var3}% off</color> when you buy this offer! Log in for the next {var2} days to collect your rewards.
 ID_OF_NA_CAL_PROMO_CREDITS_10D,Promotion Credits: 10 Days
 ID_OF_DE_CAL_PROMO_CREDITS_10D,Get <color=#fff568>50 Promotion Credits</color> over 10 days and get <color=#fff568>90% off</color> when you buy this offer! Log in for the next 10 days to collect your rewards.
 ID_OF_NA_MONTHLY_GOLD_CAL,Gold: 7 Day
@@ -5901,7 +5904,7 @@ ID_GACHA_CRATE_FALL2020_TOKEN_DESCRIPTION,Collect Bounty Orb Fragments to earn a
 ID_GACHA_CRATE_FCO_SNOWGLOBE2020_NAME,Snow Globe Orb
 ID_GACHA_CRATE_FCO_SNOWGLOBE2020_DESCRIPTION,Contains up to 8 shards of a marquee character
 ID_GACHA_CRATE_FCO_SNOWGLOBE2020_TOKEN_NAME,Snow Globe Orb Fragments
-ID_GACHA_CRATE_FCO_SNOWGLOBE2020_TOKEN_DESCRIPTION,Collect Snow Globe Orb Framents in the Snow Globe Login Calendar to earn Snow Globe Orbs.
+ID_GACHA_CRATE_FCO_SNOWGLOBE2020_TOKEN_DESCRIPTION,Collect Snow Globe Orb Fragments in the Snow Globe Login Calendar to earn Snow Globe Orbs.
 ID_OF_DE_MYSTERIO_OFFER_VAR,"Get <color=#fff568>{var1} Mysterio shards</color> and use him to nullify City Hero abilities, clear enemy positive effects, and spawn Mirror Images when he dies!"
 ID_OF_DE_SHOCKER_OFFER_VAR,Get <color=#fff568>{var1} Shocker shards</color> and use him to pierce enemy armor with single or area of effect attacks and amp up Sinister Six allies with Offense Up.
 ID_OF_DE_GREENGOBLIN_OFFER_VAR,Strengthen your Spider-Verse and Villains teams with the ultimate form of Norman Osborn. Get <color=#fff568>{var1} Green Goblin shards</color> and unleash the power of his devastating explosives and ability to target enemies with Stealth.
